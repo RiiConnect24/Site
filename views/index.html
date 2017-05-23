@@ -1,0 +1,80 @@
+{% extends "_layout.html" %}
+{% set title = 'Home' %}
+
+{% block navigationBlock %}	<div id="index-banner" class="parallax-container">
+		<nav class="transparent z-depth-0" role="navigation">
+	{% include '_navigationindex.html' %}
+		</nav>
+
+		<div class="section no-pad-bot">
+			<div class="container">
+				<br><br>
+				<h1 class="header center blue-text">RiiConnect your Wii.</h1>
+				<div class="row center">
+					<h5 class="header col s12 light white-text">RiiConnect24 brings back WiiConnect24 which pushes content to your Wii.</h5>
+				</div>
+				<div class="row center">
+					<a href="https://wii.guide/" id="download-button" class="btn-large waves-effect waves-light blue lighten-1">How to Connect</a>
+					<a href="page.php" id="download-button" class="btn-large waves-effect waves-light blue lighten-1">Layout Demo Page</a>
+				</div>
+				<br><br>
+			</div>
+		</div>
+		<div class="parallax"><img src="images/hero.png" alt="Black Wii"></div>
+	</div>{% endblock %}
+
+{% block mainContent %}
+	<div class="container">
+		<div class="section">
+			<!--<center><h3>Features</h3></center>-->
+
+			<!--   Icon Section   -->
+			<div class="row">
+				<div class="col s12 m4">
+					<div class="icon-block">
+						<a href="service_mail.php">
+							<h2 class="center blue-text"><i class="fa fa-envelope" aria-hidden="true"></i></h2>
+							<h5 class="center">Wii Mail</h5>
+
+							<p class="light">Send mail to other people connected to RiiConnect24 through the Wii Message Board on Wii Menu. Your Wii's blue disc light will glow when you receive a message! You can also send them Miis and pictures!</p>
+						</a>
+					</div>
+				</div>
+
+				<div class="col s12 m4">
+					<div class="icon-block">
+						<a href="service_news.php">
+							<h2 class="center blue-text"><i class="fa fa-newspaper-o" aria-hidden="true"></i></h2>
+							<h5 class="center">News Channel</h5>
+
+							<p class="light">Stay up to date with the latest news articles sent to your Wii in a fun way. You're able to view the locations that the news takes place using a globe, or you can see the headlines as a slideshow.</p>
+						</a>
+					</div>
+				</div>
+
+				<div class="col s12 m4">
+					<div class="icon-block">
+						<a href="service_forecast.php">
+							<h2 class="center blue-text"><i class="fa fa-sun-o" aria-hidden="true"></i></h2>
+							<h5 class="center">Forecast Channel</h5>
+
+							<p class="light">Take a look at the local weather or anywhere around the world using a Globe. You're able to view the current weather on the Wii Menu, or today or tomorrow's weather for instance.</p>
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="row center">
+				<div class="col s12 m4">
+					<div class="icon-block">
+						<h2 class="center blue-text"><i class="fa fa-th" aria-hidden="true"></i></h2>
+						<h5 class="center">More Channels Coming Soon</h5>
+
+						<p class="light">The RiiConnect24 team is always hard at work bringing more Wii Channels back, and other things that used WiiConnect24.</p>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+{% endblock %}

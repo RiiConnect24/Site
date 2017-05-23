@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+	<title>{{ title }}</title>
+	<meta name="title" content="{{ title }}">
+	<meta name="author" content="RiiConnect24">
+	<meta name="copyright" content="&copy; RiiConnect24">
+
+	<!-- CSS  -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Cantarell" rel="stylesheet">
+
+	<link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+	<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+	<script src="https://use.fontawesome.com/26e513cabd.js"></script>
+{% block headContent %}{% endblock %}
+</head>
+<body>
+{% block navigationBlock %}	<nav class="blue z-depth-0" role="navigation">
+{% include "_navigation.html" %}
+	</nav>{% endblock %}
+{% block mainContent %}{% endblock %}
+
+	<footer class="page-footer blue">
+		<div class="container">
+			<div class="row">
+				<div class="col l6 s12">
+					<h5 class="white-text">About RiiConnect24</h5>
+					<p class="grey-text text-lighten-4">RiiConnect24 allows the discontinued WiiConnect24 service to be used again, which kept your Wii connected to the Internet in Standby mode 24/7.</p>
+				</div>
+				<div class="col l3 s12">
+					<h5 class="white-text">Links</h5>
+					<ul>
+						<li><a class="white-text" href="https://discord.gg/b4Y7jfD">Discord</a></li>
+						<li><a class="white-text" href="https://twitter.com/RiiConnect24">Twitter</a></li>
+						<li><a class="white-text" href="https://www.facebook.com/RiiConnect24">Facebook</a></li>
+						<li><a class="white-text" href="https://www.instagram.com/RiiConnect24">Instagram</a></li>
+						<li><a class="white-text" href="https://github.com/RiiConnect24">GitHub</a></li>
+						<li><a class="white-text" href="https://plus.google.com/105778556417310102593">Google+</a></li>
+						<li><a class="white-text" href="https://www.youtube.com/channel/UCAYWAeStTDmSBMzZhFcTkDw">YouTube</a></li>
+					</ul>
+				</div>
+				<div class="col l3 s12">
+					<h5 class="white-text">Affiliate Projects</h5>
+					<ul>
+						<li><a class="white-text" href="https://www.projectkaeru.xyz/">Project Kaeru</a></li>
+						<li><a class="white-text" href="https://www.sudomemo.net/">Sudomemo</a></li>
+						<li><a class="white-text" href="https://wiimmfi.de/">Wiimmfi</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="footer-copyright">
+			<div class="container">
+				&copy; RiiConnect24 2015&mdash;2017.
+			</div>
+		</div>
+	</footer>
+
+	<!-- Scripts -->
+	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="js/materialize.js"></script>
+	<script src="js/init.js"></script>
+{% block footerContent %}{% endblock %}
+</body>
+</html>

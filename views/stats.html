@@ -1,0 +1,80 @@
+{% extends "_layout.html" %}
+{% set title = 'News Channel' %}
+
+{% block mainContent %}
+	<div class="section no-pad-bot">
+		<div class="container">
+			<br><br>
+			<h1 class="header center blue-text"><i class="fa fa-bar-chart" aria-hidden="true"></i> Stats</h1>
+			<div class="row center">
+				<h5 class="header col s12 light">This tells you what services are currently available with RiiConnect24, and what we're working on. Please don't complain about some of the services are not up yet, we try our best to have most services working.</h5>
+			</div>
+			<br><br>
+		</div>
+	</div>
+	<div class="section">
+		<div class="container">
+			<div class="row center">
+				<ul class="collection with-header">
+        	<li class="collection-header">
+						<h4>Color Key</h4>
+					</li>
+					<li class="collection-item green">
+						<h5>Green indicates it's working.</h5>
+					</li>
+					<li class="collection-item yellow">
+						<h5>Yellow indicates that we're working on this service.</h5>
+					</li>
+					<li class="collection-item orange">
+						<h5>Orange indicates that some work will be needed to run the Channel, but it hopefully wii eventually work.</h5>
+					</li>
+					<li class="collection-item red">
+						<h5>Red is no or not in the near future.</h5>
+					</li>
+			  </ul>
+
+				<ul class="collection with-header">
+	       	<li class="collection-header">
+						<h4>Stats</h4>
+					</li>
+					<li class="collection-item green">
+						<h5>EULA</h5>
+					</li>
+					<li class="collection-item green">
+						<h5><a href="service_forecast.php" class="white-text">Forecast Channel</a></h5>
+					</li>
+					<li class="collection-item green">
+						<h5><a href="service_news.php" class="white-text">News Channel</a></h5>
+					</li>
+					<li class="collection-item green">
+						<h5>WiiConnect24 Announcements</h5>
+					</li>
+					<li class="collection-item green">
+						<h5><a href="service_mail.php" class="white-text">Wii Mail</a></h5>
+					</li>
+					<li class="collection-item yellow">
+						<h5>Animal Crossing: City Folk DLC</h5>
+					</li>
+					<li class="collection-item yellow">
+						<h5>Everybody Votes Channel</h5>
+					</li>
+					<li class="collection-item orange">
+						<h5>Check Mii Out Channel/Mii Contest Channel</h5>
+					</li>
+					<li class="collection-item orange">
+						<h5>Nintendo Channel</h5>
+					</li>
+					<li class="collection-item red">
+						<h5>Digicam Print Channel</h5>
+					</li>
+					<li class="collection-item red">
+						<h5>TV no Tomo Channel G Guide for Wii</h5>
+					</li>
+					<li class="collection-item red">
+						<h5>Wii no Ma</h5>
+					</li>
+			  </ul>
+			</div>
+		</div>
+	</div>
+{% endblock %}
