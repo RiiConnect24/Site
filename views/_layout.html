@@ -4,9 +4,20 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
 	<title>{{ title }}</title>
-	<meta name="title" content="{{ title }}">
-	<meta name="author" content="RiiConnect24">
-	<meta name="copyright" content="&copy; RiiConnect24">
+
+	<!-- General Meta tags for SEO -->
+	<meta name="title" content="{{ title }}"/>
+	<meta name="author" content="RiiConnect24"/>
+	<meta name="copyright" content="&copy; RiiConnect24"/>
+	<meta name="robots" content="index, follow"/>
+
+	<!-- Open Graph Tags -->
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="{{ title }}"/>
+	<meta property="og:image" content="https://rc24.xyz/images/logo-small.png"/>
+	<meta property="og:locale" content="en_US"/>
+	<meta property="og:site_name" content="RiiConnect24"/>
+
 
 	<!-- CSS  -->
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -55,7 +66,7 @@
 		</div>
 		<div class="footer-copyright">
 			<div class="container">
-				&copy; RiiConnect24 2015&mdash;2017.
+				&copy; RiiConnect24 Team 2015<script>new Date().getFullYear()>2015&&document.write("&mdash;"+new Date().getFullYear());</script>.
 			</div>
 		</div>
 	</footer>
