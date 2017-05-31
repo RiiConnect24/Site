@@ -1,6 +1,6 @@
 <?php
 require '../../../vendor/autoload.php'; // Composer
-require '_core.php';
+require '../_core.php';
 $twig = rc24_initialise_twig();
 echo $twig->render('vote/index.html');
 
