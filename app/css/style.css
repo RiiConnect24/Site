@@ -71,3 +71,8 @@ footer.page-footer {
   min-height: 100%;
   min-height: 100vh;
 }
+
+/* RiiConnect24 */
+.dropdown-content {
+  z-index: 1000;
+}
