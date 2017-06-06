@@ -1,0 +1,739 @@
+#gametitlebar {
+	width: 800px;
+	height: 34px;
+	margin: 40px 0px 0px 50px;
+	padding: 0px;
+	background-image: url(../images/common/title_dotted_line.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+
+#gametitlebar dt {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	height: 33px;
+	width: 680px;
+}
+#gametitlebar dd {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	height: 33px;
+	width: 120px;
+}
+
+#esrbRating {
+	width: auto;
+	float: left;
+	height: auto;
+	padding: 10px 0px 0px;
+}
+
+#gameInfo {
+	height: auto;
+	width: 260px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin: 0px;
+}
+
+.gameDate_Plyrs {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #43beed;
+	text-align: left;
+}
+
+#gameArtZelda {
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_zelda.jpg);
+	background-repeat: no-repeat;
+	height: 325px;
+	margin: 0px 0px 0px 50px;
+	background-position: right top;
+	padding: 0px;
+}
+
+#gameArtZelda p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtwwsm {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_wwsm.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtwwsm p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtwiisports {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_wiisports.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtwiisports p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtmarvel {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_marvel.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+	
+}
+
+#gameArtmarvel p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtexcite{
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_excite.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtexcite p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArttrauma {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_trauma.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArttrauma p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtredsteel {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_redsteel.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtredsteel p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtmadden {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_madden.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtmadden p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtrayman{
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_rayman.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtrayman p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+
+
+a.vidGalleryLinks:link,a.vidGalleryLinks:active,a.vidGalleryLinks:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #999999;
+	text-decoration: none;
+}
+a.vidGalleryLinks:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #34beed;
+	text-decoration: underline;
+}.game_pg_exp_vid_tdWht {
+	background-color: #FFFFFF;
+	text-align: center;
+}
+/* Zelda EXP Gallery Styles */
+.gamePgZeldaCaptions {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #999999;
+	text-decoration: none;
+}
+#gamePgZeldaMovies {
+	padding-top: 30px;
+	padding-left: 48px;
+}
+#gamePgZeldaNav {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.pad_right20 {
+	padding-right: 20px;
+}
+.pad_right10 {
+	padding-right: 10px;
+}
+#gamePgZeldaGallery {
+	padding-top: 30px;
+	padding-left: 48px;
+}
+#gamePgZeldaTitle {
+
+}
+#gamePgDividerBlue {
+	padding-top: 20px;
+}
+.gamePgGalleryBG {
+	background-image: url(../images/common/bg_diagonal_grey.gif);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 6px;
+	width: 632px;
+}
+.gamePgGalleryBG_BBA {
+	background-image: url(../images/common/bg_diagonal_grey.gif);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 6px;
+	width: 632px;
+	clear: both;
+}
+.gamePgGalleryBG2 {
+	background-image: url(../images/common/bg_diagonal_grey.gif);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 6px;
+	width: 474px;
+}
+
+#gameArtmii {
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_mii.jpg);
+	background-repeat: no-repeat;
+	height: 325px;
+	margin: 0px 0px 0px 50px;
+	background-position: right top;
+	padding: 0px;
+}
+
+#gameArtmii p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtphoto {
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_photo.jpg);
+	background-repeat: no-repeat;
+	height: 325px;
+	margin: 0px 0px 0px 50px;
+	background-position: right top;
+	padding: 0px;
+}
+
+#gameArtphoto p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtwiiplay{
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_wiiplay.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtwiiplay p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtnews{
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_news.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtnews p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtsonic {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_sonic.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtsonic p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtssx {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_ssx.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtssx p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+
+#gameArttiger_woods {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_tiger_woods.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArttiger_woods p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+
+#gameArtforecast {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_forecast.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtforecast p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtcheckmiiout {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_checkmiiout.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtcheckmiiout p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtnintendo {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_nintendo.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtnintendo p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+
+#gameArtvote {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_vote.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtvote p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#dev_banner_photo img {
+	clear: both;
+	margin-top: 120px;
+	float: left;
+	margin-left: 10px;
+}
+
+#dev_banner_photo {
+	width: 780px;
+	background-image: url(../images/features/story/photo/story_banner.jpg);
+	height: 111px;
+	margin-bottom: 20px;
+	float: left;
+	margin-top: 20px;
+	clear: both;
+	padding-left: 60px;
+	background-repeat: no-repeat;
+	background-position: right;
+	cursor: pointer;
+}
+
+#gameArtspm {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_spm.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtspm p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtmp8 {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_mp8.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtmp8 p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtbba {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_bba.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtbba p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+#gameArtpbr {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	height: 325px;
+	width: 800px;
+	background-image: url(../images/software/game_pg/characters/bg_pbr.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#gameArtpbr p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #8C8C8C;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}

@@ -1,0 +1,103 @@
+#story_main_img {
+	background-image: url(../images/features/story/story_main.jpg);
+	height: 325px;
+	margin: 0px 0px 0px 50px;
+	background-position: right top;
+	padding: 0px;
+	background-repeat: no-repeat;
+	width: 800px;
+}
+
+#story_main_img_forecast {
+	background-image: url(../images/features/story/forecast/story_main.jpg);
+	height: 325px;
+	margin: 0px 0px 0px 50px;
+	background-position: right top;
+	padding: 0px;
+	background-repeat: no-repeat;
+	width: 800px;
+}
+
+
+#story_main_img_vote {
+	background-image: url(../images/features/story/vote/story_main.jpg);
+	height: 325px;
+	margin: 0px 0px 0px 50px;
+	background-position: right top;
+	padding: 0px;
+	background-repeat: no-repeat;
+	width: 800px;
+}
+#story_main_img_photo{
+	height: 325px;
+	margin: 0px 0px 0px 50px;
+	background-position: right top;
+	padding: 0px;
+	background-repeat: no-repeat;
+	width: 800px;
+}
+
+#story_contents {
+	height: auto;
+	width: 800px;
+	margin-left: 50px;
+	padding-top: 20px;
+}
+
+.middle_L {
+	padding-left: 50px;
+	padding-right: 30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	text-align: left;
+	line-height: 18px;
+}
+
+.middle_R {
+	padding-left: 30px;
+	padding-right: 50px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	text-align: left;
+	line-height: 18px;
+}
+.middle_R, .middle_L{
+	min-height:50px;
+	width:500px;
+}
+.middle_R img, .middle_L img{
+	float:right;
+	margin:0px 0px 10px 10px;
+}
+img.movielinkimg{
+  margin:0px 2px 0px 0px;
+  float:none;
+}
+#story_contents a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #34beed;
+	text-align: left;
+	text-decoration: none;
+	}
+
+#story_contents a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #34beed;
+	text-align: left;
+	text-decoration: underline;
+	}
+.footnote {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+	vertical-align: super;
+}
+.m_middle_r {
+	background-image: url(../images/features/story/frame_m_middle_r.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
