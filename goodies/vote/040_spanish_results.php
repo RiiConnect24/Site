@@ -1,5 +1,5 @@
 <?php
-require '../../../../../vendor/autoload.php'; // Composer
+require '../../vendor/autoload.php'; // Composer
 require '../../_core.php';
 $twig = rc24_initialise_twig();
 echo $twig->render('goodies/vote/040_spanish_results.html');
