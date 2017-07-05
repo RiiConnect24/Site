@@ -65,53 +65,6 @@ footer.page-footer {
   margin: 0;
 }
 
-.disc {
-  -webkit-animation: spin 1s;
-  -moz-animation: spin 1s;
-  animation: spin 1s;
-  -webkit-animation-iteration-count: 1;
-  -moz-animation-iteration-count: 1;
-  animation-iteration-count: 1;
-}
-@-moz-keyframes disc {
-  100% {
-    -moz-transform: rotate(360deg);
-  }
-}
-@-webkit-keyframes disc {
-  100% {
-    -webkit-transform: rotate(360deg);
-  }
-}
-@keyframes disc {
-  100% {
-    -webkit-transform: rotate(360deg);
-    transform: rotate(360deg);
-  }
-}
-
-.ring {
-  -webkit-animation: spin 1s linear infinite;
-  -moz-animation: spin 1s linear infinite;
-  animation: spin 1s linear infinite;
-}
-@-moz-keyframes ring {
-  100% {
-    -moz-transform: rotate(360deg);
-  }
-}
-@-webkit-keyframes ring {
-  100% {
-    -webkit-transform: rotate(360deg);
-  }
-}
-@keyframes ring {
-  100% {
-    -webkit-transform: rotate(360deg);
-    transform: rotate(360deg);
-  }
-}
-
 .full-height {
   min-height: 100%;
   min-height: 100vh;
