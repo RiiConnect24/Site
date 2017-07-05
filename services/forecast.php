@@ -1,7 +1,7 @@
 <?php
-require getcwd() . 'vendor/autoload.php'; // Composer
+require '../vendor/autoload.php'; // Composer
 require '../_core.php';
-$twig = rc24_initialise_twig();
+$twig = rc24_initialise_twig(getcwd() . "/../views/");
 echo $twig->render('services/forecast.html');
 
 exit; // not really necessary, but nice to have :^)
