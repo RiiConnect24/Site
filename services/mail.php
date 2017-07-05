@@ -1,6 +1,6 @@
 <?php
-require getcwd() . '/vendor/autoload.php'; // Composer
-require '_core.php';
+require '../vendor/autoload.php'; // Composer
+require '../_core.php';
 $twig = rc24_initialise_twig();
 echo $twig->render('service_mail.html');
 
