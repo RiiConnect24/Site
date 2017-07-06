@@ -8,6 +8,7 @@
 
 html {
   font-family: 'Cantarell', sans-serif;
+  font-size: 17px;
   overflow: scroll;
 }
 
@@ -75,7 +76,7 @@ footer.page-footer {
   z-index: 1000;
 }
 
-.spin {
+.spin  {
 position: absolute;
 top: 50%;
 left: 50%;
