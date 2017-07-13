@@ -2,7 +2,7 @@
 require '../../vendor/autoload.php'; // Composer
 require '../../_core.php';
 $twig = rc24_initialise_twig(getcwd() . "/../../views/");
-echo $twig->render('goodies/internetchannel/index.html');
+echo $twig->render('goodies/internetchannel/wiiremotetest.html');
 
 exit; // not really necessary, but nice to have :^)
 ?>
