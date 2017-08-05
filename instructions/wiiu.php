@@ -3,7 +3,7 @@ header("Location: https://wii.guide/docs/Wii/RiiConnect24");
 ?>
 <html>
   <head>
-    <title>Page moved</title>
+    <title>Page Moved</title>
   </head>
   <body>
     <div class="section no-pad-bot">
