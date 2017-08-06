@@ -14,7 +14,7 @@ set language=NotDefined
 set patchingok=1
 title IOS Patcher for RiiConnect24 v.%version%  Created by @Larsenv, @KcrPL
 set last_build=2017/08/07
-set at=00:40
+set at=01:39
 :: ### Auto Update ###
 set /a IOSPatcher_Update_Activate=1
 set /a whatsnew=1
@@ -118,9 +118,11 @@ if %offlinestorage%==0 if exist %TempStorage%\whatsnew.txt del %TempStorage%\wha
 if %offlinestorage%==0 if exist %TempStorage%\whatsnew.txt` del %TempStorage%\whatsnew.txt` /q
 
 if not exist %TempStorage% md %TempStorage%
-if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/whatsnew.txt" -OutFile "%TempStorage%\whatsnew.txt"`" >NUL || set /a versioncheck=0
-if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/version.txt" -OutFile "%TempStorage%\version.txt"`" >NUL || set /a versioncheck=0
+if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/whatsnew.txt', '%TempStorage%/whatsnew.txt')"
+if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/version.txt', '%TempStorage%/version.txt')"
+
 	set /a temperrorlev=%errorlevel%
+	
 	::Bind error codes to errors here
 	if not %errorlevel%==0 goto error_update_not_available
 	
@@ -310,14 +312,14 @@ if exist patch.bat` del patch.bat` /q 2> nul
 if exist libWiiSharp.dll` del  libWiiSharp.dll` /q 2> nul
 if exist Sharpii.exe` del Sharpii.exe` /q 2> nul
 
-powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/00000006-31.delta" -OutFile "00000006-31.delta"`"
-powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/00000006-80.delta" -OutFile "00000006-80.delta"`"
-powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/WadInstaller.dll" -OutFile "WadInstaller.dll"`"
-powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/libWiiSharp.dll" -OutFile "libWiiSharp.dll"`"
-powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/wget.exe" -OutFile "wget.exe"`"
-powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/xdelta3.exe" -OutFile "xdelta3.exe"`"
-powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/Sharpii.exe" -OutFile "Sharpii.exe"`"
-powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/patch.bat" -OutFile "patch.bat"`"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/00000006-31.delta', '00000006-31.delta`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/00000006-80.delta', '00000006-80.delta`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/WadInstaller.dll', 'WadInstaller.dll`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/libWiiSharp.dll', 'libWiiSharp.dll`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/wget.exe', 'wget.exe`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/xdelta3.exe', 'xdelta3.exe`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/Sharpii.exe', 'Sharpii.exe`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/patch.bat', 'patch.bat`')"
 
 if %update%==1 if not exist 00000006-31.delta` goto error_update_not_available
 if %update%==1 if not exist 00000006-80.delta` goto error_update_not_available
@@ -336,7 +338,6 @@ if %update%==1 if exist xdelta3.exe del xdelta3.exe /q
 if %update%==1 if exist Sharpii.exe del Sharpii.exe /q
 if %update%==1 if exist libWiiSharp.dll del libWiiSharp.dll /q
 
-
 ren 00000006-31.delta` 00000006-31.delta
 ren 00000006-80.delta` 00000006-80.delta
 ren WadInstaller.dll` WadInstaller.dll
@@ -349,10 +350,10 @@ echo ping localhost -n 2 >>temp.bat
 echo del patch.bat /q >>temp.bat
 echo ren patch.bat` patch.bat >>temp.bat
 echo start patch.bat >>temp.bat
-call temp.bat
+start temp.bat
 exit	
-
-pause
+exit
+exit
 :whatsnew
 cls
 if not exist %TempStorage%\whatsnew.txt goto whatsnew_notexist
