@@ -1,4 +1,4 @@
-set version=1.7.3
+set version=1.7.5
 if exist temp.bat del /q temp.bat
 if exist "C:\Users\%username%\Desktop\IOSPatcherDebug.txt" goto debug_load
 :1
@@ -13,8 +13,8 @@ set filcheck=0
 set language=NotDefined
 set patchingok=1
 title IOS Patcher for RiiConnect24 v.%version%  Created by @Larsenv, @KcrPL
-set last_build=2017/08/06
-set at=23:32
+set last_build=2017/08/07
+set at=00:40
 :: ### Auto Update ###
 set /a IOSPatcher_Update_Activate=1
 set /a whatsnew=1
@@ -118,8 +118,8 @@ if %offlinestorage%==0 if exist %TempStorage%\whatsnew.txt del %TempStorage%\wha
 if %offlinestorage%==0 if exist %TempStorage%\whatsnew.txt` del %TempStorage%\whatsnew.txt` /q
 
 if not exist %TempStorage% md %TempStorage%
-if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/whatsnew.txt" -OutFile "%TempStorage%\whatsnew.txt"`" || set /a versioncheck=0
-if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/version.txt" -OutFile "%TempStorage%\version.txt"`" || set /a versioncheck=0
+if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/whatsnew.txt" -OutFile "%TempStorage%\whatsnew.txt"`" >NUL || set /a versioncheck=0
+if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -c `"Invoke-WebRequest -Uri "%FilesHostedOn%/version.txt" -OutFile "%TempStorage%\version.txt"`" >NUL || set /a versioncheck=0
 	set /a temperrorlev=%errorlevel%
 	::Bind error codes to errors here
 	if not %errorlevel%==0 goto error_update_not_available
