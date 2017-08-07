@@ -1,8 +1,667 @@
 @echo off
-goto 1
-:1
+mode 120,30
+chcp 65001
+if exist C:\Users\%username%\Desktop\DebugPatcher.txt goto debug_failsafe_begin
+goto begin
+:begin
+if not exist %appdata%\WiimmfiPatcher\temp\ md %appdata%\WiimmfiPatcher\temp\
+set patchingok=1
+set mode=126,35
+mode %mode%
+set /a cor=0
+set /a patchingnumber=1
+set /a repeatvbs=0
+set /a temperrorlev=0
+set last_build=2017/08/07
+set at=17:15
+set version=2.1.2
+set /a 
+
+if not exist %appdata%\WiimmfiPatcher\temp\vbs.vbs echo x=msgbox("When the operation will be done, click any button." ,64, "Wiimmfi WAD Patcher") >>%appdata%\WiimmfiPatcher\temp\vbs.vbs
+@echo off
+title Wiimmfi Patcher for WAD's
 cls
-echo Test file:
-echo update successfull.
+if not exist patcher.bat goto admin_error
+:: ### Auto Update ###
+set /a IOSPatcher_Update_Activate=1
+set /a whatsnew=1
+set /a offlinestorage=0
+set FilesHostedOn=https://rc24.xyz/Patchers_Auto_Update/WiiWare-Patcher
+set MainFolder=%appdata%\WiiWare-Patcher
+set TempStorage=%appdata%\WiiWare-Patcher\internet\temp
+
+
+if exist temp.bat del temp.bat /q
+goto begin_main
+:begin_main
+cls
+echo Wiimmfi WiiWarePatcher - (C) Larsenv, (C) KcrPL, (C) PokeAcer. v%version%. (Compiled on %last_build% at %at%)
+echo              `..````                                                  
+echo              yNNNNNNNNMNNmmmmdddhhhyyyysssooo+++/:--.`                
+echo              ddmNNd:dNMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMs                
+echo              hNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd               
+echo             `mdmNNy dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+    Wiimmfi WADs Patcher.
+echo             .mmmmNs mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                
+echo             :mdmmN+`mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                
+echo             /mmmmN:-mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN   Play Wii games online after Nintendo WFC shutdown!
+echo             ommmmN.:mMMMMMMMMMMMMmNMMMMMMMMMMMMMMMMMd    Press any button to continue              
+echo             smmmmm`+mMMMMMMMMMNhMNNMNNMMMMMMMMMMMMMMy                 
+echo             hmmmmh omMMMMMMMMMmhNMMMmNNNNMMMMMMMMMMM+                 
+echo             mmmmms smMMMMMMMMMmddMMmmNmNMMMMMMMMMMMM:                 
+echo            `mmmmmo hNMMMMMMMMMmddNMMMNNMMMMMMMMMMMMM.                 
+echo            -mmmmm/ dNMMMMMMMMMNmddMMMNdhdMMMMMMMMMMN                  
+echo            :mmmmm-`mNMMMMMMMMNNmmmNMMNmmmMMMMMMMMMMd                  
+echo            +mmmmN.-mNMMMMMMMMMNmmmmMMMMMMMMMMMMMMMMy                  
+echo            smmmmm`/mMMMMMMMMMNNmmmmNMMMMNMMNMMMMMNmy.                 
+echo            hmmmmd`omMMMMMMMMMNNmmmNmMNNMmNNNNMNdhyhh.                 
+echo            mmmmmh ymMMMMMMMMMNNmmmNmNNNMNNMMMMNyyhhh`                 
+echo           `mmmmmy hmMMNMNNMMMNNmmmmmdNMMNmmMMMMhyhhy                  
+echo           -mddmmo`mNMNNNNMMMNNNmdyoo+mMMMNmNMMMNyyys                  
+echo           :mdmmmo-mNNNNNNNNNNdyo++sssyNMMMMMMMMMhs+-                  
+echo          .+mmdhhmmmNNNNNNmdysooooosssomMMMNNNMMMm                     
+echo          o/ossyhdmmNNmdyo+++oooooosssoyNMMNNNMMMM+                    
+echo          o/::::::://++//+++ooooooo+oo++mNMMmNNMMMm                    
+echo         `o//::::::::+////+++++++///:/+shNMMNmNNmMM+                   
+echo         .o////////::+++++++oo++///+syyyymMmNmmmNMMm                   
+echo         -+//////////o+ooooooosydmdddhhsosNMMmNNNmho            `:/    
+echo         .+++++++++++ssss+//oyyysso/:/shmshhs+:.          `-/oydNNNy   
+echo           `..-:/+ooss+-`          +mmhdy`           -/shmNNNNNdy+:`   
+echo                   `.              yddyo++:    `-/oymNNNNNdy+:`        
+echo                                   -odhhhhyddmmmmmNNmhs/:`             
+echo                                     :syhdyyyyso+/-`           
 pause>NUL
-goto 1
+goto startup_script
+:error_update_not_available
+cls
+echo.                                                                       
+echo              `..````                                                  
+echo              yNNNNNNNNMNNmmmmdddhhhyyyysssooo+++/:--.`                
+echo              hNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd                
+echo              ddmNNd:dNMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMs                
+echo             `mdmNNy dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+        
+echo             .mmmmNs mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                
+echo             :mdmmN+`mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                
+echo             /mmmmN:-mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN            
+echo             ommmmN.:mMMMMMMMMMMMMmNMMMMMMMMMMMMMMMMMd                 
+echo             smmmmm`+mMMMMMMMMMNhMNNMNNMMMMMMMMMMMMMMy                 
+echo             hmmmmh omMMMMMMMMMmhNMMMmNNNNMMMMMMMMMMM+                 
+echo ------------------------------------------------------------------------------------------------------------------------------              
+echo    /---\   Error.              
+echo   /     \  An Update server is not available.
+echo  /   !   \ 
+echo  ---------  
+echo.            
+echo            Press any button to continue.
+echo ------------------------------------------------------------------------------------------------------------------------------    
+echo           -mddmmo`mNMNNNNMMMNNNmdyoo+mMMMNmNMMMNyyys                  
+echo           :mdmmmo-mNNNNNNNNNNdyo++sssyNMMMMMMMMMhs+-                  
+echo          .+mmdhhmmmNNNNNNmdysooooosssomMMMNNNMMMm                     
+echo          o/ossyhdmmNNmdyo+++oooooosssoyNMMNNNMMMM+                    
+echo          o/::::::://++//+++ooooooo+oo++mNMMmNNMMMm                    
+echo         `o//::::::::+////+++++++///:/+shNMMNmNNmMM+                   
+echo         .o////////::+++++++oo++///+syyyymMmNmmmNMMm                   
+echo         -+//////////o+ooooooosydmdddhhsosNMMmNNNmho            `:/    
+echo         .+++++++++++ssss+//oyyysso/:/shmshhs+:.          `-/oydNNNy   
+echo           `..-:/+ooss+-`          +mmhdy`           -/shmNNNNNdy+:`   
+echo                   `.              yddyo++:    `-/oymNNNNNdy+:`        
+echo                                   -odhhhhyddmmmmmNNmhs/:`             
+echo                                     :syhdyyyyso+/-`
+pause>NUL
+goto begin_main
+:startup_script
+cls
+echo.                                                                       
+echo              `..````                                                  
+echo              yNNNNNNNNMNNmmmmdddhhhyyyysssooo+++/:--.`                
+echo              hNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd                
+echo              ddmNNd:dNMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMs                
+echo             `mdmNNy dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+        
+echo             .mmmmNs mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                
+echo             :mdmmN+`mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                
+echo             /mmmmN:-mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN            
+echo             ommmmN.:mMMMMMMMMMMMMmNMMMMMMMMMMMMMMMMMd                 
+echo             smmmmm`+mMMMMMMMMMNhMNNMNNMMMMMMMMMMMMMMy                 
+echo             hmmmmh omMMMMMMMMMmhNMMMmNNNNMMMMMMMMMMM+                 
+echo             mmmmms smMMMMMMMMMmddMMmmNmNMMMMMMMMMMMM:                 
+echo            `mmmmmo hNMMMMMMMMMmddNMMMNNMMMMMMMMMMMMM.                 
+echo            -mmmmm/ dNMMMMMMMMMNmddMMMNdhdMMMMMMMMMMN                  
+echo            :mmmmm-`mNMMMMMMMMNNmmmNMMNmmmMMMMMMMMMMd                  
+echo            +mmmmN.-mNMMMMMMMMMNmmmmMMMMMMMMMMMMMMMMy                  
+echo            smmmmm`/mMMMMMMMMMNNmmmmNMMMMNMMNMMMMMNmy.                 
+echo            hmmmmd`omMMMMMMMMMNNmmmNmMNNMmNNNNMNdhyhh.                 
+echo            mmmmmh ymMMMMMMMMMNNmmmNmNNNMNNMMMMNyyhhh`                 
+echo           `mmmmmy hmMMNMNNMMMNNmmmmmdNMMNmmMMMMhyhhy                  
+echo           -mddmmo`mNMNNNNMMMNNNmdyoo+mMMMNmNMMMNyyys                  
+echo           :mdmmmo-mNNNNNNNNNNdyo++sssyNMMMMMMMMMhs+-                  
+echo          .+mmdhhmmmNNNNNNmdysooooosssomMMMNNNMMMm                     
+echo          o/ossyhdmmNNmdyo+++oooooosssoyNMMNNNMMMM+                    
+echo          o/::::::://++//+++ooooooo+oo++mNMMmNNMMMm                    
+echo         `o//::::::::+////+++++++///:/+shNMMNmNNmMM+                   
+echo         .o////////::+++++++oo++///+syyyymMmNmmmNMMm                   
+echo         -+//////////o+ooooooosydmdddhhsosNMMmNNNmho            `:/    
+echo         .+++++++++++ssss+//oyyysso/:/shmshhs+:.          `-/oydNNNy   
+echo           `..-:/+ooss+-`          +mmhdy`           -/shmNNNNNdy+:`   
+echo                   `.              yddyo++:    `-/oymNNNNNdy+:`        
+echo                                   -odhhhhyddmmmmmNNmhs/:`             
+echo                                     :syhdyyyyso+/-`                   
+echo                                                                        Please wait...
+set updateversion=0.0.0
+
+if %offlinestorage%==0 if exist %TempStorage%\version.txt del %TempStorage%\version.txt /q
+if %offlinestorage%==0 if exist %TempStorage%\version.txt` del %TempStorage%\version.txt` /q
+if %offlinestorage%==0 if exist %TempStorage%\whatsnew.txt del %TempStorage%\whatsnew.txt /q
+if %offlinestorage%==0 if exist %TempStorage%\whatsnew.txt` del %TempStorage%\whatsnew.txt` /q
+
+if not exist %TempStorage% md %TempStorage%
+if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/whatsnew.txt', '%TempStorage%/whatsnew.txt')"
+if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/version.txt', '%TempStorage%/version.txt')"
+
+	if %offlinestorage%==0 set /a temperrorlev=%errorlevel%
+	
+	::Bind error codes to errors here
+	if %offlinestorage%==0 if not %errorlevel%==0 goto error_update_not_available
+	
+
+if exist "%TempStorage%\version.txt`" ren "%TempStorage%\version.txt`" "version.txt"
+if exist "%TempStorage%\whatsnew.txt`" ren "%TempStorage%\whatsnew.txt`" "whatsnew.txt"
+
+if exist %TempStorage%\version.txt set /p updateversion=<%TempStorage%\version.txt
+if not exist %TempStorage%\version.txt set /a updateavailable=0
+if %IOSPatcher_Update_Activate%==1 if exist %TempStorage%\version.txt set /a updateavailable=1
+if %updateversion%==%version% set /a updateavailable=0 
+
+if %IOSPatcher_Update_Activate%==1 if %updateavailable%==1 goto update_notice
+
+if not exist Sharpii.exe goto files_req_err
+if not exist libWiiSharp.dll goto files_req_err
+if not exist lzx.exe goto files_req_err
+if not exist WadInstaller.dll goto files_req_err
+if not exist WiiwarePatcher.exe goto files_req_err
+
+set /a errorwinxp=0
+timeout -0 /nobreak >NUL || set /a errorwinxp=1
+if %errorwinxp%==1 goto winxp_notice
+
+goto main_fade_out
+:main_fade_out
+cls
+echo.                                                                       
+echo              `..````                                                  
+echo              yNNNNNNNNMNNmmmmdddhhhyyyysssooo+++/:--.`                
+echo              hNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd                
+echo              ddmNNd:dNMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMs                
+echo             `mdmNNy dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                
+echo             .mmmmNs mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                
+echo             :mdmmN+`mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                
+echo             /mmmmN:-mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN                 
+echo             ommmmN.:mMMMMMMMMMMMMmNMMMMMMMMMMMMMMMMMd                 
+echo             smmmmm`+mMMMMMMMMMNhMNNMNNMMMMMMMMMMMMMMy                 
+echo             hmmmmh omMMMMMMMMMmhNMMMmNNNNMMMMMMMMMMM+                 
+echo             mmmmms smMMMMMMMMMmddMMmmNmNMMMMMMMMMMMM:                 
+echo            `mmmmmo hNMMMMMMMMMmddNMMMNNMMMMMMMMMMMMM.                 
+echo            -mmmmm/ dNMMMMMMMMMNmddMMMNdhdMMMMMMMMMMN                  
+echo            :mmmmm-`mNMMMMMMMMNNmmmNMMNmmmMMMMMMMMMMd                  
+echo            +mmmmN.-mNMMMMMMMMMNmmmmMMMMMMMMMMMMMMMMy                  
+echo            smmmmm`/mMMMMMMMMMNNmmmmNMMMMNMMNMMMMMNmy.                 
+echo            hmmmmd`omMMMMMMMMMNNmmmNmMNNMmNNNNMNdhyhh.                 
+echo            mmmmmh ymMMMMMMMMMNNmmmNmNNNMNNMMMMNyyhhh`                 
+echo           `mmmmmy hmMMNMNNMMMNNmmmmmdNMMNmmMMMMhyhhy                  
+echo           -mddmmo`mNMNNNNMMMNNNmdyoo+mMMMNmNMMMNyyys                  
+echo           :mdmmmo-mNNNNNNNNNNdyo++sssyNMMMMMMMMMhs+-                  
+echo          .+mmdhhmmmNNNNNNmdysooooosssomMMMNNNMMMm                     
+echo          o/ossyhdmmNNmdyo+++oooooosssoyNMMNNNMMMM+                    
+echo          o/::::::://++//+++ooooooo+oo++mNMMmNNMMMm                    
+echo         `o//::::::::+////+++++++///:/+shNMMNmNNmMM+                   
+echo         .o////////::+++++++oo++///+syyyymMmNmmmNMMm                   
+echo         -+//////////o+ooooooosydmdddhhsosNMMmNNNmho            `:/    
+echo         .+++++++++++ssss+//oyyysso/:/shmshhs+:.          `-/oydNNNy   
+echo           `..-:/+ooss+-`          +mmhdy`           -/shmNNNNNdy+:`   
+echo                   `.              yddyo++:    `-/oymNNNNNdy+:`        
+echo                                   -odhhhhyddmmmmmNNmhs/:`             
+echo                                     :syhdyyyyso+/-`                   
+echo. 
+ping localhost -n 3 >NUL
+goto letsbegin
+:update_notice
+set /a update=1
+cls
+echo.                                                                       
+echo              `..````                                                  
+echo              yNNNNNNNNMNNmmmmdddhhhyyyysssooo+++/:--.`                
+echo              hNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd                
+echo              ddmNNd:dNMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMs                
+echo             `mdmNNy dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+        
+echo             .mmmmNs mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                
+echo             :mdmmN+`mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                
+echo             /mmmmN:-mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN            
+echo             ommmmN.:mMMMMMMMMMMMMmNMMMMMMMMMMMMMMMMMd                 
+echo             smmmmm`+mMMMMMMMMMNhMNNMNNMMMMMMMMMMMMMMy                 
+echo             hmmmmh omMMMMMMMMMmhNMMMmNNNNMMMMMMMMMMM+                 
+echo ------------------------------------------------------------------------------------------------------------------------------              
+echo    /---\   An Update is available.              
+echo   /     \  An Update for this program is available. We suggest updating the WiiWare Patcher to the latest version.
+echo  /   !   \ 
+echo  ---------  Current version: %version%
+echo             New version: %updateversion%
+echo                       1. Update                      2. Dismiss               3. What's new in this update?
+echo ------------------------------------------------------------------------------------------------------------------------------    
+echo           -mddmmo`mNMNNNNMMMNNNmdyoo+mMMMNmNMMMNyyys                  
+echo           :mdmmmo-mNNNNNNNNNNdyo++sssyNMMMMMMMMMhs+-                  
+echo          .+mmdhhmmmNNNNNNmdysooooosssomMMMNNNMMMm                     
+echo          o/ossyhdmmNNmdyo+++oooooosssoyNMMNNNMMMM+                    
+echo          o/::::::://++//+++ooooooo+oo++mNMMmNNMMMm                    
+echo         `o//::::::::+////+++++++///:/+shNMMNmNNmMM+                   
+echo         .o////////::+++++++oo++///+syyyymMmNmmmNMMm                   
+echo         -+//////////o+ooooooosydmdddhhsosNMMmNNNmho            `:/    
+echo         .+++++++++++ssss+//oyyysso/:/shmshhs+:.          `-/oydNNNy   
+echo           `..-:/+ooss+-`          +mmhdy`           -/shmNNNNNdy+:`   
+echo                   `.              yddyo++:    `-/oymNNNNNdy+:`        
+echo                                   -odhhhhyddmmmmmNNmhs/:`             
+echo                                     :syhdyyyyso+/-`
+set /p s=
+if %s%==1 goto update_files
+if %s%==2 goto begin_main
+if %s%==3 goto whatsnew
+goto update_notice
+:update_files
+cls
+cls
+echo.                                                                       
+echo              `..````                                                  
+echo              yNNNNNNNNMNNmmmmdddhhhyyyysssooo+++/:--.`                
+echo              hNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd                
+echo              ddmNNd:dNMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMs                
+echo             `mdmNNy dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+        
+echo             .mmmmNs mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                
+echo             :mdmmN+`mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                
+echo             /mmmmN:-mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN            
+echo             ommmmN.:mMMMMMMMMMMMMmNMMMMMMMMMMMMMMMMMd                 
+echo             smmmmm`+mMMMMMMMMMNhMNNMNNMMMMMMMMMMMMMMy                 
+echo             hmmmmh omMMMMMMMMMmhNMMMmNNNNMMMMMMMMMMM+                 
+echo ------------------------------------------------------------------------------------------------------------------------------              
+echo    /---\   Updating.
+echo   /     \  Please wait...
+echo  /   !   \ 
+echo  --------- WiiWare Patcher will restart shortly... 
+echo.
+echo.
+echo ------------------------------------------------------------------------------------------------------------------------------    
+echo           -mddmmo`mNMNNNNMMMNNNmdyoo+mMMMNmNMMMNyyys                  
+echo           :mdmmmo-mNNNNNNNNNNdyo++sssyNMMMMMMMMMhs+-                  
+echo          .+mmdhhmmmNNNNNNmdysooooosssomMMMNNNMMMm                     
+echo          o/ossyhdmmNNmdyo+++oooooosssoyNMMNNNMMMM+                    
+echo          o/::::::://++//+++ooooooo+oo++mNMMmNNMMMm                    
+echo         `o//::::::::+////+++++++///:/+shNMMNmNNmMM+                   
+echo         .o////////::+++++++oo++///+syyyymMmNmmmNMMm                   
+echo         -+//////////o+ooooooosydmdddhhsosNMMmNNNmho            `:/    
+echo         .+++++++++++ssss+//oyyysso/:/shmshhs+:.          `-/oydNNNy   
+echo           `..-:/+ooss+-`          +mmhdy`           -/shmNNNNNdy+:`   
+echo                   `.              yddyo++:    `-/oymNNNNNdy+:`        
+echo                                   -odhhhhyddmmmmmNNmhs/:`             
+echo                                     :syhdyyyyso+/-`
+if exist WadInstaller.dll` del WadInstaller.dll` /q 2> nul
+if exist WiiwarePatcher.exe` del wget.exe` /q 2> nul
+if exist lzx.exe` del xdelta3.exe` 2> nul
+if exist patcher.bat` del patch.bat` /q 2> nul
+if exist libWiiSharp.dll` del  libWiiSharp.dll` /q 2> nul
+if exist Sharpii.exe` del Sharpii.exe` /q 2> nul
+
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/WadInstaller.dll', 'WadInstaller.dll`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/WiiwarePatcher.exe', 'WiiwarePatcher.exe`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/lzx.exe', 'lzx.exe`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/patcher.bat', 'patcher.bat`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/libWiiSharp.dll', 'libWiiSharp.dll`')"
+powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/Sharpii.exe', 'Sharpii.exe`')"
+
+if %update%==1 if not exist WadInstaller.dll` goto error_update_not_available
+if %update%==1 if not exist WiiwarePatcher.exe` goto error_update_not_available
+if %update%==1 if not exist lzx.exe` goto error_update_not_available
+if %update%==1 if not exist patcher.bat` goto error_update_not_available
+if %update%==1 if not exist libWiiSharp.dll` goto error_update_not_available
+if %update%==1 if not exist Sharpii.exe` goto error_update_not_available
+
+if exist WadInstaller.dll del WadInstaller.dll /q
+if exist WiiwarePatcher.exe del WiiwarePatcher.exe /q
+if exist lzx.exe del lzx.exe /q
+if exist libWiiSharp.dll del libWiiSharp.dll /q
+if exist Sharpii.exe del Sharpii.exe /q
+
+ren WadInstaller.dll` WadInstaller.dll
+ren WiiwarePatcher.exe` WiiwarePatcher.exe
+ren lzx.exe` lzx.exe
+ren libWiiSharp.dll` libWiiSharp.dll
+ren Sharpii.exe` Sharpii.exe
+
+echo ping localhost -n 2 >>temp.bat
+echo del patcher.bat /q >>temp.bat
+echo ren patcher.bat` patcher.bat >>temp.bat
+echo start patcher.bat >>temp.bat
+echo exit >>temp.bat
+start temp.bat
+exit	
+exit
+exit
+:whatsnew
+cls
+if not exist %TempStorage%\whatsnew.txt goto whatsnew_notexist
+echo Wiimmfi WiiWarePatcher - (C) Larsenv, (C) KcrPL, (C) PokeAcer. v%version%. (Compiled on %last_build% at %at%)
+echo ------------------------------------------------------------------------------------------------------------------------------              
+echo.
+echo What's new in update %updateversion%?
+echo.
+type %TempStorage%\whatsnew.txt
+pause>NUL
+goto update_notice
+:whatsnew_notexist
+cls
+echo Wiimmfi WiiWarePatcher - (C) Larsenv, (C) KcrPL, (C) PokeAcer. v%version%. (Compiled on %last_build% at %at%)
+echo -----------------------------------------------------------------------------------------------------------------------------              
+echo.
+echo Error. What's new is not available now.
+echo.
+echo Press any button to go back.
+pause>NUL
+goto update_notice
+
+
+:admin_error
+cls
+echo Wiimmfi WiiWarePatcher - (C) Larsenv, (C) KcrPL, (C) PokeAcer. v%version%. (Compiled on %last_build% at %at%)
+echo.
+echo ERROR.
+echo An error has been occurred. Please try to run this program without ADMIN privileges (or change this batch file name to patcher.bat)
+pause>NUL
+goto admin_error
+:debug_failsafe_begin
+echo initiating debug
+set output=No output
+set debug=1
+@echo off
+cls
+goto debug_1
+:debug_1
+cls
+echo Wiimmfi WAD Patcher debug menu
+echo @Larsenv, @PokeAcer, @KcrPL
+echo.
+echo --- Output ---
+echo %output%
+echo --------------
+echo.
+echo 1. Reset program
+echo 2. Reset database
+echo 3. Delete patched files
+echo 4. exit
+echo 5. open command prompt
+echo 6. Files check
+echo 7. Check for program compatibility on this computer
+echo.
+set /p s=Choose: 
+if %s%==1 goto begin
+if %s%==2 goto debug_reset_database
+if %s%==3 goto debug_patched_Del
+if %s%==4 exit
+if %s%==5 goto debug_cmd
+if %s%==6 goto debug_file_check
+if %s%==7 goto debug_check_comp
+set output=command_Not_recognized
+goto debug_1
+:debug_reset_database
+cls
+echo Executing command...
+rmdir %appdata%\WiimmfiPatcher /s /q
+if not exist %appdata%\WiimmfiPatcher set output=OK! It seems that database is deleted, try restarting this program.
+if exist %appdata%\WiimmfiPatcher set output=FAIL! The Database has not been deleted.
+goto debug_1
+:debug_patched_Del
+cls
+echo Executing command...
+rmdir backup-wads /s /q
+rmdir wiimmfi-wads /s /q
+set output=OK! It seems that 2 folders has been deleted
+goto debug_1
+:debug_cmd
+cls
+echo Type "exit" to return to debug menu
+echo :---------------------------------------:
+cmd
+goto debug_1
+:debug_file_check
+cls
+echo Executing command...
+set exist=1
+if not exist Sharpii.exe set exist=0
+if not exist libWiiSharp.dll set exist=0
+if not exist lzx.exe set exist=0
+if not exist WadInstaller.dll set exist=0
+if not exist WiiwarePatcher.exe set exist=0
+if %exist%==0 set output=FAIL! Files are corrupted. Redownload the package.
+if %exist%==1 set output=OK! It seems that every file is in it's place.
+goto debug_1
+:debug_check_comp
+cls
+echo Executing command...
+set check=1
+timeout 3 /nobreak >NUL || set check=0 
+if %check%==1 set output=OK! Program will work correctly
+if %check%==0 set output=FAIL! Legacy PC found, some commands may not work correct but the program will work and do it's job.
+goto debug_1 
+:files_req_err
+set /a update=0
+cls
+echo.                                                                       
+echo              `..````                                                  
+echo              yNNNNNNNNMNNmmmmdddhhhyyyysssooo+++/:--.`                
+echo              hNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd                
+echo              ddmNNd:dNMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMs                
+echo             `mdmNNy dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+        
+echo             .mmmmNs mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                
+echo             :mdmmN+`mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                
+echo             /mmmmN:-mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN            
+echo             ommmmN.:mMMMMMMMMMMMMmNMMMMMMMMMMMMMMMMMd                 
+echo             smmmmm`+mMMMMMMMMMNhMNNMNNMMMMMMMMMMMMMMy                 
+echo             hmmmmh omMMMMMMMMMmhNMMMmNNNNMMMMMMMMMMM+                 
+echo ------------------------------------------------------------------------------------------------------------------------------              
+echo    /---\   ERROR.              
+echo   /     \  Some files needed to run this program wasn't found.
+echo  /   !   \ Press any button to download these files.
+echo  ---------              
+echo ------------------------------------------------------------------------------------------------------------------------------    
+echo            mmmmmh ymMMMMMMMMMNNmmmNmNNNMNNMMMMNyyhhh`                 
+echo           `mmmmmy hmMMNMNNMMMNNmmmmmdNMMNmmMMMMhyhhy                  
+echo           -mddmmo`mNMNNNNMMMNNNmdyoo+mMMMNmNMMMNyyys                  
+echo           :mdmmmo-mNNNNNNNNNNdyo++sssyNMMMMMMMMMhs+-                  
+echo          .+mmdhhmmmNNNNNNmdysooooosssomMMMNNNMMMm                     
+echo          o/ossyhdmmNNmdyo+++oooooosssoyNMMNNNMMMM+                    
+echo          o/::::::://++//+++ooooooo+oo++mNMMmNNMMMm                    
+echo         `o//::::::::+////+++++++///:/+shNMMNmNNmMM+                   
+echo         .o////////::+++++++oo++///+syyyymMmNmmmNMMm                   
+echo         -+//////////o+ooooooosydmdddhhsosNMMmNNNmho            `:/    
+echo         .+++++++++++ssss+//oyyysso/:/shmshhs+:.          `-/oydNNNy   
+echo           `..-:/+ooss+-`          +mmhdy`           -/shmNNNNNdy+:`   
+echo                   `.              yddyo++:    `-/oymNNNNNdy+:`        
+echo                                   -odhhhhyddmmmmmNNmhs/:`             
+echo                                     :syhdyyyyso+/-`                   
+pause>NUL
+goto update_files
+:ndstart
+cls
+echo Hi.
+ping localhost -n 3 >NUL
+goto intro2_frs2
+:firststart
+cls
+goto firststart
+
+:letsbegin_error
+cls
+echo.
+echo Wiimmfi WiiWarePatcher - (C) Larsenv, (C) KcrPL, (C) PokeAcer. v%version%. Compiled on %last_build% at %at%
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo Let's begin.
+echo.
+echo In order to patch wad file, I need an wad file.
+echo So, if you can please copy any wad file to this directory where I am.
+echo.
+if %rep%==1 if exist "*.wad" set /a cor=1
+if %rep%==1 if exist "*.wad" goto letsbegin
+if %rep%==1 echo Waiting for .wad files.
+if %rep%==2 echo Waiting for .wad files..
+if %rep%==3 echo Waiting for .wad files...
+if %rep%==4 echo Waiting for .wad files....
+if %rep%==4 set /a rep=0
+set /a rep=%rep%+1
+ping localhost -n 3 >NUL
+goto letsbegin_error
+:letsbegin
+for %%f in ("*.wad") do set /a file_counter+=1
+set /a repeat=1
+set /a errorrep=0
+set /a rep=0
+cls
+
+cls
+echo.
+echo Wiimmfi WiiWarePatcher - (C) Larsenv, (C) KcrPL, (C) PokeAcer. v%version%. Compiled on %last_build% at %at%
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+if %cor%==0 echo Let's begin.
+if %cor%==1 echo Let's begin.
+ping localhost -n 3 >NUL
+if not exist "*.wad" goto letsbegin_error
+echo.
+set modul=NUL
+rmdir temp /s /q
+
+if not exist temp md temp
+if not exist wiimmfi-wads md wiimmfi-wads
+if not exist backup-wads md backup-wads
+
+for %%f in ("*.wad") do (
+cls
+echo Wiimmfi WiiWarePatcher - Larsenv, KcrPL, PokeAcer. v%version%. Compiled on %last_build% at %at%
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+echo Patching file: %%~nf
+echo Total ammount of files to patch: %file_counter%
+echo.
+copy /b "%%f" backup-wads >NUL
+set /a temperrorlev=%errorlevel%
+set modul=copy.exe
+if not %temperrorlev%==0 goto error_patching
+
+Sharpii.exe WAD -u "%%f" temp >NUL
+set /a temperrorlev=%errorlevel%
+set modul=Sharpii.exe
+if not %temperrorlev%==0 goto error_patching
+
+move temp\00000001.app 00000001.app >NUL
+set /a temperrorlev=%errorlevel%
+set modul=move.exe
+if not %temperrorlev%==0 goto error_patching
+
+if %repeatvbs%==0 start %appdata%\WiimmfiPatcher\temp\vbs.vbs
+set patchdebug=%%~nf
+WiiWarePatcher.exe
+set /a temperrorlev=%errorlevel%
+set modul=WiiWarePatcher.exe
+if not %temperrorlev%==0 goto error_patching
+
+move 00000001.app temp\00000001.app >NUL 
+set /a temperrorlev=%errorlevel%
+set modul=move.exe
+if not %temperrorlev%==0 goto error_patching
+
+del "%%f"
+set /a temperrorlev=%errorlevel%
+set modul=del.exe
+if not %temperrorlev%==0 goto error_patching
+
+Sharpii.exe WAD -p temp "wiimmfi-wads/%%f"
+set /a temperrorlev=%errorlevel%
+set modul=Sharpii.exe
+if not %temperrorlev%==0 goto error_patching
+
+rmdir temp /s /q
+set /a repeatvbs=1
+)
+cd wiimmfi-wads
+for %%a in (*.wad) do ren "%%~a" "%%~na_Wiimmfi%%~xa"
+cd wiimmfi-wads
+cd..
+pause
+goto end
+:error_patching
+cls
+cls
+echo.                                                                       
+echo              `..````                                                  
+echo              yNNNNNNNNMNNmmmmdddhhhyyyysssooo+++/:--.`                
+echo              hNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd                
+echo              ddmNNd:dNMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMs                
+echo             `mdmNNy dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+        
+echo             .mmmmNs mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                
+echo             :mdmmN+`mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                
+echo             /mmmmN:-mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN            
+echo             ommmmN.:mMMMMMMMMMMMMmNMMMMMMMMMMMMMMMMMd                 
+echo             smmmmm`+mMMMMMMMMMNhMNNMNNMMMMMMMMMMMMMMy                 
+echo             hmmmmh omMMMMMMMMMmhNMMMmNNNNMMMMMMMMMMM+                 
+echo ---------------------------------------------------------------------------------------------------------------------------
+echo    /---\   ERROR.              
+echo   /     \  There was an error while patching.
+echo  /   !   \ Error Code: %temperrorlev%
+echo  --------- Failing module: %modul%             
+echo.
+if not %temperrorlev%==-532459699 echo.
+if %temperrorlev%==-532459699 echo  Please check your internet connection. 
+echo       Press any key to start patching again.
+echo ---------------------------------------------------------------------------------------------------------------------------
+echo           :mdmmmo-mNNNNNNNNNNdyo++sssyNMMMMMMMMMhs+-                  
+echo          .+mmdhhmmmNNNNNNmdysooooosssomMMMNNNMMMm                     
+echo          o/ossyhdmmNNmdyo+++oooooosssoyNMMNNNMMMM+                    
+echo          o/::::::://++//+++ooooooo+oo++mNMMmNNMMMm                    
+echo         `o//::::::::+////+++++++///:/+shNMMNmNNmMM+                   
+echo         .o////////::+++++++oo++///+syyyymMmNmmmNMMm                   
+echo         -+//////////o+ooooooosydmdddhhsosNMMmNNNmho            `:/    
+echo         .+++++++++++ssss+//oyyysso/:/shmshhs+:.          `-/oydNNNy   
+echo           `..-:/+ooss+-`          +mmhdy`           -/shmNNNNNdy+:`   
+echo                   `.              yddyo++:    `-/oymNNNNNdy+:`        
+echo                                   -odhhhhyddmmmmmNNmhs/:`             
+echo                                     :syhdyyyyso+/-`                   
+pause>NUL
+goto begin_main
+:end
+if not exist %appdata%\WiimmfiPatcher\ndlaunch.id echo e >>%appdata%\WiimmfiPatcher\ndlaunch.id
+set /a exiting=10
+set /a timeouterror=1
+timeout 1 /nobreak >NUL && set /a timeouterror=0
+goto end1
+:end1
+cls
+cls
+echo.
+echo Wiimmfi WiiWarePatcher - (C) Larsenv, (C) KcrPL, (C) PokeAcer. v%version%. Compiled on %last_build% at %at%
+echo ------------------------------------------------------------------------------------------------------------------------
+echo.
+if %patchingok%==1 echo Patched files are in wiimmfi-wads folder
+if %patchingok%==1 echo Backed up wads are in backup-wads folder
+if %patchingok%==1 echo.
+echo Exiting the patcher in...
+if %exiting%==10 echo :----------: 10
+if %exiting%==9 echo :--------- : 9
+if %exiting%==8 echo :--------  : 8
+if %exiting%==7 echo :-------   : 7
+if %exiting%==6 echo :------    : 6
+if %exiting%==5 echo :-----     : 5
+if %exiting%==4 echo :----      : 4
+if %exiting%==3 echo :---       : 3
+if %exiting%==2 echo :--        : 2
+if %exiting%==1 echo :-         : 1
+if %exiting%==0 echo :          :
+if %exiting%==0 if %patchingok%==2 start "C:\Users\%username%\Desktop\WiiWarePatcher\"
+if %exiting%==0 exit
+if %timeouterror%==0 timeout 1 /nobreak >NUL
+if %timeouterror%==1 ping localhost -n 2 >NUL
+set /a exiting=%exiting%-1
+goto end1
