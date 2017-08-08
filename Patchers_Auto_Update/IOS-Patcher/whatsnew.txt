@@ -1,0 +1,4 @@
+- Some bug fixes to download commands
+- Download commands now support Powershell 2.0 (it should)
+- Files locations has been moved. 
+- Bug Fixes.
