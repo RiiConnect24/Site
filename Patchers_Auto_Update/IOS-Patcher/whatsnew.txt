@@ -1,4 +1,4 @@
-- Some bug fixes to download commands
-- Download commands now support Powershell 2.0 (it should)
-- Files locations has been moved. 
-- Bug Fixes.
+- Some features are now documented in batch file. May come in handy.
+- Got rid of few things
+- Deleted not used variables.
+- Bug fixes
