@@ -1,32 +1,50 @@
 @echo off
-set version=1.7.6
+:: The version variable - it's being used to check for update and just to show user what version is user using.
+set version=1.7.8
 if exist temp.bat del /q temp.bat
 if exist "C:\Users\%username%\Desktop\IOSPatcherDebug.txt" goto debug_load
 :1
 set /a copyingsdcard=0
-set /a crashing=0
 set /a translationsserror=0
+:: Window size (Lines, columns)
 mode 126,35
+:: Coding page
 chcp 65001
 set error4112=0
 set filcheck=0
-set language=NotDefined
 set patchingok=1
+:: Window Title
 title IOS Patcher for RiiConnect24 v.%version%  Created by @Larsenv, @KcrPL
 set last_build=2017/08/07
 set at=12:52
 :: ### Auto Update ###
+:: 1=Enable 0=Disable
+:: IOSPatcher_Update_Activate - If disabled, patcher will not even check for updates, default=1
+:: offlinestorage - Only used while testing of Update function, default=0
+:: FilesHostedOn - The website and path to where the files are hosted. WARNING! DON'T END WITH "/"
+:: MainFolder/TempStorage - folder that is used to keep version.txt and whatsnew.txt. These two files are deleted every startup but if offlinestorage will be set 1, they won't be deleted.
 set /a IOSPatcher_Update_Activate=1
-set /a whatsnew=1
 set /a offlinestorage=0
 set FilesHostedOn=https://rc24.xyz/Patchers_Auto_Update/IOS-Patcher
 set MainFolder=%appdata%\IOSPatcher
 set TempStorage=%appdata%\IOSPatcher\internet\temp
 
-set /a versioncheck=0
+:: Trying to prevent running from OS that is not Windows.
+if %os%=="" goto not_windows_nt
+if not %os%==Windows_NT goto not_windows_nt
 
+set /a versioncheck=0
+:: If program is opened as an admin the path will messed up
 if not exist patch.bat goto admin_error
 goto begin_main
+:not_windows_nt
+cls
+echo RiiConnect24 IOS Patcher - (C) Larsenv, (C) KcrPL. v%version%. (Compiled on %last_build% at %at%)
+echo.
+echo Please don't run our IOS Patcher in MS-DOS :P.
+echo Run it only on Windows Vista+ computer. :)
+pause>NUL
+exit
 :admin_error
 cls
 echo RiiConnect24 IOS Patcher - (C) Larsenv, (C) KcrPL. v%version%. (Compiled on %last_build% at %at%)
@@ -111,13 +129,21 @@ echo                   `.              yddyo++:    `-/oymNNNNNdy+:`
 echo                                   -odhhhhyddmmmmmNNmhs/:`             
 echo                                     :syhdyyyyso+/-`                   
 echo                                                                        Please wait...
+:: We don't support Windows XP anymore. Windows XP don't have timeout command, it means that if that command will be runned on Windows XP it will return exit code 1. 
+set /a errorwinxp=0
+timeout -0 /nobreak >NUL || set /a errorwinxp=1
+if %errorwinxp%==1 goto winxp_notice
+
+:: Update script.
 set updateversion=0.0.0
+:: Delete version.txt and whatsnew.txt
 if %offlinestorage%==0 if exist %TempStorage%\version.txt del %TempStorage%\version.txt /q
 if %offlinestorage%==0 if exist %TempStorage%\version.txt` del %TempStorage%\version.txt` /q
 if %offlinestorage%==0 if exist %TempStorage%\whatsnew.txt del %TempStorage%\whatsnew.txt /q
 if %offlinestorage%==0 if exist %TempStorage%\whatsnew.txt` del %TempStorage%\whatsnew.txt` /q
 
 if not exist %TempStorage% md %TempStorage%
+:: Commands to download files from server.
 if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/whatsnew.txt', '%TempStorage%/whatsnew.txt')"
 if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/version.txt', '%TempStorage%/version.txt')"
 
@@ -129,10 +155,11 @@ if %IOSPatcher_Update_Activate%==1 if %offlinestorage%==0 powershell -command "(
 
 if exist "%TempStorage%\version.txt`" ren "%TempStorage%\version.txt`" "version.txt"
 if exist "%TempStorage%\whatsnew.txt`" ren "%TempStorage%\whatsnew.txt`" "whatsnew.txt"
-
+:: Copy the content of version.txt to variable.
 if exist %TempStorage%\version.txt set /p updateversion=<%TempStorage%\version.txt
 if not exist %TempStorage%\version.txt set /a updateavailable=0
 if %IOSPatcher_Update_Activate%==1 if exist %TempStorage%\version.txt set /a updateavailable=1
+:: If version.txt doesn't match the version variable stored in this batch file, it means that update is available.
 if %updateversion%==%version% set /a updateavailable=0 
 
 if %IOSPatcher_Update_Activate%==1 if %updateavailable%==1 goto update_notice
@@ -174,6 +201,7 @@ echo                   `.              yddyo++:    `-/oymNNNNNdy+:`
 echo                                   -odhhhhyddmmmmmNNmhs/:`             
 echo                                     :syhdyyyyso+/-`                   
 echo                                                                        Please wait...
+:: Important check for files. We need them to patch IOS's
 if not exist 00000006-80.delta goto error_runtime_error
 if not exist 00000006-31.delta goto error_runtime_error
 if not exist libWiiSharp.dll goto error_runtime_error
@@ -181,11 +209,6 @@ if not exist Sharpii.exe goto error_runtime_error
 if not exist WadInstaller.dll goto error_runtime_error
 if not exist wget.exe goto error_runtime_error
 if not exist xdelta3.exe goto error_runtime_error
-
-set /a errorwinxp=0
-timeout -0 /nobreak >NUL || set /a errorwinxp=1
-if %errorwinxp%==1 goto winxp_notice
-
 set filcheck=1
 
 goto main_fade_out
@@ -227,6 +250,7 @@ echo                                     :syhdyyyyso+/-`
 pause>NUL
 goto begin_main
 :update_notice
+if %updateversion%==0.0.0 goto error_update_not_available
 set /a update=1
 cls
 echo.                                                                       
@@ -303,6 +327,7 @@ echo           `..-:/+ooss+-`          +mmhdy`           -/shmNNNNNdy+:`
 echo                   `.              yddyo++:    `-/oymNNNNNdy+:`        
 echo                                   -odhhhhyddmmmmmNNmhs/:`             
 echo                                     :syhdyyyyso+/-`
+:: Deleting the temp files if they exist.
 if exist 00000006-31.delta` del 00000006-31.delta` /q 2> nul
 if exist 00000006-80.delta` del 00000006-80.delta` /q 2> nul
 if exist WadInstaller.dll` del WadInstaller.dll` /q 2> nul
@@ -312,6 +337,7 @@ if exist patch.bat` del patch.bat` /q 2> nul
 if exist libWiiSharp.dll` del  libWiiSharp.dll` /q 2> nul
 if exist Sharpii.exe` del Sharpii.exe` /q 2> nul
 
+:: Downloading the update files. In future i'm gonna add something called "Files Version" (at least i call it that way). Because most of the time the patch.bat is only updated
 powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/00000006-31.delta', '00000006-31.delta`')"
 powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/00000006-80.delta', '00000006-80.delta`')"
 powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/WadInstaller.dll', 'WadInstaller.dll`')"
@@ -321,6 +347,7 @@ powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHoste
 powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/Sharpii.exe', 'Sharpii.exe`')"
 powershell -command "(new-object System.Net.WebClient).DownloadFile('%FilesHostedOn%/patch.bat', 'patch.bat`')"
 
+:: If download failed
 if %update%==1 if not exist 00000006-31.delta` goto error_update_not_available
 if %update%==1 if not exist 00000006-80.delta` goto error_update_not_available
 if %update%==1 if not exist WadInstaller.dll` goto error_update_not_available
@@ -330,6 +357,7 @@ if %update%==1 if not exist Sharpii.exe` goto error_update_not_available
 if %update%==1 if not exist patch.bat` goto error_update_not_available
 if %update%==1 if not exist libWiiSharp.dll` goto error_update_not_available
 
+:: Delete the original files
 if %update%==1 if exist 00000006-31.delta del 00000006-31.delta /q
 if %update%==1 if exist 00000006-80.delta del 00000006-80.delta /q
 if %update%==1 if exist WadInstaller.dll del WadInstaller.dll /q
@@ -338,6 +366,7 @@ if %update%==1 if exist xdelta3.exe del xdelta3.exe /q
 if %update%==1 if exist Sharpii.exe del Sharpii.exe /q
 if %update%==1 if exist libWiiSharp.dll del libWiiSharp.dll /q
 
+:: Renaming the temp files to original names
 ren 00000006-31.delta` 00000006-31.delta
 ren 00000006-80.delta` 00000006-80.delta
 ren WadInstaller.dll` WadInstaller.dll
@@ -346,11 +375,13 @@ ren xdelta3.exe` xdelta3.exe
 ren Sharpii.exe` Sharpii.exe
 ren libWiiSharp.dll` libWiiSharp.dll
 
+:: Patch.bat cannot be overwritten while running so i'm creating a small script
 echo ping localhost -n 2 >>temp.bat
 echo del patch.bat /q >>temp.bat
 echo ren patch.bat` patch.bat >>temp.bat
 echo start patch.bat >>temp.bat
 echo exit >>temp.bat
+:: Running the script and exiting patch.bat
 start temp.bat
 exit	
 exit
@@ -547,6 +578,7 @@ cls
 cls
 
 :debug_1
+:: Debug menu
 if not defined %output% set output=No output.
 cls
 echo IOS Patcher for RiiConnect24 Larsenv, KcrPL
@@ -1024,8 +1056,6 @@ echo                                   -odhhhhyddmmmmmNNmhs/:`
 echo                                     :syhdyyyyso+/-`                   
 pause>NUL
 goto begin_main
-pause>NUL
-goto 4
 :ask_for_copy_to_an_sd_card
 mode 126,35
 cls
@@ -1064,6 +1094,8 @@ echo.
 set sdcard=NotDefined
 echo %text22%
 goto sd_a
+:: Shitty script but it works, duh. :P 
+:: Every Wii SD Card should have two folders in it: apps and private. That's how it's being checked :)
 :sd_a
 set /a check=0
 if exist A:\private\wii set /a check=%check%+1
