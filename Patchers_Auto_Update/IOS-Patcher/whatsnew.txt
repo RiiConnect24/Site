@@ -1,4 +1,3 @@
-- Some features are now documented in batch file. May come in handy.
-- Got rid of few things
-- Deleted not used variables.
-- Bug fixes
+- License added. Now user must accept the license to use the program.
+- Bug fixes.
+- Added new variables... yay.
