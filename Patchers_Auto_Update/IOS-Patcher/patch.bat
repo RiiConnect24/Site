@@ -1416,10 +1416,10 @@ echo             smmmmm`+mMMMMMMMMMNhMNNMNNMMMMMMMMMMMMMMy
 echo             hmmmmh omMMMMMMMMMmhNMMMmNNNNMMMMMMMMMMM+                 
 echo ------------------------------------------------------------------------------------------------------------------------------              
 echo    /---\   IOS Patcher is shared under GNU Affero General Public License v3.0 license.              
-echo   /     \  In order to use this program, you need to read the license.
+echo   /     \  In order to use this program, you need to accept the license.
 echo  /   !   \ 
 echo  ---------  
-echo                       1. Read                                                           2. Dismiss
+echo             1. Read the license    2. Dismiss    3. I accept.    4. I do not accept          
 echo ------------------------------------------------------------------------------------------------------------------------------    
 echo           -mddmmo`mNMNNNNMMMNNNmdyoo+mMMMNmNMMMNyyys                  
 echo           :mdmmmo-mNNNNNNNNNNdyo++sssyNMMMMMMMMMhs+-                  
@@ -1437,6 +1437,8 @@ echo                                     :syhdyyyyso+/-`
 set /p s=
 if %s%==1 goto read_eula
 if %s%==2 goto begin_main
+if %s%==3 goto set_accepted_eula
+if %s%==4 goto begin_main
 goto show_eula
 :read_eula
 cls
