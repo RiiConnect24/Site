@@ -1,4 +1,3 @@
-- Some bug fixes to download commands
-- Download commands now support Powershell 2.0 (it should)
-- Files locations has been moved. 
-- Bug Fixes.
+- License added. Now user must accept the license to use the program.
+- Bug fixes.
+- Added new variables... yay.
