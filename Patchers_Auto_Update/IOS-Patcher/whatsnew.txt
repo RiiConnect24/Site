@@ -1,3 +1,3 @@
-- License added. Now user must accept the license to use the program.
-- Bug fixes.
-- Added new variables... yay.
+THIS IS JUST AN ESR (EXTENDED SUPPORT RELEASE) UPDATE FOR IOS PATCHER, IT CHANGED NOTHING SINCE 1.8.0
+
+The program has been optimized to run on Windows XP. Please make sure that you have .NET Framework (at least) 3.5 on your computer. If you will forget, IOS Patcher will tell you about that ;)

@@ -1,6 +1,6 @@
 @echo off
 :: The version variable - it's being used to check for update and just to show user what version is user using.
-set version=1.8.0
+set version=1.8.1
 if exist temp.bat del /q temp.bat
 if exist "C:\Users\%username%\Desktop\IOSPatcherDebug.txt" goto debug_load
 :1
@@ -9,16 +9,16 @@ set /a translationsserror=0
 :: Window size (Lines, columns)
 set mode=126,35
 mode %mode%
-:: Coding page
-chcp 65001
-
+:: Coding page (in order to make IOS Patcher on Windows XP working, this command has been disabled)
+:: chcp 65001
 set error4112=0
 set filcheck=0
 set patchingok=1
+
 :: Window Title
 title IOS Patcher for RiiConnect24 v.%version%  Created by @Larsenv, @KcrPL
-set last_build=2017/08/14
-set at=15:51
+set last_build=2017/08/18
+set at=21:55
 :: ### Auto Update ###
 :: 1=Enable 0=Disable
 :: IOSPatcher_Update_Activate - If disabled, patcher will not even check for updates, default=1
@@ -93,9 +93,14 @@ echo                   `.              yddyo++:    `-/oymNNNNNdy+:`
 echo                                   -odhhhhyddmmmmmNNmhs/:`             
 echo                                     :syhdyyyyso+/-`                   
 pause>NUL
+set /a errorwinxp=0
+timeout -0 /nobreak >NUL || set /a errorwinxp=1
+if %errorwinxp%==1 goto winxp_notice
+
+set /a eula=0
 if not exist %MainFolder% md %MainFolder%
 if not exist %MainFolder%\eula.txt echo 0 >>%MainFolder%\eula.txt
-set /p eula=<%MainFolder%\eula.txt
+if exist %MainFolder%\eula.txt set /p eula=<%MainFolder%\eula.txt
 if %eula%==0 goto show_eula
 
 goto startup_script
@@ -175,9 +180,6 @@ echo                                   -odhhhhyddmmmmmNNmhs/:`
 echo                                     :syhdyyyyso+/-`
 
 :: We don't support Windows XP anymore. Windows XP don't have timeout command, it means that if that command will be runned on Windows XP it will return exit code 1. 
-set /a errorwinxp=0
-timeout -0 /nobreak >NUL || set /a errorwinxp=1
-if %errorwinxp%==1 goto winxp_notice
 
 :: Update script.
 set updateversion=0.0.0
@@ -471,7 +473,7 @@ echo    /---\   Windows XP Support Ended.
 echo   /     \  Thanks for using the program but support for any system older than Windows 7 has been ended.
 echo  /   !   \ It means that you can still use this program but if you encounter any problem with it we will not help you.
 echo  --------- We may release ESR if needed. (Extended Support Release)             
-echo.
+echo  We will allow you to use this program. But make sure to have .NET Framework 3.5 installed in order to make it work.
 echo            Press any key to continue.
 echo ------------------------------------------------------------------------------------------------------------------------------    
 echo           -mddmmo`mNMNNNNMMMNNNmdyoo+mMMMNmNMMMNyyys                  
@@ -606,8 +608,6 @@ pause>NUL
 goto begin_main
 :begin
 cls
-if exist "%appdata%\temprc24.txt" del /q "%appdata%\temprc24.txt"
-if %language%==NotDefined goto set_language
 if not exist 00000006-80.delta set /a delta80=2
 if not exist 00000006-31.delta set /a delta31=2
 if not exist libWiiSharp.dll goto error_runtime_error
@@ -790,41 +790,6 @@ goto begin_main
 
 :set_language_en
 cls
-set text1=Some of the files needed to run this program were not found.
-set text2=Redownload the package and try again.
-set text3=Click any button to close the patcher.
-set text4=Are you gonna be using this patcher for Wii or WiiU?
-set text5=Unfortunately, you cannot use this patcher for Wii U :(
-set text6=If you were joking, click something to go back.
-set text7=If not, close this program.
-set text8=We need to download IOS 31 and 80.
-set text9=Click any button to proceed to download.
-set text10=We cannot download the files because your Internet connection is disabled!
-set text11=Enable your connection and click any button to try again.
-set text12=Please wait... files are being downloaded...
-set text13=Patching is done.
-set text14=Patched IOS files will be in folder called "WAD".
-set text15=There was an error while patching.
-set text16=Press any button to try again.
-set text17=Check your internet connection and try again.
-set text18=That problem was probably caused by your internet connection.
-set text19=Do you want to copy patched files to an SD Card?
-set text20=Yes
-set text21=No
-set text22=Please wait...
-set text23=An SD card was not found in the system.
-set text24=Please connect SD Card and press any button to try again.
-set text25=Current SD Card Letter:
-set text26=Do you want to change SD Card drive letter?
-set text27=Continue and copy files to SD Card
-set text28=Change drive letter
-set text29=Exit
-set text30=Type in new drive letter
-set text31=There was an error while copying files.
-set text32=Please wait... copying.
-set text33=Files has been copied to SD Card to folder called "WAD"
-
-set language=English
 goto begin
 
 :DoNotTouchThisSection
@@ -867,7 +832,7 @@ echo IOS Patcher for RiiConnect24 - @Larsenv, @KcrPL
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo  [*] Configuring
 echo.
-echo %text4%
+echo Are you gonna be using this patcher for Wii or WiiU?
 echo.
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo                          1. Wii                                                 2. WiiU
@@ -883,10 +848,10 @@ echo IOS Patcher for RiiConnect24 - @Larsenv, @KcrPL
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo  [*] Error.
 echo.
-echo %text5%
+echo Unfortunately, you cannot use this patcher for Wii U :(
 echo.
-echo %text6%
-echo %text7%
+echo If you were joking, press anything to go back
+echo If not, close this program.
 pause>NUL
 goto 3
 :4
@@ -899,8 +864,8 @@ echo IOS Patcher for RiiConnect24 - @Larsenv, @KcrPL
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo  [*] Info.
 echo.
-echo %text8%
-echo %text9%
+echo We need to download IOS 31 and 80.
+echo Click any button to proceed to download.
 echo.
 pause>NUL
 goto 5
@@ -1083,9 +1048,10 @@ echo   /     \  There was an error while patching.
 echo  /   !   \ Error Code: %temperrorlev%
 echo  --------- Failing module: %modul%             
 echo.
-if not %temperrorlev%==-532459699 echo.
-if %temperrorlev%==-532459699 echo  Please check your internet connection. 
-echo       Press any key to start patching again.
+echo.
+if %temperrorlev%==-532459699 echo Please check your internet connection.
+if %temperrorlev%==-2146232576 echo Please install .NET Framework 3.5, than try to patch again.  
+echo       Press any key to return to main menu.
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo           :mdmmmo-mNNNNNNNNNNdyo++sssyNMMMMMMMMMhs+-                  
 echo          .+mmdhhmmmNNNNNNmdysooooosssomMMMNNNMMMm                     
@@ -1109,11 +1075,11 @@ echo IOS Patcher for RiiConnect24 - @Larsenv, @KcrPL
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo  [*] SD Card
 echo.
-echo %text13%
-echo %text19%
+echo Patching is done.
+echo Do you want to copy patched files to an SD Card?
 echo.
 echo ---------------------------------------------------------------------------------------------------------------------------
-echo                   1. %text20%              3. Copy files to Desktop and exit                2. %text21%
+echo                   1. Yes              3. Copy files to Desktop and exit                2. No
 set /p s=
 if %s%==1 goto sd_card_check
 if %s%==2 goto end
@@ -1137,7 +1103,7 @@ echo ---------------------------------------------------------------------------
 echo  [*] SD Card
 echo.
 set sdcard=NotDefined
-echo %text22%
+echo Please wait...
 goto sd_a
 :: Shitty script but it works, duh. :P 
 :: Every Wii SD Card should have two folders in it: apps and private. That's how it's being checked :)
@@ -1292,8 +1258,8 @@ echo IOS Patcher for RiiConnect24 - @Larsenv, @KcrPL
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo  [*] SD Card
 echo.
-if %sdcard%==NotDefined echo %text23%
-if %sdcard%==NotDefined echo %text24%
+if %sdcard%==NotDefined echo An SD card was not found in the system.
+if %sdcard%==NotDefined echo Please connect SD Card and press any button to try again.
 if not %sdcard%==NotDefined goto sd_card_defined
 pause>NUL
 goto ask_for_copy_to_an_sd_card
@@ -1304,11 +1270,11 @@ echo IOS Patcher for RiiConnect24 - @Larsenv, @KcrPL
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo  [*] SD Card
 echo.
-echo %text25% %sdcard%
-echo %text26%
+echo Current SD Card Letter: %sdcard%
+echo Do you want to change SD Card drive letter?
 echo.
 echo ---------------------------------------------------------------------------------------------------------------------------
-echo 1. %text27%             2. %text28%                  3. %text29%
+echo 1. Continue and copy files to SD Card             2. Change drive letter                  3. Exit
 set /p s=
 if %s%==1 goto sd_card_copying
 if %s%==2 goto change_sd_card_letter
@@ -1321,9 +1287,9 @@ echo IOS Patcher for RiiConnect24 - @Larsenv, @KcrPL
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo  [*] SD Card
 echo.
-echo %text25% %sdcard%
+echo Current SD Card Letter: %sdcard%
 echo.
-echo %text30% (e.g H)
+echo Type in new drive letter (e.g H)
 set /p sdcard=
 goto sd_card_defined
 :sd_card_error
@@ -1334,7 +1300,7 @@ echo IOS Patcher for RiiConnect24 - @Larsenv, @KcrPL
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo  [*] Error.
 echo.
-echo %text31%
+echo There was an error while copying files.
 pause
 goto ask_for_copy_to_an_sd_card
 :sd_card_copying
@@ -1346,7 +1312,7 @@ echo IOS Patcher for RiiConnect24 - @Larsenv, @KcrPL
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo  [*] SD Card
 echo.
-echo %text32%
+echo Please wait... copying.
 copy "WAD" "%sdcard%:\" >NUL || set /a errorcopying=1
 if %errorcopying%==1 goto sd_card_error
 goto end
@@ -1366,10 +1332,10 @@ echo IOS Patcher for RiiConnect24 - @Larsenv, @KcrPL
 echo ---------------------------------------------------------------------------------------------------------------------------
 echo  [*] Thanks for using the Patcher! :)
 echo.
-if %patchingok%==1 echo %text13%
-if %patchingok%==1 echo %text14%
+if %patchingok%==1 echo Patching is done.
+if %patchingok%==1 echo Patched IOS files will be in folder called "WAD".
 echo.
-if %copyingsdcard%==1 echo %text33%
+if %copyingsdcard%==1 echo Files has been copied to SD Card to folder called "WAD"
 echo.
 echo Exiting the patcher in...
 if %exiting%==10 echo :----------: 10
