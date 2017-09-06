@@ -1,6 +1,6 @@
 @echo off
 :: The version variable - it's being used to check for update and just to show user what version is user using.
-set version=1.8.1
+set version=1.8.2
 if exist temp.bat del /q temp.bat
 if exist "C:\Users\%username%\Desktop\IOSPatcherDebug.txt" goto debug_load
 :1
