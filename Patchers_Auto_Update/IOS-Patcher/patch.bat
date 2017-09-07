@@ -1,13 +1,13 @@
 @echo off
 :: The version variable - it's being used to check for update and just to show user what version is user using.
-set version=1.8.1
+set version=1.8.2
 if exist temp.bat del /q temp.bat
 if exist "C:\Users\%username%\Desktop\IOSPatcherDebug.txt" goto debug_load
 :1
 set /a copyingsdcard=0
 set /a translationsserror=0
 :: Window size (Lines, columns)
-set mode=126,35
+set mode=126,36
 mode %mode%
 :: Coding page (in order to make IOS Patcher on Windows XP working, this command has been disabled)
 :: chcp 65001
@@ -17,8 +17,8 @@ set patchingok=1
 
 :: Window Title
 title IOS Patcher for RiiConnect24 v.%version%  Created by @Larsenv, @KcrPL
-set last_build=2017/08/18
-set at=21:55
+set last_build=2017/09/06
+set at=23:30
 :: ### Auto Update ###
 :: 1=Enable 0=Disable
 :: IOSPatcher_Update_Activate - If disabled, patcher will not even check for updates, default=1
@@ -37,8 +37,11 @@ if not %os%==Windows_NT goto not_windows_nt
 
 set /a versioncheck=0
 :: If program is opened as an admin the path will messed up
-if not exist patch.bat goto admin_error
-goto begin_main
+set /a patherror=0
+if "%cd%"=="%windir%\system32" set /a patherror=1
+if %patherror%==0 if not exist patch.bat set /a patherror=2
+	
+	goto begin_main
 :not_windows_nt
 cls
 echo RiiConnect24 IOS Patcher - (C) Larsenv, (C) KcrPL. v%version%. (Compiled on %last_build% at %at%)
@@ -59,10 +62,19 @@ goto admin_error
 mode %mode%
 cls
 echo RiiConnect24 IOS Patcher - (C) Larsenv, (C) KcrPL. v%version%. (Compiled on %last_build% at %at%)
-echo              `..````                                                  
-echo              yNNNNNNNNMNNmmmmdddhhhyyyysssooo+++/:--.`                
-echo              ddmNNd:dNMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMs                
-echo              hNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd               
+if %patherror%==0 echo              `..````                                                  
+if %patherror%==0 echo              yNNNNNNNNMNNmmmmdddhhhyyyysssooo+++/:--.`                
+if %patherror%==0 echo              ddmNNd:dNMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMs                
+if %patherror%==0 echo              hNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd               
+
+if %patherror%==1 echo :----------------------------------------------------------------:                
+if %patherror%==1 echo : Warning: Please run this application without admin privilages. :               
+if %patherror%==1 echo :----------------------------------------------------------------:
+
+if %patherror%==2 echo :------------------------------------------------------------------------------------------------------:                
+if %patherror%==2 echo : Warning: patch.bat not found. You may be running this application from unknown and untrusted source. :               
+if %patherror%==2 echo :------------------------------------------------------------------------------------------------------:
+
 echo             `mdmNNy dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+    RiiConnect your Wii.       
 echo             .mmmmNs mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:                
 echo             :mdmmN+`mNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                
@@ -93,6 +105,9 @@ echo                   `.              yddyo++:    `-/oymNNNNNdy+:`
 echo                                   -odhhhhyddmmmmmNNmhs/:`             
 echo                                     :syhdyyyyso+/-`                   
 pause>NUL
+
+if %patherror%==1 goto begin_main
+
 set /a errorwinxp=0
 timeout -0 /nobreak >NUL || set /a errorwinxp=1
 if %errorwinxp%==1 goto winxp_notice
