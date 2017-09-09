@@ -1,5 +1,5 @@
 <?php
-header("Location: https://wii.guide/docs/Wii/RiiConnect24");
+header("Location: https://wii.guide/riiconnect24");
 ?>
 <html>
   <head>
