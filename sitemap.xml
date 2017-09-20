@@ -1,459 +1,443 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>http://rc24.xyz/</loc>
-  <changefreq>weekly</changefreq>
-  <priority>1.00</priority>
+	<loc>http://rc24.xyz/</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/about.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+	<loc>http://rc24.xyz/about.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/stats/index.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+	<loc>http://rc24.xyz/stats/index.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/donation.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+	<loc>http://rc24.xyz/donation.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+	<loc>http://rc24.xyz/goodies/</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/services/mail.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+	<loc>http://rc24.xyz/services/mail.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/services/news.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+	<loc>http://rc24.xyz/services/news.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/services/forecast.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+	<loc>http://rc24.xyz/services/forecast.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/services/food.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/services/food.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/services/digicam.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/services/digicam.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/services/television.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/services/television.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/services/room.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/services/room.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/strips/</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/goodies/strips/</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/goodies/vote/</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/mii/</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/goodies/mii/</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/photochannel/</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/goodies/photochannel/</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/themes/</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/goodies/themes/</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/wallpapers/</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/goodies/wallpapers/</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/stats/mail.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/stats/mail.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/stats/forecast.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+	<loc>http://rc24.xyz/stats/forecast.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/010_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/010_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/010_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/010_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/010_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/010_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/065_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/065_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/066_dutch_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/066_dutch_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/066_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/066_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/066_german_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/066_german_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/066_italian_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/066_italian_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/067_dutch_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/067_dutch_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/067_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/067_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/067_german_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/067_german_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/067_italian_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/067_italian_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/016_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/016_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/016_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/016_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/016_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/016_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/018_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/018_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/018_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/018_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/018_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/018_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/020_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/020_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/020_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/020_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/020_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/020_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/021_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/021_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/021_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/021_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/021_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/021_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/022_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/022_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/022_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/022_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/022_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/022_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/074_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/074_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/025_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/025_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/025_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/025_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/025_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/025_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/076_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/076_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/077_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/077_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/030_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/030_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/030_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/030_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/030_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/030_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/083_italian_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/083_italian_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/088_dutch_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/088_dutch_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/088_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/088_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/088_german_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/088_german_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/088_italian_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/088_italian_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/036_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/036_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/036_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/036_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/036_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/036_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/094_dutch_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/094_dutch_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/095_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/095_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/096_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/096_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/040_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/040_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/040_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/040_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/040_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/040_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/042_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/042_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/042_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/042_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/042_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/042_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/098_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/098_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/098_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/098_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/105_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/105_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/107_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/107_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/108_dutch_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/108_dutch_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/108_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/108_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/108_german_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/108_german_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/108_italian_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/108_italian_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/110_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/110_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/049_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/049_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/049_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/049_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/049_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/049_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/052_english_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/052_english_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/052_french_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/052_french_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>http://rc24.xyz/goodies/vote/052_spanish_results.php</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://rc24.xyz/goodies/mii/?avatar=000000640065006600610075006c00740042006f0079404080807f5fc242899800044240318028a2088c08401448b88d008a008a25040000000000000000000000000000000000000000</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://rc24.xyz/goodies/mii/?avatar=400000640065006600610075006c007400470072006c404080807f73c242899800041840018028a2106c08401448b88d008a008a25040000000000000000000000000000000000000000</loc>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
+	<loc>http://rc24.xyz/goodies/vote/052_spanish_results.php</loc>
+	<priority>0.5</priority>
+	<changefreq>daily</changefreq>
 </url>
 </urlset>
