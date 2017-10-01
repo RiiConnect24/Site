@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {% include head.html %}
+  <body>
+    <!-- Index has its own parallax navigation, so we don't import that here. -->
+    {{ content }}
+    {% include footer.html %}
+  </body>
+</html>

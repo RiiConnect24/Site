@@ -1,0 +1,34 @@
+---
+title: Donations
+---
+	<div class="section no-pad-bot">
+		<div class="container">
+			<br><br>
+			<h1 class="header center blue-text"><i class="fa fa-money" aria-hidden="true"></i> Donations</h1>
+			<div class="row center">
+				<h5 class="header col s12 light">RiiConnect24 is accepting donations and will give some perks out for doing so. Check our Patreon for the perks!</h5>
+				<br>
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="QPQEBXJTU7936">
+					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+				</form>
+				<!-- Patreon's button for the donation is a piece of shit. !-->
+				<a href="https://www.patreon.com/bePatron?u=7497603"><img src="/images/become_a_patron_button.png" /></a>
+			</div>
+			<br><br>
+		</div>
+	</div>
+
+	<div class="section">
+		<div class="container">
+			<h3 class="center">Donators</h3>
+
+			<ul class="collection">
+			  {% for donator in site.data.donators %}
+				<li class="collection-item">{{ donator }}</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
