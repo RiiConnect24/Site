@@ -1,0 +1,21 @@
+{% extends "_layout.html" %}
+{% set title = 'Error 666: Too Spoopy!' %}
+
+{% block mainContent %}
+	<div class="section no-pad-bot">
+		<div class="container center">
+			<h1><i class="fa fa-question-circle" aria-hidden="true"></i> Error 666: Too Spoopy!</h1>
+			<audio autoplay>
+				<source src="/sounds/spoopy.mp3" type="audio/wav">
+				Your browser does not support the audio element.
+			</audio>
+			<img class="spin" src="http://cliparts.co/cliparts/pio/Agj/pioAgjBaT.png" width="20" height="20" alt="Pumpkin">
+		</div>
+	</div>
+
+  <div class="section">
+    <div class="container">
+			<h3 class="center">Sorry about that... This webpage is too spoopy for you!</h3>
+		</div>
+	</div>
+{% endblock %}
