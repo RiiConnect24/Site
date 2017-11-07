@@ -104,4 +104,9 @@ transform: rotate(360deg);
   to { background-color: #007d9a; -webkit-box-shadow: 0 0 9px #333; }
 }
 
-.blue.button { -webkit-animation-name: bluePulse; -webkit-animation-duration: 4s; }
+div.glow {
+	-webkit-animation-duration: 2s;
+	-webkit-animation-iteration-count: infinite;
+}
+
+.blue.glow { -webkit-animation-name: bluePulse; -webkit-animation-duration: 4s; }
