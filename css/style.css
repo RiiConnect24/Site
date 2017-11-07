@@ -97,16 +97,3 @@ animation: spin 1s linear infinite;
 transform: rotate(360deg);
 }
 }
-
-@-webkit-keyframes bluePulse {
-  from { background-color: #007d9a; -webkit-box-shadow: 0 0 9px #333; }
-  50% { background-color: #2daebf; -webkit-box-shadow: 0 0 18px #2daebf; }
-  to { background-color: #007d9a; -webkit-box-shadow: 0 0 9px #333; }
-}
-
-div.glow {
-	-webkit-animation-duration: 2s;
-	-webkit-animation-iteration-count: infinite;
-}
-
-.blue.glow { -webkit-animation-name: bluePulse; -webkit-animation-duration: 4s; }
