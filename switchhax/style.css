@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background:  #e90000;
+  	font-family: 'Primetime';
+	font-weight: 300;
+	font-size: 25pt;
+text-align: center;
+}
+@font-face {
+	font-family: 'Primetime';
+	src: url(font.ttf);
+	font-weight: bold;
+	font-weight: 600;
+}
+
+.button {
+    background: url(button.png) center center no-repeat;
+	background-size: cover;
+	width: 180px;
+	height: 70px;
+border: 0px;
+  	font-family: 'Primetime';
+	font-weight: 300;
+	font-size: 25pt;
+color: #fff;
+}
