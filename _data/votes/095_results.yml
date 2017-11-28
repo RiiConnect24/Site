@@ -474,7 +474,7 @@
   date: April 09, 2007
   poll:
     question:
-      english: "You have to give a speech \nto a room full of people..."
+      english: "You have to give a speech to a room full of people..."
     response_1:
       english: I love it!
     response_2:
@@ -1846,7 +1846,7 @@
   date: October 03, 2007
   poll:
     question:
-      english: "What do you do with the rest of the \nmilk in the cereal bowl?"
+      english: "What do you do with the rest of the milk in the cereal bowl?"
     response_1:
       english: Drink it
     response_2:
@@ -1902,7 +1902,7 @@
   date: October 10, 2007
   poll:
     question:
-      english: "When you shop for something, \nwhat do you think about more?"
+      english: "When you shop for something, what do you think about more?"
     response_1:
       english: The brand
     response_2:
@@ -2688,7 +2688,7 @@
   date: January 18, 2008
   poll:
     question:
-      english: "How much time do you spend trying to \nget to sleep?"
+      english: "How much time do you spend trying to get to sleep?"
     response_1:
       english: It takes some time
     response_2:
@@ -2724,7 +2724,7 @@
   date: January 23, 2008
   poll:
     question:
-      english: "The phone rings in the middle of the \nnight. Do you..."
+      english: "The phone rings in the middle of the night. Do you..."
     response_1:
       english: Answer it
     response_2:
@@ -14940,7 +14940,7 @@
   date: May 07, 2012
   poll:
     question:
-      english: "Have you ever had hiccups for \nmore than 30 minutes?"
+      english: "Have you ever had hiccups for more than 30 minutes?"
     response_1:
       english: 'Yes'
     response_2:

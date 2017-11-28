@@ -436,7 +436,7 @@
   date: April 05, 2007
   poll:
     question:
-      german: "Du siehst in einem Schaufenster etwas, \ndas du unbedingt haben musst.\
+      german: "Du siehst in einem Schaufenster etwas, das du unbedingt haben musst.\
         \ Was tust du?"
     response_1:
       german: Rein und kaufen!
@@ -473,7 +473,7 @@
   date: April 10, 2007
   poll:
     question:
-      german: "Du musst eine Rede vor \nvielen Leuten halten..."
+      german: "Du musst eine Rede vor vielen Leuten halten..."
     response_1:
       german: Aber klar!
     response_2:
@@ -14824,7 +14824,7 @@
   date: April 26, 2012
   poll:
     question:
-      german: "Glaubst du, dass das Ungeheuer von \nLoch Ness wirklich existiert?"
+      german: "Glaubst du, dass das Ungeheuer von Loch Ness wirklich existiert?"
     response_1:
       german: Ja
     response_2:

@@ -13296,7 +13296,7 @@
   date: October 15, 2011
   poll:
     question:
-      italian: "Ti capita di non riuscire a seguire \nuna conversazione?"
+      italian: "Ti capita di non riuscire a seguire una conversazione?"
     response_1:
       italian: Si
     response_2:
@@ -13530,7 +13530,7 @@
   date: November 15, 2011
   poll:
     question:
-      italian: "Hai battuto le palpebre mentre \nleggevi questa domanda?"
+      italian: "Hai battuto le palpebre mentre leggevi questa domanda?"
     response_1:
       italian: Si
     response_2:
@@ -13566,7 +13566,7 @@
   date: November 19, 2011
   poll:
     question:
-      italian: "Conosci almeno due persone il cui nome \ncontiene la \"z\"?"
+      italian: "Conosci almeno due persone il cui nome contiene la \"z\"?"
     response_1:
       italian: Si
     response_2:
@@ -13674,7 +13674,7 @@
   date: December 03, 2011
   poll:
     question:
-      italian: "Ti \xE8 mai stato utile contare \nle pecore per addormentarti?"
+      italian: "Ti \xE8 mai stato utile contare le pecore per addormentarti?"
     response_1:
       italian: Si!
     response_2:
@@ -13800,7 +13800,7 @@
   date: December 20, 2011
   poll:
     question:
-      italian: "Sei in grado di nominare i pianeti in ordine \ndi distanza dal sole?"
+      italian: "Sei in grado di nominare i pianeti in ordine di distanza dal sole?"
     response_1:
       italian: Si
     response_2:
@@ -13980,7 +13980,7 @@
   date: January 12, 2012
   poll:
     question:
-      italian: "Sei in una stanza con una persona che russa \nin modo terribile...\
+      italian: "Sei in una stanza con una persona che russa in modo terribile...\
         \ Cosa fai?"
     response_1:
       italian: La sveglio
@@ -14755,7 +14755,7 @@
   date: April 21, 2012
   poll:
     question:
-      italian: "Ti \xE8 mai capitato di perderti \nin una citt\xE0 sconosciuta?"
+      italian: "Ti \xE8 mai capitato di perderti in una citt\xE0 sconosciuta?"
     response_1:
       italian: Si
     response_2:
@@ -14899,7 +14899,7 @@
   date: May 10, 2012
   poll:
     question:
-      italian: "Sei in grado di fare una divisione a tre cifre \nsenza calcolatrice?"
+      italian: "Sei in grado di fare una divisione a tre cifre senza calcolatrice?"
     response_1:
       italian: Si
     response_2:
@@ -15133,7 +15133,7 @@
   date: June 09, 2012
   poll:
     question:
-      italian: "Hai mai ricevuto un regalo \nche non ti piaceva per nulla?"
+      italian: "Hai mai ricevuto un regalo che non ti piaceva per nulla?"
     response_1:
       italian: Purtroppo si
     response_2:
@@ -15385,7 +15385,7 @@
   date: July 12, 2012
   poll:
     question:
-      italian: "Preferiresti essere un gigante di ferro \no un drago di fuoco?"
+      italian: "Preferiresti essere un gigante di ferro o un drago di fuoco?"
     response_1:
       italian: Un gigante di ferro
     response_2:

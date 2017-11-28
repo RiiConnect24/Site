@@ -7429,7 +7429,7 @@
   date: September 26, 2009
   poll:
     question:
-      spanish: "\xBFEn qu\xE9 orden se deber\xEDa \nver la franquicia de Star Wars?"
+      spanish: "\xBFEn qu\xE9 orden se deber\xEDa ver la franquicia de Star Wars?"
     response_1:
       spanish: I, II, III, IV, V, VI
     response_2:
@@ -7501,7 +7501,7 @@
   date: October 06, 2009
   poll:
     question:
-      spanish: "\xBFHas intentado usar la fuerza \ncomo Luke Skywalker?"
+      spanish: "\xBFHas intentado usar la fuerza como Luke Skywalker?"
     response_1:
       spanish: "\xA1Nunca lo admitir\xEDa!"
     response_2:
@@ -7537,7 +7537,7 @@
   date: October 10, 2009
   poll:
     question:
-      spanish: "\xBFD\xF3nde viste por primera vez \nLa Guerra de las Galaxias?"
+      spanish: "\xBFD\xF3nde viste por primera vez La Guerra de las Galaxias?"
     response_1:
       spanish: En casa
     response_2:
@@ -7609,7 +7609,7 @@
   date: October 20, 2009
   poll:
     question:
-      spanish: "\xBFEs alguna parte de Darth Vader \nla de un \"tipo bueno\"?"
+      spanish: "\xBFEs alguna parte de Darth Vader la de un \"tipo bueno\"?"
     response_1:
       spanish: "Alguna parte, s\xED"
     response_2:
@@ -7645,7 +7645,7 @@
   date: October 24, 2009
   poll:
     question:
-      spanish: "\xBFQu\xE9 droide te gustar\xEDa que te \nayudara con tus labores?"
+      spanish: "\xBFQu\xE9 droide te gustar\xEDa que te ayudara con tus labores?"
     response_1:
       spanish: R2-D2
     response_2:
@@ -15354,7 +15354,7 @@
   date: July 19, 2012
   poll:
     question:
-      spanish: "\xBFHaces todos los d\xEDas los deberes \nnada m\xE1s llegar del colegio?"
+      spanish: "\xBFHaces todos los d\xEDas los deberes nada m\xE1s llegar del colegio?"
     response_1:
       spanish: "Normalmente s\xED"
     response_2:
@@ -15644,7 +15644,7 @@
   date: August 25, 2012
   poll:
     question:
-      spanish: "Si te cuentan un chiste que no te hace gracia, \n\xBFte r\xEDes por\
+      spanish: "Si te cuentan un chiste que no te hace gracia, \xBFte r\xEDes por\
         \ compromiso?"
     response_1:
       spanish: "S\xED"

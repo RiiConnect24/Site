@@ -661,7 +661,7 @@
       french: 'Quelque chose attire votre attention
 
         dans la vitrine d''une boutique...'
-      german: "Du siehst in einem Schaufenster etwas, \ndas du unbedingt haben musst.\
+      german: "Du siehst in einem Schaufenster etwas, das du unbedingt haben musst.\
         \ Was tust du?"
       italian: In una vetrina vedi qualcosa che ti piace. Cosa fai?
     response_1:
@@ -720,7 +720,7 @@
       french: 'Vous devez prononcer un discours
 
         devant une salle comble...'
-      german: "Du musst eine Rede vor \nvielen Leuten halten..."
+      german: "Du musst eine Rede vor vielen Leuten halten..."
       italian: Devi fare un discorso davanti a tanta gente...
     response_1:
       dutch: Te gek!
@@ -18584,7 +18584,7 @@
   date: May 28, 2011
   poll:
     question:
-      dutch: "Als je naar de toekomst kon reizen, \nhoe ver zou je dan gaan?"
+      dutch: "Als je naar de toekomst kon reizen, hoe ver zou je dan gaan?"
       french: "Si vous pouviez voyager dans l'avenir,\no\xF9 aimeriez-vous vous retrouver?"
       german: "Wie weit w\xFCrdest du in die Zukunft reisen,\nwenn du k\xF6nntest?"
       italian: 'Se potessi viaggiare nel futuro,
@@ -20277,7 +20277,7 @@
         een gesprek te volgen?'
       french: "Avez-vous tendance \xE0 perdre\nle fil des conversations?"
       german: "Kommst du im Gespr\xE4ch manchmal nicht\nmehr so recht hinterher?"
-      italian: "Ti capita di non riuscire a seguire \nuna conversazione?"
+      italian: "Ti capita di non riuscire a seguire una conversazione?"
     response_1:
       dutch: Ja
       french: Oui
@@ -20629,7 +20629,7 @@
       dutch: Heb je geknipperd terwijl je deze vraag las?
       french: "Avez-vous clign\xE9 des yeux en lisant cette question?"
       german: "Hast du geblinzelt, w\xE4hrend du diese\nFrage gelesen hast?"
-      italian: "Hai battuto le palpebre mentre \nleggevi questa domanda?"
+      italian: "Hai battuto le palpebre mentre leggevi questa domanda?"
     response_1:
       dutch: Ja!
       french: Oui
@@ -20688,7 +20688,7 @@
         dont le nom contient la lettre Z?'
       german: "Kennst du wenigstens zwei Menschen,\ndie ein \u201EZ\u201C in ihrem\
         \ Namen tragen?"
-      italian: "Conosci almeno due persone il cui nome \ncontiene la \"z\"?"
+      italian: "Conosci almeno due persone il cui nome contiene la \"z\"?"
     response_1:
       dutch: Ja
       french: Oui
@@ -20855,7 +20855,7 @@
       french: "Avez-vous d\xE9j\xE0 r\xE9ussi \xE0 vous endormir\nen comptant les\
         \ moutons?"
       german: "Bist du je eingeschlafen, w\xE4hrend du\nSch\xE4fchen gez\xE4hlt hast?"
-      italian: "Ti \xE8 mai stato utile contare \nle pecore per addormentarti?"
+      italian: "Ti \xE8 mai stato utile contare le pecore per addormentarti?"
     response_1:
       dutch: Ja!
       french: Oui!
@@ -21054,7 +21054,7 @@
       german: 'Kannst du die Planeten unseres Sonnensystems
 
         in Reihenfolge von der Sonne aus nennen?'
-      italian: "Sei in grado di nominare i pianeti in ordine \ndi distanza dal sole?"
+      italian: "Sei in grado di nominare i pianeti in ordine di distanza dal sole?"
     response_1:
       dutch: Ja
       french: Oui
@@ -21354,7 +21354,7 @@
         qui ronfle terriblement fort. Vous...'
       german: "Du schl\xE4fst mit jemandem im Raum, der\nunglaublich laut schnarcht:\
         \ Was tust du?"
-      italian: "Sei in una stanza con una persona che russa \nin modo terribile...\
+      italian: "Sei in una stanza con una persona che russa in modo terribile...\
         \ Cosa fai?"
     response_1:
       dutch: Hem/haar wakker maken
@@ -22549,7 +22549,7 @@
       german: 'Hast du dich je in einer fremden Stadt
 
         verlaufen?'
-      italian: "Ti \xE8 mai capitato di perderti \nin una citt\xE0 sconosciuta?"
+      italian: "Ti \xE8 mai capitato di perderti in una citt\xE0 sconosciuta?"
     response_1:
       dutch: Ja
       french: Oui
@@ -22606,7 +22606,7 @@
     question:
       dutch: Bestaat het Monster van Loch Ness?
       french: Pensez-vous que le monstre du Loch Ness existe?
-      german: "Glaubst du, dass das Ungeheuer von \nLoch Ness wirklich existiert?"
+      german: "Glaubst du, dass das Ungeheuer von Loch Ness wirklich existiert?"
       italian: Esiste il Mostro di Loch Ness?
     response_1:
       dutch: Ja
@@ -22779,7 +22779,7 @@
       german: 'Kannst du dreistellige Zahlen ohne
 
         Taschenrechner dividieren?'
-      italian: "Sei in grado di fare una divisione a tre cifre \nsenza calcolatrice?"
+      italian: "Sei in grado di fare una divisione a tre cifre senza calcolatrice?"
     response_1:
       dutch: Ja
       french: Oui
@@ -23152,7 +23152,7 @@
       german: 'Hast du je etwas geschenkt bekommen,
 
         das dir gar nicht gefallen hat?'
-      italian: "Hai mai ricevuto un regalo \nche non ti piaceva per nulla?"
+      italian: "Hai mai ricevuto un regalo che non ti piaceva per nulla?"
     response_1:
       dutch: Helaas wel
       french: Oui, malheureusement...
@@ -23549,7 +23549,7 @@
       french: "Pr\xE9f\xE9reriez-vous \xEAtre un g\xE9ant\nde fer ou un dragon de\
         \ feu?"
       german: "W\xE4rst du lieber ein Eisenriese\noder ein Feuerdrachen?"
-      italian: "Preferiresti essere un gigante di ferro \no un drago di fuoco?"
+      italian: "Preferiresti essere un gigante di ferro o un drago di fuoco?"
     response_1:
       dutch: IJzeren reus
       french: "G\xE9ant de fer"
@@ -23999,7 +23999,7 @@
       dutch: 'Als je een reis naar de ruimte
 
         zou mogen maken, zou je dan gaan?'
-      french: "Si on vous donnait un ticket pour \nun aller vers l'espace, iriez-vous\
+      french: "Si on vous donnait un ticket pour un aller vers l'espace, iriez-vous\
         \ ?"
       german: "W\xFCrdest du ein Ticket ins All nutzen,\nauch ohne Ticket f\xFCr den\
         \ R\xFCckflug?"
