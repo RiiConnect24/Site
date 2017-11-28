@@ -3,8 +3,8 @@
   poll:
     question:
       english: 'Where did you first see Star Wars: Episode IV'
-      french_canada: "O\xF9 avez-vous vu Star Wars: Episode IV pour la premi\xE8\
-        re fois?"
+      french_canada: "O\xF9 avez-vous vu Star Wars: Episode IV pour la premi\xE8re\
+        \ fois?"
       spanish: "\xBFD\xF3nde viste por primera vez Episodio IV?"
     response_1:
       english: At home
@@ -16,7 +16,7 @@
       spanish: En el cine
   poll_id: 8422
   results:
-    accurate_predict: 47.2
+    accurate_predict: 52.8
     female_response_1: 66.6
     female_response_2: 33.4
     male_response_1: 45.4
@@ -27,9 +27,9 @@
   date: August 29, 2009
   poll:
     question:
-      english: "Do you read the Sunday-morning comics in the newspaper?"
-      french_canada: "Lisez-vous les bandes dessin\xE9es dans les journaux de la\
-        \ fin de semaine?"
+      english: Do you read the Sunday-morning comics in the newspaper?
+      french_canada: "Lisez-vous les bandes dessin\xE9es dans les journaux de la fin\
+        \ de semaine?"
       spanish: "\xBFLees las tiras c\xF3micas de los peri\xF3dicos de los domingos?"
     response_1:
       english: 'Yes'
@@ -65,7 +65,7 @@
       spanish: Realista
   poll_id: 7816
   results:
-    accurate_predict: 40.0
+    accurate_predict: 60.0
     female_response_1: 61.2
     female_response_2: 38.8
     male_response_1: 25.7
@@ -76,7 +76,7 @@
   date: September 03, 2009
   poll:
     question:
-      english: "Have you ever given someone a poem you've written?"
+      english: Have you ever given someone a poem you've written?
       french_canada: "Avez-vous d\xE9j\xE0 donn\xE9 un po\xE8me que vous aviez \xE9\
         crit \xE0 quelqu'un?"
       spanish: "\xBFHas dado a alguien un poema que hayas escrito?"
@@ -90,7 +90,7 @@
       spanish: 'No'
   poll_id: 7817
   results:
-    accurate_predict: 40.2
+    accurate_predict: 59.8
     female_response_1: 17.8
     female_response_2: 82.2
     male_response_1: 36.4
@@ -101,8 +101,8 @@
   date: September 05, 2009
   poll:
     question:
-      english: "Was/Is your favorite poster hanging in your room likely to be a\
-        \ picture of . . ."
+      english: Was/Is your favorite poster hanging in your room likely to be a picture
+        of . . .
       french_canada: "Votre affiche pr\xE9f\xE9r\xE9e qui d\xE9core ou d\xE9corait\
         \ votre chambre repr\xE9sente..."
       spanish: "Si colgaras una imagen en la pared de tu rec\xE1mara, ser\xEDa de..."
@@ -116,7 +116,7 @@
       spanish: Un equipo/grupo
   poll_id: 7818
   results:
-    accurate_predict: 36.0
+    accurate_predict: 64.0
     female_response_1: 64.7
     female_response_2: 35.3
     male_response_1: 41.5
@@ -151,7 +151,7 @@
   date: September 10, 2009
   poll:
     question:
-      english: "Which droid would you like to help with your chores?"
+      english: Which droid would you like to help with your chores?
       french_canada: "De quel dro\xEFde voudriez-vous l'aide\ndans vos t\xE2ches journali\xE8\
         res?"
       spanish: "\xBFQu\xE9 robot te gustar\xEDa que\nte ayudara con tus labores?"
@@ -200,10 +200,10 @@
   date: September 15, 2009
   poll:
     question:
-      english: "How many buttons on your TV remote control do you use on a regular\
-        \ basis?"
-      french_canada: "Combien de boutons sur la t\xE9l\xE9commande du t\xE9l\xE9\
-        viseur utilisez-vous r\xE9guli\xE8rement?"
+      english: How many buttons on your TV remote control do you use on a regular
+        basis?
+      french_canada: "Combien de boutons sur la t\xE9l\xE9commande du t\xE9l\xE9viseur\
+        \ utilisez-vous r\xE9guli\xE8rement?"
       spanish: "\xBFCu\xE1ntos botones de tu control remoto\nusas con frecuencia?"
     response_1:
       english: Very few of them
@@ -215,7 +215,7 @@
       spanish: Muchos
   poll_id: 7822
   results:
-    accurate_predict: 38.2
+    accurate_predict: 61.8
     female_response_1: 58.6
     female_response_2: 41.4
     male_response_1: 40.8
@@ -226,11 +226,11 @@
   date: September 17, 2009
   poll:
     question:
-      english: "Which is the most prized statistical category in baseball?"
-      french_canada: "Quelle cat\xE9gorie de statistiques est la plus pris\xE9e\
-        \ au baseball?"
-      spanish: "Estad\xEDsticamente, \xBFqu\xE9 consideras m\xE1s importante en\
-        \ el b\xE9isbol?"
+      english: Which is the most prized statistical category in baseball?
+      french_canada: "Quelle cat\xE9gorie de statistiques est la plus pris\xE9e au\
+        \ baseball?"
+      spanish: "Estad\xEDsticamente, \xBFqu\xE9 consideras m\xE1s importante en el\
+        \ b\xE9isbol?"
     response_1:
       english: Hitting
       french_canada: Frappeur
@@ -277,7 +277,7 @@
   date: September 22, 2009
   poll:
     question:
-      english: "Do you feel you're smarter now or when you were younger?"
+      english: Do you feel you're smarter now or when you were younger?
       french_canada: "Avez-vous l'impression d'\xEAtre plus intelligent(e)\nmaintenant\
         \ ou quand vous \xE9tiez plus jeune?"
       spanish: "\xBFTe consideras m\xE1s listo ahora, o cuando eras m\xE1s joven?"
@@ -302,8 +302,8 @@
   date: September 24, 2009
   poll:
     question:
-      english: "When making a sandwich, which one of these condiments do you use\
-        \ more frequently?"
+      english: When making a sandwich, which one of these condiments do you use more
+        frequently?
       french_canada: "Lorsque vous pr\xE9parez un sandwich, quel condiment utilisez-vous\
         \ le plus souvent?"
       spanish: "\xBFQu\xE9 condimento prefieres?"
@@ -317,7 +317,7 @@
       spanish: Mayonesa
   poll_id: 7826
   results:
-    accurate_predict: 17.2
+    accurate_predict: 82.8
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 21.7
@@ -400,9 +400,8 @@
   date: October 03, 2009
   poll:
     question:
-      english: "Which do you prefer to use when listening to music?"
-      french_canada: "De quelle mani\xE8re pr\xE9f\xE9rez-vous \xE9couter de la\
-        \ musique?"
+      english: Which do you prefer to use when listening to music?
+      french_canada: "De quelle mani\xE8re pr\xE9f\xE9rez-vous \xE9couter de la musique?"
       spanish: "\xBFCon qu\xE9 prefieres escuchar m\xFAsica?"
     response_1:
       english: Headphones
@@ -414,7 +413,7 @@
       spanish: Con altavoces
   poll_id: 7830
   results:
-    accurate_predict: 46.2
+    accurate_predict: 53.8
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 47.5
@@ -438,7 +437,7 @@
       spanish: Papel
   poll_id: 7831
   results:
-    accurate_predict: 22.0
+    accurate_predict: 78.0
     female_response_1: 22.0
     female_response_2: 78.0
     male_response_1: 17.7
@@ -449,10 +448,9 @@
   date: October 08, 2009
   poll:
     question:
-      english: "What part of a team-sports season best defines their success that\
-        \ year?"
-      french_canada: "Quelle partie de la saison d'une \xE9quipe sportive est le\
-        \ meilleur gage de leur succ\xE8s?"
+      english: What part of a team-sports season best defines their success that year?
+      french_canada: "Quelle partie de la saison d'une \xE9quipe sportive est le meilleur\
+        \ gage de leur succ\xE8s?"
       spanish: "\xBFQu\xE9 parte de la temporada define el\n\xE9xito de un equipo\
         \ deportivo?"
     response_1:
@@ -465,7 +463,7 @@
       spanish: Las eliminatorias
   poll_id: 7832
   results:
-    accurate_predict: 33.6
+    accurate_predict: 66.4
     female_response_1: 39.7
     female_response_2: 60.3
     male_response_1: 30.4
@@ -476,10 +474,9 @@
   date: October 10, 2009
   poll:
     question:
-      english: "If you drank a liter of soda and weighed yourself, would you . .\
-        \ ."
-      french_canada: "Si vous vous pesiez apr\xE8s avoir bu un litre de boisson\
-        \ gazeuse, vous p\xE8seriez..."
+      english: If you drank a liter of soda and weighed yourself, would you . . .
+      french_canada: "Si vous vous pesiez apr\xE8s avoir bu un litre de boisson gazeuse,\
+        \ vous p\xE8seriez..."
       spanish: "\xBFCu\xE1nto pesar\xEDas si bebes un litro de una\nbebida gaseosa?"
     response_1:
       english: Weigh the same
@@ -491,7 +488,7 @@
       spanish: "Pesar\xEDa m\xE1s"
   poll_id: 7833
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 28.1
     female_response_2: 71.9
     male_response_1: 33.1
@@ -502,8 +499,8 @@
   date: October 13, 2009
   poll:
     question:
-      english: "During a typical year, how often will your photograph be taken by\
-        \ another person?"
+      english: During a typical year, how often will your photograph be taken by another
+        person?
       french_canada: "Durant une ann\xE9e normale, combien de fois vous faites-vous\
         \ photographier?"
       spanish: "Durante un a\xF1o promedio, \xBFcu\xE1ntas veces te tomar\xE1n una\
@@ -518,7 +515,7 @@
       spanish: "M\xE1s de doce veces"
   poll_id: 7834
   results:
-    accurate_predict: 23.2
+    accurate_predict: 76.8
     female_response_1: 28.7
     female_response_2: 71.3
     male_response_1: 28.3
@@ -529,8 +526,8 @@
   date: October 15, 2009
   poll:
     question:
-      english: "Which toy do you think a cat will enjoy playing with more?"
-      french_canada: "Selon vous, quel est le jouet le plus amusant pour un chat?"
+      english: Which toy do you think a cat will enjoy playing with more?
+      french_canada: Selon vous, quel est le jouet le plus amusant pour un chat?
       spanish: "En tu opini\xF3n, \xBFcon qu\xE9 juguete disfrutar\xEDa jugar m\xE1\
         s un gato?"
     response_1:
@@ -568,7 +565,7 @@
       spanish: Una de diez letras
   poll_id: 7836
   results:
-    accurate_predict: 49.4
+    accurate_predict: 50.6
     female_response_1: 52.4
     female_response_2: 47.6
     male_response_1: 48.2
@@ -580,7 +577,7 @@
   poll:
     question:
       english: Which do you think would keep you cooler?
-      french_canada: "Selon vous, qu'est-ce qui vous garde le mieux au frais?"
+      french_canada: Selon vous, qu'est-ce qui vous garde le mieux au frais?
       spanish: "\xBFCon qu\xE9 te refrescas m\xE1s?"
     response_1:
       english: Shade
@@ -592,7 +589,7 @@
       spanish: Brisa
   poll_id: 7837
   results:
-    accurate_predict: 36.3
+    accurate_predict: 63.7
     female_response_1: 34.2
     female_response_2: 65.8
     male_response_1: 38.8
@@ -640,7 +637,7 @@
       spanish: Raramente
   poll_id: 7839
   results:
-    accurate_predict: 53.2
+    accurate_predict: 46.8
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 26.6
@@ -651,10 +648,9 @@
   date: October 27, 2009
   poll:
     question:
-      english: "Who does most of your household chores (cleaning, cooking, yard\
-        \ work)?"
-      french_canada: "Qui dans votre maison s'occupe des t\xE2ches m\xE9nag\xE8\
-        res (m\xE9nage, cuisine, entretien ext\xE9rieur)?"
+      english: Who does most of your household chores (cleaning, cooking, yard work)?
+      french_canada: "Qui dans votre maison s'occupe des t\xE2ches m\xE9nag\xE8res\
+        \ (m\xE9nage, cuisine, entretien ext\xE9rieur)?"
       spanish: "\xBFQui\xE9n realiza la mayor parte de las\ntareas dom\xE9sticas en\
         \ tu hogar?"
     response_1:
@@ -667,7 +663,7 @@
       spanish: Otra persona
   poll_id: 7840
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 28.9
     female_response_2: 71.1
     male_response_1: 14.5
@@ -691,7 +687,7 @@
       spanish: Cinta adhesiva
   poll_id: 8771
   results:
-    accurate_predict: 37.0
+    accurate_predict: 63.0
     female_response_1: 55.8
     female_response_2: 44.2
     male_response_1: 39.8
@@ -702,7 +698,7 @@
   date: October 31, 2009
   poll:
     question:
-      english: "Do you check your horoscope on a regular basis?"
+      english: Do you check your horoscope on a regular basis?
       french_canada: "Lisez-vous votre horoscope r\xE9guli\xE8rement?"
       spanish: "\xBFRevisas tu hor\xF3scopo frecuentemente?"
     response_1:
@@ -715,7 +711,7 @@
       spanish: 'No'
   poll_id: 8772
   results:
-    accurate_predict: 35.0
+    accurate_predict: 65.0
     female_response_1: 26.1
     female_response_2: 73.9
     male_response_1: 13.4
@@ -739,7 +735,7 @@
       spanish: Traer comida de casa
   poll_id: 8773
   results:
-    accurate_predict: 49.5
+    accurate_predict: 50.5
     female_response_1: 36.7
     female_response_2: 63.3
     male_response_1: 47.7
@@ -750,8 +746,8 @@
   date: November 05, 2009
   poll:
     question:
-      english: "You've taken notes at a meeting/class. How likely are you to reread\
-        \ them?"
+      english: You've taken notes at a meeting/class. How likely are you to reread
+        them?
       french_canada: 'Relisez-vous vos notes lorsque vous en
 
         prenez en classe?'
@@ -767,7 +763,7 @@
       spanish: Solo como referencia
   poll_id: 8774
   results:
-    accurate_predict: 53.7
+    accurate_predict: 46.3
     female_response_1: 58.5
     female_response_2: 41.5
     male_response_1: 45.1
@@ -778,7 +774,7 @@
   date: November 07, 2009
   poll:
     question:
-      english: "Which one of these makes a more casual fashion statement?"
+      english: Which one of these makes a more casual fashion statement?
       french_canada: "Lequel de ces v\xEAtements vous donne un air\nplus d\xE9contract\xE9\
         ?"
       spanish: "\xBFQu\xE9 tipo de vestimenta crees que\ndenota un estilo m\xE1s casual?"
@@ -792,7 +788,7 @@
       spanish: Chanclas
   poll_id: 8775
   results:
-    accurate_predict: 42.8
+    accurate_predict: 57.2
     female_response_1: 29.8
     female_response_2: 70.2
     male_response_1: 48.0
@@ -803,7 +799,7 @@
   date: November 10, 2009
   poll:
     question:
-      english: "Are you more likely to hang out with your friends at . . ."
+      english: Are you more likely to hang out with your friends at . . .
       french_canada: "O\xF9 pr\xE9f\xE9rez-vous passer du temps avec\nun ou une ami(e)?"
       spanish: "\xBFD\xF3nde pasas m\xE1s tiempo con tus amigos?"
     response_1:
@@ -840,7 +836,7 @@
       spanish: Casi nunca
   poll_id: 8777
   results:
-    accurate_predict: 13.5
+    accurate_predict: 86.5
     female_response_1: 18.6
     female_response_2: 81.4
     male_response_1: 12.9
@@ -851,7 +847,7 @@
   date: November 14, 2009
   poll:
     question:
-      english: "Which of these senses best evokes an image of a carnival?"
+      english: Which of these senses best evokes an image of a carnival?
       french_canada: "Qu'est-ce qui vous fait le plus penser \xE0\nune f\xEAte foraine?"
       spanish: "\xBFQu\xE9 recuerdo te evoca m\xE1s la imagen\nde una feria o carnaval?"
     response_1:
@@ -864,7 +860,7 @@
       spanish: Atracciones
   poll_id: 8778
   results:
-    accurate_predict: 33.1
+    accurate_predict: 66.9
     female_response_1: 45.7
     female_response_2: 54.3
     male_response_1: 30.6
@@ -875,7 +871,7 @@
   date: November 17, 2009
   poll:
     question:
-      english: "Both zucchinis and tomatoes are often mistaken for . . ."
+      english: Both zucchinis and tomatoes are often mistaken for . . .
       french_canada: "Les zucchinis et les tomates sont souvent\npris \xE0 tort pour\
         \ des..."
       spanish: "El calabac\xEDn y los tomates a menudo\nse clasifican err\xF3neamente\
@@ -890,7 +886,7 @@
       spanish: Vegetales
   poll_id: 8779
   results:
-    accurate_predict: 35.6
+    accurate_predict: 64.4
     female_response_1: 25.3
     female_response_2: 74.7
     male_response_1: 38.5
@@ -925,7 +921,7 @@
   date: November 21, 2009
   poll:
     question:
-      english: "If you were left alone on a desert island, which skill is more important?"
+      english: If you were left alone on a desert island, which skill is more important?
       french_canada: "Vous \xEAtes naufrag\xE9(e) sur une \xEEle d\xE9serte.\nQuelle\
         \ comp\xE9tence est la plus importante?"
       spanish: "Si te encontraras abandonado en una isla\ndesierta, \xBFqu\xE9 habilidad\
@@ -940,7 +936,7 @@
       spanish: Destilar agua
   poll_id: 8781
   results:
-    accurate_predict: 42.2
+    accurate_predict: 57.8
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 39.8
@@ -951,7 +947,7 @@
   date: November 24, 2009
   poll:
     question:
-      english: "Who do you spend more of your free time with?"
+      english: Who do you spend more of your free time with?
       french_canada: "Avec qui passez-vous la majorit\xE9 de votre\ntemps libre?"
       spanish: "\xBFCon qui\xE9n pasas la mayor\xEDa de tu tiempo libre?"
     response_1:
@@ -964,7 +960,7 @@
       spanish: Familia
   poll_id: 8782
   results:
-    accurate_predict: 49.2
+    accurate_predict: 50.8
     female_response_1: 35.5
     female_response_2: 64.5
     male_response_1: 47.2
@@ -975,7 +971,7 @@
   date: November 26, 2009
   poll:
     question:
-      english: "How long do you think you could hold your breath underwater?"
+      english: How long do you think you could hold your breath underwater?
       french_canada: 'Combien de temps pensez-vous pouvoir
 
         retenir votre souffle sous l''eau?'
@@ -1002,7 +998,7 @@
   date: November 28, 2009
   poll:
     question:
-      english: "When you text-message someone, are you more likely to use . . ."
+      english: When you text-message someone, are you more likely to use . . .
       french_canada: 'Lorsque vous envoyez un message texte,
 
         utilisez-vous...'
@@ -1028,7 +1024,7 @@
   date: December 01, 2009
   poll:
     question:
-      english: "If both had the same flavor, which would you pick up first?"
+      english: If both had the same flavor, which would you pick up first?
       french_canada: "Si ces deux gommes avaient le m\xEAme go\xFBt,\nlaquelle prendriez-vous?"
       spanish: "Si ambos tuvieran el mismo sabor, \xBFqu\xE9 prefieres?"
     response_1:
@@ -1041,7 +1037,7 @@
       spanish: Chicle
   poll_id: 8785
   results:
-    accurate_predict: 44.2
+    accurate_predict: 55.8
     female_response_1: 42.8
     female_response_2: 57.2
     male_response_1: 45.8
@@ -1091,7 +1087,7 @@
       spanish: Un gran regalo
   poll_id: 8787
   results:
-    accurate_predict: 42.3
+    accurate_predict: 57.7
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 29.4
@@ -1102,7 +1098,7 @@
   date: December 08, 2009
   poll:
     question:
-      english: "When ordering food at a restaurant, are you fussy with your order?"
+      english: When ordering food at a restaurant, are you fussy with your order?
       french_canada: "\xCAtes-vous difficile lorsque vous commandez\nde la nourriture\
         \ au restaurant?"
       spanish: "Cuando vas a un restaurante, \xBFeres\nexigente con tu comida?"
@@ -1116,7 +1112,7 @@
       spanish: Normalmente no
   poll_id: 8788
   results:
-    accurate_predict: 52.2
+    accurate_predict: 47.8
     female_response_1: 46.4
     female_response_2: 53.6
     male_response_1: 47.8
@@ -1127,7 +1123,7 @@
   date: December 10, 2009
   poll:
     question:
-      english: "Are there any embarrassing photos of you posted online?"
+      english: Are there any embarrassing photos of you posted online?
       french_canada: "Y a-t-il des photos g\xEAnantes de vous\npubli\xE9es sur Internet?"
       spanish: "\xBFHay fotos tuyas rondando por internet\nde las que te puedas avergonzar?"
     response_1:
@@ -1140,7 +1136,7 @@
       spanish: "\xA1Espero que no!"
   poll_id: 8789
   results:
-    accurate_predict: 29.4
+    accurate_predict: 70.6
     female_response_1: 11.1
     female_response_2: 88.9
     male_response_1: 21.2
@@ -1175,7 +1171,7 @@
   date: December 15, 2009
   poll:
     question:
-      english: "What do you think there are more of on the planet?"
+      english: What do you think there are more of on the planet?
       french_canada: "Laquelle de ces formes de vie est en plus\ngrande quantit\xE9\
         \ sur la plan\xE8te?"
       spanish: "\xBFQu\xE9 crees que es m\xE1s abundante en el planeta?"
@@ -1189,7 +1185,7 @@
       spanish: Hojas
   poll_id: 8791
   results:
-    accurate_predict: 44.6
+    accurate_predict: 55.4
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 46.7
@@ -1200,7 +1196,7 @@
   date: December 17, 2009
   poll:
     question:
-      english: "Does your alarm clock wake you by using the . . ."
+      english: Does your alarm clock wake you by using the . . .
       french_canada: "Quelle fonction de votre r\xE9veille-matin\nutilisez-vous pour\
         \ vous r\xE9veiller?"
       spanish: "\xBFQu\xE9 sonido usas en tu despertador\npara despertarte por las\
@@ -1215,7 +1211,7 @@
       spanish: Alarma
   poll_id: 8792
   results:
-    accurate_predict: 21.8
+    accurate_predict: 78.2
     female_response_1: 16.2
     female_response_2: 83.8
     male_response_1: 15.7
@@ -1226,8 +1222,8 @@
   date: December 19, 2009
   poll:
     question:
-      english: "How many of your friends' and family's phone numbers can you recite\
-        \ by memory?"
+      english: How many of your friends' and family's phone numbers can you recite
+        by memory?
       french_canada: "Combien de num\xE9ros de t\xE9l\xE9phone\nconnaissez-vous par\
         \ c\u0153ur?"
       spanish: "\xBFCu\xE1ntos n\xFAmeros de tel\xE9fono de\nfamiliares o amigos te\
@@ -1253,7 +1249,7 @@
   date: December 22, 2009
   poll:
     question:
-      english: "If you were granted a wish, would you make your wish for . . ."
+      english: If you were granted a wish, would you make your wish for . . .
       french_canada: "Si on vous offrait de r\xE9aliser un seul v\u0153u,\nsouhaiteriez-vous\
         \ quelque chose pour..."
       spanish: "Si pudieras pedir un deseo, \xBFlo pedir\xEDas. . .?"
@@ -1278,8 +1274,8 @@
   date: December 24, 2009
   poll:
     question:
-      english: "You've found an exceptional deal on an item you don't really need.\
-        \ Do you . . ."
+      english: You've found an exceptional deal on an item you don't really need.
+        Do you . . .
       french_canada: 'Quelque chose dont vous n''avez pas besoin
 
         est en super solde. L''achetez-vous?'
@@ -1295,7 +1291,7 @@
       spanish: No lo compras
   poll_id: 8795
   results:
-    accurate_predict: 45.8
+    accurate_predict: 54.2
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 40.3
@@ -1306,7 +1302,7 @@
   date: December 26, 2009
   poll:
     question:
-      english: "When you answer \"in a minute,\" what do you really mean?"
+      english: When you answer "in a minute," what do you really mean?
       french_canada: "Lorsque vous dites \xAB Donne-moi une\nminute \xBB, vous serez\
         \ pr\xEAt(e)..."
       spanish: "Cuando contestas: \"\xA1En un minuto!\",\nen realidad quieres decir.\
@@ -1321,7 +1317,7 @@
       spanish: Cuando pueda
   poll_id: 8796
   results:
-    accurate_predict: 23.9
+    accurate_predict: 76.1
     female_response_1: 33.3
     female_response_2: 66.7
     male_response_1: 23.6
@@ -1332,7 +1328,7 @@
   date: December 29, 2009
   poll:
     question:
-      english: "Can you identify more than one constellation in the night sky?"
+      english: Can you identify more than one constellation in the night sky?
       french_canada: 'Pouvez-vous identifier plus d''une
 
         constellation dans le ciel?'
@@ -1347,7 +1343,7 @@
       spanish: Varias
   poll_id: 8797
   results:
-    accurate_predict: 44.1
+    accurate_predict: 55.9
     female_response_1: 41.3
     female_response_2: 58.7
     male_response_1: 45.6
@@ -1358,8 +1354,8 @@
   date: December 31, 2009
   poll:
     question:
-      english: "When friends describe you to others, are they likely to lead with\
-        \ . . ."
+      english: When friends describe you to others, are they likely to lead with .
+        . .
       french_canada: "Lorsque vos amis vous d\xE9crivent aux\nautres, ils parlent\
         \ le plus souvent..."
       spanish: "\xBFQu\xE9 destacar\xEDan tus amigos al describirte?"
@@ -1373,7 +1369,7 @@
       spanish: Tu personalidad
   poll_id: 8798
   results:
-    accurate_predict: 17.6
+    accurate_predict: 82.4
     female_response_1: 18.8
     female_response_2: 81.2
     male_response_1: 20.1
@@ -1384,7 +1380,7 @@
   date: January 02, 2010
   poll:
     question:
-      english: "Which of these two items was invented first?"
+      english: Which of these two items was invented first?
       french_canada: "Lequel de ces objets a \xE9t\xE9 invent\xE9 le\npremier?"
       spanish: "\xBFCu\xE1l de estos dos objetos se invent\xF3 primero?"
     response_1:
@@ -1397,7 +1393,7 @@
       spanish: "Tel\xE9fono"
   poll_id: 8799
   results:
-    accurate_predict: 43.8
+    accurate_predict: 56.2
     female_response_1: 42.5
     female_response_2: 57.5
     male_response_1: 45.7
@@ -1408,8 +1404,8 @@
   date: January 05, 2010
   poll:
     question:
-      english: "A friend is late meeting you at the mall and their cell phone is\
-        \ turned off. Do you . . ."
+      english: A friend is late meeting you at the mall and their cell phone is turned
+        off. Do you . . .
       french_canada: "Votre ami(e) est en retard \xE0 votre rendez-\nvous et son cellulaire\
         \ est ferm\xE9. Vous..."
       spanish: "Has quedado con un amigo y no aparece\na la hora prevista, \xBFqu\xE9\
@@ -1435,8 +1431,8 @@
   date: January 07, 2010
   poll:
     question:
-      english: "If the color of the sky weren't blue, which of these colors do you\
-        \ wish it could be?"
+      english: If the color of the sky weren't blue, which of these colors do you
+        wish it could be?
       french_canada: "Si le ciel n'\xE9tait pas bleu, de quelle couleur\nvoudriez-vous\
         \ qu'il soit?"
       spanish: "Si el cielo no fuera azul \xBFte gustar\xEDa que fuera?"
@@ -1450,7 +1446,7 @@
       spanish: Verde
   poll_id: 8801
   results:
-    accurate_predict: 30.1
+    accurate_predict: 69.9
     female_response_1: 35.9
     female_response_2: 64.1
     male_response_1: 30.9
@@ -1498,7 +1494,7 @@
       spanish: En la vida
   poll_id: 8803
   results:
-    accurate_predict: 34.8
+    accurate_predict: 65.2
     female_response_1: 33.7
     female_response_2: 66.3
     male_response_1: 27.0
@@ -1509,8 +1505,8 @@
   date: January 14, 2010
   poll:
     question:
-      english: "If a person you're calling doesn't answer the phone, are you more\
-        \ likely to . . ."
+      english: If a person you're calling doesn't answer the phone, are you more likely
+        to . . .
       french_canada: "Si la personne que vous appelez ne r\xE9pond\npas, vous..."
       spanish: "Si la persona a la que est\xE1s llamando\nno contesta el tel\xE9fono,\
         \ \xBFqu\xE9 haces?"
@@ -1535,7 +1531,7 @@
   date: January 16, 2010
   poll:
     question:
-      english: "Given the choice, which would make you feel more uncomfortable?"
+      english: Given the choice, which would make you feel more uncomfortable?
       french_canada: "Laquelle de ces situations vous sentiriez-\nvous le plus g\xEA\
         n\xE9(e) de faire seul(e)?"
       spanish: "\xBFQu\xE9 situaci\xF3n te har\xEDa sentirte m\xE1s inc\xF3modo?"
@@ -1549,7 +1545,7 @@
       spanish: Ir a una fiesta solo
   poll_id: 8805
   results:
-    accurate_predict: 29.4
+    accurate_predict: 70.6
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 29.2
@@ -1560,7 +1556,7 @@
   date: January 19, 2010
   poll:
     question:
-      english: "From which part of the tube do you squeeze toothpaste?"
+      english: From which part of the tube do you squeeze toothpaste?
       french_canada: "\xC0 quel endroit du tube appuyez-vous pour\nfaire sortir de\
         \ la p\xE2te \xE0 dent?"
       spanish: "\xBFPor d\xF3nde aprietas el tubo de pasta de dientes?"
@@ -1585,7 +1581,7 @@
   date: January 21, 2010
   poll:
     question:
-      english: "On a typical day, how many steps do you think you take?"
+      english: On a typical day, how many steps do you think you take?
       french_canada: "Durant une journ\xE9e normale, combien de\npas estimez-vous\
         \ faire?"
       spanish: "\xBFCu\xE1ntos pasos crees que das\nen un d\xEDa cualquiera?"
@@ -1599,7 +1595,7 @@
       spanish: "M\xE1s de 3.000 pasos"
   poll_id: 8807
   results:
-    accurate_predict: 41.4
+    accurate_predict: 58.6
     female_response_1: 45.1
     female_response_2: 54.9
     male_response_1: 41.7
@@ -1634,7 +1630,7 @@
   date: January 26, 2010
   poll:
     question:
-      english: "Do you have a close friend that has the same first name as yours?"
+      english: Do you have a close friend that has the same first name as yours?
       french_canada: "Est-ce qu'un ou une de vos meilleurs\namis a le m\xEAme nom\
         \ que vous?"
       spanish: "\xBFTienes alg\xFAn amigo que se llame igual que t\xFA?"
@@ -1648,7 +1644,7 @@
       spanish: 'No'
   poll_id: 8809
   results:
-    accurate_predict: 54.1
+    accurate_predict: 45.9
     female_response_1: 48.4
     female_response_2: 51.6
     male_response_1: 45.3
@@ -1674,7 +1670,7 @@
       spanish: Chicle
   poll_id: 8810
   results:
-    accurate_predict: 51.6
+    accurate_predict: 48.4
     female_response_1: 44.4
     female_response_2: 55.6
     male_response_1: 49.1
@@ -1685,7 +1681,7 @@
   date: January 30, 2010
   poll:
     question:
-      english: "You have a really big secret to share. Who do you tell first?"
+      english: You have a really big secret to share. Who do you tell first?
       french_canada: "Vous avez un tr\xE8s gros secret. \xC0 qui le\nconfiez-vous\
         \ en premier?"
       spanish: "Tienes un secreto que quieres compartir,\n\xBFa qui\xE9n se lo cuentas\
@@ -1700,7 +1696,7 @@
       spanish: Tus amigos
   poll_id: 8811
   results:
-    accurate_predict: 41.6
+    accurate_predict: 58.4
     female_response_1: 47.0
     female_response_2: 53.0
     male_response_1: 41.2
@@ -1711,7 +1707,7 @@
   date: February 02, 2010
   poll:
     question:
-      english: "How many planets do you believe are in our solar system?"
+      english: How many planets do you believe are in our solar system?
       french_canada: "Combien de plan\xE8tes pensez-vous qu'il y\na dans notre syst\xE8\
         me solaire?"
       spanish: "\xBFCu\xE1ntos planetas tiene nuestro sistema solar?"
@@ -1749,7 +1745,7 @@
       spanish: 'No'
   poll_id: 8813
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 25.4
     female_response_2: 74.6
     male_response_1: 23.6
@@ -1773,7 +1769,7 @@
       spanish: Ropa de diario
   poll_id: 8814
   results:
-    accurate_predict: 32.8
+    accurate_predict: 67.2
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 35.7
@@ -1784,8 +1780,7 @@
   date: February 09, 2010
   poll:
     question:
-      english: "Are you ready to give up your home phone line and just use a cell\
-        \ phone?"
+      english: Are you ready to give up your home phone line and just use a cell phone?
       french_canada: "\xCAtes-vous pr\xEAt(e) \xE0 d\xE9connecter votre\nligne r\xE9\
         sidentielle et utiliser un cellulaire?"
       spanish: "\xBFEst\xE1s listo para cancelar el tel\xE9fono fijo\ny usar solamente\
@@ -1800,7 +1795,7 @@
       spanish: 'No'
   poll_id: 8815
   results:
-    accurate_predict: 55.2
+    accurate_predict: 44.8
     female_response_1: 51.0
     female_response_2: 49.0
     male_response_1: 47.5
@@ -1811,7 +1806,7 @@
   date: February 11, 2010
   poll:
     question:
-      english: "How many pens/pencils do you typically have on your desk?"
+      english: How many pens/pencils do you typically have on your desk?
       french_canada: 'Combien de crayons ou stylos avez-vous
 
         sur votre bureau habituellement?'
@@ -1837,7 +1832,7 @@
   date: February 13, 2010
   poll:
     question:
-      english: "In your home, which do you think you have more of?"
+      english: In your home, which do you think you have more of?
       french_canada: "Lequel de ces objets avez-vous le plus\n\xE0 la maison?"
       spanish: "\xBFDe qu\xE9 tienes m\xE1s cantidad en tu casa?"
     response_1:
@@ -1850,7 +1845,7 @@
       spanish: Enchufes de pared
   poll_id: 8817
   results:
-    accurate_predict: 19.6
+    accurate_predict: 80.4
     female_response_1: 9.1
     female_response_2: 90.9
     male_response_1: 15.4
@@ -1861,8 +1856,8 @@
   date: February 16, 2010
   poll:
     question:
-      english: "How many hours a day do you think a typical person spends surfing\
-        \ the Internet?"
+      english: How many hours a day do you think a typical person spends surfing the
+        Internet?
       french_canada: "Typiquement, combien d'heures par jour les\ngens passent-ils\
         \ \xE0 naviguer sur Internet?"
       spanish: "\xBFCu\xE1ntas horas crees que pasa un\nciudadano medio navegando\
@@ -1877,7 +1872,7 @@
       spanish: "M\xE1s de dos horas"
   poll_id: 8818
   results:
-    accurate_predict: 28.9
+    accurate_predict: 71.1
     female_response_1: 36.7
     female_response_2: 63.3
     male_response_1: 30.0
@@ -1888,7 +1883,7 @@
   date: February 18, 2010
   poll:
     question:
-      english: "It's a Saturday evening. Where are you more likely to be?"
+      english: It's a Saturday evening. Where are you more likely to be?
       french_canada: Habituellement, le dimanche soir, vous...
       spanish: "\xBFD\xF3nde es m\xE1s probable que te encuentres\nun s\xE1bado por\
         \ la noche?"
@@ -1902,7 +1897,7 @@
       spanish: En casa
   poll_id: 8819
   results:
-    accurate_predict: 62.9
+    accurate_predict: 37.1
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 38.0
@@ -1913,8 +1908,8 @@
   date: February 20, 2010
   poll:
     question:
-      english: "Once you've read a magazine, how long do you keep it before recycling\
-        \ it?"
+      english: Once you've read a magazine, how long do you keep it before recycling
+        it?
       french_canada: "Une fois que vous avez termin\xE9 un\nmagasine, vous le mettez\
         \ au recyclage..."
       spanish: "\xBFDurante cu\xE1nto tiempo te quedas\nuna revista antes de reciclarla?"
@@ -1928,7 +1923,7 @@
       spanish: "M\xE1s de un mes"
   poll_id: 8820
   results:
-    accurate_predict: 26.9
+    accurate_predict: 73.1
     female_response_1: 29.8
     female_response_2: 70.2
     male_response_1: 24.9
@@ -1939,12 +1934,12 @@
   date: February 23, 2010
   poll:
     question:
-      english: "When someone gives you a gift, how do you usually send a thank-you\
-        \ note?"
+      english: When someone gives you a gift, how do you usually send a thank-you
+        note?
       french_canada: "De quelle fa\xE7on envoyez-vous une carte\nde remerciement pour\
         \ un cadeau?"
-      spanish: "Cuando alguien te hace un regalo, \xBFpor qu\xE9 medio env\xEDas\
-        \ una nota de agradecimiento?"
+      spanish: "Cuando alguien te hace un regalo, \xBFpor qu\xE9 medio env\xEDas una\
+        \ nota de agradecimiento?"
     response_1:
       english: By e-mail
       french_canada: Par courriel
@@ -1979,7 +1974,7 @@
       spanish: No tiene olor
   poll_id: 8822
   results:
-    accurate_predict: 33.0
+    accurate_predict: 67.0
     female_response_1: 39.7
     female_response_2: 60.3
     male_response_1: 31.1
@@ -1990,8 +1985,8 @@
   date: February 27, 2010
   poll:
     question:
-      english: "When meeting a group of people for the first time, is it better\
-        \ to be . . ."
+      english: When meeting a group of people for the first time, is it better to
+        be . . .
       french_canada: "Lors de la premi\xE8re rencontre avec un\ngroupe, il est plus\
         \ sage de..."
       spanish: 'Al conocer un grupo de gente por
@@ -2007,7 +2002,7 @@
       spanish: Entretenido
   poll_id: 8823
   results:
-    accurate_predict: 21.0
+    accurate_predict: 79.0
     female_response_1: 28.1
     female_response_2: 71.9
     male_response_1: 24.7
@@ -2019,8 +2014,8 @@
   poll:
     question:
       english: Which fast-food sandwich do you prefer?
-      french_canada: "Quel type de sandwich achet\xE9 dans un restaurant rapide\
-        \ pr\xE9f\xE9rez-vous?"
+      french_canada: "Quel type de sandwich achet\xE9 dans un restaurant rapide pr\xE9\
+        f\xE9rez-vous?"
       spanish: "\xBFCu\xE1l hamburguesa prefieres?"
     response_1:
       english: Hamburger
@@ -2043,7 +2038,7 @@
   date: March 04, 2010
   poll:
     question:
-      english: "Which musical era had more songs that can be considered classics?"
+      english: Which musical era had more songs that can be considered classics?
       french_canada: "Quelle d\xE9cennie a vu na\xEEtre le plus de classiques musicaux?"
       spanish: "\xBFCu\xE1l era musical tiene m\xE1s temas\nque pudieran considerarse\
         \ cl\xE1sicos?"
@@ -2057,7 +2052,7 @@
       spanish: "Los a\xF1os 70"
   poll_id: 8825
   results:
-    accurate_predict: 39.6
+    accurate_predict: 60.4
     female_response_1: 42.3
     female_response_2: 57.7
     male_response_1: 36.0
@@ -2068,7 +2063,7 @@
   date: March 06, 2010
   poll:
     question:
-      english: "Will electronic books/newspapers ever replace printed books/newspapers?"
+      english: Will electronic books/newspapers ever replace printed books/newspapers?
       french_canada: "Les livres et les journaux \xE9lectroniques remplaceront-ils\
         \ les copies papier?"
       spanish: "\xBFLos libros y diarios impresos ser\xE1n\nreemplazados por los electr\xF3\
@@ -2119,7 +2114,7 @@
   date: March 11, 2010
   poll:
     question:
-      english: "When using a laptop, which is easier to navigate with?"
+      english: When using a laptop, which is easier to navigate with?
       french_canada: "Quel type de souris pr\xE9f\xE9rez-vous utiliser\navec un ordinateur\
         \ portable?"
       spanish: "\xBFCon qu\xE9 sueles mover el cursor en\nuna computadora port\xE1\
@@ -2134,7 +2129,7 @@
       spanish: El puntero
   poll_id: 10075
   results:
-    accurate_predict: 40.0
+    accurate_predict: 60.0
     female_response_1: 39.1
     female_response_2: 60.9
     male_response_1: 35.3
@@ -2160,7 +2155,7 @@
       spanish: "Everest en T\xEDbet/Nepal"
   poll_id: 10076
   results:
-    accurate_predict: 13.5
+    accurate_predict: 86.5
     female_response_1: 20.2
     female_response_2: 79.8
     male_response_1: 12.4
@@ -2171,8 +2166,8 @@
   date: March 16, 2010
   poll:
     question:
-      english: "When planning a vacation, which influences your choice of destination\
-        \ more?"
+      english: When planning a vacation, which influences your choice of destination
+        more?
       french_canada: 'Lorsque vous planifiez vos vacances,
 
         qu''est-ce qui vous attire le plus?'
@@ -2247,7 +2242,7 @@
   date: March 23, 2010
   poll:
     question:
-      english: "How long do you own a cell phone before purchasing another?"
+      english: How long do you own a cell phone before purchasing another?
       french_canada: "\xC0 quel intervalle changez-vous de\nt\xE9l\xE9phone cellulaire?"
       spanish: "\xBFCu\xE1nto tiempo esperas para comprarte\nun tel\xE9fono celular\
         \ nuevo?"
@@ -2261,7 +2256,7 @@
       spanish: "M\xE1s de un a\xF1o"
   poll_id: 10080
   results:
-    accurate_predict: 47.1
+    accurate_predict: 52.9
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 40.3
@@ -2272,8 +2267,8 @@
   date: March 25, 2010
   poll:
     question:
-      english: "When planning to purchase an expensive item, which are you more\
-        \ likely to do?"
+      english: When planning to purchase an expensive item, which are you more likely
+        to do?
       french_canada: 'Lorsque vous souhaitez acheter quelque
 
         chose de cher, que faites-vous?'
@@ -2351,7 +2346,7 @@
   date: April 01, 2010
   poll:
     question:
-      english: "Have you wished for something that occurred in this past year?"
+      english: Have you wished for something that occurred in this past year?
       french_canada: "Un de vos souhaits s'est-il r\xE9alis\xE9 durant\nl'ann\xE9\
         e derni\xE8re?"
       spanish: "\xBFHas deseado algo que se haya hecho\nrealidad en este \xFAltimo\
@@ -2377,8 +2372,8 @@
   date: April 03, 2010
   poll:
     question:
-      english: "If you could trade knowledge or a skill you have for something else,\
-        \ would you?"
+      english: If you could trade knowledge or a skill you have for something else,
+        would you?
       french_canada: "\xC9changeriez-vous la connaissance ou un\ntalent que vous avez\
         \ pour autre chose?"
       spanish: "\xBFSi pudieras cambiar tus conocimientos o\nhabilidades por algo\
@@ -2393,7 +2388,7 @@
       spanish: 'No'
   poll_id: 10085
   results:
-    accurate_predict: 50.9
+    accurate_predict: 49.1
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 43.1
@@ -2441,7 +2436,7 @@
       spanish: "Una antig\xFCedad"
   poll_id: 10087
   results:
-    accurate_predict: 24.4
+    accurate_predict: 75.6
     female_response_1: 23.8
     female_response_2: 76.2
     male_response_1: 23.3
@@ -2452,8 +2447,7 @@
   date: April 10, 2010
   poll:
     question:
-      english: "Can you recall five newsworthy events that occurred in your birth\
-        \ year?"
+      english: Can you recall five newsworthy events that occurred in your birth year?
       french_canada: "Connaissez-vous cinq \xE9v\xE9nements qui\nont marqu\xE9 l'ann\xE9\
         e de votre naissance?"
       spanish: "\xBFPuedes mencionar cinco grandes noticias\nque ocurrieron el a\xF1\
@@ -2468,7 +2462,7 @@
       spanish: 'No'
   poll_id: 10088
   results:
-    accurate_predict: 25.5
+    accurate_predict: 74.5
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 25.3
@@ -2494,7 +2488,7 @@
       spanish: "La presentaci\xF3n"
   poll_id: 10089
   results:
-    accurate_predict: 34.5
+    accurate_predict: 65.5
     female_response_1: 21.4
     female_response_2: 78.6
     male_response_1: 29.8
@@ -2531,8 +2525,8 @@
   date: April 17, 2010
   poll:
     question:
-      english: "At a family/friend get-together, which activity would you suggest\
-        \ for fun?"
+      english: At a family/friend get-together, which activity would you suggest for
+        fun?
       french_canada: "Quelle activit\xE9 pr\xE9f\xE9rez-vous faire lorsque\nvous \xEA\
         tes avec vos amis ou votre famille?"
       spanish: "Cuando te re\xFAnes con tu familia o amigos,\n\xBFqu\xE9 diversi\xF3\
@@ -2575,7 +2569,7 @@
       spanish: "Despu\xE9s de todos"
   poll_id: 10092
   results:
-    accurate_predict: 35.0
+    accurate_predict: 65.0
     female_response_1: 39.7
     female_response_2: 60.3
     male_response_1: 34.0
@@ -2599,7 +2593,7 @@
       spanish: La higiene de manos
   poll_id: 10093
   results:
-    accurate_predict: 28.4
+    accurate_predict: 71.6
     female_response_1: 42.0
     female_response_2: 58.0
     male_response_1: 43.0
@@ -2610,7 +2604,7 @@
   date: April 24, 2010
   poll:
     question:
-      english: "You have excellent writing skills. Which would you prefer to be?"
+      english: You have excellent writing skills. Which would you prefer to be?
       french_canada: "Si vous aviez du talent pour \xE9crire, quel\nm\xE9tier voudriez-vous\
         \ faire?"
       spanish: "Si tuvieras la capacidad de escribir\nperfectamente... \xBFqu\xE9\
@@ -2625,7 +2619,7 @@
       spanish: "Novelista de ficci\xF3n"
   poll_id: 10094
   results:
-    accurate_predict: 37.3
+    accurate_predict: 62.7
     female_response_1: 51.1
     female_response_2: 48.9
     male_response_1: 37.0
@@ -2651,7 +2645,7 @@
       spanish: Desde el principio
   poll_id: 10095
   results:
-    accurate_predict: 17.1
+    accurate_predict: 82.9
     female_response_1: 16.8
     female_response_2: 83.2
     male_response_1: 14.6
@@ -2675,7 +2669,7 @@
       spanish: Repasas y descansas
   poll_id: 10096
   results:
-    accurate_predict: 44.9
+    accurate_predict: 55.1
     female_response_1: 41.7
     female_response_2: 58.3
     male_response_1: 39.0
@@ -2686,7 +2680,7 @@
   date: May 01, 2010
   poll:
     question:
-      english: "Do you feel you have too many activities scheduled each week?"
+      english: Do you feel you have too many activities scheduled each week?
       french_canada: "Avez-vous l'impression d'avoir trop\nd'activit\xE9s pr\xE9vues\
         \ chaque semaine?"
       spanish: "\xBFCrees que tienes demasiadas actividades\nplaneadas para cada semana?"
@@ -2711,12 +2705,12 @@
   date: May 04, 2010
   poll:
     question:
-      english: "You've decided to volunteer for community service. Which group would\
-        \ you help?"
+      english: You've decided to volunteer for community service. Which group would
+        you help?
       french_canada: "Pour quel groupe d'\xE2ge pr\xE9f\xE9reriez-vous\nfaire du b\xE9\
         n\xE9volat?"
-      spanish: "Si decides apuntarte como voluntario, \xBFa qu\xE9 grupo de edad\
-        \ te gustar\xEDa ayudar?"
+      spanish: "Si decides apuntarte como voluntario, \xBFa qu\xE9 grupo de edad te\
+        \ gustar\xEDa ayudar?"
     response_1:
       english: The elderly
       french_canada: "Personnes \xE2g\xE9es"
@@ -2727,7 +2721,7 @@
       spanish: "J\xF3venes"
   poll_id: 10098
   results:
-    accurate_predict: 47.1
+    accurate_predict: 52.9
     female_response_1: 41.7
     female_response_2: 58.3
     male_response_1: 44.3
@@ -2738,7 +2732,7 @@
   date: May 06, 2010
   poll:
     question:
-      english: "When dining out, which are you more likely to choose?"
+      english: When dining out, which are you more likely to choose?
       french_canada: 'Lorsque vous allez au restaurant, que
 
         choisissez-vous le plus souvent?'
@@ -2764,7 +2758,7 @@
   date: May 08, 2010
   poll:
     question:
-      english: "When did you receive your first paycheck (not including allowance)?"
+      english: When did you receive your first paycheck (not including allowance)?
       french_canada: "\xC0 quel \xE2ge avez-vous re\xE7u votre premier\nch\xE8que\
         \ de paie?"
       spanish: "\xBFCu\xE1ntos a\xF1os ten\xEDas cuando recibiste\ntu primer sueldo?"
@@ -2815,7 +2809,7 @@
   date: May 13, 2010
   poll:
     question:
-      english: "On a typical weekend, are you more likely to eat . . ."
+      english: On a typical weekend, are you more likely to eat . . .
       french_canada: 'Durant la fin de semaine, que mangez-vous
 
         le plus souvent?'
@@ -2865,8 +2859,8 @@
   date: May 18, 2010
   poll:
     question:
-      english: "In your desk, what office supply do you typically have more of than\
-        \ you need?"
+      english: In your desk, what office supply do you typically have more of than
+        you need?
       french_canada: "Quelle fourniture de bureau avez-vous en\ntrop grande quantit\xE9\
         ?"
       spanish: "En el escritorio de tu oficina, \xBFtienes m\xE1s...?"
@@ -2891,7 +2885,7 @@
   date: May 20, 2010
   poll:
     question:
-      english: "Which of these would be more difficult to maintain?"
+      english: Which of these would be more difficult to maintain?
       french_canada: "\xC0 votre avis, qu'est-ce qui est le plus\ndifficile \xE0 maintenir?"
       spanish: "\xBFCu\xE1l es m\xE1s dif\xEDcil de mantener?"
     response_1:
@@ -2939,8 +2933,8 @@
   date: May 25, 2010
   poll:
     question:
-      english: "Is the type of food you eat more diverse or ethnic than it was five\
-        \ years ago?"
+      english: Is the type of food you eat more diverse or ethnic than it was five
+        years ago?
       french_canada: "La nourriture que vous mangez est-elle\nplus diversifi\xE9e/exotique\
         \ qu'il y a cinq ans?"
       spanish: "\xBFEs el tipo de alimentos que comes ahora\nm\xE1s diverso y \xE9\
@@ -2979,7 +2973,7 @@
       spanish: Una gota de lluvia
   poll_id: 10108
   results:
-    accurate_predict: 16.9
+    accurate_predict: 83.1
     female_response_1: 24.5
     female_response_2: 75.5
     male_response_1: 15.9
@@ -2990,8 +2984,8 @@
   date: May 29, 2010
   poll:
     question:
-      english: "When storing leftovers, what type of container are you more likely\
-        \ to use?"
+      english: When storing leftovers, what type of container are you more likely
+        to use?
       french_canada: "Lorsque vous mettez des restes de c\xF4t\xE9,\nquel type de\
         \ contenant utilisez-vous?"
       spanish: "Cuando guardas las sobras de comida en tu\ncasa, \xBFqu\xE9 forma\
@@ -3006,7 +3000,7 @@
       spanish: Redondo
   poll_id: 10109
   results:
-    accurate_predict: 49.5
+    accurate_predict: 50.5
     female_response_1: 44.4
     female_response_2: 55.6
     male_response_1: 48.8
@@ -3017,8 +3011,8 @@
   date: June 01, 2010
   poll:
     question:
-      english: "When eating out with friends, who usually asks/reaches for the bill\
-        \ first?"
+      english: When eating out with friends, who usually asks/reaches for the bill
+        first?
       french_canada: 'Lorsque vous mangez au restaurant avec
 
         vos amis, qui prend la facture le premier?'
@@ -3034,7 +3028,7 @@
       spanish: "Alg\xFAn amigo"
   poll_id: 10110
   results:
-    accurate_predict: 45.7
+    accurate_predict: 54.3
     female_response_1: 45.9
     female_response_2: 54.1
     male_response_1: 48.3
@@ -3082,7 +3076,7 @@
       spanish: "Cinco o m\xE1s"
   poll_id: 10112
   results:
-    accurate_predict: 40.2
+    accurate_predict: 59.8
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 52.7
@@ -3118,7 +3112,7 @@
   date: June 10, 2010
   poll:
     question:
-      english: "During the weekend, are you more likely to eat dinner . . ."
+      english: During the weekend, are you more likely to eat dinner . . .
       french_canada: Durant la fin de semaine, vous soupez...
       spanish: "Comparado con los d\xEDas laborales, durante\nel fin de semana sueles\
         \ cenar..."
@@ -3158,7 +3152,7 @@
       spanish: Por el olor
   poll_id: 10115
   results:
-    accurate_predict: 46.4
+    accurate_predict: 53.6
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 41.0
@@ -3182,7 +3176,7 @@
       spanish: Snowboarding
   poll_id: 10116
   results:
-    accurate_predict: 46.9
+    accurate_predict: 53.1
     female_response_1: 48.0
     female_response_2: 52.0
     male_response_1: 49.7
@@ -3193,7 +3187,7 @@
   date: June 17, 2010
   poll:
     question:
-      english: "The average American consumes 24 lbs. of pizza per year."
+      english: The average American consumes 24 lbs. of pizza per year.
       french_canada: "L'Am\xE9ricain moyen consomme 24 livres\n(11 kg) de pizza par\
         \ ann\xE9e."
       spanish: "El estadounidense medio consume alrededor\nde 11 kilos de pizza al\
@@ -3245,8 +3239,8 @@
   date: June 22, 2010
   poll:
     question:
-      english: "You've won a prize and have your choice of an airline ticket. Which\
-        \ do you choose?"
+      english: You've won a prize and have your choice of an airline ticket. Which
+        do you choose?
       french_canada: 'Vous gagnez un voyage et on vous
 
         donne le choix entre...'
@@ -3311,7 +3305,7 @@
       spanish: "\xA1S\xED, y ped\xED un deseo!"
   poll_id: 10121
   results:
-    accurate_predict: 51.5
+    accurate_predict: 48.5
     female_response_1: 51.4
     female_response_2: 48.6
     male_response_1: 48.4
@@ -3322,7 +3316,7 @@
   date: June 29, 2010
   poll:
     question:
-      english: "My family would never let me play this instrument . . ."
+      english: My family would never let me play this instrument . . .
       french_canada: Ma famille ne me laisserait jamais jouer...
       spanish: "Mi familia nunca permitir\xEDa que tocara\neste instrumento..."
     response_1:
@@ -3346,7 +3340,7 @@
   date: July 01, 2010
   poll:
     question:
-      english: "What color is a polar bear's skin under their white fur?"
+      english: What color is a polar bear's skin under their white fur?
       french_canada: 'Quelle est la couleur de la peau de
 
         l''ours polaire (sous la fourrure)?'
@@ -3361,7 +3355,7 @@
       spanish: Blanca
   poll_id: 10123
   results:
-    accurate_predict: 41.6
+    accurate_predict: 58.4
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 46.5
@@ -3400,7 +3394,7 @@
   date: July 06, 2010
   poll:
     question:
-      english: "At an amusement park, what do you typically do first?"
+      english: At an amusement park, what do you typically do first?
       french_canada: "Que pr\xE9f\xE9rez-vous faire en premier lorsque\nvous visitez\
         \ un parc d'attractions?"
       spanish: "Cuando est\xE1s en un parque de atracciones...\n\xBFa d\xF3nde vas\
@@ -3426,8 +3420,8 @@
   date: July 08, 2010
   poll:
     question:
-      english: "If you could visit a major city for one day, what would you prefer\
-        \ to do?"
+      english: If you could visit a major city for one day, what would you prefer
+        to do?
       french_canada: "Si vous pouviez visiter une grande\nm\xE9tropole, que pr\xE9\
         f\xE9reriez-vous faire?"
       spanish: "\xBFQu\xE9 prefieres hacer cuando visitas\nuna gran ciudad?"
@@ -3465,7 +3459,7 @@
       spanish: 'No'
   poll_id: 10127
   results:
-    accurate_predict: 50.9
+    accurate_predict: 49.1
     female_response_1: 40.2
     female_response_2: 59.8
     male_response_1: 34.6
@@ -3476,7 +3470,7 @@
   date: July 13, 2010
   poll:
     question:
-      english: "At your wedding reception, would you rather have . . ."
+      english: At your wedding reception, would you rather have . . .
       french_canada: "Qui engageriez-vous pour jouer de la\nmusique \xE0 votre mariage?"
       spanish: "\xBFQui\xE9n prefieres que se encargue de\nla m\xFAsica durante una\
         \ boda?"
@@ -3514,7 +3508,7 @@
       spanish: Hablar mucho
   poll_id: 10129
   results:
-    accurate_predict: 54.2
+    accurate_predict: 45.8
     female_response_1: 56.6
     female_response_2: 43.4
     male_response_1: 46.1
@@ -3525,9 +3519,8 @@
   date: July 17, 2010
   poll:
     question:
-      english: "If someone had food stuck in their teeth, would you . . ."
-      french_canada: "Si quelqu'un a de la nourriture prise entre les dents, que\
-        \ faites-vous?"
+      english: If someone had food stuck in their teeth, would you . . .
+      french_canada: Si quelqu'un a de la nourriture prise entre les dents, que faites-vous?
       spanish: "Si ves a alguien con comida entre\nlos dientes... \xBFse lo dices?"
     response_1:
       english: Tell them
@@ -3563,7 +3556,7 @@
       spanish: "Saltar en paraca\xEDdas"
   poll_id: 10131
   results:
-    accurate_predict: 34.5
+    accurate_predict: 65.5
     female_response_1: 38.6
     female_response_2: 61.4
     male_response_1: 30.3
@@ -3587,7 +3580,7 @@
       spanish: "\xA1Ya llega el verano!"
   poll_id: 10132
   results:
-    accurate_predict: 19.1
+    accurate_predict: 80.9
     female_response_1: 24.1
     female_response_2: 75.9
     male_response_1: 16.1
@@ -3611,7 +3604,7 @@
       spanish: Hablar con amigos
   poll_id: 10133
   results:
-    accurate_predict: 43.0
+    accurate_predict: 57.0
     female_response_1: 45.7
     female_response_2: 54.3
     male_response_1: 21.9
@@ -3659,7 +3652,7 @@
       spanish: Un jet privado
   poll_id: 10135
   results:
-    accurate_predict: 27.1
+    accurate_predict: 72.9
     female_response_1: 36.4
     female_response_2: 63.6
     male_response_1: 24.7
@@ -3683,7 +3676,7 @@
       spanish: En su propia cama
   poll_id: 10136
   results:
-    accurate_predict: 27.4
+    accurate_predict: 72.6
     female_response_1: 31.2
     female_response_2: 68.8
     male_response_1: 21.5
@@ -3708,7 +3701,7 @@
       spanish: No, nunca
   poll_id: 10137
   results:
-    accurate_predict: 54.2
+    accurate_predict: 45.8
     female_response_1: 49.6
     female_response_2: 50.4
     male_response_1: 50.0
@@ -3719,7 +3712,7 @@
   date: August 05, 2010
   poll:
     question:
-      english: "Which type of soap do you prefer using to wash your hands?"
+      english: Which type of soap do you prefer using to wash your hands?
       french_canada: "Quel type de savon pr\xE9f\xE9rez-vous utiliser\npour vous laver\
         \ les mains?"
       spanish: "\xBFQu\xE9 tipo de jab\xF3n prefieres para lavarte\nlas manos?"
@@ -3758,7 +3751,7 @@
       spanish: "Chocar pu\xF1os"
   poll_id: 10139
   results:
-    accurate_predict: 48.6
+    accurate_predict: 51.4
     female_response_1: 62.2
     female_response_2: 37.8
     male_response_1: 38.3
@@ -3782,7 +3775,7 @@
       spanish: "Dos o m\xE1s"
   poll_id: 10140
   results:
-    accurate_predict: 36.0
+    accurate_predict: 64.0
     female_response_1: 33.6
     female_response_2: 66.4
     male_response_1: 37.6
@@ -3806,7 +3799,7 @@
       spanish: 'No'
   poll_id: 10141
   results:
-    accurate_predict: 16.8
+    accurate_predict: 83.2
     female_response_1: 16.8
     female_response_2: 83.2
     male_response_1: 16.6
@@ -3830,7 +3823,7 @@
       spanish: Puesta de sol
   poll_id: 10142
   results:
-    accurate_predict: 24.1
+    accurate_predict: 75.9
     female_response_1: 23.4
     female_response_2: 76.6
     male_response_1: 23.2
@@ -3856,7 +3849,7 @@
       spanish: Convertir cosas en pizza
   poll_id: 10143
   results:
-    accurate_predict: 44.6
+    accurate_predict: 55.4
     female_response_1: 49.3
     female_response_2: 50.7
     male_response_1: 35.3
@@ -3906,7 +3899,7 @@
       spanish: Manual
   poll_id: 10145
   results:
-    accurate_predict: 18.2
+    accurate_predict: 81.8
     female_response_1: 18.0
     female_response_2: 82.0
     male_response_1: 19.6
@@ -3931,7 +3924,7 @@
       spanish: "Cena y luego pel\xEDcula"
   poll_id: 10146
   results:
-    accurate_predict: 46.4
+    accurate_predict: 53.6
     female_response_1: 39.1
     female_response_2: 60.9
     male_response_1: 44.3
@@ -3942,8 +3935,8 @@
   date: August 26, 2010
   poll:
     question:
-      english: "If everyone lost five pounds, would it throw the earth off its gravitational\
-        \ pull?"
+      english: If everyone lost five pounds, would it throw the earth off its gravitational
+        pull?
       french_canada: "Si tout le monde perdait cinq livres, la Terre\nd\xE9vierait-elle\
         \ de son champ gravitationnel?"
       spanish: "Si cada persona perdiera 2.25Kg de peso,\n\xBFafectar\xEDa eso a la\
@@ -3958,7 +3951,7 @@
       spanish: 'No'
   poll_id: 10147
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 22.3
     female_response_2: 77.7
     male_response_1: 25.5
@@ -3984,7 +3977,7 @@
       spanish: 'No'
   poll_id: 10148
   results:
-    accurate_predict: 24.8
+    accurate_predict: 75.2
     female_response_1: 18.7
     female_response_2: 81.3
     male_response_1: 22.8
@@ -4008,7 +4001,7 @@
       spanish: Arrecife de coral
   poll_id: 10149
   results:
-    accurate_predict: 36.0
+    accurate_predict: 64.0
     female_response_1: 37.3
     female_response_2: 62.7
     male_response_1: 36.3
@@ -4032,7 +4025,7 @@
       spanish: Oso
   poll_id: 10150
   results:
-    accurate_predict: 28.9
+    accurate_predict: 71.1
     female_response_1: 41.8
     female_response_2: 58.2
     male_response_1: 26.0
@@ -4043,8 +4036,8 @@
   date: September 04, 2010
   poll:
     question:
-      english: "When serving food, does the color/style of dish make the food look\
-        \ better?"
+      english: When serving food, does the color/style of dish make the food look
+        better?
       french_canada: "La couleur et le style des plats\nrendent-ils la nourriture\
         \ plus app\xE9tissante?"
       spanish: "\xBFCrees que el color o el estilo del plato\nafecta la vistosidad\
@@ -4107,7 +4100,7 @@
       spanish: "Hurac\xE1n"
   poll_id: 10153
   results:
-    accurate_predict: 46.3
+    accurate_predict: 53.7
     female_response_1: 45.9
     female_response_2: 54.1
     male_response_1: 41.5
@@ -4157,7 +4150,7 @@
       spanish: 'No'
   poll_id: 10155
   results:
-    accurate_predict: 13.9
+    accurate_predict: 86.1
     female_response_1: 9.5
     female_response_2: 90.5
     male_response_1: 12.8
@@ -4182,7 +4175,7 @@
       spanish: "Viendo la pel\xEDcula"
   poll_id: 10156
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 19.5
@@ -4279,7 +4272,7 @@
       spanish: Alrededor de la mazorca
   poll_id: 10160
   results:
-    accurate_predict: 46.8
+    accurate_predict: 53.2
     female_response_1: 47.2
     female_response_2: 52.8
     male_response_1: 49.8
@@ -4340,7 +4333,7 @@
   date: October 02, 2010
   poll:
     question:
-      english: "When food falls on the floor, which rule is in effect?"
+      english: When food falls on the floor, which rule is in effect?
       french_canada: "Lorsque de la nourriture tombe sur\nle sol, quelle r\xE8gle\
         \ suivez-vous?"
       spanish: "Si se te cae algo de comida al piso, \xBFdespu\xE9s\nde cu\xE1nto\
@@ -4355,7 +4348,7 @@
       spanish: Cinco segundos
   poll_id: 10163
   results:
-    accurate_predict: 36.3
+    accurate_predict: 63.7
     female_response_1: 41.1
     female_response_2: 58.9
     male_response_1: 41.0
@@ -4366,7 +4359,7 @@
   date: October 05, 2010
   poll:
     question:
-      english: "Your significant other is dressed atrociously. Do you . . ."
+      english: Your significant other is dressed atrociously. Do you . . .
       french_canada: "Votre douce moiti\xE9 est habill\xE9e de\nfa\xE7on atroce. Vous..."
       spanish: "Si tu pareja se pone algo de vestir que\nle queda muy mal, \xBFle\
         \ dices...?"
@@ -4404,7 +4397,7 @@
       spanish: "Prob\xE1ndola"
   poll_id: 10165
   results:
-    accurate_predict: 21.8
+    accurate_predict: 78.2
     female_response_1: 21.0
     female_response_2: 79.0
     male_response_1: 20.0
@@ -4430,7 +4423,7 @@
       spanish: Una tarde lluviosa
   poll_id: 10166
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 12.4
     female_response_2: 87.6
     male_response_1: 20.8
@@ -4465,7 +4458,7 @@
   date: October 14, 2010
   poll:
     question:
-      english: "Which is the superior piece of playground equipment?"
+      english: Which is the superior piece of playground equipment?
       french_canada: "Quel jeu de parc est le plus g\xE9nial?"
       spanish: "\xBFCu\xE1l es el aparato que proporciona mayor\ndiversi\xF3n en un\
         \ parque infantil?"
@@ -4479,7 +4472,7 @@
       spanish: Columpio
   poll_id: 10168
   results:
-    accurate_predict: 44.7
+    accurate_predict: 55.3
     female_response_1: 40.5
     female_response_2: 59.5
     male_response_1: 41.8
@@ -4490,7 +4483,7 @@
   date: October 16, 2010
   poll:
     question:
-      english: "If people wore fruit instead of clothes, how would we wear watermelons?"
+      english: If people wore fruit instead of clothes, how would we wear watermelons?
       french_canada: "Si les gens portaient des fruits en guise\nde v\xEAtements,\
         \ les melons d'eau seraient..."
       spanish: "Si la gente se pusiera fruta en lugar de\nropa, \xBFc\xF3mo llevar\xED\
@@ -4529,7 +4522,7 @@
       spanish: La guardas por si acaso
   poll_id: 10170
   results:
-    accurate_predict: 33.5
+    accurate_predict: 66.5
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 32.7
@@ -4590,7 +4583,7 @@
   date: October 26, 2010
   poll:
     question:
-      english: "Do you have any clothing that has more than five colors?"
+      english: Do you have any clothing that has more than five colors?
       french_canada: "Avez-vous des v\xEAtements qui\nont plus de cinq couleurs?"
       spanish: "\xBFTienes ropa que tiene m\xE1s de 5 colores?"
     response_1:
@@ -4603,7 +4596,7 @@
       spanish: "\xA1Claro que no!"
   poll_id: 12267
   results:
-    accurate_predict: 44.7
+    accurate_predict: 55.3
     female_response_1: 58.5
     female_response_2: 41.5
     male_response_1: 37.2
@@ -4614,7 +4607,7 @@
   date: October 28, 2010
   poll:
     question:
-      english: "If work or school starts at 9 a.m., is that . . ."
+      english: If work or school starts at 9 a.m., is that . . .
       french_canada: "Le travail ou l'\xE9cole commence \xE0 9 h, est-ce. . ."
       spanish: "Si la escuela o el trabajo empieza\na las 9 de la ma\xF1ana, eso te\
         \ parece..."
@@ -4628,7 +4621,7 @@
       spanish: demasiado tarde
   poll_id: 12268
   results:
-    accurate_predict: 43.3
+    accurate_predict: 56.7
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 40.0
@@ -4665,7 +4658,7 @@
   date: November 02, 2010
   poll:
     question:
-      english: "If you woke up in the middle of the night, would you . . ."
+      english: If you woke up in the middle of the night, would you . . .
       french_canada: "Si vous vous r\xE9veillez au\nmilieu de la nuit, vous. . ."
       spanish: 'Cuando me despierto en mitad
 
@@ -4680,7 +4673,7 @@
       spanish: volver a dormirme
   poll_id: 12270
   results:
-    accurate_predict: 30.5
+    accurate_predict: 69.5
     female_response_1: 25.3
     female_response_2: 74.7
     male_response_1: 31.5
@@ -4728,7 +4721,7 @@
       spanish: pensar
   poll_id: 12272
   results:
-    accurate_predict: 37.0
+    accurate_predict: 63.0
     female_response_1: 30.6
     female_response_2: 69.4
     male_response_1: 37.3
@@ -4752,7 +4745,7 @@
       spanish: redondas
   poll_id: 12273
   results:
-    accurate_predict: 15.2
+    accurate_predict: 84.8
     female_response_1: 23.9
     female_response_2: 76.1
     male_response_1: 15.4
@@ -4801,7 +4794,7 @@
       spanish: menos
   poll_id: 12275
   results:
-    accurate_predict: 24.8
+    accurate_predict: 75.2
     female_response_1: 23.1
     female_response_2: 76.9
     male_response_1: 22.4
@@ -4827,7 +4820,7 @@
       spanish: llenos de agujeros
   poll_id: 12276
   results:
-    accurate_predict: 22.5
+    accurate_predict: 77.5
     female_response_1: 19.4
     female_response_2: 80.6
     male_response_1: 16.5
@@ -4838,7 +4831,7 @@
   date: November 18, 2010
   poll:
     question:
-      english: "Hippos produce this color of fluid to coat their body . . ."
+      english: Hippos produce this color of fluid to coat their body . . .
       french_canada: 'Les hippopotames produisent ce fluide
 
         de couleur pour se couvrir. . .'
@@ -4865,7 +4858,7 @@
   date: November 20, 2010
   poll:
     question:
-      english: "What are the plastic parts at the end of your shoelaces called?"
+      english: What are the plastic parts at the end of your shoelaces called?
       french_canada: 'Comment nomme-t-on le morceau de
 
         plastique au bout des lacets?'
@@ -4881,7 +4874,7 @@
       spanish: Herretes
   poll_id: 12278
   results:
-    accurate_predict: 45.2
+    accurate_predict: 54.8
     female_response_1: 34.5
     female_response_2: 65.5
     male_response_1: 39.4
@@ -4919,8 +4912,8 @@
       english: 'You found $20 while standing in line--
 
         do you ask if it belongs to someone?'
-      french_canada: "Vous trouvez 20 $ en faisant la queue. Demandez-vous s'il\
-        \ appartient \xE0 quelqu'un?"
+      french_canada: "Vous trouvez 20 $ en faisant la queue. Demandez-vous s'il appartient\
+        \ \xE0 quelqu'un?"
       spanish: "Si encuentras $20 mientras esperas en\nl\xEDnea. \xBFPreguntas si\
         \ es de alguien?"
     response_1:
@@ -5042,8 +5035,7 @@
   date: December 07, 2010
   poll:
     question:
-      english: "If you had to wear a T-shirt with a saying on it, what would it\
-        \ say?"
+      english: If you had to wear a T-shirt with a saying on it, what would it say?
       french_canada: "Que ferais-tu \xE9crire sur un t-shirt?"
       spanish: "Si tuvieras una camiseta con una frase,\n\xBFqu\xE9 dir\xEDa?"
     response_1:
@@ -5056,7 +5048,7 @@
       spanish: Soy genial
   poll_id: 12285
   results:
-    accurate_predict: 14.6
+    accurate_predict: 85.4
     female_response_1: 24.2
     female_response_2: 75.8
     male_response_1: 19.7
@@ -5067,8 +5059,8 @@
   date: December 09, 2010
   poll:
     question:
-      english: "If you played a game against someone much younger, would you let\
-        \ them win?"
+      english: If you played a game against someone much younger, would you let them
+        win?
       french_canada: 'Si vous jouez avec des gens plus
 
         jeunes que vous, les laissez-vous gagner?'
@@ -5084,7 +5076,7 @@
       spanish: No, a menos que llore
   poll_id: 12286
   results:
-    accurate_predict: 46.2
+    accurate_predict: 53.8
     female_response_1: 44.9
     female_response_2: 55.1
     male_response_1: 39.5
@@ -5095,7 +5087,7 @@
   date: December 11, 2010
   poll:
     question:
-      english: "If you get lost, do you find yourself wanting to turn . . ."
+      english: If you get lost, do you find yourself wanting to turn . . .
       french_canada: "Si vous vous perdez, de\nquel c\xF4t\xE9 irez-vous?"
       spanish: 'Si te pierdes, tu primer instinto es
 
@@ -5110,7 +5102,7 @@
       spanish: la derecha
   poll_id: 12287
   results:
-    accurate_predict: 25.9
+    accurate_predict: 74.1
     female_response_1: 34.0
     female_response_2: 66.0
     male_response_1: 28.5
@@ -5121,7 +5113,7 @@
   date: December 14, 2010
   poll:
     question:
-      english: "When you listen to music alone, do you find yourself . . ."
+      english: When you listen to music alone, do you find yourself . . .
       french_canada: "Lorsque vous \xEAtes seul et \xE9couter de la\nmusique, est-ce\
         \ que vous..."
       spanish: "Cuando escuchas m\xFAsica solo, te apetece..."
@@ -5146,7 +5138,7 @@
   date: December 16, 2010
   poll:
     question:
-      english: "On a long road trip, do you leave your shoes on or take them off?"
+      english: On a long road trip, do you leave your shoes on or take them off?
       french_canada: 'Un long voyage en voiture, avec
 
         ou sans vos souliers?'
@@ -5197,7 +5189,7 @@
   date: December 21, 2010
   poll:
     question:
-      english: "The design of your living room is mostly . . ."
+      english: The design of your living room is mostly . . .
       french_canada: "Le style de votre salon est\nprincipalement compos\xE9 de..."
       spanish: "El dise\xF1o de tu sala tiene, sobre todo..."
     response_1:
@@ -5221,7 +5213,7 @@
   date: December 23, 2010
   poll:
     question:
-      english: "What is the largest internal organ in the body?"
+      english: What is the largest internal organ in the body?
       french_canada: 'Quel est l''organe le plus large
 
         du corps humain?'
@@ -5236,7 +5228,7 @@
       spanish: "El h\xEDgado"
   poll_id: 12292
   results:
-    accurate_predict: 29.6
+    accurate_predict: 70.4
     female_response_1: 26.7
     female_response_2: 73.3
     male_response_1: 21.8
@@ -5284,7 +5276,7 @@
       spanish: Yo creo que no
   poll_id: 12294
   results:
-    accurate_predict: 15.1
+    accurate_predict: 84.9
     female_response_1: 12.2
     female_response_2: 87.8
     male_response_1: 13.8
@@ -5295,8 +5287,8 @@
   date: December 30, 2010
   poll:
     question:
-      english: "When you first wake up, how long do you stay in bed before starting\
-        \ your day?"
+      english: When you first wake up, how long do you stay in bed before starting
+        your day?
       french_canada: 'Combien de temps restez-vous dans
 
         votre lit le matin?'
@@ -5312,7 +5304,7 @@
       spanish: "M\xE1s de diez minutos"
   poll_id: 12295
   results:
-    accurate_predict: 41.0
+    accurate_predict: 59.0
     female_response_1: 45.4
     female_response_2: 54.6
     male_response_1: 47.3
@@ -5323,7 +5315,7 @@
   date: January 01, 2011
   poll:
     question:
-      english: "When drying your hands, do you prefer a towel or electric air dry?"
+      english: When drying your hands, do you prefer a towel or electric air dry?
       french_canada: "Pour s\xE9cher vos mains, prenez-vous\nla serviette ou le s\xE9\
         choir?"
       spanish: "Cuando te secas las manos, \xBFprefieres\nuna toalla o un secador\
@@ -5338,7 +5330,7 @@
       spanish: Toalla y pantalones
   poll_id: 12296
   results:
-    accurate_predict: 45.6
+    accurate_predict: 54.4
     female_response_1: 42.5
     female_response_2: 57.5
     male_response_1: 43.3
@@ -5386,7 +5378,7 @@
       spanish: Verde
   poll_id: 12298
   results:
-    accurate_predict: 52.2
+    accurate_predict: 47.8
     female_response_1: 54.5
     female_response_2: 45.5
     male_response_1: 47.2
@@ -5397,8 +5389,8 @@
   date: January 08, 2011
   poll:
     question:
-      english: "If you created a new invention, you'd want it to be an invention\
-        \ that's . . ."
+      english: If you created a new invention, you'd want it to be an invention that's
+        . . .
       french_canada: "Si vous cr\xE9ez une nouvelle invention,\nvous aimeriez qu'elle\
         \ soit . . ."
       spanish: "Si crearas algo, te gustar\xEDa que tu invenci\xF3n fuera..."
@@ -5448,7 +5440,7 @@
   date: January 13, 2011
   poll:
     question:
-      english: "In a day, how often do you look at yourself in the mirror?"
+      english: In a day, how often do you look at yourself in the mirror?
       french_canada: "Combien de fois vous regardez-vous\ndans le miroir dans une\
         \ journ\xE9e?"
       spanish: "Durante el d\xEDa, \xBFcu\xE1ntas veces\nte miras al espejo?"
@@ -5462,7 +5454,7 @@
       spanish: Cinco veces o menos
   poll_id: 12301
   results:
-    accurate_predict: 41.9
+    accurate_predict: 58.1
     female_response_1: 39.5
     female_response_2: 60.5
     male_response_1: 30.6
@@ -5473,7 +5465,7 @@
   date: January 15, 2011
   poll:
     question:
-      english: "Do you know someone that still has dial-up Internet?"
+      english: Do you know someone that still has dial-up Internet?
       french_canada: "Connaissez-vous quelqu'un qui utilise\nl'acc\xE8s par ligne\
         \ commut\xE9e?"
       spanish: "\xBFConoces a alguien que todav\xEDa tenga internet\nv\xEDa m\xF3\
@@ -5499,7 +5491,7 @@
   date: January 18, 2011
   poll:
     question:
-      english: "When boarding a plane, do you like to board first or last?"
+      english: When boarding a plane, do you like to board first or last?
       french_canada: 'Lors de l''embarquement d''un avion,
 
         embarquez-vous en premier ou en dernier?'
@@ -5525,8 +5517,8 @@
   date: January 20, 2011
   poll:
     question:
-      english: "If you had to choose one hobby to try out for a year, which would\
-        \ you choose?"
+      english: If you had to choose one hobby to try out for a year, which would you
+        choose?
       french_canada: "Si vous deviez choisir un passe-temps\npour une ann\xE9e, quel\
         \ serait-il?"
       spanish: "Si tuvieras que elegir una afici\xF3n y\nseguirla durante un a\xF1\
@@ -5541,7 +5533,7 @@
       spanish: "Observar p\xE1jaros"
   poll_id: 12304
   results:
-    accurate_predict: 39.1
+    accurate_predict: 60.9
     female_response_1: 36.6
     female_response_2: 63.4
     male_response_1: 34.7
@@ -5552,7 +5544,7 @@
   date: January 22, 2011
   poll:
     question:
-      english: "If you find a gift card on the ground, what do you do?"
+      english: If you find a gift card on the ground, what do you do?
       french_canada: 'Si vous trouvez une carte-cadeaux
 
         sur le sol, que faites-vous?'
@@ -5578,7 +5570,7 @@
   date: January 25, 2011
   poll:
     question:
-      english: "If someone was wearing a shirt inside out, would you tell them?"
+      english: If someone was wearing a shirt inside out, would you tell them?
       french_canada: "Si quelqu'un portait un gilet \xE0\nl'envers, lui diriez-vous?"
       spanish: "Si vieras a alguien que lleva una camisa\nal rev\xE9s, \xBFse lo dir\xED\
         as?"
@@ -5592,7 +5584,7 @@
       spanish: "Dir\xEDa \"bonitas etiquetas\""
   poll_id: 12306
   results:
-    accurate_predict: 43.8
+    accurate_predict: 56.2
     female_response_1: 38.2
     female_response_2: 61.8
     male_response_1: 40.9
@@ -5654,8 +5646,8 @@
   date: February 01, 2011
   poll:
     question:
-      english: "If you had a bad toothache, how long would you wait until you went\
-        \ to the dentist?"
+      english: If you had a bad toothache, how long would you wait until you went
+        to the dentist?
       french_canada: 'Vous attendez combien de temps avant
 
         d''aller chez le dentiste avec un mal de dents?'
@@ -5670,7 +5662,7 @@
       spanish: Espero
   poll_id: 12309
   results:
-    accurate_predict: 44.2
+    accurate_predict: 55.8
     female_response_1: 45.8
     female_response_2: 54.2
     male_response_1: 41.3
@@ -5696,7 +5688,7 @@
       spanish: Solo encuentro uno
   poll_id: 12310
   results:
-    accurate_predict: 30.6
+    accurate_predict: 69.4
     female_response_1: 25.2
     female_response_2: 74.8
     male_response_1: 25.6
@@ -5748,7 +5740,7 @@
       spanish: Thomas Jefferson
   poll_id: 12312
   results:
-    accurate_predict: 48.5
+    accurate_predict: 51.5
     female_response_1: 48.0
     female_response_2: 52.0
     male_response_1: 50.3
@@ -5825,7 +5817,7 @@
       spanish: el Caribe
   poll_id: 12315
   results:
-    accurate_predict: 25.2
+    accurate_predict: 74.8
     female_response_1: 28.7
     female_response_2: 71.3
     male_response_1: 29.9
@@ -5849,7 +5841,7 @@
       spanish: "Diez o m\xE1s"
   poll_id: 12316
   results:
-    accurate_predict: 21.0
+    accurate_predict: 79.0
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 24.3
@@ -5873,7 +5865,7 @@
       spanish: "\xA1Los dos!"
   poll_id: 12317
   results:
-    accurate_predict: 44.6
+    accurate_predict: 55.4
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 46.1
@@ -5884,7 +5876,7 @@
   date: February 22, 2011
   poll:
     question:
-      english: "If the milk's expiration date is past one day, do you . . ."
+      english: If the milk's expiration date is past one day, do you . . .
       french_canada: "Si la date d'expiration du lait \xE9tait\npass\xE9e d'une journ\xE9\
         e, vous . . ."
       spanish: "Si la leche expir\xF3 ayer, \xBFqu\xE9 haces?"
@@ -5898,7 +5890,7 @@
       spanish: Tirarla
   poll_id: 12318
   results:
-    accurate_predict: 21.0
+    accurate_predict: 79.0
     female_response_1: 24.6
     female_response_2: 75.4
     male_response_1: 24.6
@@ -5934,8 +5926,7 @@
   poll:
     question:
       english: Which city was originally named "Pig's Eye"?
-      french_canada: "Quelle ville a \xE9t\xE9 nomm\xE9e originalement L'oeil du\
-        \ cochon?"
+      french_canada: "Quelle ville a \xE9t\xE9 nomm\xE9e originalement L'oeil du cochon?"
       spanish: "\xBFQu\xE9 ciudad se llam\xF3 \"Ojo del Cerdo\"?"
     response_1:
       english: St. Paul
@@ -5947,7 +5938,7 @@
       spanish: Des Moines
   poll_id: 12320
   results:
-    accurate_predict: 42.7
+    accurate_predict: 57.3
     female_response_1: 39.3
     female_response_2: 60.7
     male_response_1: 42.9
@@ -5958,7 +5949,7 @@
   date: March 01, 2011
   poll:
     question:
-      english: "Windmills always turn counterclockwise, except in . . ."
+      english: Windmills always turn counterclockwise, except in . . .
       french_canada: "Les moulins \xE0 vent tournent dans le\nsens des aiguilles d'une\
         \ montre sauf en..."
       spanish: 'Los molinos siempre giran en sentido
@@ -5974,7 +5965,7 @@
       spanish: Holanda
   poll_id: 12321
   results:
-    accurate_predict: 42.5
+    accurate_predict: 57.5
     female_response_1: 49.2
     female_response_2: 50.8
     male_response_1: 49.0
@@ -5985,7 +5976,7 @@
   date: March 03, 2011
   poll:
     question:
-      english: "People in Siberia often buy this frozen on a stick . . ."
+      english: People in Siberia often buy this frozen on a stick . . .
       french_canada: "Les Sib\xE9riens ach\xE8tent souvent ceci\ncongel\xE9 sur un\
         \ b\xE2ton..."
       spanish: 'La gente de Siberia normalmente lo compra
@@ -6001,7 +5992,7 @@
       spanish: Jugo
   poll_id: 12322
   results:
-    accurate_predict: 46.8
+    accurate_predict: 53.2
     female_response_1: 46.0
     female_response_2: 54.0
     male_response_1: 39.9
@@ -6025,7 +6016,7 @@
       spanish: Me encantan
   poll_id: 12323
   results:
-    accurate_predict: 10.2
+    accurate_predict: 89.8
     female_response_1: 12.7
     female_response_2: 87.3
     male_response_1: 15.3
@@ -6036,7 +6027,7 @@
   date: March 08, 2011
   poll:
     question:
-      english: "When going to the movies with your mobile phone, do you . . ."
+      english: When going to the movies with your mobile phone, do you . . .
       french_canada: "Lorsque vous allez au cin\xE9ma avec\nvotre t\xE9l\xE9phone\
         \ cellulaire, est-ce que..."
       spanish: "Cuando llevas tu tel\xE9fono m\xF3vil al cine..."
@@ -6050,7 +6041,7 @@
       spanish: "est\xE1 en modo vibraci\xF3n"
   poll_id: 12324
   results:
-    accurate_predict: 33.1
+    accurate_predict: 66.9
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 31.4
@@ -6111,10 +6102,10 @@
   date: March 15, 2011
   poll:
     question:
-      english: "If a man says, \u201CEverything I say to you is a lie,\u201D is\
-        \ he . . ."
-      french_canada: "Si un homme dit Tout ce que je te dis est un mensonge. Dit-il.\
-        \ . ."
+      english: "If a man says, \u201CEverything I say to you is a lie,\u201D is he\
+        \ . . ."
+      french_canada: Si un homme dit Tout ce que je te dis est un mensonge. Dit-il.
+        . .
       spanish: "Si alguien te dice \"Todo lo que te digo\nes mentira\", est\xE1..."
     response_1:
       english: Telling the Truth
@@ -6126,7 +6117,7 @@
       spanish: mintiendo
   poll_id: 12327
   results:
-    accurate_predict: 45.6
+    accurate_predict: 54.4
     female_response_1: 47.7
     female_response_2: 52.3
     male_response_1: 40.8
@@ -6161,7 +6152,7 @@
   date: March 19, 2011
   poll:
     question:
-      english: "About how many miles do you think you travel on wheels in a week?"
+      english: About how many miles do you think you travel on wheels in a week?
       french_canada: Combien de km faites-vous dans une semaine?
       spanish: "\xBFCu\xE1ntas millas viajas sobre ruedas\nen una semana?"
     response_1:
@@ -6174,7 +6165,7 @@
       spanish: "100 o m\xE1s"
   poll_id: 12329
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 28.4
     female_response_2: 71.6
     male_response_1: 33.6
@@ -6200,7 +6191,7 @@
       spanish: La de afuera
   poll_id: 12330
   results:
-    accurate_predict: 26.4
+    accurate_predict: 73.6
     female_response_1: 27.0
     female_response_2: 73.0
     male_response_1: 20.7
@@ -6224,7 +6215,7 @@
       spanish: lo tiro
   poll_id: 12331
   results:
-    accurate_predict: 45.3
+    accurate_predict: 54.7
     female_response_1: 48.6
     female_response_2: 51.4
     male_response_1: 47.3
@@ -6307,8 +6298,8 @@
   date: April 02, 2011
   poll:
     question:
-      english: "Does the pitch of a tuning fork change as it \"slows down\" (i.e.,\
-        \ runs out of energy)?"
+      english: Does the pitch of a tuning fork change as it "slows down" (i.e., runs
+        out of energy)?
       french_canada: "La fr\xE9quence des sons d'un diapason\nchange lorsqu'il perd\
         \ son \xE9nergie?"
       spanish: "El tono de un diapas\xF3n, \xBFcambia cuando\nse le acaba la energ\xED\
@@ -6334,8 +6325,8 @@
   date: April 05, 2011
   poll:
     question:
-      english: "If you were floating in space, do you believe there is an up or\
-        \ down direction?"
+      english: If you were floating in space, do you believe there is an up or down
+        direction?
       french_canada: 'Si vous flottez dans l''espace, croyez-vous
 
         que le mouvement vertical existe?'
@@ -6351,7 +6342,7 @@
       spanish: 'No'
   poll_id: 12336
   results:
-    accurate_predict: 42.3
+    accurate_predict: 57.7
     female_response_1: 48.1
     female_response_2: 51.9
     male_response_1: 44.3
@@ -6362,7 +6353,7 @@
   date: April 07, 2011
   poll:
     question:
-      english: "What's the best way to remind yourself of something important?"
+      english: What's the best way to remind yourself of something important?
       french_canada: "Quelle est la meilleure fa\xE7on de vous\nsouvenir de quelque\
         \ chose d'important?"
       spanish: "Para ti, \xBFcu\xE1l es la mejor manera de recordar\nalgo importante?"
@@ -6400,7 +6391,7 @@
       spanish: La falta de espacio.
   poll_id: 12783
   results:
-    accurate_predict: 30.6
+    accurate_predict: 69.4
     female_response_1: 30.0
     female_response_2: 70.0
     male_response_1: 27.5
@@ -6411,7 +6402,7 @@
   date: April 12, 2011
   poll:
     question:
-      english: "Do you feel more comfortable shopping online or at the store?"
+      english: Do you feel more comfortable shopping online or at the store?
       french_canada: "Pr\xE9f\xE9rez-vous magasiner en\nligne ou dans un magasin?"
       spanish: "\xBFPrefieres visitar tiendas o hacer compras en l\xEDnea?"
     response_1:
@@ -6424,7 +6415,7 @@
       spanish: Visitar tiendas
   poll_id: 12784
   results:
-    accurate_predict: 37.9
+    accurate_predict: 62.1
     female_response_1: 18.3
     female_response_2: 81.7
     male_response_1: 36.2
@@ -6459,8 +6450,8 @@
   date: April 16, 2011
   poll:
     question:
-      english: "At an amusement park, what's the longest you've waited in line for\
-        \ a ride?"
+      english: At an amusement park, what's the longest you've waited in line for
+        a ride?
       french_canada: "Combien d'heures avez-vous\nd\xE9j\xE0 attendues le plus en\
         \ ligne?"
       spanish: "\xBFCu\xE1nto es lo m\xE1s que has esperado en\nla fila para subirte\
@@ -6475,7 +6466,7 @@
       spanish: Menos de dos horas.
   poll_id: 12786
   results:
-    accurate_predict: 36.7
+    accurate_predict: 63.3
     female_response_1: 22.9
     female_response_2: 77.1
     male_response_1: 29.7
@@ -6486,7 +6477,7 @@
   date: April 19, 2011
   poll:
     question:
-      english: "Do you spend more time texting or talking on the phone?"
+      english: Do you spend more time texting or talking on the phone?
       french_canada: "Communiquez-vous le plus souvent\npar texto ou par t\xE9l\xE9\
         phone?"
       spanish: "\xBFPara qu\xE9 usas m\xE1s tu tel\xE9fono celular,\npara llamadas\
@@ -6512,7 +6503,7 @@
   date: April 21, 2011
   poll:
     question:
-      english: "Do you think your pet understands your moods (e.g., happy, sad)?"
+      english: Do you think your pet understands your moods (e.g., happy, sad)?
       french_canada: "Pensez-vous que votre animal\ncomprend vos \xE9tats d'\xE2me?"
       spanish: "\xBFCrees que tu mascota puede distinguir\ntus cambios de humor (triste,\
         \ alegre)?"
@@ -6561,8 +6552,7 @@
   date: April 26, 2011
   poll:
     question:
-      english: "The next time you listen to music, how many instruments can you\
-        \ identify?"
+      english: The next time you listen to music, how many instruments can you identify?
       french_canada: "Vous \xE9coutez de la musique. Pouvez-\nvous identifier l'artiste?"
       spanish: "\xBFCu\xE1ntos instrumentos puedes identificar\ncuando escuchas una\
         \ canci\xF3n?"
@@ -6576,7 +6566,7 @@
       spanish: "M\xE1s de tres."
   poll_id: 12790
   results:
-    accurate_predict: 26.6
+    accurate_predict: 73.4
     female_response_1: 19.8
     female_response_2: 80.2
     male_response_1: 19.2
@@ -6587,7 +6577,7 @@
   date: April 28, 2011
   poll:
     question:
-      english: "What's more important for you to have on a sunny day?"
+      english: What's more important for you to have on a sunny day?
       french_canada: "Que pr\xE9f\xE9rez-vous avoir lors\nd'une journ\xE9e ensoleill\xE9\
         e?"
       spanish: "\xBFCu\xE1l accesorio te resulta m\xE1s\nindispensable en un d\xED\
@@ -6626,7 +6616,7 @@
       spanish: Hacer compras.
   poll_id: 12792
   results:
-    accurate_predict: 33.5
+    accurate_predict: 66.5
     female_response_1: 38.1
     female_response_2: 61.9
     male_response_1: 40.8
@@ -6637,7 +6627,7 @@
   date: May 03, 2011
   poll:
     question:
-      english: "The background on your computer/laptop is a photo of. . ."
+      english: The background on your computer/laptop is a photo of. . .
       french_canada: "Votre ordinateur ou ordinateur portatif\na comme fond d'\xE9\
         cran une photo. . ."
       spanish: La imagen de tu fondo de pantalla es de. . .
@@ -6662,7 +6652,7 @@
   date: May 05, 2011
   poll:
     question:
-      english: "When you wear socks, which side do you put on first?"
+      english: When you wear socks, which side do you put on first?
       french_canada: 'Quand vous enfilez vos bas,
 
         vous commencez par le. . .'
@@ -6677,7 +6667,7 @@
       spanish: El derecho.
   poll_id: 12794
   results:
-    accurate_predict: 30.1
+    accurate_predict: 69.9
     female_response_1: 38.3
     female_response_2: 61.7
     male_response_1: 33.3
@@ -6688,7 +6678,7 @@
   date: May 07, 2011
   poll:
     question:
-      english: "The color alizarin is most similar to which of these primary colors?"
+      english: The color alizarin is most similar to which of these primary colors?
       french_canada: "Quelle couleur pr\xE9f\xE9rez-vous le plus?"
       spanish: "A cu\xE1l de estos colores primarios\nse acerca m\xE1s el alizarina:"
     response_1:
@@ -6701,7 +6691,7 @@
       spanish: Rojo
   poll_id: 12795
   results:
-    accurate_predict: 50.8
+    accurate_predict: 49.2
     female_response_1: 52.3
     female_response_2: 47.7
     male_response_1: 47.9
@@ -6712,7 +6702,7 @@
   date: May 10, 2011
   poll:
     question:
-      english: "Which of these activities do you prefer doing at home?"
+      english: Which of these activities do you prefer doing at home?
       french_canada: "Quelle activit\xE9 pr\xE9f\xE9rez-vous\nfaire \xE0 la maison?"
       spanish: "\xBFCu\xE1l de estas actividades prefieres hacer en casa?"
     response_1:
@@ -6725,7 +6715,7 @@
       spanish: Comer costillitas.
   poll_id: 12796
   results:
-    accurate_predict: 24.9
+    accurate_predict: 75.1
     female_response_1: 22.2
     female_response_2: 77.8
     male_response_1: 31.2
@@ -6749,7 +6739,7 @@
       spanish: El Polo Sur
   poll_id: 12797
   results:
-    accurate_predict: 42.9
+    accurate_predict: 57.1
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 42.1
@@ -6760,7 +6750,7 @@
   date: May 14, 2011
   poll:
     question:
-      english: "Are you more likely to get locked out of your house or your car?"
+      english: Are you more likely to get locked out of your house or your car?
       french_canada: "Avez-vous plus de chance d'oublier vos\ncl\xE9s dans la maison\
         \ ou dans la voiture?"
       spanish: "\xBFQu\xE9 es m\xE1s f\xE1cil, que olvides las llaves\nde tu casa\
@@ -6775,7 +6765,7 @@
       spanish: Casa
   poll_id: 12798
   results:
-    accurate_predict: 40.3
+    accurate_predict: 59.7
     female_response_1: 33.0
     female_response_2: 67.0
     male_response_1: 41.0
@@ -6799,7 +6789,7 @@
       spanish: "La m\xFAsica."
   poll_id: 12799
   results:
-    accurate_predict: 23.4
+    accurate_predict: 76.6
     female_response_1: 30.0
     female_response_2: 70.0
     male_response_1: 26.1
@@ -6810,7 +6800,7 @@
   date: May 19, 2011
   poll:
     question:
-      english: "If you stayed up all night, you'd most likely be. . ."
+      english: If you stayed up all night, you'd most likely be. . .
       french_canada: Si vous restez debout toute la nuit, vous. . .
       spanish: 'Si pasas la noche en vela
 
@@ -6862,7 +6852,7 @@
   date: May 24, 2011
   poll:
     question:
-      english: "When you get a bad haircut, what are the typical comments?"
+      english: When you get a bad haircut, what are the typical comments?
       french_canada: 'Quels commentaires vous fait-on quand
 
         vous avez une nouvelle coupe de cheveux?'
@@ -6889,7 +6879,7 @@
   date: May 26, 2011
   poll:
     question:
-      english: "Which weighs more, an elephant or blue whale?"
+      english: Which weighs more, an elephant or blue whale?
       french_canada: "Qu'est-ce qui p\xE8se le plus? Un\n\xE9l\xE9phant ou une baleine\
         \ bleue?"
       spanish: "\xBFCu\xE1l pesa m\xE1s, un elefante o una ballena azul?"
@@ -6903,7 +6893,7 @@
       spanish: Ballena azul
   poll_id: 12803
   results:
-    accurate_predict: 13.5
+    accurate_predict: 86.5
     female_response_1: 11.5
     female_response_2: 88.5
     male_response_1: 12.2
@@ -6914,8 +6904,8 @@
   date: May 28, 2011
   poll:
     question:
-      english: "When looking at a stranger, this expression brings a smile to your\
-        \ face. . ."
+      english: When looking at a stranger, this expression brings a smile to your
+        face. . .
       french_canada: Aimez-vous les gens. . .
       spanish: "Cuando te fijas en alguien que no conoces,\ncu\xE1l de estas expresiones\
         \ te hace sonre\xEDr:"
@@ -6940,8 +6930,7 @@
   date: May 31, 2011
   poll:
     question:
-      english: "What's the best way to forget about a song that's stuck in your\
-        \ head?"
+      english: What's the best way to forget about a song that's stuck in your head?
       french_canada: "Quel moyen utilisez-vous pour enlever\nune chanson de votre\
         \ t\xEAte?"
       spanish: "\xBFQu\xE9 haces para sacarte una canci\xF3n de la cabeza?"
@@ -6966,7 +6955,7 @@
   date: June 02, 2011
   poll:
     question:
-      english: "How long was the longest timeframe you've been sick?"
+      english: How long was the longest timeframe you've been sick?
       french_canada: "Combien de temps avez-vous\n\xE9t\xE9 le plus longtemps malade?"
       spanish: "\xBFCu\xE1nto es lo m\xE1s que te ha durado\nuna enfermedad?"
     response_1:
@@ -6979,7 +6968,7 @@
       spanish: "M\xE1s de una semana."
   poll_id: 12806
   results:
-    accurate_predict: 46.4
+    accurate_predict: 53.6
     female_response_1: 40.4
     female_response_2: 59.6
     male_response_1: 51.1
@@ -6990,8 +6979,8 @@
   date: June 04, 2011
   poll:
     question:
-      english: "Someone drops a package while trying to open the door, you help\
-        \ them by. . ."
+      english: Someone drops a package while trying to open the door, you help them
+        by. . .
       french_canada: "Quelqu'un ouvre une porte et \xE9chappe\nun paquet. Vous l'aidez\
         \ en. . ."
       spanish: 'Si alguien tira un paquete tratando de abrir
@@ -7018,7 +7007,7 @@
   date: June 07, 2011
   poll:
     question:
-      english: "When you have to take a test, do you feel more nervous. . ."
+      english: When you have to take a test, do you feel more nervous. . .
       french_canada: "Lorsque vous faites un examen,\nvous ressentez la nervosit\xE9\
         . . ."
       spanish: "Cuando haces un examen,\nsientes m\xE1s nervios. . ."
@@ -7032,7 +7021,7 @@
       spanish: Esperando calificaciones.
   poll_id: 12808
   results:
-    accurate_predict: 30.1
+    accurate_predict: 69.9
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 29.7
@@ -7043,7 +7032,7 @@
   date: June 09, 2011
   poll:
     question:
-      english: "When you first turn on the TV, do you. . ."
+      english: When you first turn on the TV, do you. . .
       french_canada: "Lorsque vous ouvrez le t\xE9l\xE9viseur\npour la premi\xE8re\
         \ fois, vous . . ."
       spanish: "Cuando prendes la televisi\xF3n,\nlo primero que haces es. . ."
@@ -7083,7 +7072,7 @@
       spanish: Naranja
   poll_id: 12810
   results:
-    accurate_predict: 13.2
+    accurate_predict: 86.8
     female_response_1: 16.9
     female_response_2: 83.1
     male_response_1: 12.2
@@ -7107,7 +7096,7 @@
       spanish: Limonada amarilla
   poll_id: 12811
   results:
-    accurate_predict: 31.0
+    accurate_predict: 69.0
     female_response_1: 34.1
     female_response_2: 65.9
     male_response_1: 24.2
@@ -7118,9 +7107,9 @@
   date: June 16, 2011
   poll:
     question:
-      english: "Which would be easier, to find ten words that start with. . ."
-      french_canada: "Est-ce plus facile de trouver dix mots commen\xE7ants par\
-        \ Z ou X?"
+      english: Which would be easier, to find ten words that start with. . .
+      french_canada: "Est-ce plus facile de trouver dix mots commen\xE7ants par Z\
+        \ ou X?"
       spanish: "Es m\xE1s f\xE1cil encontrar 10 palabras que\nempiecen con. . ."
     response_1:
       english: '"Z"'
@@ -7143,8 +7132,7 @@
   date: June 18, 2011
   poll:
     question:
-      english: "When you are trying to sleep, this event would annoy you more. .\
-        \ ."
+      english: When you are trying to sleep, this event would annoy you more. . .
       french_canada: "Quand vous essayez de vous endormir,\nqu'est-ce qui vous d\xE9\
         range le plus?"
       spanish: "\xBFQu\xE9 te molesta m\xE1s mientras\ntratas de dormir?"
@@ -7158,7 +7146,7 @@
       spanish: Ver luces parpadeando.
   poll_id: 12813
   results:
-    accurate_predict: 25.9
+    accurate_predict: 74.1
     female_response_1: 30.5
     female_response_2: 69.5
     male_response_1: 30.4
@@ -7169,7 +7157,7 @@
   date: June 21, 2011
   poll:
     question:
-      english: "You're asked to help sing at a karaoke event, do you say. . ."
+      english: You're asked to help sing at a karaoke event, do you say. . .
       french_canada: "Chantez-vous lors d'une soir\xE9e de karaok\xE9?"
       spanish: "Si te piden que cantes karaoke, t\xFA dices. . ."
     response_1:
@@ -7182,7 +7170,7 @@
       spanish: No, gracias, yo paso.
   poll_id: 12814
   results:
-    accurate_predict: 38.7
+    accurate_predict: 61.3
     female_response_1: 47.7
     female_response_2: 52.3
     male_response_1: 33.0
@@ -7206,7 +7194,7 @@
       spanish: Jugando con tu celular.
   poll_id: 12815
   results:
-    accurate_predict: 23.3
+    accurate_predict: 76.7
     female_response_1: 31.6
     female_response_2: 68.4
     male_response_1: 21.5
@@ -7217,7 +7205,7 @@
   date: June 25, 2011
   poll:
     question:
-      english: "When you look outside at night, what do you notice first?"
+      english: When you look outside at night, what do you notice first?
       french_canada: "Que remarquez-vous lorsque vous\n\xEAtes dehors et qu'il fait\
         \ noir?"
       spanish: "De noche, \xBFqu\xE9 es lo primero que ves al\nmirar hacia afuera?"
@@ -7242,7 +7230,7 @@
   date: June 28, 2011
   poll:
     question:
-      english: "You have mostly group photos or individual photos of yourself?"
+      english: You have mostly group photos or individual photos of yourself?
       french_canada: 'Vous avez plus de photos de vous
 
         en groupe ou individuelles?'
@@ -7268,8 +7256,8 @@
   date: June 30, 2011
   poll:
     question:
-      english: "When someone asks you to pick a random number, do you usually pick.\
-        \ . ."
+      english: When someone asks you to pick a random number, do you usually pick.
+        . .
       french_canada: "Lorsque quelqu'un vous demande de choisir\nun num\xE9ro. Choisissez-vous\
         \ un num\xE9ro. . ."
       spanish: "Si te dicen \"piensa un n\xFAmero\",\ngeneralmente piensas. . ."
@@ -7283,7 +7271,7 @@
       spanish: "En un n\xFAmero par."
   poll_id: 12818
   results:
-    accurate_predict: 36.3
+    accurate_predict: 63.7
     female_response_1: 39.7
     female_response_2: 60.3
     male_response_1: 38.4
@@ -7294,7 +7282,7 @@
   date: July 02, 2011
   poll:
     question:
-      english: "By 2050, cars will be mass-produced to. . ."
+      english: By 2050, cars will be mass-produced to. . .
       french_canada: "D'ici \xE0 l'an 2050, les voitures. . ."
       spanish: "En el a\xF1o 2050, todos los autos podr\xE1n..."
     response_1:
@@ -7342,7 +7330,7 @@
   date: July 07, 2011
   poll:
     question:
-      english: "Growing up, were your shoes usually one size too big?"
+      english: Growing up, were your shoes usually one size too big?
       french_canada: "Quand vous \xE9tiez petit, vos\nsouliers \xE9taient toujours\
         \ trop. . ."
       spanish: "\xBFEn tu infancia, te compraban zapatos una\ntalla m\xE1s grande?"
@@ -7367,7 +7355,7 @@
   date: July 09, 2011
   poll:
     question:
-      english: "Do you scan through or just delete your junk e-mail?"
+      english: Do you scan through or just delete your junk e-mail?
       french_canada: "V\xE9rifiez-vous vos courriers ind\xE9sirables\nou vous les\
         \ supprimez?"
       spanish: "\xBFLees el correo electr\xF3nico no deseado\no lo borras sin abrirlo?"
@@ -7381,7 +7369,7 @@
       spanish: Lo borro sin abrirlo.
   poll_id: 12822
   results:
-    accurate_predict: 49.2
+    accurate_predict: 50.8
     female_response_1: 44.0
     female_response_2: 56.0
     male_response_1: 48.2
@@ -7405,7 +7393,7 @@
       spanish: No, es mucho trabajo.
   poll_id: 12823
   results:
-    accurate_predict: 38.3
+    accurate_predict: 61.7
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 33.4
@@ -7416,7 +7404,7 @@
   date: July 14, 2011
   poll:
     question:
-      english: "Do you think your brain works harder when you are asleep or awake?"
+      english: Do you think your brain works harder when you are asleep or awake?
       french_canada: "Votre cerveau travaille-t-il plus lorsque\nvous \xEAtes \xE9\
         veill\xE9 ou dormez?"
       spanish: "\xBFCrees que tu cerebro trabaja m\xE1s mientras\nduermes o cuando\
@@ -7442,7 +7430,7 @@
   date: July 16, 2011
   poll:
     question:
-      english: "Would you say clouds resemble people or animals more?"
+      english: Would you say clouds resemble people or animals more?
       french_canada: "Diriez-vous que les nuages\nressemblent \xE0 des. . ."
       spanish: "Para ti, \xBFes m\xE1s com\xFAn que las nubes tomen\nforma de gente\
         \ o de animales?"
@@ -7456,7 +7444,7 @@
       spanish: De animales.
   poll_id: 12825
   results:
-    accurate_predict: 16.2
+    accurate_predict: 83.8
     female_response_1: 22.4
     female_response_2: 77.6
     male_response_1: 14.0
@@ -7467,7 +7455,7 @@
   date: July 19, 2011
   poll:
     question:
-      english: "What's the first thing you notice that makes you feel older?"
+      english: What's the first thing you notice that makes you feel older?
       french_canada: "Quelle chose vous fait sentir plus \xE2g\xE9?"
       spanish: "\xBFQu\xE9 te hace sentir que ya no eres tan joven?"
     response_1:
@@ -7491,7 +7479,7 @@
   date: July 21, 2011
   poll:
     question:
-      english: "Without a clock or watch, how would you check for time?"
+      english: Without a clock or watch, how would you check for time?
       french_canada: 'Sans horloge ou montre, comment
 
         feriez-vous pour savoir l''heure?'
@@ -7541,7 +7529,7 @@
   date: July 26, 2011
   poll:
     question:
-      english: "If you go to an all-you-can-eat restaurant, do you eat for. . ."
+      english: If you go to an all-you-can-eat restaurant, do you eat for. . .
       french_canada: "Si vous allez dans un restaurant o\xF9\nl'on sert un buffet,\
         \ mangez-vous. . ."
       spanish: En un bufet consumes el equivalente a. . .
@@ -7555,7 +7543,7 @@
       spanish: Una comida con postre.
   poll_id: 12829
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 42.4
@@ -7579,7 +7567,7 @@
       spanish: "Si me gusta la canci\xF3n."
   poll_id: 12830
   results:
-    accurate_predict: 14.8
+    accurate_predict: 85.2
     female_response_1: 14.0
     female_response_2: 86.0
     male_response_1: 13.5
@@ -7614,7 +7602,7 @@
   date: August 02, 2011
   poll:
     question:
-      english: "How old do you think you'll be when you have enough money to retire?"
+      english: How old do you think you'll be when you have enough money to retire?
       french_canada: "\xC0 quel \xE2ge pensez-vous avoir assez\nd'argent pour prendre\
         \ votre retraite?"
       spanish: "\xBFA qu\xE9 edad crees que tendr\xE1s suficiente\ndinero ahorrado\
@@ -7640,7 +7628,7 @@
   date: August 04, 2011
   poll:
     question:
-      english: "Have you ever hidden food so that you can eat it all yourself?"
+      english: Have you ever hidden food so that you can eat it all yourself?
       french_canada: "Avez-vous d\xE9j\xE0 cach\xE9 de la nourriture\npour la garder\
         \ juste pour vous?"
       spanish: "\xBFAlguna vez has escondido comida\npara no tener que compartirla?"
@@ -7665,7 +7653,7 @@
   date: August 06, 2011
   poll:
     question:
-      english: "How often have you canceled commitments this year?"
+      english: How often have you canceled commitments this year?
       french_canada: "Avez-vous bris\xE9 plusieurs\nengagements cette ann\xE9e?"
       spanish: "\xBFHas tenido que cancelar algunos de\ntus compromisos este a\xF1\
         o?"
@@ -7679,7 +7667,7 @@
       spanish: Casi nunca hago planes.
   poll_id: 12834
   results:
-    accurate_predict: 57.1
+    accurate_predict: 42.9
     female_response_1: 51.8
     female_response_2: 48.2
     male_response_1: 47.3
@@ -7690,7 +7678,7 @@
   date: August 09, 2011
   poll:
     question:
-      english: "Have you ever tried to predict someone's response?"
+      english: Have you ever tried to predict someone's response?
       french_canada: "Avez-vous d\xE9j\xE0 pr\xE9dit ce\nque quelqu'un allait dire?"
       spanish: "\xBFHas intentado adivinar lo que\nalguien est\xE1 a punto de decir?"
     response_1:
@@ -7714,8 +7702,8 @@
   date: August 11, 2011
   poll:
     question:
-      english: "When you visit a new area, have you ever gotten lost trying to get\
-        \ home?"
+      english: When you visit a new area, have you ever gotten lost trying to get
+        home?
       french_canada: "Vous \xEAtes-vous d\xE9j\xE0 perdu\ndans un nouvel endroit?"
       spanish: "\xBFTe has perdido tratando de regresar a\ncasa luego de visitar un\
         \ lugar desconocido?"
@@ -7729,7 +7717,7 @@
       spanish: Nunca me he perdido.
   poll_id: 12836
   results:
-    accurate_predict: 45.3
+    accurate_predict: 54.7
     female_response_1: 42.8
     female_response_2: 57.2
     male_response_1: 36.3
@@ -7753,7 +7741,7 @@
       spanish: De frente o de espaldas.
   poll_id: 12837
   results:
-    accurate_predict: 49.2
+    accurate_predict: 50.8
     female_response_1: 55.6
     female_response_2: 44.4
     male_response_1: 45.7
@@ -7764,7 +7752,7 @@
   date: August 16, 2011
   poll:
     question:
-      english: "Would you turn on the lights when the sun is shining into the room?"
+      english: Would you turn on the lights when the sun is shining into the room?
       french_canada: "Ouvririez-vous la lumi\xE8re dans\nune pi\xE8ce ensoleill\xE9\
         e?"
       spanish: "\xBFPrendes la luz a\xFAn cuando el sol\nilumina la habitaci\xF3n?"
@@ -7778,7 +7766,7 @@
       spanish: "No desperdicio energ\xEDa."
   poll_id: 12838
   results:
-    accurate_predict: 23.9
+    accurate_predict: 76.1
     female_response_1: 21.4
     female_response_2: 78.6
     male_response_1: 23.2
@@ -7789,8 +7777,8 @@
   date: August 18, 2011
   poll:
     question:
-      english: "You went to the drive-thru, and they gave you a wrong order. Do\
-        \ you. . ."
+      english: You went to the drive-thru, and they gave you a wrong order. Do you.
+        . .
       french_canada: "Que faites-vous si on vous donne la\nmauvaise commande au service\
         \ \xE0 l'auto?"
       spanish: "En la ventanilla del auto-servicio te\ndan el pedido equivocado, t\xFA\
@@ -7816,7 +7804,7 @@
   date: August 20, 2011
   poll:
     question:
-      english: "Do you have bigger portions of a meal on your birthday or on a holiday?"
+      english: Do you have bigger portions of a meal on your birthday or on a holiday?
       french_canada: "Mangez-vous plus durant le temps\ndes F\xEAtes ou \xE0 votre\
         \ propre f\xEAte?"
       spanish: "\xBFComes m\xE1s en tu cumplea\xF1os o en d\xEDas festivos?"
@@ -7830,7 +7818,7 @@
       spanish: "En los d\xEDas festivos."
   poll_id: 12840
   results:
-    accurate_predict: 35.3
+    accurate_predict: 64.7
     female_response_1: 27.2
     female_response_2: 72.8
     male_response_1: 28.5
@@ -7841,8 +7829,8 @@
   date: August 23, 2011
   poll:
     question:
-      english: "If something is MIP (missing in place), how long before you find\
-        \ it again?"
+      english: If something is MIP (missing in place), how long before you find it
+        again?
       french_canada: 'Combien de temps prenez-vous
 
         pour retrouver quelque chose?'
@@ -7857,7 +7845,7 @@
       spanish: "Un d\xEDa o m\xE1s."
   poll_id: 12841
   results:
-    accurate_predict: 41.9
+    accurate_predict: 58.1
     female_response_1: 41.5
     female_response_2: 58.5
     male_response_1: 38.5
@@ -7868,8 +7856,7 @@
   date: August 25, 2011
   poll:
     question:
-      english: "You thank your family because the best cake you've ever eaten. .\
-        \ ."
+      english: You thank your family because the best cake you've ever eaten. . .
       french_canada: "Le meilleur g\xE2teau du monde a \xE9t\xE9 fait par. . ."
       spanish: 'Agradeces a tu familia porque el
 
@@ -7895,7 +7882,7 @@
   date: August 27, 2011
   poll:
     question:
-      english: "Do you typically ponder about the events for tomorrow?"
+      english: Do you typically ponder about the events for tomorrow?
       french_canada: "Lors d'un \xE9v\xE9nement important, planifiez-\nvous la journ\xE9\
         e d'avant?"
       spanish: "\xBFTe preocupas por lo que suceder\xE1\nal d\xEDa siguiente?"
@@ -7909,7 +7896,7 @@
       spanish: "S\xED, para planear mi d\xEDa."
   poll_id: 12843
   results:
-    accurate_predict: 42.5
+    accurate_predict: 57.5
     female_response_1: 43.3
     female_response_2: 56.7
     male_response_1: 46.3
@@ -7920,8 +7907,7 @@
   date: August 30, 2011
   poll:
     question:
-      english: "You usually donate or throw away your clothes because they are.\
-        \ . ."
+      english: You usually donate or throw away your clothes because they are. . .
       french_canada: "Que faites-vous avec vos vieux v\xEAtements?"
       spanish: 'Donas o tiras la ropa que ya no
 
@@ -7936,7 +7922,7 @@
       spanish: "Est\xE1 agujereada."
   poll_id: 12844
   results:
-    accurate_predict: 36.4
+    accurate_predict: 63.6
     female_response_1: 38.5
     female_response_2: 61.5
     male_response_1: 29.1
@@ -7947,7 +7933,7 @@
   date: September 01, 2011
   poll:
     question:
-      english: "Do you think people find your handwriting difficult to read?"
+      english: Do you think people find your handwriting difficult to read?
       french_canada: "Pensez-vous que les gens trouvent\nvotre \xE9criture difficile\
         \ \xE0 lire?"
       spanish: "\xBFA la gente le cuesta trabajo entender tu letra?"
@@ -7961,7 +7947,7 @@
       spanish: No, para nada.
   poll_id: 12845
   results:
-    accurate_predict: 39.5
+    accurate_predict: 60.5
     female_response_1: 40.5
     female_response_2: 59.5
     male_response_1: 54.8
@@ -7972,8 +7958,8 @@
   date: September 03, 2011
   poll:
     question:
-      english: "When you guesstimate the time of day, are you pretty close to the\
-        \ actual time?"
+      english: When you guesstimate the time of day, are you pretty close to the actual
+        time?
       french_canada: "Sans horloge, sans montre. \xCAtes-vous\ncapable de deviner\
         \ l'heure exacte?"
       spanish: "\xBFAciertas cuando tratas de adivinar la hora?"
@@ -7987,7 +7973,7 @@
       spanish: Fallo solo por minutos.
   poll_id: 12846
   results:
-    accurate_predict: 25.8
+    accurate_predict: 74.2
     female_response_1: 23.1
     female_response_2: 76.9
     male_response_1: 21.6
@@ -7998,7 +7984,7 @@
   date: September 06, 2011
   poll:
     question:
-      english: "Do you transfer photos taken with your cell phone to your computer?"
+      english: Do you transfer photos taken with your cell phone to your computer?
       french_canada: "Transf\xE9rez-vous les photos prises avec\nvotre cellulaire\
         \ \xE0 votre ordinateur?"
       spanish: "\xBFTransfieres las fotograf\xEDas que tomas\ncon tu tel\xE9fono a\
@@ -8013,7 +7999,7 @@
       spanish: "S\xED, siempre."
   poll_id: 12847
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 41.8
     female_response_2: 58.2
     male_response_1: 46.8
@@ -8024,8 +8010,7 @@
   date: September 08, 2011
   poll:
     question:
-      english: "When you are in an airplane, this event would annoy you more. .\
-        \ ."
+      english: When you are in an airplane, this event would annoy you more. . .
       french_canada: "Quand vous \xEAtes en avion, qu'est-ce\nqui vous d\xE9range\
         \ le plus?"
       spanish: "Cuando viajas en avi\xF3n, \xBFqu\xE9 te molesta m\xE1s?"
@@ -8050,8 +8035,7 @@
   date: September 10, 2011
   poll:
     question:
-      english: "In problem solving, do you see the can-do list or can't-do list\
-        \ first?"
+      english: In problem solving, do you see the can-do list or can't-do list first?
       french_canada: "Face aux probl\xE8mes, que voyez-vous en premier?"
       spanish: "Al solucionar problemas, \xBFen qu\xE9 piensas primero?"
     response_1:
@@ -8075,7 +8059,7 @@
   date: September 13, 2011
   poll:
     question:
-      english: "When you come up with creative ideas, what do you do with them?"
+      english: When you come up with creative ideas, what do you do with them?
       french_canada: "Que faites-vous avec vos id\xE9es cr\xE9atives?"
       spanish: "Cuando se te ocurre una idea creativa,\n\xBFqu\xE9 haces?"
     response_1:
@@ -8099,7 +8083,7 @@
   date: September 15, 2011
   poll:
     question:
-      english: "You're making plans for a group, how many options do you give them?"
+      english: You're making plans for a group, how many options do you give them?
       french_canada: En planifiant pour un groupe vous offrez. . .
       spanish: "Est\xE1s planeando algo para un grupo de personas.\n\xBFCu\xE1ntas\
         \ opciones les das a la gente?"
@@ -8113,7 +8097,7 @@
       spanish: "Tres o m\xE1s"
   poll_id: 14496
   results:
-    accurate_predict: 46.8
+    accurate_predict: 53.2
     female_response_1: 46.1
     female_response_2: 53.9
     male_response_1: 47.0
@@ -8124,7 +8108,7 @@
   date: September 17, 2011
   poll:
     question:
-      english: "Do you think life is more simple now or in a previous generation?"
+      english: Do you think life is more simple now or in a previous generation?
       french_canada: "Diriez-vous que la vie est ou \xE9tait\nplus simple. . ."
       spanish: "\xBFCrees que la vida es m\xE1s simple hoy en d\xEDa, o en\ngeneraciones\
         \ anteriores?"
@@ -8149,8 +8133,8 @@
   date: September 20, 2011
   poll:
     question:
-      english: "When thinking of ideas, the best group effort is found in a group\
-        \ with. . ."
+      english: When thinking of ideas, the best group effort is found in a group with.
+        . .
       french_canada: "Pour trouver de bonnes id\xE9es, le\nmeilleur groupe comprend.\
         \ . ."
       spanish: 'En cuanto a la lluvia de ideas, el mejor trabajo
@@ -8166,7 +8150,7 @@
       spanish: 5 a 10
   poll_id: 14498
   results:
-    accurate_predict: 50.1
+    accurate_predict: 49.9
     female_response_1: 53.3
     female_response_2: 46.7
     male_response_1: 47.9
@@ -8177,8 +8161,8 @@
   date: September 22, 2011
   poll:
     question:
-      english: "What do you think has changed more within the last five years, your\
-        \ body or mind?"
+      english: What do you think has changed more within the last five years, your
+        body or mind?
       french_canada: "Durant les 5 derni\xE8res ann\xE9es, c'est ce qui a chang\xE9\
         \ le plus..."
       spanish: "\xBFQu\xE9 ha cambiado m\xE1s en los \xFAltimos cinco a\xF1os,\ntu\
@@ -8204,8 +8188,8 @@
   date: September 24, 2011
   poll:
     question:
-      english: "Do your ideas change with the situation or the situation changes\
-        \ with your idea?"
+      english: Do your ideas change with the situation or the situation changes with
+        your idea?
       french_canada: "Vos id\xE9es changent selon la\nsituation ou vice-versa?"
       spanish: "\xBFTus ideas cambian seg\xFAn la situaci\xF3n, o\nla situaci\xF3\
         n cambia seg\xFAn tus ideas?"
@@ -8230,7 +8214,7 @@
   date: September 27, 2011
   poll:
     question:
-      english: "When you are done with an exam, do you go back and check your answers?"
+      english: When you are done with an exam, do you go back and check your answers?
       french_canada: "En terminant un test, v\xE9rifiez-vous vos r\xE9ponses?"
       spanish: "Cuando terminas un ex\xE1men, \xBFsueles repasar tus\nrespuestas?"
     response_1:
@@ -8254,8 +8238,7 @@
   date: September 29, 2011
   poll:
     question:
-      english: "How many times do you attempt to do something before you ask for\
-        \ help?"
+      english: How many times do you attempt to do something before you ask for help?
       french_canada: 'Combien de fois essayez-vous quelque
 
         chose avant de demander de l''aide?'
@@ -8270,7 +8253,7 @@
       spanish: Muchas veces
   poll_id: 14502
   results:
-    accurate_predict: 47.9
+    accurate_predict: 52.1
     female_response_1: 53.2
     female_response_2: 46.8
     male_response_1: 46.6
@@ -8281,10 +8264,10 @@
   date: October 01, 2011
   poll:
     question:
-      english: "Do you have a list of stuff you'd like to do before you turn a certain\
-        \ age?"
-      french_canada: "Avez-vous une liste de choses \xE0 faire avant d'atteindre\
-        \ un certain \xE2ge?"
+      english: Do you have a list of stuff you'd like to do before you turn a certain
+        age?
+      french_canada: "Avez-vous une liste de choses \xE0 faire avant d'atteindre un\
+        \ certain \xE2ge?"
       spanish: "\xBFTienes una lista de cosas que te gustar\xEDa hacer\nantes de cumplir\
         \ cierta edad?"
     response_1:
@@ -8297,7 +8280,7 @@
       spanish: "S\xED, estoy en ello"
   poll_id: 14503
   results:
-    accurate_predict: 41.4
+    accurate_predict: 58.6
     female_response_1: 46.0
     female_response_2: 54.0
     male_response_1: 43.2
@@ -8308,7 +8291,7 @@
   date: October 04, 2011
   poll:
     question:
-      english: "In a typical day, when do you usually feel like having a snack?"
+      english: In a typical day, when do you usually feel like having a snack?
       french_canada: "\xC0 quel moment de la journ\xE9e aimez-vous\nprendre une collation?"
       spanish: "En un d\xEDa t\xEDpico, \xBFcu\xE1ndo se te suele antojar\nun refrigerio?"
     response_1:
@@ -8321,7 +8304,7 @@
       spanish: Por la tarde
   poll_id: 14504
   results:
-    accurate_predict: 30.2
+    accurate_predict: 69.8
     female_response_1: 28.5
     female_response_2: 71.5
     male_response_1: 31.6
@@ -8332,7 +8315,7 @@
   date: October 06, 2011
   poll:
     question:
-      english: "The word \"Robot\" was first introduced by a writer from which country?"
+      english: The word "Robot" was first introduced by a writer from which country?
       french_canada: "Le mot \xAB robot \xBB a initialement \xE9t\xE9\nutilis\xE9\
         \ par un auteur de. . ."
       spanish: "\xBFLa palabra \"robot\" fue inventada por un escritor\nde qu\xE9\
@@ -8358,7 +8341,7 @@
   date: October 08, 2011
   poll:
     question:
-      english: "Which of these winter activities would be interesting to try?"
+      english: Which of these winter activities would be interesting to try?
       french_canada: "Laquelle de ces activit\xE9s hivernales\nserait int\xE9ressante\
         \ \xE0 essayer?"
       spanish: "\xBFCu\xE1l de estas actividades de invierno te interesa\nm\xE1s?"
@@ -8372,7 +8355,7 @@
       spanish: Snowboard
   poll_id: 14506
   results:
-    accurate_predict: 31.1
+    accurate_predict: 68.9
     female_response_1: 40.8
     female_response_2: 59.2
     male_response_1: 28.2
@@ -8383,7 +8366,7 @@
   date: October 11, 2011
   poll:
     question:
-      english: "What do you think is the greatest invention of all time?"
+      english: What do you think is the greatest invention of all time?
       french_canada: 'Quelle est la meilleure invention de
 
         tous les temps?'
@@ -8409,7 +8392,7 @@
   date: October 13, 2011
   poll:
     question:
-      english: "What do you think is the most useful resource to have?"
+      english: What do you think is the most useful resource to have?
       french_canada: "Selon vous, quelle est la meilleure\nressource \xE0 avoir?"
       spanish: "\xBFQu\xE9 te parece m\xE1s \xFAtil?"
     response_1:
@@ -8422,7 +8405,7 @@
       spanish: Computadora
   poll_id: 14508
   results:
-    accurate_predict: 34.3
+    accurate_predict: 65.7
     female_response_1: 44.7
     female_response_2: 55.3
     male_response_1: 32.4
@@ -8433,8 +8416,7 @@
   date: October 15, 2011
   poll:
     question:
-      english: "Are restroom soap dispensers usually on the left- or right-hand\
-        \ side?"
+      english: Are restroom soap dispensers usually on the left- or right-hand side?
       french_canada: "Les distributeurs de savon dans les\ntoilettes sont g\xE9n\xE9\
         ralement..."
       spanish: "\xBFLos dispensadores de jab\xF3n en los ba\xF1os suelen\nestar a\
@@ -8449,7 +8431,7 @@
       spanish: A la derecha
   poll_id: 14509
   results:
-    accurate_predict: 40.5
+    accurate_predict: 59.5
     female_response_1: 40.6
     female_response_2: 59.4
     male_response_1: 40.9
@@ -8476,7 +8458,7 @@
       spanish: No, me da lata
   poll_id: 14510
   results:
-    accurate_predict: 37.6
+    accurate_predict: 62.4
     female_response_1: 54.0
     female_response_2: 46.0
     male_response_1: 41.1
@@ -8487,7 +8469,7 @@
   date: October 20, 2011
   poll:
     question:
-      english: "You'd rather know how dinosaurs developed or how they became extinct?"
+      english: You'd rather know how dinosaurs developed or how they became extinct?
       french_canada: "Vous pr\xE9f\xE9reriez savoir comment\nles dinosaures se sont..."
       spanish: "\xBFPreferir\xEDas saber c\xF3mo llegaron a existir\nlos dinosaurios,\
         \ o c\xF3mo se extinguieron?"
@@ -8512,7 +8494,7 @@
   date: October 22, 2011
   poll:
     question:
-      english: "How often do you look at the clock throughout the day?"
+      english: How often do you look at the clock throughout the day?
       french_canada: "Combien de fois regardez-vous\nl'heure dans une journ\xE9e?"
       spanish: "\xBFCu\xE1ntas veces miras el reloj a lo largo del d\xEDa?"
     response_1:
@@ -8536,7 +8518,7 @@
   date: October 25, 2011
   poll:
     question:
-      english: "Are you living in the same city that your parents grew up in?"
+      english: Are you living in the same city that your parents grew up in?
       french_canada: "Habitez-vous la ville o\xF9\nvos parents ont grandi?"
       spanish: "\xBFVives en la misma ciudad donde crecieron\ntus padres?"
     response_1:
@@ -8560,7 +8542,7 @@
   date: October 27, 2011
   poll:
     question:
-      english: "Do you have similar hobbies as those in your family?"
+      english: Do you have similar hobbies as those in your family?
       french_canada: "Avez-vous des passe-temps similaires\n\xE0 ceux des membres\
         \ de votre famille?"
       spanish: "\xBFTus intereses son similares a los de tu familia?"
@@ -8585,7 +8567,7 @@
   date: October 29, 2011
   poll:
     question:
-      english: "Does your list of favorite foods change throughout the year?"
+      english: Does your list of favorite foods change throughout the year?
       french_canada: "Est-ce que votre liste de nourriture\npr\xE9f\xE9r\xE9e change\
         \ pendant l'ann\xE9e?"
       spanish: "\xBFTu lista de comida favorita cambia a lo largo\ndel a\xF1o?"
@@ -8610,7 +8592,7 @@
   date: November 01, 2011
   poll:
     question:
-      english: "Do you usually yell or make sounds when something scares you?"
+      english: Do you usually yell or make sounds when something scares you?
       french_canada: "G\xE9n\xE9ralement, est-ce que vous criez\nlorsque quelque chose\
         \ vous effraie?"
       spanish: "\xBFSueles gritar o emitir sonidos cuando algo\nte asusta?"
@@ -8624,7 +8606,7 @@
       spanish: "S\xED, en alto"
   poll_id: 14516
   results:
-    accurate_predict: 32.0
+    accurate_predict: 68.0
     female_response_1: 30.6
     female_response_2: 69.4
     male_response_1: 36.7
@@ -8635,8 +8617,7 @@
   date: November 03, 2011
   poll:
     question:
-      english: "If a hermit crab loses his shell, is it considered unclothed or\
-        \ homeless?"
+      english: If a hermit crab loses his shell, is it considered unclothed or homeless?
       french_canada: 'Si un bernard-l''ermite perd sa
 
         carapace il est. . .'
@@ -8663,7 +8644,7 @@
   date: November 05, 2011
   poll:
     question:
-      english: "Excluding dinner, which meal of the day do you skip most often?"
+      english: Excluding dinner, which meal of the day do you skip most often?
       french_canada: "\xC0 part le souper, quels repas\nsautez-vous le plus souvent?"
       spanish: "\xBFEs m\xE1s probable que te saltes el desayuno o el\nalmuerzo?"
     response_1:
@@ -8687,12 +8668,12 @@
   date: November 08, 2011
   poll:
     question:
-      english: "Do your fondest memories included a large group or one other person?"
+      english: Do your fondest memories included a large group or one other person?
       french_canada: 'Vos souvenirs les plus chers
 
         incluent...'
-      spanish: "\xBFTus recuerdos m\xE1s preciados incluyen un grupo de gente o\
-        \ a una persona?"
+      spanish: "\xBFTus recuerdos m\xE1s preciados incluyen un grupo de gente o a\
+        \ una persona?"
     response_1:
       english: Large group
       french_canada: Beaucoup de gens
@@ -8714,7 +8695,7 @@
   date: November 10, 2011
   poll:
     question:
-      english: "For dessert, what's the first image that comes to your mind?"
+      english: For dessert, what's the first image that comes to your mind?
       french_canada: "Si vous entendez \xAB dessert \xBB,\nqu'imaginez-vous?"
       spanish: "Cuando piensas en los postres, \xBFen qu\xE9 piensas\nprimero?"
     response_1:
@@ -8738,8 +8719,8 @@
   date: November 12, 2011
   poll:
     question:
-      english: "What do you think you see more on the roads, light- or dark-colored\
-        \ cars?"
+      english: What do you think you see more on the roads, light- or dark-colored
+        cars?
       french_canada: 'Le plus souvent, sur la route, vous
 
         voyez des voitures aux . . .'
@@ -8755,7 +8736,7 @@
       spanish: De color oscuro
   poll_id: 14521
   results:
-    accurate_predict: 42.8
+    accurate_predict: 57.2
     female_response_1: 39.7
     female_response_2: 60.3
     male_response_1: 41.0
@@ -8790,7 +8771,7 @@
   date: November 17, 2011
   poll:
     question:
-      english: "When getting dressed, do you choose your pants or shirt first?"
+      english: When getting dressed, do you choose your pants or shirt first?
       french_canada: 'Lorsque vous vous habillez,
 
         que mettez-vous en premier?'
@@ -8816,7 +8797,7 @@
   date: November 19, 2011
   poll:
     question:
-      english: "What color scheme is more common with New Year's celebrations?"
+      english: What color scheme is more common with New Year's celebrations?
       french_canada: "Quelles couleurs sont utilis\xE9es le plus\nsouvent pour c\xE9\
         l\xE9brer le jour de l'an?"
       spanish: "\xBFQu\xE9 colores se asocian m\xE1s con las celebraciones\nde A\xF1\
@@ -8855,7 +8836,7 @@
       spanish: "Pap\xE1"
   poll_id: 14525
   results:
-    accurate_predict: 47.8
+    accurate_predict: 52.2
     female_response_1: 63.2
     female_response_2: 36.8
     male_response_1: 38.2
@@ -8881,7 +8862,7 @@
       spanish: Dos por uno
   poll_id: 14526
   results:
-    accurate_predict: 43.4
+    accurate_predict: 56.6
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 40.9
@@ -8892,7 +8873,7 @@
   date: November 26, 2011
   poll:
     question:
-      english: "What do you think is more important in your road to life?"
+      english: What do you think is more important in your road to life?
       french_canada: 'Qu''est-ce qui compte le plus dans
 
         votre vie?'
@@ -8942,7 +8923,7 @@
   date: December 01, 2011
   poll:
     question:
-      english: "When you are in a very good mood, do others around you notice?"
+      english: When you are in a very good mood, do others around you notice?
       french_canada: "Les gens autour de vous remarquent\nquand vous \xEAtes de bonne\
         \ humeur."
       spanish: "Cuando est\xE1s de buen humor, \xBFlos dem\xE1s\nlo notan?"
@@ -8968,8 +8949,8 @@
   poll:
     question:
       english: When was the last time you played-hide and-seek?
-      french_canada: "Quand avez-vous jou\xE9 \xE0 la cachette pour la derni\xE8\
-        re fois?"
+      french_canada: "Quand avez-vous jou\xE9 \xE0 la cachette pour la derni\xE8re\
+        \ fois?"
       spanish: "\xBFCu\xE1ndo fue la \xFAltima vez que jugaste a\nlas escondidas?"
     response_1:
       english: Just last week.
@@ -8981,7 +8962,7 @@
       spanish: Hace mucho tiempo
   poll_id: 14530
   results:
-    accurate_predict: 32.3
+    accurate_predict: 67.7
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 28.6
@@ -8992,8 +8973,8 @@
   date: December 06, 2011
   poll:
     question:
-      english: "Winners of the game Rock, Paper, Scissors usually win because of.\
-        \ . ."
+      english: Winners of the game Rock, Paper, Scissors usually win because of. .
+        .
       french_canada: "Ceux qui gagnent \xE0 roche-papier-ciseaux\nsont victorieux\
         \ par. . ."
       spanish: 'Cuando uno gana "piedra, papel o tijera",
@@ -9034,7 +9015,7 @@
       spanish: Una chaqueta
   poll_id: 14532
   results:
-    accurate_predict: 46.0
+    accurate_predict: 54.0
     female_response_1: 48.5
     female_response_2: 51.5
     male_response_1: 40.6
@@ -9045,7 +9026,7 @@
   date: December 10, 2011
   poll:
     question:
-      english: "If you hear a song that you like, do you try to get it?"
+      english: If you hear a song that you like, do you try to get it?
       french_canada: 'Si vous entendez une chanson que vous
 
         aimez, essayez-vous de l''acheter?'
@@ -9060,7 +9041,7 @@
       spanish: "\xA1S\xED, claro!"
   poll_id: 14533
   results:
-    accurate_predict: 38.5
+    accurate_predict: 61.5
     female_response_1: 36.5
     female_response_2: 63.5
     male_response_1: 41.2
@@ -9109,7 +9090,7 @@
       spanish: Estados Unidos
   poll_id: 14535
   results:
-    accurate_predict: 27.3
+    accurate_predict: 72.7
     female_response_1: 30.8
     female_response_2: 69.2
     male_response_1: 27.6
@@ -9120,7 +9101,7 @@
   date: December 17, 2011
   poll:
     question:
-      english: "Is your special talent based on brain power or physical ability?"
+      english: Is your special talent based on brain power or physical ability?
       french_canada: "Votre talent sp\xE9cial est\nd\xFB \xE0 votre..."
       spanish: "\xBFTu mejor talento se basa en la habilidad\nmental o la habilidad\
         \ f\xEDsica?"
@@ -9145,7 +9126,7 @@
   date: December 20, 2011
   poll:
     question:
-      english: "What is more difficult when buying a present. Finding the. . ."
+      english: What is more difficult when buying a present. Finding the. . .
       french_canada: 'En cherchant un cadeau, le plus dur
 
         est de trouver. . .'
@@ -9261,7 +9242,7 @@
       spanish: "Quiz\xE1 una vez al a\xF1o"
   poll_id: 14541
   results:
-    accurate_predict: 33.7
+    accurate_predict: 66.3
     female_response_1: 32.0
     female_response_2: 68.0
     male_response_1: 29.5
@@ -9296,7 +9277,7 @@
   date: January 03, 2012
   poll:
     question:
-      english: "Do you eat your favorite food more than once a week?"
+      english: Do you eat your favorite food more than once a week?
       french_canada: "Mangez-vous votre nourriture pr\xE9f\xE9r\xE9e\nplus d'une fois\
         \ par semaine?"
       spanish: "\xBFComes tu comida favorita m\xE1s de una\nvez a la semana?"
@@ -9310,7 +9291,7 @@
       spanish: No, solo a veces
   poll_id: 14543
   results:
-    accurate_predict: 41.6
+    accurate_predict: 58.4
     female_response_1: 35.5
     female_response_2: 64.5
     male_response_1: 33.5
@@ -9321,7 +9302,7 @@
   date: January 05, 2012
   poll:
     question:
-      english: "If you lost something special somebody gave you, do you. . ."
+      english: If you lost something special somebody gave you, do you. . .
       french_canada: "Si vous perdez quelque chose que\nquelqu'un de sp\xE9cial vous\
         \ a donn\xE9..."
       spanish: 'Si pierdo un regalo especial, a la persona que
@@ -9337,7 +9318,7 @@
       spanish: No se lo digo
   poll_id: 14544
   results:
-    accurate_predict: 36.0
+    accurate_predict: 64.0
     female_response_1: 44.5
     female_response_2: 55.5
     male_response_1: 41.6
@@ -9348,7 +9329,7 @@
   date: January 07, 2012
   poll:
     question:
-      english: "If you have a lucky charm, how often do you take it with you?"
+      english: If you have a lucky charm, how often do you take it with you?
       french_canada: Si vous avez un porte-bonheur, vous l'emportez...
       spanish: "Si tienes un amuleto de la suerte, \xBFcu\xE1ndo\nlo usas?"
     response_1:
@@ -9361,7 +9342,7 @@
       spanish: Siempre, por si acaso
   poll_id: 14545
   results:
-    accurate_predict: 39.0
+    accurate_predict: 61.0
     female_response_1: 43.5
     female_response_2: 56.5
     male_response_1: 46.1
@@ -9396,7 +9377,7 @@
   date: January 12, 2012
   poll:
     question:
-      english: "Do you typically look at the shape of candy before eating it?"
+      english: Do you typically look at the shape of candy before eating it?
       french_canada: 'Est-ce que vous regardez la forme
 
         d''un bonbon avant de le manger?'
@@ -9412,7 +9393,7 @@
       spanish: No, me da igual
   poll_id: 14547
   results:
-    accurate_predict: 44.5
+    accurate_predict: 55.5
     female_response_1: 48.6
     female_response_2: 51.4
     male_response_1: 44.6
@@ -9423,8 +9404,7 @@
   date: January 14, 2012
   poll:
     question:
-      english: "If you are eating a big burger, would you cut it up or take a big\
-        \ bite?"
+      english: If you are eating a big burger, would you cut it up or take a big bite?
       french_canada: "Si vous mangez un gros burger,\nvous pr\xE9f\xE9rez. . ."
       spanish: "Al comer una hamburguesa grande, \xBFla cortar\xEDas,\no te la comer\xED\
         as a mordiscones?"
@@ -9438,7 +9418,7 @@
       spanish: A mordiscones
   poll_id: 14548
   results:
-    accurate_predict: 25.5
+    accurate_predict: 74.5
     female_response_1: 27.3
     female_response_2: 72.7
     male_response_1: 24.1
@@ -9449,7 +9429,7 @@
   date: January 17, 2012
   poll:
     question:
-      english: "Are your money bills organized or is everything mixed together?"
+      english: Are your money bills organized or is everything mixed together?
       french_canada: Vos billets d'argent sont. . .
       spanish: "\xBFTienes las cuentas de pagos bien organizadas,\no est\xE1n todas\
         \ mezcladas?"
@@ -9474,7 +9454,7 @@
   date: January 19, 2012
   poll:
     question:
-      english: "Most mountain ranges stretch north and south or east and west?"
+      english: Most mountain ranges stretch north and south or east and west?
       french_canada: "La plupart des cha\xEEnes de montagnes s'\xE9tirent..."
       spanish: "\xBFCu\xE1l es la orientaci\xF3n de la mayor\xEDa de las\ncordilleras\
         \ del mundo?"
@@ -9523,7 +9503,7 @@
   date: January 24, 2012
   poll:
     question:
-      english: "Which of these weather sounds is more pleasing to hear?"
+      english: Which of these weather sounds is more pleasing to hear?
       french_canada: "Lequel de ces sons naturels pr\xE9f\xE9rez-vous?"
       spanish: "\xBFCu\xE1l de estos sonidos de la naturaleza\nte agrada m\xE1s?"
     response_1:
@@ -9547,7 +9527,7 @@
   date: January 26, 2012
   poll:
     question:
-      english: "When singing does your tune flow with the music notes?"
+      english: When singing does your tune flow with the music notes?
       french_canada: "Quand vous chantez, suivez-vous la m\xE9lodie?"
       spanish: "Cuando cantas, \xBFtu entonaci\xF3n coincide con la\nm\xFAsica?"
     response_1:
@@ -9571,7 +9551,7 @@
   date: January 28, 2012
   poll:
     question:
-      english: "When is a good time to tell your family about an impulsive purchase?"
+      english: When is a good time to tell your family about an impulsive purchase?
       french_canada: "Quel est le bon moment d'annoncer un\nachat impulsif \xE0 votre\
         \ famille?"
       spanish: "\xBFCu\xE1l es el mejor momento para decirle a tu familia\nque has\
@@ -9586,7 +9566,7 @@
       spanish: Cuando la vean
   poll_id: 14554
   results:
-    accurate_predict: 43.2
+    accurate_predict: 56.8
     female_response_1: 38.4
     female_response_2: 61.6
     male_response_1: 39.2
@@ -9597,7 +9577,7 @@
   date: January 31, 2012
   poll:
     question:
-      english: "When deciding on a restaurant, what do you trust more?"
+      english: When deciding on a restaurant, what do you trust more?
       french_canada: 'Sur quoi vous basez-vous pour choisir
 
         un restaurant?'
@@ -9647,7 +9627,7 @@
   date: February 04, 2012
   poll:
     question:
-      english: "When giving directions, do you identify landmarks or street names?"
+      english: When giving directions, do you identify landmarks or street names?
       french_canada: "Lorsque vous donnez des directions \xE0\nquelqu'un, vous mentionnez.\
         \ . ."
       spanish: "Cuando das indicaciones, \xBFqu\xE9 sueles utilizar?"
@@ -9685,7 +9665,7 @@
       spanish: Sin pulpa
   poll_id: 14558
   results:
-    accurate_predict: 36.6
+    accurate_predict: 63.4
     female_response_1: 32.6
     female_response_2: 67.4
     male_response_1: 37.6
@@ -9720,7 +9700,7 @@
   date: February 11, 2012
   poll:
     question:
-      english: "How long does the festive decorations stay up after the holiday?"
+      english: How long does the festive decorations stay up after the holiday?
       french_canada: "Combien de temps apr\xE8s les f\xEAtes\ngardez-vous les d\xE9\
         corations?"
       spanish: "\xBFCu\xE1nto tiempo se quedan puestas las\ndecoraciones despu\xE9\
@@ -9855,7 +9835,7 @@
       spanish: Una feria
   poll_id: 14565
   results:
-    accurate_predict: 41.7
+    accurate_predict: 58.3
     female_response_1: 53.0
     female_response_2: 47.0
     male_response_1: 37.3
@@ -9866,8 +9846,8 @@
   date: February 25, 2012
   poll:
     question:
-      english: "If you hear the word chocolate, your reaction is to imagine the.\
-        \ . ."
+      english: If you hear the word chocolate, your reaction is to imagine the. .
+        .
       french_canada: "Si vous entendez le mot chocolat,\nvotre r\xE9action est d'imaginer.\
         \ . ."
       spanish: "Cuando escuchas la palabra \"caf\xE9\",\npiensas en. . ."
@@ -9892,7 +9872,7 @@
   date: February 28, 2012
   poll:
     question:
-      english: "In your home, which of these condiments is more full?"
+      english: In your home, which of these condiments is more full?
       french_canada: 'Lequel de ces condiments est plus
 
         rempli chez vous?'
@@ -9918,7 +9898,7 @@
   date: March 01, 2012
   poll:
     question:
-      english: "After eating cereal, do you drink the milk or throw it away?"
+      english: After eating cereal, do you drink the milk or throw it away?
       french_canada: "Apr\xE8s avoir mang\xE9 des c\xE9r\xE9ales,\nvous. . ."
       spanish: "Despu\xE9s de comer cereal, \xBFqu\xE9 haces con\nla leche que sobra?"
     response_1:
@@ -9955,7 +9935,7 @@
       spanish: Papi
   poll_id: 14569
   results:
-    accurate_predict: 30.8
+    accurate_predict: 69.2
     female_response_1: 22.2
     female_response_2: 77.8
     male_response_1: 31.9
@@ -9966,7 +9946,7 @@
   date: March 06, 2012
   poll:
     question:
-      english: "Are you able to concentrate better in the morning or afternoon?"
+      english: Are you able to concentrate better in the morning or afternoon?
       french_canada: "Quand \xEAtes-vous mieux concentr\xE9(e)?"
       spanish: "\xBFTe concentras mejor en la ma\xF1ana o en la tarde?"
     response_1:
@@ -9979,7 +9959,7 @@
       spanish: En la tarde
   poll_id: 14570
   results:
-    accurate_predict: 52.3
+    accurate_predict: 47.7
     female_response_1: 48.4
     female_response_2: 51.6
     male_response_1: 48.9
@@ -9990,8 +9970,7 @@
   date: March 08, 2012
   poll:
     question:
-      english: "If someone tells you the ending of a book, would you still read\
-        \ it?"
+      english: If someone tells you the ending of a book, would you still read it?
       french_canada: "Si quelqu'un vous raconte la fin d'un\nlivre, le lisez-vous\
         \ quand m\xEAme?"
       spanish: "Si alguien te cuenta el final de un libro, \xBFlo leer\xEDas\nde todas\
@@ -10017,8 +9996,7 @@
   date: March 10, 2012
   poll:
     question:
-      english: "What does the acronym VHS, found on videocassette players, stand\
-        \ for?"
+      english: What does the acronym VHS, found on videocassette players, stand for?
       french_canada: Qu'est-ce que VHS signifie?
       spanish: "\xBFQu\xE9 significan las siglas VHS en los videocasetes?"
     response_1:
@@ -10066,7 +10044,7 @@
   date: March 15, 2012
   poll:
     question:
-      english: "What do you think employers value more, education or experience?"
+      english: What do you think employers value more, education or experience?
       french_canada: "Les employeurs donnent plus de valeur \xE0. . ."
       spanish: "\xBFQu\xE9 crees que les importa m\xE1s a los empleados,\nla educaci\xF3\
         n o la experiencia?"
@@ -10080,7 +10058,7 @@
       spanish: Experiencia
   poll_id: 14574
   results:
-    accurate_predict: 42.9
+    accurate_predict: 57.1
     female_response_1: 40.4
     female_response_2: 59.6
     male_response_1: 45.5
@@ -10105,7 +10083,7 @@
       spanish: Todos juntos
   poll_id: 14575
   results:
-    accurate_predict: 40.5
+    accurate_predict: 59.5
     female_response_1: 40.2
     female_response_2: 59.8
     male_response_1: 45.2
@@ -10116,8 +10094,8 @@
   date: March 20, 2012
   poll:
     question:
-      english: "When you imagine an exotic island, the first image that comes to\
-        \ mind is . . ."
+      english: When you imagine an exotic island, the first image that comes to mind
+        is . . .
       french_canada: "Lorsque vous imaginez une \xEEle\nexotique, vous visualisez\
         \ . . ."
       spanish: "Cuando te imaginas una isla ex\xF3tica, \xBFen qu\xE9\npiensas primero?"
@@ -10142,7 +10120,7 @@
   date: March 22, 2012
   poll:
     question:
-      english: "Do you sometimes carry money in your pants pocket?"
+      english: Do you sometimes carry money in your pants pocket?
       french_canada: 'Avez-vous de l''argent dans vos poches
 
         de pantalons?'
@@ -10183,7 +10161,7 @@
       spanish: Suave
   poll_id: 14578
   results:
-    accurate_predict: 30.3
+    accurate_predict: 69.7
     female_response_1: 26.3
     female_response_2: 73.7
     male_response_1: 28.7
@@ -10194,7 +10172,7 @@
   date: March 27, 2012
   poll:
     question:
-      english: "Even when hot, I usually sleep with at least one blanket."
+      english: Even when hot, I usually sleep with at least one blanket.
       french_canada: "M\xEAme si j'ai chaud, je dors avec au\nmoins une couverte."
       spanish: 'Incluso cuando hace calor, duermo con al menos
 
@@ -10220,7 +10198,7 @@
   date: March 29, 2012
   poll:
     question:
-      english: "My drinks are usually stored in this type of cup or bottle. . ."
+      english: My drinks are usually stored in this type of cup or bottle. . .
       french_canada: 'Mes boissons sont normalement dans
 
         des verres ou des tasses. . .'
@@ -10235,7 +10213,7 @@
       spanish: Reutilizables
   poll_id: 14580
   results:
-    accurate_predict: 18.8
+    accurate_predict: 81.2
     female_response_1: 15.0
     female_response_2: 85.0
     male_response_1: 15.7
@@ -10246,8 +10224,8 @@
   date: March 31, 2012
   poll:
     question:
-      english: "I made a slight mess at a public area (restaurant, library, etc.),\
-        \ I'd. . ."
+      english: I made a slight mess at a public area (restaurant, library, etc.),
+        I'd. . .
       french_canada: "Si je fais un d\xE9g\xE2t dans un endroit public, je. . ."
       spanish: "Si ensuciara alg\xFAn lugar p\xFAblico (restaurante,\nb\xEDblioteca,\
         \ etc.). . ."
@@ -10272,7 +10250,7 @@
   date: April 03, 2012
   poll:
     question:
-      english: "Should arguments be resolved with a marshmallow or pillow fight?"
+      english: Should arguments be resolved with a marshmallow or pillow fight?
       french_canada: "Les disputes devraient \xEAtre r\xE9gl\xE9es avec des. . ."
       spanish: 'Las discusiones se deben resolver con
 
@@ -10287,7 +10265,7 @@
       spanish: "\xA1Almohadas!"
   poll_id: 14582
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 22.5
     female_response_2: 77.5
     male_response_1: 21.8
@@ -10298,7 +10276,7 @@
   date: April 05, 2012
   poll:
     question:
-      english: "What type of biometric recognition would be most popular?"
+      english: What type of biometric recognition would be most popular?
       french_canada: "Quel type de reconnaissance\nbiom\xE9trique serait plus populaire?"
       spanish: "\xBFQu\xE9 tipo de reconocimiento biom\xE9trico\nser\xEDa el m\xE1\
         s popular?"
@@ -10361,7 +10339,7 @@
       spanish: Mojadas con leche
   poll_id: 14585
   results:
-    accurate_predict: 43.2
+    accurate_predict: 56.8
     female_response_1: 55.8
     female_response_2: 44.2
     male_response_1: 39.7
@@ -10385,7 +10363,7 @@
       spanish: "Con zap\xE1tos/calcetines"
   poll_id: 14586
   results:
-    accurate_predict: 47.0
+    accurate_predict: 53.0
     female_response_1: 42.7
     female_response_2: 57.3
     male_response_1: 44.6
@@ -10420,9 +10398,9 @@
   date: April 17, 2012
   poll:
     question:
-      english: "Do you wear your favorite color of clothing often?"
-      french_canada: "Vous portez des v\xEAtements de votre couleur pr\xE9f\xE9\
-        r\xE9e..."
+      english: Do you wear your favorite color of clothing often?
+      french_canada: "Vous portez des v\xEAtements de votre couleur pr\xE9f\xE9r\xE9\
+        e..."
       spanish: "\xBFTe pones ropa de tu color favorito?"
     response_1:
       english: Almost everyday!
@@ -10434,7 +10412,7 @@
       spanish: De vez en cuando
   poll_id: 14588
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 34.3
     female_response_2: 65.7
     male_response_1: 29.9
@@ -10445,7 +10423,7 @@
   date: April 19, 2012
   poll:
     question:
-      english: "If a meeting occurs bimonthly, how often does it occur?"
+      english: If a meeting occurs bimonthly, how often does it occur?
       french_canada: "Les r\xE9unions bimensuelles se passent..."
       spanish: "Si una reuni\xF3n es bimestral, ocurre. . ."
     response_1:
@@ -10458,7 +10436,7 @@
       spanish: Cada dos meses
   poll_id: 14589
   results:
-    accurate_predict: 30.8
+    accurate_predict: 69.2
     female_response_1: 26.9
     female_response_2: 73.1
     male_response_1: 28.6
@@ -10506,7 +10484,7 @@
       spanish: "Sonrisa aut\xE9ntica"
   poll_id: 14591
   results:
-    accurate_predict: 46.6
+    accurate_predict: 53.4
     female_response_1: 37.5
     female_response_2: 62.5
     male_response_1: 47.8
@@ -10628,7 +10606,7 @@
       spanish: Primero la cabeza
   poll_id: 14596
   results:
-    accurate_predict: 40.0
+    accurate_predict: 60.0
     female_response_1: 45.1
     female_response_2: 54.9
     male_response_1: 42.4
@@ -10652,7 +10630,7 @@
       spanish: "Sonr\xEDo"
   poll_id: 14597
   results:
-    accurate_predict: 50.8
+    accurate_predict: 49.2
     female_response_1: 46.9
     female_response_2: 53.1
     male_response_1: 47.1
@@ -10663,8 +10641,8 @@
   date: May 10, 2012
   poll:
     question:
-      english: "You have the day off from work or school, would you rather spend\
-        \ time. . ."
+      english: You have the day off from work or school, would you rather spend time.
+        . .
       french_canada: "Pendant vos cong\xE9s, vous aimez\nmieux passer du temps. .\
         \ ."
       spanish: "Cuando tienes un d\xEDa libre, prefieres pasarlo. . ."
@@ -10689,7 +10667,7 @@
   date: May 12, 2012
   poll:
     question:
-      english: "When sick, do you take medicine or let your body heal itself?"
+      english: When sick, do you take medicine or let your body heal itself?
       french_canada: "Si vous \xEAtes malade, vous pr\xE9f\xE9rez. . ."
       spanish: "Cuando te enfermas, \xBFtomas medicina o dejas\nque tu cuerpo se cure\
         \ solo?"
@@ -10703,7 +10681,7 @@
       spanish: "\xA1Dame la medicina!"
   poll_id: 14599
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 26.7
     female_response_2: 73.3
     male_response_1: 31.6
@@ -10714,7 +10692,7 @@
   date: May 15, 2012
   poll:
     question:
-      english: "Do you tell people what you like or let them find out on their own?"
+      english: Do you tell people what you like or let them find out on their own?
       french_canada: "Dites-vous aux gens ce que vous aimez\nou vous les laissez le\
         \ d\xE9couvrir?"
       spanish: "\xBFLe cuentas a la gente qu\xE9 cosas te gustan,\no dejas que lo\
@@ -10753,7 +10731,7 @@
       spanish: Un paraguas
   poll_id: 14601
   results:
-    accurate_predict: 15.1
+    accurate_predict: 84.9
     female_response_1: 16.7
     female_response_2: 83.3
     male_response_1: 16.2
@@ -10777,7 +10755,7 @@
       spanish: Bien ordenado
   poll_id: 14602
   results:
-    accurate_predict: 39.7
+    accurate_predict: 60.3
     female_response_1: 31.3
     female_response_2: 68.7
     male_response_1: 37.3
@@ -10788,7 +10766,7 @@
   date: May 22, 2012
   poll:
     question:
-      english: "When you first wake up, do you stretch or go under the covers?"
+      english: When you first wake up, do you stretch or go under the covers?
       french_canada: "En vous r\xE9veillant, vous vous \xE9tirez ou vous vous cachez\
         \ sous la couverte?"
       spanish: "Cuando te despiertas, \xBFte estiras o te metes debajo\nde las s\xE1\
@@ -10814,7 +10792,7 @@
   date: May 24, 2012
   poll:
     question:
-      english: "When you win an award, do you prefer a metal or a trophy?"
+      english: When you win an award, do you prefer a metal or a trophy?
       french_canada: "Quand vous gagnez un prix, vous pr\xE9f\xE9rez. . ."
       spanish: "Cuando te dan un premio, \xBFprefieres una medalla\no un trofeo?"
     response_1:
@@ -10827,7 +10805,7 @@
       spanish: Trofeo
   poll_id: 14604
   results:
-    accurate_predict: 13.9
+    accurate_predict: 86.1
     female_response_1: 16.0
     female_response_2: 84.0
     male_response_1: 19.4
@@ -10838,9 +10816,8 @@
   date: May 26, 2012
   poll:
     question:
-      english: "While on vacationing, would you rather ride on an elephant or a\
-        \ camel?"
-      french_canada: "En vacances, aimeriez-vous faire un tour. . ."
+      english: While on vacationing, would you rather ride on an elephant or a camel?
+      french_canada: En vacances, aimeriez-vous faire un tour. . .
       spanish: "Si estuvieras de vacaciones, \xBFpreferir\xEDas montar en\nel\xE9\
         fante o en camello?"
     response_1:
@@ -10864,8 +10841,8 @@
   date: May 29, 2012
   poll:
     question:
-      english: "A sequel to a game you've never played before comes out. Which do\
-        \ you buy first?"
+      english: A sequel to a game you've never played before comes out. Which do you
+        buy first?
       french_canada: "La suite d'un jeu que vous n'avez\njamais jou\xE9 sort. Qu'achetez-vous?"
       spanish: "Lanzan la secuela de un juego que nunca\nhas jugado. \xBFCu\xE1l compras\
         \ primero?"
@@ -10914,8 +10891,7 @@
   date: June 02, 2012
   poll:
     question:
-      english: "Do you think animals can be categorized as left handed or right\
-        \ handed?"
+      english: Do you think animals can be categorized as left handed or right handed?
       french_canada: "Les animaux peuvent-ils \xEAtre gauchers ou droitiers?"
       spanish: "\xBFCrees que los animales se pueden clasificar\ncomo diestros y zurdos?"
     response_1:
@@ -10928,7 +10904,7 @@
       spanish: "\xA1Imposible!"
   poll_id: 14608
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 50.0
     female_response_2: 50.0
     male_response_1: 47.6
@@ -10952,7 +10928,7 @@
       spanish: A verduras
   poll_id: 14609
   results:
-    accurate_predict: 29.2
+    accurate_predict: 70.8
     female_response_1: 27.4
     female_response_2: 72.6
     male_response_1: 29.1
@@ -10963,8 +10939,8 @@
   date: June 07, 2012
   poll:
     question:
-      english: "When you sneeze, do you typical sneeze once or multiple times in\
-        \ a row?"
+      english: When you sneeze, do you typical sneeze once or multiple times in a
+        row?
       french_canada: "\xC9ternuez-vous g\xE9n\xE9ralement une fois\nou plusieurs fois\
         \ \xE0 la suite?"
       spanish: "Cuando estornudas, \xBFsueles hacerlo una sola vez,\no varias veces\
@@ -10979,7 +10955,7 @@
       spanish: Varias veces
   poll_id: 14610
   results:
-    accurate_predict: 31.0
+    accurate_predict: 69.0
     female_response_1: 35.8
     female_response_2: 64.2
     male_response_1: 35.3
@@ -10990,7 +10966,7 @@
   date: June 09, 2012
   poll:
     question:
-      english: "Do you get out of bed on the left side or right side?"
+      english: Do you get out of bed on the left side or right side?
       french_canada: "De quel c\xF4t\xE9 du lit vous levez-vous?"
       spanish: "\xBFDe qu\xE9 lado de la cama te levantas?"
     response_1:
@@ -11003,7 +10979,7 @@
       spanish: El lado derecho
   poll_id: 14611
   results:
-    accurate_predict: 36.7
+    accurate_predict: 63.3
     female_response_1: 56.0
     female_response_2: 44.0
     male_response_1: 45.8
@@ -11027,7 +11003,7 @@
       spanish: 'No'
   poll_id: 14612
   results:
-    accurate_predict: 26.3
+    accurate_predict: 73.7
     female_response_1: 25.2
     female_response_2: 74.8
     male_response_1: 22.8
@@ -11075,7 +11051,7 @@
       spanish: Bien cocida.
   poll_id: 16879
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 37.6
     female_response_2: 62.4
     male_response_1: 31.3
@@ -11171,7 +11147,7 @@
       spanish: Poco a poco.
   poll_id: 16883
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 44.9
@@ -11195,7 +11171,7 @@
       spanish: 'No'
   poll_id: 16884
   results:
-    accurate_predict: 45.3
+    accurate_predict: 54.7
     female_response_1: 36.2
     female_response_2: 63.8
     male_response_1: 46.2
@@ -11220,7 +11196,7 @@
       spanish: Verano
   poll_id: 16885
   results:
-    accurate_predict: 42.9
+    accurate_predict: 57.1
     female_response_1: 38.2
     female_response_2: 61.8
     male_response_1: 46.1
@@ -11293,7 +11269,7 @@
       spanish: Leer la mente.
   poll_id: 16888
   results:
-    accurate_predict: 47.5
+    accurate_predict: 52.5
     female_response_1: 41.1
     female_response_2: 58.9
     male_response_1: 53.3
@@ -11461,7 +11437,7 @@
       spanish: "\xA1Necesito del verano!"
   poll_id: 16895
   results:
-    accurate_predict: 28.5
+    accurate_predict: 71.5
     female_response_1: 28.8
     female_response_2: 71.2
     male_response_1: 27.8
@@ -11509,7 +11485,7 @@
       spanish: "\xA1Respeto las leyes!"
   poll_id: 16897
   results:
-    accurate_predict: 47.7
+    accurate_predict: 52.3
     female_response_1: 43.5
     female_response_2: 56.5
     male_response_1: 44.3
@@ -11558,7 +11534,7 @@
       spanish: Una boda
   poll_id: 16899
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 28.4
     female_response_2: 71.6
     male_response_1: 32.5
@@ -11606,7 +11582,7 @@
       spanish: "\xA1Muaa jo jo! (S\xED)"
   poll_id: 16901
   results:
-    accurate_predict: 45.1
+    accurate_predict: 54.9
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 45.7
@@ -11798,7 +11774,7 @@
       spanish: La luna
   poll_id: 16909
   results:
-    accurate_predict: 43.2
+    accurate_predict: 56.8
     female_response_1: 34.2
     female_response_2: 65.8
     male_response_1: 40.2
@@ -11846,7 +11822,7 @@
       spanish: No es posible.
   poll_id: 16911
   results:
-    accurate_predict: 22.6
+    accurate_predict: 77.4
     female_response_1: 23.6
     female_response_2: 76.4
     male_response_1: 20.9
@@ -11870,7 +11846,7 @@
       spanish: "\xBFQu\xE9 cosa?"
   poll_id: 16912
   results:
-    accurate_predict: 36.1
+    accurate_predict: 63.9
     female_response_1: 31.1
     female_response_2: 68.9
     male_response_1: 22.7
@@ -12014,7 +11990,7 @@
       spanish: No me fue necesario.
   poll_id: 16918
   results:
-    accurate_predict: 47.2
+    accurate_predict: 52.8
     female_response_1: 39.8
     female_response_2: 60.2
     male_response_1: 38.4
@@ -12087,7 +12063,7 @@
       spanish: Lisas
   poll_id: 16921
   results:
-    accurate_predict: 43.8
+    accurate_predict: 56.2
     female_response_1: 52.9
     female_response_2: 47.1
     male_response_1: 36.8
@@ -12111,7 +12087,7 @@
       spanish: Historias de fantasmas
   poll_id: 16922
   results:
-    accurate_predict: 20.6
+    accurate_predict: 79.4
     female_response_1: 43.7
     female_response_2: 56.3
     male_response_1: 17.2
@@ -12183,7 +12159,7 @@
       spanish: Bostezando.
   poll_id: 16925
   results:
-    accurate_predict: 33.4
+    accurate_predict: 66.6
     female_response_1: 36.3
     female_response_2: 63.7
     male_response_1: 31.4
@@ -12231,7 +12207,7 @@
       spanish: Sonarse los nudillos.
   poll_id: 16927
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 29.3
     female_response_2: 70.7
     male_response_1: 28.7
@@ -12303,7 +12279,7 @@
       spanish: "S\xED."
   poll_id: 16930
   results:
-    accurate_predict: 50.4
+    accurate_predict: 49.6
     female_response_1: 54.6
     female_response_2: 45.4
     male_response_1: 45.6
@@ -12351,7 +12327,7 @@
       spanish: La arena de los gatos.
   poll_id: 16932
   results:
-    accurate_predict: 38.9
+    accurate_predict: 61.1
     female_response_1: 43.2
     female_response_2: 56.8
     male_response_1: 43.0
@@ -12375,7 +12351,7 @@
       spanish: Vivir con seis personas.
   poll_id: 16933
   results:
-    accurate_predict: 52.7
+    accurate_predict: 47.3
     female_response_1: 37.6
     female_response_2: 62.4
     male_response_1: 45.5
@@ -12423,7 +12399,7 @@
       spanish: Causarlo.
   poll_id: 16935
   results:
-    accurate_predict: 47.2
+    accurate_predict: 52.8
     female_response_1: 42.5
     female_response_2: 57.5
     male_response_1: 45.7
@@ -12519,7 +12495,7 @@
       spanish: Mal aliento.
   poll_id: 16939
   results:
-    accurate_predict: 49.7
+    accurate_predict: 50.3
     female_response_1: 44.1
     female_response_2: 55.9
     male_response_1: 44.8
@@ -12567,7 +12543,7 @@
       spanish: Estar con amigos.
   poll_id: 16941
   results:
-    accurate_predict: 14.2
+    accurate_predict: 85.8
     female_response_1: 15.3
     female_response_2: 84.7
     male_response_1: 21.9
@@ -12615,7 +12591,7 @@
       spanish: "La moderaci\xF3n es clave."
   poll_id: 16943
   results:
-    accurate_predict: 35.3
+    accurate_predict: 64.7
     female_response_1: 24.0
     female_response_2: 76.0
     male_response_1: 37.2
@@ -12663,7 +12639,7 @@
       spanish: "\xA1Ni idea!"
   poll_id: 16945
   results:
-    accurate_predict: 14.5
+    accurate_predict: 85.5
     female_response_1: 10.4
     female_response_2: 89.6
     male_response_1: 15.4
@@ -12688,7 +12664,7 @@
       spanish: Los deben odiar.
   poll_id: 16946
   results:
-    accurate_predict: 28.0
+    accurate_predict: 72.0
     female_response_1: 24.0
     female_response_2: 76.0
     male_response_1: 23.1
@@ -12712,7 +12688,7 @@
       spanish: "\xA1Nada me asusta!"
   poll_id: 16947
   results:
-    accurate_predict: 42.9
+    accurate_predict: 57.1
     female_response_1: 47.1
     female_response_2: 52.9
     male_response_1: 35.1
@@ -12736,7 +12712,7 @@
       spanish: Un vegetal.
   poll_id: 16948
   results:
-    accurate_predict: 31.2
+    accurate_predict: 68.8
     female_response_1: 43.1
     female_response_2: 56.9
     male_response_1: 33.6
@@ -12784,7 +12760,7 @@
       spanish: Serpientes
   poll_id: 16950
   results:
-    accurate_predict: 26.9
+    accurate_predict: 73.1
     female_response_1: 26.7
     female_response_2: 73.3
     male_response_1: 31.0
@@ -12880,7 +12856,7 @@
       spanish: Juegos de mesa
   poll_id: 16954
   results:
-    accurate_predict: 25.2
+    accurate_predict: 74.8
     female_response_1: 26.1
     female_response_2: 73.9
     male_response_1: 23.7
@@ -12952,7 +12928,7 @@
       spanish: "\xA1Qu\xE9 tortura!"
   poll_id: 16957
   results:
-    accurate_predict: 37.8
+    accurate_predict: 62.2
     female_response_1: 32.2
     female_response_2: 67.8
     male_response_1: 42.1
@@ -12976,7 +12952,7 @@
       spanish: "\xA1Ojal\xE1!"
   poll_id: 16958
   results:
-    accurate_predict: 28.0
+    accurate_predict: 72.0
     female_response_1: 25.2
     female_response_2: 74.8
     male_response_1: 26.2
@@ -13000,7 +12976,7 @@
       spanish: Me duermo sin ayuda.
   poll_id: 16959
   results:
-    accurate_predict: 27.2
+    accurate_predict: 72.8
     female_response_1: 34.7
     female_response_2: 65.3
     male_response_1: 26.1
@@ -13024,7 +13000,7 @@
       spanish: Una frase.
   poll_id: 16960
   results:
-    accurate_predict: 49.8
+    accurate_predict: 50.2
     female_response_1: 47.1
     female_response_2: 52.9
     male_response_1: 40.0
@@ -13072,7 +13048,7 @@
       spanish: "\xA1Por m\xED!"
   poll_id: 16962
   results:
-    accurate_predict: 47.0
+    accurate_predict: 53.0
     female_response_1: 53.3
     female_response_2: 46.7
     male_response_1: 43.2
@@ -13096,7 +13072,7 @@
       spanish: Crema
   poll_id: 16963
   results:
-    accurate_predict: 44.0
+    accurate_predict: 56.0
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 45.1
@@ -13144,7 +13120,7 @@
       spanish: "No es lo m\xEDo."
   poll_id: 16965
   results:
-    accurate_predict: 25.3
+    accurate_predict: 74.7
     female_response_1: 23.9
     female_response_2: 76.1
     male_response_1: 22.1
@@ -13168,7 +13144,7 @@
       spanish: Arco y flechas.
   poll_id: 16966
   results:
-    accurate_predict: 54.1
+    accurate_predict: 45.9
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 53.3
@@ -13192,7 +13168,7 @@
       spanish: Un mundo perfecto.
   poll_id: 16967
   results:
-    accurate_predict: 42.5
+    accurate_predict: 57.5
     female_response_1: 37.0
     female_response_2: 63.0
     male_response_1: 42.6
@@ -13216,7 +13192,7 @@
       spanish: "El men\xFA me alcanza."
   poll_id: 16968
   results:
-    accurate_predict: 40.3
+    accurate_predict: 59.7
     female_response_1: 43.8
     female_response_2: 56.2
     male_response_1: 44.6
@@ -13240,7 +13216,7 @@
       spanish: No suena divertido.
   poll_id: 16969
   results:
-    accurate_predict: 41.3
+    accurate_predict: 58.7
     female_response_1: 44.2
     female_response_2: 55.8
     male_response_1: 39.4
@@ -13312,7 +13288,7 @@
       spanish: Letras de canciones
   poll_id: 16972
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 32.7
     female_response_2: 67.3
     male_response_1: 38.0
@@ -13336,7 +13312,7 @@
       spanish: "Pac\xEDfico"
   poll_id: 16973
   results:
-    accurate_predict: 30.3
+    accurate_predict: 69.7
     female_response_1: 30.3
     female_response_2: 69.7
     male_response_1: 27.5
@@ -13360,7 +13336,7 @@
       spanish: Helado
   poll_id: 16974
   results:
-    accurate_predict: 28.8
+    accurate_predict: 71.2
     female_response_1: 25.0
     female_response_2: 75.0
     male_response_1: 21.8
@@ -13481,7 +13457,7 @@
       spanish: No me interesan.
   poll_id: 16979
   results:
-    accurate_predict: 55.6
+    accurate_predict: 44.4
     female_response_1: 43.2
     female_response_2: 56.8
     male_response_1: 49.6
@@ -13505,7 +13481,7 @@
       spanish: Armando rompecabezas
   poll_id: 16980
   results:
-    accurate_predict: 29.2
+    accurate_predict: 70.8
     female_response_1: 32.9
     female_response_2: 67.1
     male_response_1: 27.2
@@ -13529,7 +13505,7 @@
       spanish: Encendedor
   poll_id: 16981
   results:
-    accurate_predict: 45.3
+    accurate_predict: 54.7
     female_response_1: 50.9
     female_response_2: 49.1
     male_response_1: 42.1
@@ -13553,7 +13529,7 @@
       spanish: "\xA1De ninguna manera!"
   poll_id: 16982
   results:
-    accurate_predict: 27.3
+    accurate_predict: 72.7
     female_response_1: 35.5
     female_response_2: 64.5
     male_response_1: 24.8
@@ -13601,7 +13577,7 @@
       spanish: Monedas
   poll_id: 16984
   results:
-    accurate_predict: 36.6
+    accurate_predict: 63.4
     female_response_1: 40.9
     female_response_2: 59.1
     male_response_1: 38.2
@@ -13625,7 +13601,7 @@
       spanish: "\xBFPara qu\xE9 molestarme?"
   poll_id: 16985
   results:
-    accurate_predict: 36.5
+    accurate_predict: 63.5
     female_response_1: 45.6
     female_response_2: 54.4
     male_response_1: 34.8
@@ -13697,7 +13673,7 @@
       spanish: No hago esas cosas.
   poll_id: 16988
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 27.8
     female_response_2: 72.2
     male_response_1: 25.3
@@ -13745,7 +13721,7 @@
       spanish: "\xA1Piel de gallina!"
   poll_id: 16990
   results:
-    accurate_predict: 31.3
+    accurate_predict: 68.7
     female_response_1: 23.4
     female_response_2: 76.6
     male_response_1: 29.5
@@ -13841,7 +13817,7 @@
       spanish: "Aguanto la respiraci\xF3n."
   poll_id: 16994
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 37.1
     female_response_2: 62.9
     male_response_1: 26.3
@@ -13865,7 +13841,7 @@
       spanish: "No, yo soy comiqu\xEDsimo."
   poll_id: 16995
   results:
-    accurate_predict: 57.3
+    accurate_predict: 42.7
     female_response_1: 54.6
     female_response_2: 45.4
     male_response_1: 45.4
@@ -13889,7 +13865,7 @@
       spanish: "Una rodaja est\xE1 bien."
   poll_id: 16996
   results:
-    accurate_predict: 40.5
+    accurate_predict: 59.5
     female_response_1: 44.2
     female_response_2: 55.8
     male_response_1: 37.5
@@ -13937,7 +13913,7 @@
       spanish: "\xBFAhora?"
   poll_id: 16998
   results:
-    accurate_predict: 45.9
+    accurate_predict: 54.1
     female_response_1: 42.0
     female_response_2: 58.0
     male_response_1: 50.0
@@ -13961,7 +13937,7 @@
       spanish: "Prefiero pl\xE1stico."
   poll_id: 16999
   results:
-    accurate_predict: 46.5
+    accurate_predict: 53.5
     female_response_1: 47.8
     female_response_2: 52.2
     male_response_1: 47.5
@@ -14009,7 +13985,7 @@
       spanish: Un todo terreno
   poll_id: 17001
   results:
-    accurate_predict: 43.7
+    accurate_predict: 56.3
     female_response_1: 44.0
     female_response_2: 56.0
     male_response_1: 43.0
@@ -14057,7 +14033,7 @@
       spanish: "La monta\xF1a rusa"
   poll_id: 17003
   results:
-    accurate_predict: 22.1
+    accurate_predict: 77.9
     female_response_1: 35.7
     female_response_2: 64.3
     male_response_1: 25.3
@@ -14081,7 +14057,7 @@
       spanish: "\xBFTe vas de viaje?"
   poll_id: 17004
   results:
-    accurate_predict: 26.7
+    accurate_predict: 73.3
     female_response_1: 28.9
     female_response_2: 71.1
     male_response_1: 38.0
@@ -14129,7 +14105,7 @@
       spanish: "\xA1S\xED, y me encanta!"
   poll_id: 17006
   results:
-    accurate_predict: 33.2
+    accurate_predict: 66.8
     female_response_1: 36.8
     female_response_2: 63.2
     male_response_1: 44.2
@@ -14153,7 +14129,7 @@
       spanish: "La dejas para m\xE1s tarde."
   poll_id: 17007
   results:
-    accurate_predict: 30.8
+    accurate_predict: 69.2
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 34.7
@@ -14177,7 +14153,7 @@
       spanish: Uno que haga de todo.
   poll_id: 17008
   results:
-    accurate_predict: 14.9
+    accurate_predict: 85.1
     female_response_1: 20.2
     female_response_2: 79.8
     male_response_1: 13.7
@@ -14275,7 +14251,7 @@
       spanish: "Animaci\xF3n Digital"
   poll_id: 17012
   results:
-    accurate_predict: 28.3
+    accurate_predict: 71.7
     female_response_1: 34.2
     female_response_2: 65.8
     male_response_1: 32.1
@@ -14323,7 +14299,7 @@
       spanish: Se lo encargo a alguien.
   poll_id: 17014
   results:
-    accurate_predict: 25.4
+    accurate_predict: 74.6
     female_response_1: 23.3
     female_response_2: 76.7
     male_response_1: 27.0
@@ -14347,7 +14323,7 @@
       spanish: Espero que me guste.
   poll_id: 17015
   results:
-    accurate_predict: 38.9
+    accurate_predict: 61.1
     female_response_1: 40.4
     female_response_2: 59.6
     male_response_1: 38.4
@@ -14359,7 +14335,7 @@
   poll:
     question:
       english: When you select a beverage, you go with . . .
-      french_canada: "Lorsque vous choisissez une boisson, c'est. . ."
+      french_canada: Lorsque vous choisissez une boisson, c'est. . .
       spanish: 'Cuando eliges una bebida,
 
         prefieres . . .'
@@ -14373,7 +14349,7 @@
       spanish: La original, por favor.
   poll_id: 17016
   results:
-    accurate_predict: 18.7
+    accurate_predict: 81.3
     female_response_1: 24.8
     female_response_2: 75.2
     male_response_1: 13.4
@@ -14397,7 +14373,7 @@
       spanish: Derecho
   poll_id: 17017
   results:
-    accurate_predict: 23.2
+    accurate_predict: 76.8
     female_response_1: 25.8
     female_response_2: 74.2
     male_response_1: 27.4
@@ -14447,7 +14423,7 @@
       spanish: Poco probable.
   poll_id: 17019
   results:
-    accurate_predict: 35.7
+    accurate_predict: 64.3
     female_response_1: 33.5
     female_response_2: 66.5
     male_response_1: 41.4
@@ -14519,7 +14495,7 @@
       spanish: "El vers\xE1til pincel."
   poll_id: 17022
   results:
-    accurate_predict: 37.2
+    accurate_predict: 62.8
     female_response_1: 40.5
     female_response_2: 59.5
     male_response_1: 29.3
@@ -14543,7 +14519,7 @@
       spanish: Liebre
   poll_id: 17023
   results:
-    accurate_predict: 25.1
+    accurate_predict: 74.9
     female_response_1: 31.7
     female_response_2: 68.3
     male_response_1: 26.4
@@ -14567,7 +14543,7 @@
       spanish: "\xA1Para nada!"
   poll_id: 17024
   results:
-    accurate_predict: 48.5
+    accurate_predict: 51.5
     female_response_1: 35.9
     female_response_2: 64.1
     male_response_1: 46.8
@@ -14639,7 +14615,7 @@
       spanish: No.
   poll_id: 17027
   results:
-    accurate_predict: 14.4
+    accurate_predict: 85.6
     female_response_1: 14.6
     female_response_2: 85.4
     male_response_1: 12.0
@@ -14651,7 +14627,7 @@
   poll:
     question:
       english: You find a message in a bottle. You . . .
-      french_canada: "Vous trouvez un message dans une bouteille. Vous. . ."
+      french_canada: Vous trouvez un message dans une bouteille. Vous. . .
       spanish: 'Si encuentras una botella con un
 
         mensaje. Tu . . .'
@@ -14813,7 +14789,7 @@
       spanish: Poco probable.
   poll_id: 19220
   results:
-    accurate_predict: 40.4
+    accurate_predict: 59.6
     female_response_1: 50.6
     female_response_2: 49.4
     male_response_1: 43.4

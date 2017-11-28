@@ -27,7 +27,7 @@
       german: Schlafen
   poll_id: 275
   results:
-    accurate_predict: 47.7
+    accurate_predict: 52.3
     female_response_1: 36.4
     female_response_2: 63.6
     male_response_1: 46.5
@@ -45,7 +45,7 @@
       german: Zuhause entspannen
   poll_id: 276
   results:
-    accurate_predict: 70.2
+    accurate_predict: 29.8
     female_response_1: 24.5
     female_response_2: 75.5
     male_response_1: 28.9
@@ -81,7 +81,7 @@
       german: Flug
   poll_id: 278
   results:
-    accurate_predict: 31.9
+    accurate_predict: 68.1
     female_response_1: 23.3
     female_response_2: 76.7
     male_response_1: 26.0
@@ -135,7 +135,7 @@
       german: Spinne
   poll_id: 281
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 40.8
     female_response_2: 59.2
     male_response_1: 46.0
@@ -171,7 +171,7 @@
       german: Brief
   poll_id: 283
   results:
-    accurate_predict: 35.1
+    accurate_predict: 64.9
     female_response_1: 18.7
     female_response_2: 81.3
     male_response_1: 35.9
@@ -189,7 +189,7 @@
       german: Nein
   poll_id: 284
   results:
-    accurate_predict: 31.3
+    accurate_predict: 68.7
     female_response_1: 20.0
     female_response_2: 80.0
     male_response_1: 24.5
@@ -243,7 +243,7 @@
       german: "Nachtschw\xE4rmer"
   poll_id: 287
   results:
-    accurate_predict: 19.9
+    accurate_predict: 80.1
     female_response_1: 41.9
     female_response_2: 58.1
     male_response_1: 29.5
@@ -261,7 +261,7 @@
       german: Tiger
   poll_id: 288
   results:
-    accurate_predict: 60.2
+    accurate_predict: 39.8
     female_response_1: 38.1
     female_response_2: 61.9
     male_response_1: 39.6
@@ -279,7 +279,7 @@
       german: Gitarrist
   poll_id: 289
   results:
-    accurate_predict: 13.1
+    accurate_predict: 86.9
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 29.6
@@ -335,7 +335,7 @@
       german: Nein
   poll_id: 292
   results:
-    accurate_predict: 54.3
+    accurate_predict: 45.7
     female_response_1: 55.0
     female_response_2: 45.0
     male_response_1: 44.0
@@ -353,7 +353,7 @@
       german: Hunde
   poll_id: 293
   results:
-    accurate_predict: 23.1
+    accurate_predict: 76.9
     female_response_1: 47.8
     female_response_2: 52.2
     male_response_1: 43.4
@@ -389,7 +389,7 @@
       german: "S\xFC\xDF"
   poll_id: 295
   results:
-    accurate_predict: 20.9
+    accurate_predict: 79.1
     female_response_1: 39.3
     female_response_2: 60.7
     male_response_1: 49.7
@@ -407,7 +407,7 @@
       german: Nein
   poll_id: 296
   results:
-    accurate_predict: 34.3
+    accurate_predict: 65.7
     female_response_1: 30.5
     female_response_2: 69.5
     male_response_1: 14.6
@@ -425,7 +425,7 @@
       german: Naturwissenschaften
   poll_id: 297
   results:
-    accurate_predict: 27.5
+    accurate_predict: 72.5
     female_response_1: 42.5
     female_response_2: 57.5
     male_response_1: 31.0
@@ -436,15 +436,15 @@
   date: April 05, 2007
   poll:
     question:
-      german: "Du siehst in einem Schaufenster etwas, das du unbedingt haben musst.\
-        \ Was tust du?"
+      german: Du siehst in einem Schaufenster etwas, das du unbedingt haben musst.
+        Was tust du?
     response_1:
       german: Rein und kaufen!
     response_2:
       german: "\xDCberlegen"
   poll_id: 298
   results:
-    accurate_predict: 46.6
+    accurate_predict: 53.4
     female_response_1: 37.4
     female_response_2: 62.6
     male_response_1: 34.8
@@ -462,7 +462,7 @@
       german: Blau
   poll_id: 299
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 47.2
     female_response_2: 52.8
     male_response_1: 29.5
@@ -473,14 +473,14 @@
   date: April 10, 2007
   poll:
     question:
-      german: "Du musst eine Rede vor vielen Leuten halten..."
+      german: Du musst eine Rede vor vielen Leuten halten...
     response_1:
       german: Aber klar!
     response_2:
       german: Ich muss weg!
   poll_id: 300
   results:
-    accurate_predict: 21.3
+    accurate_predict: 78.7
     female_response_1: 37.8
     female_response_2: 62.2
     male_response_1: 46.9
@@ -498,7 +498,7 @@
       german: "Kom\xF6dien"
   poll_id: 301
   results:
-    accurate_predict: 58.4
+    accurate_predict: 41.6
     female_response_1: 30.1
     female_response_2: 69.9
     male_response_1: 53.7
@@ -552,7 +552,7 @@
       german: Ei
   poll_id: 304
   results:
-    accurate_predict: 46.5
+    accurate_predict: 53.5
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 48.6
@@ -570,7 +570,7 @@
       german: Nein
   poll_id: 305
   results:
-    accurate_predict: 51.8
+    accurate_predict: 48.2
     female_response_1: 52.8
     female_response_2: 47.2
     male_response_1: 41.8
@@ -624,7 +624,7 @@
       german: Rocker
   poll_id: 308
   results:
-    accurate_predict: 37.3
+    accurate_predict: 62.7
     female_response_1: 32.5
     female_response_2: 67.5
     male_response_1: 33.7
@@ -642,7 +642,7 @@
       german: Stadt
   poll_id: 309
   results:
-    accurate_predict: 23.1
+    accurate_predict: 76.9
     female_response_1: 49.0
     female_response_2: 51.0
     male_response_1: 42.6
@@ -678,7 +678,7 @@
       german: Modern
   poll_id: 311
   results:
-    accurate_predict: 3.8
+    accurate_predict: 96.2
     female_response_1: 9.8
     female_response_2: 90.2
     male_response_1: 10.4
@@ -696,7 +696,7 @@
       german: Zukunft
   poll_id: 312
   results:
-    accurate_predict: 21.0
+    accurate_predict: 79.0
     female_response_1: 48.2
     female_response_2: 51.8
     male_response_1: 39.6
@@ -714,7 +714,7 @@
       german: Der rechte Arm.
   poll_id: 1670
   results:
-    accurate_predict: 36.5
+    accurate_predict: 63.5
     female_response_1: 42.9
     female_response_2: 57.1
     male_response_1: 42.5
@@ -732,7 +732,7 @@
       german: "...schl\xE4fst weiter."
   poll_id: 1671
   results:
-    accurate_predict: 28.7
+    accurate_predict: 71.3
     female_response_1: 37.5
     female_response_2: 62.5
     male_response_1: 35.6
@@ -786,7 +786,7 @@
       german: Aufessen
   poll_id: 1674
   results:
-    accurate_predict: 19.3
+    accurate_predict: 80.7
     female_response_1: 20.9
     female_response_2: 79.1
     male_response_1: 10.8
@@ -804,7 +804,7 @@
       german: Nein
   poll_id: 1675
   results:
-    accurate_predict: 42.8
+    accurate_predict: 57.2
     female_response_1: 20.4
     female_response_2: 79.6
     male_response_1: 25.0
@@ -876,7 +876,7 @@
       german: Nein
   poll_id: 1679
   results:
-    accurate_predict: 23.5
+    accurate_predict: 76.5
     female_response_1: 41.9
     female_response_2: 58.1
     male_response_1: 29.8
@@ -894,7 +894,7 @@
       german: Nein
   poll_id: 1680
   results:
-    accurate_predict: 25.5
+    accurate_predict: 74.5
     female_response_1: 32.0
     female_response_2: 68.0
     male_response_1: 21.0
@@ -984,7 +984,7 @@
       german: Nein
   poll_id: 1867
   results:
-    accurate_predict: 5.8
+    accurate_predict: 94.2
     female_response_1: 4.2
     female_response_2: 95.8
     male_response_1: 5.7
@@ -1020,7 +1020,7 @@
       german: Dunkle
   poll_id: 1869
   results:
-    accurate_predict: 16.2
+    accurate_predict: 83.8
     female_response_1: 36.5
     female_response_2: 63.5
     male_response_1: 38.8
@@ -1038,7 +1038,7 @@
       german: "Pers\xF6nlichkeit"
   poll_id: 1870
   results:
-    accurate_predict: 26.7
+    accurate_predict: 73.3
     female_response_1: 13.0
     female_response_2: 87.0
     male_response_1: 20.9
@@ -1074,7 +1074,7 @@
       german: Snowboarden
   poll_id: 1872
   results:
-    accurate_predict: 30.5
+    accurate_predict: 69.5
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 38.9
@@ -1092,7 +1092,7 @@
       german: Ist mir egal!
   poll_id: 1873
   results:
-    accurate_predict: 58.2
+    accurate_predict: 41.8
     female_response_1: 60.3
     female_response_2: 39.7
     male_response_1: 46.8
@@ -1110,7 +1110,7 @@
       german: "Zweite Jahresh\xE4lfte"
   poll_id: 1874
   results:
-    accurate_predict: 45.5
+    accurate_predict: 54.5
     female_response_1: 50.4
     female_response_2: 49.6
     male_response_1: 49.0
@@ -1128,7 +1128,7 @@
       german: Schwarz
   poll_id: 1875
   results:
-    accurate_predict: 64.9
+    accurate_predict: 35.1
     female_response_1: 51.9
     female_response_2: 48.1
     male_response_1: 38.2
@@ -1164,7 +1164,7 @@
       german: Fast Food
   poll_id: 1877
   results:
-    accurate_predict: 20.7
+    accurate_predict: 79.3
     female_response_1: 56.9
     female_response_2: 43.1
     male_response_1: 29.9
@@ -1182,7 +1182,7 @@
       german: Hab's verbockt!
   poll_id: 1878
   results:
-    accurate_predict: 21.5
+    accurate_predict: 78.5
     female_response_1: 23.2
     female_response_2: 76.8
     male_response_1: 26.3
@@ -1200,7 +1200,7 @@
       german: Ausgeben
   poll_id: 1879
   results:
-    accurate_predict: 39.7
+    accurate_predict: 60.3
     female_response_1: 50.9
     female_response_2: 49.1
     male_response_1: 44.7
@@ -1236,7 +1236,7 @@
       german: '...Swimmingpool!'
   poll_id: 1881
   results:
-    accurate_predict: 4.1
+    accurate_predict: 95.9
     female_response_1: 6.6
     female_response_2: 93.4
     male_response_1: 11.6
@@ -1254,7 +1254,7 @@
       german: Nein
   poll_id: 1882
   results:
-    accurate_predict: 56.3
+    accurate_predict: 43.7
     female_response_1: 62.6
     female_response_2: 37.4
     male_response_1: 43.6
@@ -1290,7 +1290,7 @@
       german: Noch warten
   poll_id: 1884
   results:
-    accurate_predict: 23.5
+    accurate_predict: 76.5
     female_response_1: 41.1
     female_response_2: 58.9
     male_response_1: 25.0
@@ -1308,7 +1308,7 @@
       german: CD
   poll_id: 1885
   results:
-    accurate_predict: 55.3
+    accurate_predict: 44.7
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 43.9
@@ -1362,7 +1362,7 @@
       german: Introvertiert
   poll_id: 1888
   results:
-    accurate_predict: 55.5
+    accurate_predict: 44.5
     female_response_1: 48.4
     female_response_2: 51.6
     male_response_1: 42.1
@@ -1380,7 +1380,7 @@
       german: Italienisch
   poll_id: 1889
   results:
-    accurate_predict: 19.1
+    accurate_predict: 80.9
     female_response_1: 35.8
     female_response_2: 64.2
     male_response_1: 35.6
@@ -1398,7 +1398,7 @@
       german: "...arm und gl\xFCcklich?"
   poll_id: 1890
   results:
-    accurate_predict: 24.1
+    accurate_predict: 75.9
     female_response_1: 17.8
     female_response_2: 82.2
     male_response_1: 27.1
@@ -1434,7 +1434,7 @@
       german: DVDs
   poll_id: 1892
   results:
-    accurate_predict: 43.2
+    accurate_predict: 56.8
     female_response_1: 39.2
     female_response_2: 60.8
     male_response_1: 44.9
@@ -1488,7 +1488,7 @@
       german: Digital
   poll_id: 1895
   results:
-    accurate_predict: 31.0
+    accurate_predict: 69.0
     female_response_1: 53.1
     female_response_2: 46.9
     male_response_1: 43.7
@@ -1506,7 +1506,7 @@
       german: '...riskierst es.'
   poll_id: 1896
   results:
-    accurate_predict: 28.8
+    accurate_predict: 71.2
     female_response_1: 30.3
     female_response_2: 69.7
     male_response_1: 13.0
@@ -1542,7 +1542,7 @@
       german: PC
   poll_id: 2501
   results:
-    accurate_predict: 47.4
+    accurate_predict: 52.6
     female_response_1: 53.6
     female_response_2: 46.4
     male_response_1: 36.9
@@ -1578,7 +1578,7 @@
       german: Nein
   poll_id: 2503
   results:
-    accurate_predict: 32.3
+    accurate_predict: 67.7
     female_response_1: 49.1
     female_response_2: 50.9
     male_response_1: 30.5
@@ -1616,7 +1616,7 @@
       german: Niemals
   poll_id: 2505
   results:
-    accurate_predict: 34.0
+    accurate_predict: 66.0
     female_response_1: 41.2
     female_response_2: 58.8
     male_response_1: 37.2
@@ -1670,7 +1670,7 @@
       german: Nein
   poll_id: 2508
   results:
-    accurate_predict: 29.7
+    accurate_predict: 70.3
     female_response_1: 20.3
     female_response_2: 79.7
     male_response_1: 23.6
@@ -1688,7 +1688,7 @@
       german: Realist
   poll_id: 2509
   results:
-    accurate_predict: 44.4
+    accurate_predict: 55.6
     female_response_1: 48.7
     female_response_2: 51.3
     male_response_1: 43.9
@@ -1724,7 +1724,7 @@
       german: Knusprig!
   poll_id: 2511
   results:
-    accurate_predict: 31.4
+    accurate_predict: 68.6
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 36.5
@@ -1760,7 +1760,7 @@
       german: Im Weltall
   poll_id: 2513
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 63.9
     female_response_2: 36.1
     male_response_1: 40.8
@@ -1796,7 +1796,7 @@
       german: Im hinteren Bereich
   poll_id: 2515
   results:
-    accurate_predict: 9.4
+    accurate_predict: 90.6
     female_response_1: 8.8
     female_response_2: 91.2
     male_response_1: 10.2
@@ -1814,7 +1814,7 @@
       german: Nein
   poll_id: 2516
   results:
-    accurate_predict: 61.8
+    accurate_predict: 38.2
     female_response_1: 48.1
     female_response_2: 51.9
     male_response_1: 43.9
@@ -1832,7 +1832,7 @@
       german: Sonnenuntergang
   poll_id: 2517
   results:
-    accurate_predict: 14.2
+    accurate_predict: 85.8
     female_response_1: 23.5
     female_response_2: 76.5
     male_response_1: 24.5
@@ -1887,7 +1887,7 @@
       german: Nein
   poll_id: 2520
   results:
-    accurate_predict: 12.8
+    accurate_predict: 87.2
     female_response_1: 16.5
     female_response_2: 83.5
     male_response_1: 18.3
@@ -1905,7 +1905,7 @@
       german: Der Preis
   poll_id: 2521
   results:
-    accurate_predict: 31.7
+    accurate_predict: 68.3
     female_response_1: 19.5
     female_response_2: 80.5
     male_response_1: 27.9
@@ -1925,7 +1925,7 @@
       german: Messer und Gabel
   poll_id: 2522
   results:
-    accurate_predict: 36.7
+    accurate_predict: 63.3
     female_response_1: 42.8
     female_response_2: 57.2
     male_response_1: 42.3
@@ -1943,7 +1943,7 @@
       german: Pragmatiker
   poll_id: 2523
   results:
-    accurate_predict: 36.4
+    accurate_predict: 63.6
     female_response_1: 40.5
     female_response_2: 59.5
     male_response_1: 46.5
@@ -1997,7 +1997,7 @@
       german: Improvisiert
   poll_id: 2526
   results:
-    accurate_predict: 56.1
+    accurate_predict: 43.9
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 46.1
@@ -2071,7 +2071,7 @@
       german: Nein
   poll_id: 2530
   results:
-    accurate_predict: 33.8
+    accurate_predict: 66.2
     female_response_1: 36.2
     female_response_2: 63.8
     male_response_1: 44.0
@@ -2107,7 +2107,7 @@
       german: Nein
   poll_id: 2532
   results:
-    accurate_predict: 17.6
+    accurate_predict: 82.4
     female_response_1: 17.1
     female_response_2: 82.9
     male_response_1: 4.4
@@ -2163,7 +2163,7 @@
       german: Nein
   poll_id: 2535
   results:
-    accurate_predict: 29.0
+    accurate_predict: 71.0
     female_response_1: 38.0
     female_response_2: 62.0
     male_response_1: 24.7
@@ -2199,7 +2199,7 @@
       german: Nein
   poll_id: 2537
   results:
-    accurate_predict: 40.1
+    accurate_predict: 59.9
     female_response_1: 41.1
     female_response_2: 58.9
     male_response_1: 33.8
@@ -2217,7 +2217,7 @@
       german: In Farbe
   poll_id: 2538
   results:
-    accurate_predict: 12.9
+    accurate_predict: 87.1
     female_response_1: 34.2
     female_response_2: 65.8
     male_response_1: 20.6
@@ -2255,7 +2255,7 @@
       german: "Elektrizit\xE4t"
   poll_id: 2540
   results:
-    accurate_predict: 28.9
+    accurate_predict: 71.1
     female_response_1: 33.9
     female_response_2: 66.1
     male_response_1: 36.6
@@ -2295,7 +2295,7 @@
       german: Modern
   poll_id: 2542
   results:
-    accurate_predict: 10.5
+    accurate_predict: 89.5
     female_response_1: 24.3
     female_response_2: 75.7
     male_response_1: 26.3
@@ -2313,7 +2313,7 @@
       german: Nein
   poll_id: 2543
   results:
-    accurate_predict: 49.1
+    accurate_predict: 50.9
     female_response_1: 58.9
     female_response_2: 41.1
     male_response_1: 36.2
@@ -2352,7 +2352,7 @@
       german: Nein
   poll_id: 2545
   results:
-    accurate_predict: 30.0
+    accurate_predict: 70.0
     female_response_1: 33.9
     female_response_2: 66.1
     male_response_1: 26.7
@@ -2370,7 +2370,7 @@
       german: Nein
   poll_id: 2546
   results:
-    accurate_predict: 42.3
+    accurate_predict: 57.7
     female_response_1: 36.9
     female_response_2: 63.1
     male_response_1: 36.0
@@ -2388,7 +2388,7 @@
       german: Im Stehen
   poll_id: 2547
   results:
-    accurate_predict: 23.7
+    accurate_predict: 76.3
     female_response_1: 46.1
     female_response_2: 53.9
     male_response_1: 42.0
@@ -2424,7 +2424,7 @@
       german: Nein
   poll_id: 2549
   results:
-    accurate_predict: 28.7
+    accurate_predict: 71.3
     female_response_1: 42.5
     female_response_2: 57.5
     male_response_1: 40.4
@@ -2442,7 +2442,7 @@
       german: "Einem Au\xDFerirdischen"
   poll_id: 2550
   results:
-    accurate_predict: 17.6
+    accurate_predict: 82.4
     female_response_1: 27.8
     female_response_2: 72.2
     male_response_1: 21.4
@@ -2641,7 +2641,7 @@
       german: Gezuckert
   poll_id: 2561
   results:
-    accurate_predict: 11.4
+    accurate_predict: 88.6
     female_response_1: 16.9
     female_response_2: 83.1
     male_response_1: 17.6
@@ -2751,7 +2751,7 @@
       german: "Schl\xE4frig"
   poll_id: 2567
   results:
-    accurate_predict: 33.1
+    accurate_predict: 66.9
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 39.2
@@ -2805,7 +2805,7 @@
       german: In digitaler Form
   poll_id: 3662
   results:
-    accurate_predict: 19.8
+    accurate_predict: 80.2
     female_response_1: 32.9
     female_response_2: 67.1
     male_response_1: 21.9
@@ -2933,7 +2933,7 @@
       german: Nein
   poll_id: 3669
   results:
-    accurate_predict: 11.2
+    accurate_predict: 88.8
     female_response_1: 10.5
     female_response_2: 89.5
     male_response_1: 10.6
@@ -2987,7 +2987,7 @@
       german: Pogo Stick
   poll_id: 3672
   results:
-    accurate_predict: 45.6
+    accurate_predict: 54.4
     female_response_1: 48.4
     female_response_2: 51.6
     male_response_1: 34.9
@@ -3023,7 +3023,7 @@
       german: "Durch Ger\xE4usche"
   poll_id: 3674
   results:
-    accurate_predict: 46.6
+    accurate_predict: 53.4
     female_response_1: 46.6
     female_response_2: 53.4
     male_response_1: 43.2
@@ -3059,7 +3059,7 @@
       german: Schlechte Nachricht
   poll_id: 3676
   results:
-    accurate_predict: 35.1
+    accurate_predict: 64.9
     female_response_1: 23.5
     female_response_2: 76.5
     male_response_1: 25.0
@@ -3077,7 +3077,7 @@
       german: Nein
   poll_id: 3677
   results:
-    accurate_predict: 25.8
+    accurate_predict: 74.2
     female_response_1: 27.7
     female_response_2: 72.3
     male_response_1: 26.3
@@ -3113,7 +3113,7 @@
       german: Abtrocknen
   poll_id: 3679
   results:
-    accurate_predict: 26.9
+    accurate_predict: 73.1
     female_response_1: 52.0
     female_response_2: 48.0
     male_response_1: 32.3
@@ -3131,7 +3131,7 @@
       german: Am Strand
   poll_id: 3680
   results:
-    accurate_predict: 16.8
+    accurate_predict: 83.2
     female_response_1: 24.9
     female_response_2: 75.1
     male_response_1: 33.3
@@ -3149,7 +3149,7 @@
       german: Handy
   poll_id: 3681
   results:
-    accurate_predict: 42.1
+    accurate_predict: 57.9
     female_response_1: 49.9
     female_response_2: 50.1
     male_response_1: 45.6
@@ -3167,7 +3167,7 @@
       german: Lasse sie in Ruhe
   poll_id: 3682
   results:
-    accurate_predict: 80.1
+    accurate_predict: 19.9
     female_response_1: 45.9
     female_response_2: 54.1
     male_response_1: 43.9
@@ -3223,7 +3223,7 @@
       german: Nein, ist mir zu zugig!
   poll_id: 3685
   results:
-    accurate_predict: 55.3
+    accurate_predict: 44.7
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 49.0
@@ -3242,7 +3242,7 @@
       german: Antworten!
   poll_id: 3686
   results:
-    accurate_predict: 34.4
+    accurate_predict: 65.6
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 34.3
@@ -3260,7 +3260,7 @@
       german: In Schreibschrift
   poll_id: 3687
   results:
-    accurate_predict: 38.5
+    accurate_predict: 61.5
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 44.9
@@ -3278,7 +3278,7 @@
       german: "Zeit drau\xDFen verbringen"
   poll_id: 3688
   results:
-    accurate_predict: 32.7
+    accurate_predict: 67.3
     female_response_1: 49.6
     female_response_2: 50.4
     male_response_1: 35.6
@@ -3298,7 +3298,7 @@
       german: Wenn ich hier fertig bin!
   poll_id: 3689
   results:
-    accurate_predict: 14.2
+    accurate_predict: 85.8
     female_response_1: 21.6
     female_response_2: 78.4
     male_response_1: 22.0
@@ -3316,7 +3316,7 @@
       german: Dessert
   poll_id: 3690
   results:
-    accurate_predict: 26.9
+    accurate_predict: 73.1
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 40.3
@@ -3352,7 +3352,7 @@
       german: Im hinteren Teil
   poll_id: 3692
   results:
-    accurate_predict: 18.8
+    accurate_predict: 81.2
     female_response_1: 37.5
     female_response_2: 62.5
     male_response_1: 29.9
@@ -3389,7 +3389,7 @@
       german: "Genie\xDFe jeden Bissen!"
   poll_id: 3694
   results:
-    accurate_predict: 23.6
+    accurate_predict: 76.4
     female_response_1: 24.6
     female_response_2: 75.4
     male_response_1: 38.2
@@ -3407,7 +3407,7 @@
       german: Turnschuhe
   poll_id: 3695
   results:
-    accurate_predict: 19.7
+    accurate_predict: 80.3
     female_response_1: 35.9
     female_response_2: 64.1
     male_response_1: 10.2
@@ -3427,7 +3427,7 @@
       german: Ja
   poll_id: 3696
   results:
-    accurate_predict: 54.7
+    accurate_predict: 45.3
     female_response_1: 41.5
     female_response_2: 58.5
     male_response_1: 49.1
@@ -3481,7 +3481,7 @@
       german: Iiiieh, nein!
   poll_id: 3699
   results:
-    accurate_predict: 37.3
+    accurate_predict: 62.7
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 43.1
@@ -3499,7 +3499,7 @@
       german: An morgen
   poll_id: 3700
   results:
-    accurate_predict: 35.9
+    accurate_predict: 64.1
     female_response_1: 37.0
     female_response_2: 63.0
     male_response_1: 33.5
@@ -3571,7 +3571,7 @@
       german: "Eine Ber\xFChmtheit"
   poll_id: 3704
   results:
-    accurate_predict: 41.6
+    accurate_predict: 58.4
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 53.5
@@ -3589,7 +3589,7 @@
       german: Sprudel
   poll_id: 3705
   results:
-    accurate_predict: 23.7
+    accurate_predict: 76.3
     female_response_1: 39.5
     female_response_2: 60.5
     male_response_1: 34.9
@@ -3627,7 +3627,7 @@
       german: "Ich finde sie s\xFC\xDF!"
   poll_id: 3707
   results:
-    accurate_predict: 36.8
+    accurate_predict: 63.2
     female_response_1: 20.5
     female_response_2: 79.5
     male_response_1: 12.2
@@ -3702,7 +3702,7 @@
       german: Nach dem Anziehen.
   poll_id: 4805
   results:
-    accurate_predict: 32.3
+    accurate_predict: 67.7
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 32.4
@@ -3738,7 +3738,7 @@
       german: Nein
   poll_id: 4807
   results:
-    accurate_predict: 12.0
+    accurate_predict: 88.0
     female_response_1: 16.4
     female_response_2: 83.6
     male_response_1: 14.1
@@ -3756,7 +3756,7 @@
       german: Nein!
   poll_id: 4808
   results:
-    accurate_predict: 19.1
+    accurate_predict: 80.9
     female_response_1: 36.3
     female_response_2: 63.7
     male_response_1: 27.8
@@ -3774,7 +3774,7 @@
       german: Ungerade
   poll_id: 4809
   results:
-    accurate_predict: 43.4
+    accurate_predict: 56.6
     female_response_1: 43.6
     female_response_2: 56.4
     male_response_1: 41.8
@@ -3792,7 +3792,7 @@
       german: "B\xE4h!"
   poll_id: 4810
   results:
-    accurate_predict: 31.3
+    accurate_predict: 68.7
     female_response_1: 43.8
     female_response_2: 56.2
     male_response_1: 47.2
@@ -3810,7 +3810,7 @@
       german: Nein
   poll_id: 4811
   results:
-    accurate_predict: 15.9
+    accurate_predict: 84.1
     female_response_1: 34.1
     female_response_2: 65.9
     male_response_1: 25.6
@@ -3828,7 +3828,7 @@
       german: Rechts
   poll_id: 4812
   results:
-    accurate_predict: 35.3
+    accurate_predict: 64.7
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 44.1
@@ -3884,7 +3884,7 @@
       german: Nein
   poll_id: 4815
   results:
-    accurate_predict: 59.3
+    accurate_predict: 40.7
     female_response_1: 61.6
     female_response_2: 38.4
     male_response_1: 44.3
@@ -3920,7 +3920,7 @@
       german: Nein
   poll_id: 4817
   results:
-    accurate_predict: 52.4
+    accurate_predict: 47.6
     female_response_1: 50.7
     female_response_2: 49.3
     male_response_1: 46.2
@@ -3939,7 +3939,7 @@
       german: Noch nie!
   poll_id: 4818
   results:
-    accurate_predict: 13.3
+    accurate_predict: 86.7
     female_response_1: 15.6
     female_response_2: 84.4
     male_response_1: 14.6
@@ -3957,7 +3957,7 @@
       german: Den rechten
   poll_id: 4819
   results:
-    accurate_predict: 26.6
+    accurate_predict: 73.4
     female_response_1: 33.1
     female_response_2: 66.9
     male_response_1: 35.9
@@ -4011,7 +4011,7 @@
       german: '...gut genutzt!'
   poll_id: 4822
   results:
-    accurate_predict: 36.0
+    accurate_predict: 64.0
     female_response_1: 22.6
     female_response_2: 77.4
     male_response_1: 29.8
@@ -4029,7 +4029,7 @@
       german: Nein
   poll_id: 4823
   results:
-    accurate_predict: 15.8
+    accurate_predict: 84.2
     female_response_1: 15.6
     female_response_2: 84.4
     male_response_1: 14.5
@@ -4047,7 +4047,7 @@
       german: Viele kleine Kuchen.
   poll_id: 4824
   results:
-    accurate_predict: 43.1
+    accurate_predict: 56.9
     female_response_1: 28.5
     female_response_2: 71.5
     male_response_1: 37.3
@@ -4137,7 +4137,7 @@
       german: Cheeseburger!
   poll_id: 4829
   results:
-    accurate_predict: 31.4
+    accurate_predict: 68.6
     female_response_1: 28.4
     female_response_2: 71.6
     male_response_1: 26.8
@@ -4155,7 +4155,7 @@
       german: Eine normale
   poll_id: 4830
   results:
-    accurate_predict: 21.7
+    accurate_predict: 78.3
     female_response_1: 30.2
     female_response_2: 69.8
     male_response_1: 32.4
@@ -4247,7 +4247,7 @@
       german: Nein
   poll_id: 4835
   results:
-    accurate_predict: 27.5
+    accurate_predict: 72.5
     female_response_1: 36.4
     female_response_2: 63.6
     male_response_1: 23.3
@@ -4265,7 +4265,7 @@
       german: Aufheben
   poll_id: 4836
   results:
-    accurate_predict: 22.3
+    accurate_predict: 77.7
     female_response_1: 14.5
     female_response_2: 85.5
     male_response_1: 20.3
@@ -4285,7 +4285,7 @@
       german: Ist doch egal.
   poll_id: 4837
   results:
-    accurate_predict: 25.9
+    accurate_predict: 74.1
     female_response_1: 32.9
     female_response_2: 67.1
     male_response_1: 32.1
@@ -4303,7 +4303,7 @@
       german: Nein
   poll_id: 4838
   results:
-    accurate_predict: 43.4
+    accurate_predict: 56.6
     female_response_1: 50.7
     female_response_2: 49.3
     male_response_1: 48.4
@@ -4377,7 +4377,7 @@
       german: Warum sollte ich?
   poll_id: 4842
   results:
-    accurate_predict: 64.8
+    accurate_predict: 35.2
     female_response_1: 53.8
     female_response_2: 46.2
     male_response_1: 41.4
@@ -4395,7 +4395,7 @@
       german: Familie
   poll_id: 4843
   results:
-    accurate_predict: 18.2
+    accurate_predict: 81.8
     female_response_1: 16.1
     female_response_2: 83.9
     male_response_1: 20.9
@@ -4431,7 +4431,7 @@
       german: "D\xFCnn und knusprig"
   poll_id: 4845
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 38.2
@@ -4467,7 +4467,7 @@
       german: Sein
   poll_id: 4847
   results:
-    accurate_predict: 47.6
+    accurate_predict: 52.4
     female_response_1: 36.2
     female_response_2: 63.8
     male_response_1: 39.9
@@ -4485,7 +4485,7 @@
       german: "...\xE4lter."
   poll_id: 4848
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 50.3
@@ -4596,7 +4596,7 @@
       german: Nein
   poll_id: 4854
   results:
-    accurate_predict: 43.1
+    accurate_predict: 56.9
     female_response_1: 49.2
     female_response_2: 50.8
     male_response_1: 48.6
@@ -4687,7 +4687,7 @@
       german: Nein
   poll_id: 4859
   results:
-    accurate_predict: 53.3
+    accurate_predict: 46.7
     female_response_1: 34.5
     female_response_2: 65.5
     male_response_1: 40.3
@@ -4707,7 +4707,7 @@
       german: Nein
   poll_id: 4860
   results:
-    accurate_predict: 41.7
+    accurate_predict: 58.3
     female_response_1: 29.0
     female_response_2: 71.0
     male_response_1: 33.5
@@ -4725,7 +4725,7 @@
       german: USA
   poll_id: 4861
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 27.3
     female_response_2: 72.7
     male_response_1: 36.2
@@ -4743,7 +4743,7 @@
       german: Nein
   poll_id: 4862
   results:
-    accurate_predict: 26.2
+    accurate_predict: 73.8
     female_response_1: 15.1
     female_response_2: 84.9
     male_response_1: 17.0
@@ -4761,7 +4761,7 @@
       german: Nein
   poll_id: 4863
   results:
-    accurate_predict: 47.3
+    accurate_predict: 52.7
     female_response_1: 52.5
     female_response_2: 47.5
     male_response_1: 41.4
@@ -4817,7 +4817,7 @@
       german: Das Schwert
   poll_id: 4866
   results:
-    accurate_predict: 33.7
+    accurate_predict: 66.3
     female_response_1: 51.4
     female_response_2: 48.6
     male_response_1: 40.3
@@ -4835,7 +4835,7 @@
       german: "Ich lege es zur\xFCck."
   poll_id: 4867
   results:
-    accurate_predict: 23.6
+    accurate_predict: 76.4
     female_response_1: 16.1
     female_response_2: 83.9
     male_response_1: 23.4
@@ -4853,7 +4853,7 @@
       german: "B\xE4h!"
   poll_id: 4868
   results:
-    accurate_predict: 46.0
+    accurate_predict: 54.0
     female_response_1: 45.3
     female_response_2: 54.7
     male_response_1: 44.2
@@ -4871,7 +4871,7 @@
       german: Lieber nicht...
   poll_id: 4869
   results:
-    accurate_predict: 26.4
+    accurate_predict: 73.6
     female_response_1: 19.5
     female_response_2: 80.5
     male_response_1: 24.9
@@ -4889,7 +4889,7 @@
       german: Wissenschaft
   poll_id: 4870
   results:
-    accurate_predict: 36.7
+    accurate_predict: 63.3
     female_response_1: 54.3
     female_response_2: 45.7
     male_response_1: 25.3
@@ -4963,7 +4963,7 @@
       german: "Schlummertaste dr\xFCcken"
   poll_id: 6059
   results:
-    accurate_predict: 24.8
+    accurate_predict: 75.2
     female_response_1: 38.4
     female_response_2: 61.6
     male_response_1: 39.4
@@ -4999,7 +4999,7 @@
       german: Auf See
   poll_id: 6061
   results:
-    accurate_predict: 26.7
+    accurate_predict: 73.3
     female_response_1: 29.3
     female_response_2: 70.7
     male_response_1: 32.7
@@ -5018,7 +5018,7 @@
       german: "Gem\xE4lde"
   poll_id: 6062
   results:
-    accurate_predict: 45.8
+    accurate_predict: 54.2
     female_response_1: 43.7
     female_response_2: 56.3
     male_response_1: 42.6
@@ -5036,7 +5036,7 @@
       german: Nein
   poll_id: 6063
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 50.6
     female_response_2: 49.4
     male_response_1: 47.5
@@ -5072,7 +5072,7 @@
       german: Nein
   poll_id: 6065
   results:
-    accurate_predict: 64.8
+    accurate_predict: 35.2
     female_response_1: 47.3
     female_response_2: 52.7
     male_response_1: 43.2
@@ -5090,7 +5090,7 @@
       german: Marmelade
   poll_id: 6066
   results:
-    accurate_predict: 18.2
+    accurate_predict: 81.8
     female_response_1: 25.9
     female_response_2: 74.1
     male_response_1: 27.0
@@ -5144,7 +5144,7 @@
       german: Nein
   poll_id: 6069
   results:
-    accurate_predict: 30.3
+    accurate_predict: 69.7
     female_response_1: 29.8
     female_response_2: 70.2
     male_response_1: 27.0
@@ -5162,7 +5162,7 @@
       german: Gestrichen
   poll_id: 6070
   results:
-    accurate_predict: 46.6
+    accurate_predict: 53.4
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 44.9
@@ -5200,7 +5200,7 @@
       german: Nein
   poll_id: 6072
   results:
-    accurate_predict: 12.1
+    accurate_predict: 87.9
     female_response_1: 29.3
     female_response_2: 70.7
     male_response_1: 34.7
@@ -5218,7 +5218,7 @@
       german: Nein
   poll_id: 6073
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 20.8
@@ -5236,7 +5236,7 @@
       german: Videospiele
   poll_id: 6074
   results:
-    accurate_predict: 9.1
+    accurate_predict: 90.9
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 13.3
@@ -5272,7 +5272,7 @@
       german: Moderne
   poll_id: 6076
   results:
-    accurate_predict: 38.2
+    accurate_predict: 61.8
     female_response_1: 42.4
     female_response_2: 57.6
     male_response_1: 41.0
@@ -5308,7 +5308,7 @@
       german: Wespen
   poll_id: 6267
   results:
-    accurate_predict: 16.1
+    accurate_predict: 83.9
     female_response_1: 13.3
     female_response_2: 86.7
     male_response_1: 13.6
@@ -5326,7 +5326,7 @@
       german: Grashalme
   poll_id: 6268
   results:
-    accurate_predict: 35.4
+    accurate_predict: 64.6
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 46.6
@@ -5344,7 +5344,7 @@
       german: Ketschup
   poll_id: 6269
   results:
-    accurate_predict: 17.4
+    accurate_predict: 82.6
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 35.3
@@ -5398,7 +5398,7 @@
       german: Niemals!
   poll_id: 6272
   results:
-    accurate_predict: 14.3
+    accurate_predict: 85.7
     female_response_1: 34.7
     female_response_2: 65.3
     male_response_1: 31.9
@@ -5434,7 +5434,7 @@
       german: Nein
   poll_id: 6274
   results:
-    accurate_predict: 72.1
+    accurate_predict: 27.9
     female_response_1: 48.1
     female_response_2: 51.9
     male_response_1: 48.6
@@ -5471,7 +5471,7 @@
       german: Nein
   poll_id: 6276
   results:
-    accurate_predict: 16.9
+    accurate_predict: 83.1
     female_response_1: 17.1
     female_response_2: 82.9
     male_response_1: 13.3
@@ -5489,7 +5489,7 @@
       german: Abends
   poll_id: 6277
   results:
-    accurate_predict: 57.2
+    accurate_predict: 42.8
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 36.2
@@ -5507,7 +5507,7 @@
       german: Nein
   poll_id: 6278
   results:
-    accurate_predict: 31.5
+    accurate_predict: 68.5
     female_response_1: 39.3
     female_response_2: 60.7
     male_response_1: 26.9
@@ -5543,7 +5543,7 @@
       german: Nein
   poll_id: 6280
   results:
-    accurate_predict: 14.2
+    accurate_predict: 85.8
     female_response_1: 17.1
     female_response_2: 82.9
     male_response_1: 13.4
@@ -5561,7 +5561,7 @@
       german: Rechts
   poll_id: 6281
   results:
-    accurate_predict: 39.2
+    accurate_predict: 60.8
     female_response_1: 44.5
     female_response_2: 55.5
     male_response_1: 45.8
@@ -5669,7 +5669,7 @@
       german: Kuchen
   poll_id: 6287
   results:
-    accurate_predict: 33.3
+    accurate_predict: 66.7
     female_response_1: 37.6
     female_response_2: 62.4
     male_response_1: 36.9
@@ -5705,7 +5705,7 @@
       german: Weit weg
   poll_id: 6289
   results:
-    accurate_predict: 12.8
+    accurate_predict: 87.2
     female_response_1: 20.3
     female_response_2: 79.7
     male_response_1: 25.5
@@ -5777,7 +5777,7 @@
       german: "Ein gro\xDFes Geschenk"
   poll_id: 6293
   results:
-    accurate_predict: 47.8
+    accurate_predict: 52.2
     female_response_1: 42.3
     female_response_2: 57.7
     male_response_1: 36.2
@@ -5833,7 +5833,7 @@
       german: Nein
   poll_id: 6296
   results:
-    accurate_predict: 61.1
+    accurate_predict: 38.9
     female_response_1: 32.6
     female_response_2: 67.4
     male_response_1: 37.1
@@ -5851,7 +5851,7 @@
       german: "Ungl\xFCck!"
   poll_id: 6297
   results:
-    accurate_predict: 18.6
+    accurate_predict: 81.4
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 43.2
@@ -5871,7 +5871,7 @@
       german: Sport treiben
   poll_id: 6298
   results:
-    accurate_predict: 32.8
+    accurate_predict: 67.2
     female_response_1: 36.8
     female_response_2: 63.2
     male_response_1: 31.4
@@ -5943,7 +5943,7 @@
       german: Nein
   poll_id: 6302
   results:
-    accurate_predict: 64.7
+    accurate_predict: 35.3
     female_response_1: 63.6
     female_response_2: 36.4
     male_response_1: 35.1
@@ -5963,7 +5963,7 @@
       german: Nach rechts
   poll_id: 6303
   results:
-    accurate_predict: 37.0
+    accurate_predict: 63.0
     female_response_1: 42.2
     female_response_2: 57.8
     male_response_1: 45.1
@@ -5981,7 +5981,7 @@
       german: Nein
   poll_id: 6304
   results:
-    accurate_predict: 14.5
+    accurate_predict: 85.5
     female_response_1: 19.7
     female_response_2: 80.3
     male_response_1: 16.7
@@ -5999,7 +5999,7 @@
       german: Schokolade
   poll_id: 6305
   results:
-    accurate_predict: 29.2
+    accurate_predict: 70.8
     female_response_1: 31.7
     female_response_2: 68.3
     male_response_1: 34.0
@@ -6017,7 +6017,7 @@
       german: Nein
   poll_id: 6306
   results:
-    accurate_predict: 44.4
+    accurate_predict: 55.6
     female_response_1: 42.2
     female_response_2: 57.8
     male_response_1: 42.4
@@ -6053,7 +6053,7 @@
       german: Nein
   poll_id: 6308
   results:
-    accurate_predict: 31.7
+    accurate_predict: 68.3
     female_response_1: 26.2
     female_response_2: 73.8
     male_response_1: 37.2
@@ -6071,7 +6071,7 @@
       german: Nein
   poll_id: 6309
   results:
-    accurate_predict: 35.6
+    accurate_predict: 64.4
     female_response_1: 23.7
     female_response_2: 76.3
     male_response_1: 31.9
@@ -6089,7 +6089,7 @@
       german: Glas
   poll_id: 6310
   results:
-    accurate_predict: 18.1
+    accurate_predict: 81.9
     female_response_1: 23.7
     female_response_2: 76.3
     male_response_1: 17.4
@@ -6143,7 +6143,7 @@
       german: Nein
   poll_id: 6767
   results:
-    accurate_predict: 15.0
+    accurate_predict: 85.0
     female_response_1: 20.8
     female_response_2: 79.2
     male_response_1: 19.5
@@ -6251,7 +6251,7 @@
       german: Nein
   poll_id: 6773
   results:
-    accurate_predict: 21.3
+    accurate_predict: 78.7
     female_response_1: 34.4
     female_response_2: 65.6
     male_response_1: 25.7
@@ -6305,7 +6305,7 @@
       german: '...an den Strand.'
   poll_id: 6776
   results:
-    accurate_predict: 4.7
+    accurate_predict: 95.3
     female_response_1: 9.6
     female_response_2: 90.4
     male_response_1: 12.0
@@ -6323,7 +6323,7 @@
       german: Nein
   poll_id: 6777
   results:
-    accurate_predict: 11.5
+    accurate_predict: 88.5
     female_response_1: 11.2
     female_response_2: 88.8
     male_response_1: 13.3
@@ -6341,7 +6341,7 @@
       german: Nein
   poll_id: 6778
   results:
-    accurate_predict: 16.8
+    accurate_predict: 83.2
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 41.9
@@ -6359,7 +6359,7 @@
       german: Nein
   poll_id: 6779
   results:
-    accurate_predict: 42.5
+    accurate_predict: 57.5
     female_response_1: 32.3
     female_response_2: 67.7
     male_response_1: 37.9
@@ -6377,7 +6377,7 @@
       german: Nein
   poll_id: 6780
   results:
-    accurate_predict: 37.9
+    accurate_predict: 62.1
     female_response_1: 47.1
     female_response_2: 52.9
     male_response_1: 49.3
@@ -6431,7 +6431,7 @@
       german: Nein
   poll_id: 6783
   results:
-    accurate_predict: 65.5
+    accurate_predict: 34.5
     female_response_1: 39.1
     female_response_2: 60.9
     male_response_1: 46.8
@@ -6449,7 +6449,7 @@
       german: Toast
   poll_id: 6784
   results:
-    accurate_predict: 40.0
+    accurate_predict: 60.0
     female_response_1: 47.5
     female_response_2: 52.5
     male_response_1: 38.2
@@ -6467,7 +6467,7 @@
       german: Nein
   poll_id: 6785
   results:
-    accurate_predict: 32.6
+    accurate_predict: 67.4
     female_response_1: 30.1
     female_response_2: 69.9
     male_response_1: 37.8
@@ -6521,7 +6521,7 @@
       german: Nein
   poll_id: 6788
   results:
-    accurate_predict: 30.2
+    accurate_predict: 69.8
     female_response_1: 28.6
     female_response_2: 71.4
     male_response_1: 32.7
@@ -6539,7 +6539,7 @@
       german: Nein
   poll_id: 6789
   results:
-    accurate_predict: 11.9
+    accurate_predict: 88.1
     female_response_1: 9.4
     female_response_2: 90.6
     male_response_1: 13.5
@@ -6557,7 +6557,7 @@
       german: Samurai
   poll_id: 6790
   results:
-    accurate_predict: 30.0
+    accurate_predict: 70.0
     female_response_1: 28.4
     female_response_2: 71.6
     male_response_1: 27.7
@@ -6593,7 +6593,7 @@
       german: Nein
   poll_id: 6792
   results:
-    accurate_predict: 9.6
+    accurate_predict: 90.4
     female_response_1: 10.5
     female_response_2: 89.5
     male_response_1: 15.7
@@ -6629,7 +6629,7 @@
       german: Flugzeug
   poll_id: 6794
   results:
-    accurate_predict: 28.5
+    accurate_predict: 71.5
     female_response_1: 48.1
     female_response_2: 51.9
     male_response_1: 39.7
@@ -6665,7 +6665,7 @@
       german: "Wei\xDF"
   poll_id: 6796
   results:
-    accurate_predict: 35.9
+    accurate_predict: 64.1
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 38.8
@@ -6737,7 +6737,7 @@
       german: Krimi
   poll_id: 6800
   results:
-    accurate_predict: 16.6
+    accurate_predict: 83.4
     female_response_1: 35.7
     female_response_2: 64.3
     male_response_1: 31.7
@@ -6773,7 +6773,7 @@
       german: Blumen
   poll_id: 6802
   results:
-    accurate_predict: 33.7
+    accurate_predict: 66.3
     female_response_1: 37.4
     female_response_2: 62.6
     male_response_1: 40.8
@@ -6791,7 +6791,7 @@
       german: Ich habe Geschwister.
   poll_id: 6803
   results:
-    accurate_predict: 14.1
+    accurate_predict: 85.9
     female_response_1: 19.4
     female_response_2: 80.6
     male_response_1: 18.6
@@ -6827,7 +6827,7 @@
       german: Nein
   poll_id: 6805
   results:
-    accurate_predict: 30.7
+    accurate_predict: 69.3
     female_response_1: 31.9
     female_response_2: 68.1
     male_response_1: 49.2
@@ -6845,7 +6845,7 @@
       german: Nein
   poll_id: 6806
   results:
-    accurate_predict: 31.2
+    accurate_predict: 68.8
     female_response_1: 21.2
     female_response_2: 78.8
     male_response_1: 36.3
@@ -6935,7 +6935,7 @@
       german: Nein
   poll_id: 6811
   results:
-    accurate_predict: 19.9
+    accurate_predict: 80.1
     female_response_1: 24.3
     female_response_2: 75.7
     male_response_1: 24.7
@@ -7061,7 +7061,7 @@
       german: auf eine Safari.
   poll_id: 7977
   results:
-    accurate_predict: 51.6
+    accurate_predict: 48.4
     female_response_1: 51.2
     female_response_2: 48.8
     male_response_1: 47.6
@@ -7097,7 +7097,7 @@
       german: Erbsen
   poll_id: 7979
   results:
-    accurate_predict: 38.3
+    accurate_predict: 61.7
     female_response_1: 42.1
     female_response_2: 57.9
     male_response_1: 43.6
@@ -7133,7 +7133,7 @@
       german: Nein
   poll_id: 7981
   results:
-    accurate_predict: 14.6
+    accurate_predict: 85.4
     female_response_1: 25.5
     female_response_2: 74.5
     male_response_1: 20.0
@@ -7151,7 +7151,7 @@
       german: Nein
   poll_id: 7982
   results:
-    accurate_predict: 35.2
+    accurate_predict: 64.8
     female_response_1: 32.5
     female_response_2: 67.5
     male_response_1: 42.9
@@ -7169,7 +7169,7 @@
       german: Nein
   poll_id: 7983
   results:
-    accurate_predict: 48.5
+    accurate_predict: 51.5
     female_response_1: 42.0
     female_response_2: 58.0
     male_response_1: 31.4
@@ -7187,7 +7187,7 @@
       german: Nein
   poll_id: 7984
   results:
-    accurate_predict: 13.0
+    accurate_predict: 87.0
     female_response_1: 16.0
     female_response_2: 84.0
     male_response_1: 16.3
@@ -7223,7 +7223,7 @@
       german: Eistee
   poll_id: 7986
   results:
-    accurate_predict: 23.2
+    accurate_predict: 76.8
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 25.5
@@ -7241,7 +7241,7 @@
       german: Nein
   poll_id: 7987
   results:
-    accurate_predict: 12.9
+    accurate_predict: 87.1
     female_response_1: 18.6
     female_response_2: 81.4
     male_response_1: 17.9
@@ -7259,7 +7259,7 @@
       german: "Gr\xFCn"
   poll_id: 7988
   results:
-    accurate_predict: 32.9
+    accurate_predict: 67.1
     female_response_1: 34.1
     female_response_2: 65.9
     male_response_1: 27.2
@@ -7277,7 +7277,7 @@
       german: Nein
   poll_id: 7989
   results:
-    accurate_predict: 50.4
+    accurate_predict: 49.6
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 44.2
@@ -7295,7 +7295,7 @@
       german: Nein
   poll_id: 7990
   results:
-    accurate_predict: 41.7
+    accurate_predict: 58.3
     female_response_1: 27.3
     female_response_2: 72.7
     male_response_1: 30.4
@@ -7331,7 +7331,7 @@
       german: Holz
   poll_id: 7992
   results:
-    accurate_predict: 51.2
+    accurate_predict: 48.8
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 45.5
@@ -7367,7 +7367,7 @@
       german: Normal
   poll_id: 7994
   results:
-    accurate_predict: 54.4
+    accurate_predict: 45.6
     female_response_1: 32.8
     female_response_2: 67.2
     male_response_1: 31.2
@@ -7421,7 +7421,7 @@
       german: Nein
   poll_id: 7997
   results:
-    accurate_predict: 30.7
+    accurate_predict: 69.3
     female_response_1: 25.6
     female_response_2: 74.4
     male_response_1: 16.3
@@ -7531,7 +7531,7 @@
       german: Nein
   poll_id: 8003
   results:
-    accurate_predict: 17.4
+    accurate_predict: 82.6
     female_response_1: 19.2
     female_response_2: 80.8
     male_response_1: 30.3
@@ -7549,7 +7549,7 @@
       german: "Fl\xFCssigseife"
   poll_id: 8004
   results:
-    accurate_predict: 19.4
+    accurate_predict: 80.6
     female_response_1: 16.4
     female_response_2: 83.6
     male_response_1: 19.2
@@ -7587,7 +7587,7 @@
       german: Freitag
   poll_id: 8006
   results:
-    accurate_predict: 4.7
+    accurate_predict: 95.3
     female_response_1: 7.6
     female_response_2: 92.4
     male_response_1: 6.7
@@ -7697,7 +7697,7 @@
       german: Slide
   poll_id: 8012
   results:
-    accurate_predict: 32.0
+    accurate_predict: 68.0
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 27.9
@@ -7753,7 +7753,7 @@
       german: Delfine
   poll_id: 8015
   results:
-    accurate_predict: 11.5
+    accurate_predict: 88.5
     female_response_1: 19.3
     female_response_2: 80.7
     male_response_1: 31.3
@@ -7789,7 +7789,7 @@
       german: "Nat\xFCrlich nicht!"
   poll_id: 8017
   results:
-    accurate_predict: 12.4
+    accurate_predict: 87.6
     female_response_1: 18.3
     female_response_2: 81.7
     male_response_1: 12.6
@@ -7843,7 +7843,7 @@
       german: Nein
   poll_id: 8020
   results:
-    accurate_predict: 67.0
+    accurate_predict: 33.0
     female_response_1: 68.0
     female_response_2: 32.0
     male_response_1: 38.4
@@ -7952,7 +7952,7 @@
       german: Nein
   poll_id: 8948
   results:
-    accurate_predict: 26.1
+    accurate_predict: 73.9
     female_response_1: 29.2
     female_response_2: 70.8
     male_response_1: 31.9
@@ -8006,7 +8006,7 @@
       german: "Wei\xDF"
   poll_id: 8951
   results:
-    accurate_predict: 45.7
+    accurate_predict: 54.3
     female_response_1: 53.0
     female_response_2: 47.0
     male_response_1: 36.3
@@ -8024,7 +8024,7 @@
       german: Ninja!
   poll_id: 8952
   results:
-    accurate_predict: 20.5
+    accurate_predict: 79.5
     female_response_1: 27.9
     female_response_2: 72.1
     male_response_1: 18.2
@@ -8042,7 +8042,7 @@
       german: Nein
   poll_id: 8953
   results:
-    accurate_predict: 28.9
+    accurate_predict: 71.1
     female_response_1: 41.3
     female_response_2: 58.7
     male_response_1: 28.3
@@ -8060,7 +8060,7 @@
       german: "Bogenschie\xDFen"
   poll_id: 8954
   results:
-    accurate_predict: 53.1
+    accurate_predict: 46.9
     female_response_1: 46.3
     female_response_2: 53.7
     male_response_1: 41.7
@@ -8078,7 +8078,7 @@
       german: Nein
   poll_id: 8955
   results:
-    accurate_predict: 22.7
+    accurate_predict: 77.3
     female_response_1: 20.9
     female_response_2: 79.1
     male_response_1: 22.8
@@ -8114,7 +8114,7 @@
       german: Nein
   poll_id: 8957
   results:
-    accurate_predict: 62.2
+    accurate_predict: 37.8
     female_response_1: 17.1
     female_response_2: 82.9
     male_response_1: 40.2
@@ -8132,7 +8132,7 @@
       german: Selbstgekochtes
   poll_id: 8958
   results:
-    accurate_predict: 43.6
+    accurate_predict: 56.4
     female_response_1: 30.6
     female_response_2: 69.4
     male_response_1: 37.5
@@ -8168,7 +8168,7 @@
       german: Nein
   poll_id: 8960
   results:
-    accurate_predict: 17.4
+    accurate_predict: 82.6
     female_response_1: 7.6
     female_response_2: 92.4
     male_response_1: 8.6
@@ -8204,7 +8204,7 @@
       german: Nein
   poll_id: 8962
   results:
-    accurate_predict: 34.3
+    accurate_predict: 65.7
     female_response_1: 22.7
     female_response_2: 77.3
     male_response_1: 30.4
@@ -8240,7 +8240,7 @@
       german: Schnee
   poll_id: 8964
   results:
-    accurate_predict: 52.8
+    accurate_predict: 47.2
     female_response_1: 55.4
     female_response_2: 44.6
     male_response_1: 44.1
@@ -8258,7 +8258,7 @@
       german: Nein
   poll_id: 8965
   results:
-    accurate_predict: 35.9
+    accurate_predict: 64.1
     female_response_1: 34.5
     female_response_2: 65.5
     male_response_1: 40.0
@@ -8276,7 +8276,7 @@
       german: Nein
   poll_id: 8966
   results:
-    accurate_predict: 23.8
+    accurate_predict: 76.2
     female_response_1: 19.2
     female_response_2: 80.8
     male_response_1: 24.1
@@ -8330,7 +8330,7 @@
       german: Nein
   poll_id: 8969
   results:
-    accurate_predict: 26.2
+    accurate_predict: 73.8
     female_response_1: 20.1
     female_response_2: 79.9
     male_response_1: 19.3
@@ -8366,7 +8366,7 @@
       german: Kurz vorher
   poll_id: 8971
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 34.4
     female_response_2: 65.6
     male_response_1: 27.9
@@ -8384,7 +8384,7 @@
       german: Nein
   poll_id: 8972
   results:
-    accurate_predict: 44.1
+    accurate_predict: 55.9
     female_response_1: 48.9
     female_response_2: 51.1
     male_response_1: 48.3
@@ -8402,7 +8402,7 @@
       german: Hip-Hop
   poll_id: 8973
   results:
-    accurate_predict: 16.0
+    accurate_predict: 84.0
     female_response_1: 31.6
     female_response_2: 68.4
     male_response_1: 34.1
@@ -8439,7 +8439,7 @@
       german: Nein
   poll_id: 8975
   results:
-    accurate_predict: 52.8
+    accurate_predict: 47.2
     female_response_1: 37.3
     female_response_2: 62.7
     male_response_1: 36.4
@@ -8457,7 +8457,7 @@
       german: Nein
   poll_id: 8976
   results:
-    accurate_predict: 28.2
+    accurate_predict: 71.8
     female_response_1: 27.1
     female_response_2: 72.9
     male_response_1: 30.0
@@ -8511,7 +8511,7 @@
       german: Nein
   poll_id: 8979
   results:
-    accurate_predict: 16.7
+    accurate_predict: 83.3
     female_response_1: 11.3
     female_response_2: 88.7
     male_response_1: 15.6
@@ -8529,7 +8529,7 @@
       german: Nein
   poll_id: 8980
   results:
-    accurate_predict: 47.7
+    accurate_predict: 52.3
     female_response_1: 44.1
     female_response_2: 55.9
     male_response_1: 40.0
@@ -8547,7 +8547,7 @@
       german: Nein
   poll_id: 8981
   results:
-    accurate_predict: 40.1
+    accurate_predict: 59.9
     female_response_1: 52.5
     female_response_2: 47.5
     male_response_1: 42.6
@@ -8565,7 +8565,7 @@
       german: Nein
   poll_id: 8982
   results:
-    accurate_predict: 59.8
+    accurate_predict: 40.2
     female_response_1: 51.1
     female_response_2: 48.9
     male_response_1: 21.7
@@ -8583,7 +8583,7 @@
       german: Nein
   poll_id: 8983
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 30.8
     female_response_2: 69.2
     male_response_1: 40.8
@@ -8655,7 +8655,7 @@
       german: Nein
   poll_id: 8987
   results:
-    accurate_predict: 13.8
+    accurate_predict: 86.2
     female_response_1: 12.0
     female_response_2: 88.0
     male_response_1: 13.9
@@ -8691,7 +8691,7 @@
       german: Nein
   poll_id: 8989
   results:
-    accurate_predict: 38.4
+    accurate_predict: 61.6
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 47.3
@@ -8709,7 +8709,7 @@
       german: Nein
   poll_id: 8990
   results:
-    accurate_predict: 66.1
+    accurate_predict: 33.9
     female_response_1: 49.0
     female_response_2: 51.0
     male_response_1: 29.0
@@ -8727,7 +8727,7 @@
       german: Nein
   poll_id: 8991
   results:
-    accurate_predict: 12.4
+    accurate_predict: 87.6
     female_response_1: 19.2
     female_response_2: 80.8
     male_response_1: 7.6
@@ -8765,7 +8765,7 @@
       german: Fruchtsaft
   poll_id: 8993
   results:
-    accurate_predict: 47.6
+    accurate_predict: 52.4
     female_response_1: 31.9
     female_response_2: 68.1
     male_response_1: 41.1
@@ -8783,7 +8783,7 @@
       german: Getrennt halten!
   poll_id: 8994
   results:
-    accurate_predict: 40.6
+    accurate_predict: 59.4
     female_response_1: 40.2
     female_response_2: 59.8
     male_response_1: 35.9
@@ -8837,7 +8837,7 @@
       german: Der Fahrer
   poll_id: 8997
   results:
-    accurate_predict: 46.9
+    accurate_predict: 53.1
     female_response_1: 46.6
     female_response_2: 53.4
     male_response_1: 44.3
@@ -8855,7 +8855,7 @@
       german: Nein
   poll_id: 8998
   results:
-    accurate_predict: 24.6
+    accurate_predict: 75.4
     female_response_1: 32.1
     female_response_2: 67.9
     male_response_1: 32.0
@@ -8875,7 +8875,7 @@
       german: Nein
   poll_id: 8999
   results:
-    accurate_predict: 16.0
+    accurate_predict: 84.0
     female_response_1: 20.3
     female_response_2: 79.7
     male_response_1: 21.4
@@ -8931,7 +8931,7 @@
       german: Nein
   poll_id: 9002
   results:
-    accurate_predict: 39.6
+    accurate_predict: 60.4
     female_response_1: 28.1
     female_response_2: 71.9
     male_response_1: 23.5
@@ -8949,7 +8949,7 @@
       german: Unsichtbarkeit
   poll_id: 10339
   results:
-    accurate_predict: 37.4
+    accurate_predict: 62.6
     female_response_1: 16.9
     female_response_2: 83.1
     male_response_1: 29.5
@@ -8967,7 +8967,7 @@
       german: Nein
   poll_id: 10340
   results:
-    accurate_predict: 46.1
+    accurate_predict: 53.9
     female_response_1: 34.0
     female_response_2: 66.0
     male_response_1: 36.1
@@ -8985,7 +8985,7 @@
       german: Nein
   poll_id: 10341
   results:
-    accurate_predict: 50.6
+    accurate_predict: 49.4
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 41.3
@@ -9039,7 +9039,7 @@
       german: Nein
   poll_id: 10344
   results:
-    accurate_predict: 17.7
+    accurate_predict: 82.3
     female_response_1: 37.5
     female_response_2: 62.5
     male_response_1: 16.3
@@ -9057,7 +9057,7 @@
       german: Nur, was ich brauche
   poll_id: 10345
   results:
-    accurate_predict: 31.4
+    accurate_predict: 68.6
     female_response_1: 30.5
     female_response_2: 69.5
     male_response_1: 17.3
@@ -9111,7 +9111,7 @@
       german: Nein
   poll_id: 10348
   results:
-    accurate_predict: 24.0
+    accurate_predict: 76.0
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 33.3
@@ -9147,7 +9147,7 @@
       german: LCD
   poll_id: 10350
   results:
-    accurate_predict: 47.9
+    accurate_predict: 52.1
     female_response_1: 48.1
     female_response_2: 51.9
     male_response_1: 44.9
@@ -9165,7 +9165,7 @@
       german: Kurze Haare
   poll_id: 10351
   results:
-    accurate_predict: 41.1
+    accurate_predict: 58.9
     female_response_1: 75.5
     female_response_2: 24.5
     male_response_1: 25.2
@@ -9183,7 +9183,7 @@
       german: Internet
   poll_id: 10352
   results:
-    accurate_predict: 37.1
+    accurate_predict: 62.9
     female_response_1: 45.5
     female_response_2: 54.5
     male_response_1: 34.1
@@ -9201,7 +9201,7 @@
       german: Abends
   poll_id: 10353
   results:
-    accurate_predict: 53.9
+    accurate_predict: 46.1
     female_response_1: 30.7
     female_response_2: 69.3
     male_response_1: 31.4
@@ -9219,7 +9219,7 @@
       german: Mit Freunden
   poll_id: 10354
   results:
-    accurate_predict: 10.4
+    accurate_predict: 89.6
     female_response_1: 14.7
     female_response_2: 85.3
     male_response_1: 18.9
@@ -9237,7 +9237,7 @@
       german: Gabel
   poll_id: 10355
   results:
-    accurate_predict: 46.9
+    accurate_predict: 53.1
     female_response_1: 37.3
     female_response_2: 62.7
     male_response_1: 38.7
@@ -9255,7 +9255,7 @@
       german: Schnee
   poll_id: 10356
   results:
-    accurate_predict: 14.7
+    accurate_predict: 85.3
     female_response_1: 29.3
     female_response_2: 70.7
     male_response_1: 23.3
@@ -9291,7 +9291,7 @@
       german: Nein
   poll_id: 10358
   results:
-    accurate_predict: 42.6
+    accurate_predict: 57.4
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 37.5
@@ -9345,7 +9345,7 @@
       german: Nein
   poll_id: 10361
   results:
-    accurate_predict: 14.0
+    accurate_predict: 86.0
     female_response_1: 16.2
     female_response_2: 83.8
     male_response_1: 14.4
@@ -9363,7 +9363,7 @@
       german: Abendessen
   poll_id: 10362
   results:
-    accurate_predict: 45.9
+    accurate_predict: 54.1
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 42.6
@@ -9399,7 +9399,7 @@
       german: Geld
   poll_id: 10364
   results:
-    accurate_predict: 27.5
+    accurate_predict: 72.5
     female_response_1: 28.6
     female_response_2: 71.4
     male_response_1: 29.1
@@ -9489,7 +9489,7 @@
       german: Nein
   poll_id: 10369
   results:
-    accurate_predict: 27.9
+    accurate_predict: 72.1
     female_response_1: 34.7
     female_response_2: 65.3
     male_response_1: 33.1
@@ -9507,7 +9507,7 @@
       german: Entspannt
   poll_id: 10370
   results:
-    accurate_predict: 57.4
+    accurate_predict: 42.6
     female_response_1: 55.7
     female_response_2: 44.3
     male_response_1: 42.0
@@ -9561,7 +9561,7 @@
       german: Mit anderen
   poll_id: 10373
   results:
-    accurate_predict: 9.9
+    accurate_predict: 90.1
     female_response_1: 8.3
     female_response_2: 91.7
     male_response_1: 13.3
@@ -9579,7 +9579,7 @@
       german: Nein
   poll_id: 10374
   results:
-    accurate_predict: 60.4
+    accurate_predict: 39.6
     female_response_1: 41.2
     female_response_2: 58.8
     male_response_1: 40.4
@@ -9597,7 +9597,7 @@
       german: Nein
   poll_id: 10375
   results:
-    accurate_predict: 14.5
+    accurate_predict: 85.5
     female_response_1: 28.8
     female_response_2: 71.2
     male_response_1: 21.8
@@ -9615,7 +9615,7 @@
       german: Nein
   poll_id: 10376
   results:
-    accurate_predict: 17.1
+    accurate_predict: 82.9
     female_response_1: 17.7
     female_response_2: 82.3
     male_response_1: 16.9
@@ -9633,7 +9633,7 @@
       german: Nein
   poll_id: 10377
   results:
-    accurate_predict: 37.7
+    accurate_predict: 62.3
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 50.1
@@ -9723,7 +9723,7 @@
       german: Nein
   poll_id: 10382
   results:
-    accurate_predict: 37.4
+    accurate_predict: 62.6
     female_response_1: 25.1
     female_response_2: 74.9
     male_response_1: 49.1
@@ -9759,7 +9759,7 @@
       german: Nein
   poll_id: 10384
   results:
-    accurate_predict: 47.3
+    accurate_predict: 52.7
     female_response_1: 37.1
     female_response_2: 62.9
     male_response_1: 32.6
@@ -9813,7 +9813,7 @@
       german: Sahne/Joghurt
   poll_id: 10387
   results:
-    accurate_predict: 31.9
+    accurate_predict: 68.1
     female_response_1: 32.9
     female_response_2: 67.1
     male_response_1: 34.4
@@ -9869,7 +9869,7 @@
       german: Nein
   poll_id: 10390
   results:
-    accurate_predict: 49.3
+    accurate_predict: 50.7
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 43.1
@@ -9887,7 +9887,7 @@
       german: Kaffee
   poll_id: 10391
   results:
-    accurate_predict: 21.5
+    accurate_predict: 78.5
     female_response_1: 36.1
     female_response_2: 63.9
     male_response_1: 33.2
@@ -9923,7 +9923,7 @@
       german: Nein
   poll_id: 10393
   results:
-    accurate_predict: 20.8
+    accurate_predict: 79.2
     female_response_1: 23.8
     female_response_2: 76.2
     male_response_1: 23.9
@@ -9941,7 +9941,7 @@
       german: Nein
   poll_id: 10394
   results:
-    accurate_predict: 46.8
+    accurate_predict: 53.2
     female_response_1: 41.4
     female_response_2: 58.6
     male_response_1: 42.7
@@ -9959,7 +9959,7 @@
       german: Nein
   poll_id: 10395
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 31.1
     female_response_2: 68.9
     male_response_1: 29.8
@@ -9977,7 +9977,7 @@
       german: "S\xFCdpol?"
   poll_id: 10396
   results:
-    accurate_predict: 48.5
+    accurate_predict: 51.5
     female_response_1: 46.3
     female_response_2: 53.7
     male_response_1: 46.0
@@ -9995,7 +9995,7 @@
       german: Nein
   poll_id: 10397
   results:
-    accurate_predict: 11.8
+    accurate_predict: 88.2
     female_response_1: 19.4
     female_response_2: 80.6
     male_response_1: 21.1
@@ -10049,7 +10049,7 @@
       german: Selbstgekochtes
   poll_id: 10400
   results:
-    accurate_predict: 48.6
+    accurate_predict: 51.4
     female_response_1: 24.6
     female_response_2: 75.4
     male_response_1: 35.1
@@ -10067,7 +10067,7 @@
       german: Nein
   poll_id: 10401
   results:
-    accurate_predict: 52.5
+    accurate_predict: 47.5
     female_response_1: 45.3
     female_response_2: 54.7
     male_response_1: 45.6
@@ -10123,7 +10123,7 @@
       german: Im Freien
   poll_id: 10404
   results:
-    accurate_predict: 19.6
+    accurate_predict: 80.4
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 32.7
@@ -10249,7 +10249,7 @@
       german: Nein
   poll_id: 11153
   results:
-    accurate_predict: 22.9
+    accurate_predict: 77.1
     female_response_1: 12.9
     female_response_2: 87.1
     male_response_1: 18.5
@@ -10267,7 +10267,7 @@
       german: Nein
   poll_id: 11154
   results:
-    accurate_predict: 30.6
+    accurate_predict: 69.4
     female_response_1: 37.5
     female_response_2: 62.5
     male_response_1: 23.9
@@ -10375,7 +10375,7 @@
       german: Nein
   poll_id: 11160
   results:
-    accurate_predict: 36.6
+    accurate_predict: 63.4
     female_response_1: 27.5
     female_response_2: 72.5
     male_response_1: 22.5
@@ -10411,7 +10411,7 @@
       german: Nein
   poll_id: 11162
   results:
-    accurate_predict: 21.6
+    accurate_predict: 78.4
     female_response_1: 22.5
     female_response_2: 77.5
     male_response_1: 24.0
@@ -10447,7 +10447,7 @@
       german: Nein
   poll_id: 11164
   results:
-    accurate_predict: 42.7
+    accurate_predict: 57.3
     female_response_1: 48.3
     female_response_2: 51.7
     male_response_1: 40.4
@@ -10519,7 +10519,7 @@
       german: Nein
   poll_id: 11168
   results:
-    accurate_predict: 30.9
+    accurate_predict: 69.1
     female_response_1: 29.6
     female_response_2: 70.4
     male_response_1: 26.7
@@ -10573,7 +10573,7 @@
       german: Nein
   poll_id: 11171
   results:
-    accurate_predict: 33.1
+    accurate_predict: 66.9
     female_response_1: 33.6
     female_response_2: 66.4
     male_response_1: 34.4
@@ -10591,7 +10591,7 @@
       german: mit Freunden.
   poll_id: 11172
   results:
-    accurate_predict: 12.4
+    accurate_predict: 87.6
     female_response_1: 22.8
     female_response_2: 77.2
     male_response_1: 25.8
@@ -10609,7 +10609,7 @@
       german: kaltem Wasser.
   poll_id: 11173
   results:
-    accurate_predict: 56.0
+    accurate_predict: 44.0
     female_response_1: 52.0
     female_response_2: 48.0
     male_response_1: 44.8
@@ -10699,7 +10699,7 @@
       german: Nein
   poll_id: 11178
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 26.6
     female_response_2: 73.4
     male_response_1: 26.5
@@ -10717,7 +10717,7 @@
       german: Nein
   poll_id: 11179
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 20.6
     female_response_2: 79.4
     male_response_1: 23.1
@@ -10735,7 +10735,7 @@
       german: Nein
   poll_id: 11180
   results:
-    accurate_predict: 25.5
+    accurate_predict: 74.5
     female_response_1: 18.1
     female_response_2: 81.9
     male_response_1: 35.4
@@ -10753,7 +10753,7 @@
       german: 2000er
   poll_id: 11181
   results:
-    accurate_predict: 34.3
+    accurate_predict: 65.7
     female_response_1: 37.9
     female_response_2: 62.1
     male_response_1: 40.1
@@ -10789,7 +10789,7 @@
       german: Nein
   poll_id: 11183
   results:
-    accurate_predict: 40.5
+    accurate_predict: 59.5
     female_response_1: 44.5
     female_response_2: 55.5
     male_response_1: 32.3
@@ -10825,7 +10825,7 @@
       german: Nein
   poll_id: 11185
   results:
-    accurate_predict: 17.4
+    accurate_predict: 82.6
     female_response_1: 16.0
     female_response_2: 84.0
     male_response_1: 20.1
@@ -10879,7 +10879,7 @@
       german: Nein
   poll_id: 11188
   results:
-    accurate_predict: 26.9
+    accurate_predict: 73.1
     female_response_1: 18.3
     female_response_2: 81.7
     male_response_1: 20.3
@@ -10897,7 +10897,7 @@
       german: Nein
   poll_id: 11189
   results:
-    accurate_predict: 54.4
+    accurate_predict: 45.6
     female_response_1: 27.3
     female_response_2: 72.7
     male_response_1: 47.7
@@ -10933,7 +10933,7 @@
       german: Nein
   poll_id: 11191
   results:
-    accurate_predict: 50.8
+    accurate_predict: 49.2
     female_response_1: 62.7
     female_response_2: 37.3
     male_response_1: 35.2
@@ -10969,7 +10969,7 @@
       german: "Zudr\xFCcken"
   poll_id: 11193
   results:
-    accurate_predict: 42.4
+    accurate_predict: 57.6
     female_response_1: 45.8
     female_response_2: 54.2
     male_response_1: 44.1
@@ -11059,7 +11059,7 @@
       german: Nein
   poll_id: 11198
   results:
-    accurate_predict: 46.0
+    accurate_predict: 54.0
     female_response_1: 42.4
     female_response_2: 57.6
     male_response_1: 49.2
@@ -11077,7 +11077,7 @@
       german: "Ohrh\xF6rer"
   poll_id: 11199
   results:
-    accurate_predict: 42.3
+    accurate_predict: 57.7
     female_response_1: 44.4
     female_response_2: 55.6
     male_response_1: 52.7
@@ -11095,7 +11095,7 @@
       german: Nein
   poll_id: 11200
   results:
-    accurate_predict: 16.5
+    accurate_predict: 83.5
     female_response_1: 11.5
     female_response_2: 88.5
     male_response_1: 12.3
@@ -11131,7 +11131,7 @@
       german: Nein
   poll_id: 11202
   results:
-    accurate_predict: 42.5
+    accurate_predict: 57.5
     female_response_1: 39.1
     female_response_2: 60.9
     male_response_1: 36.2
@@ -11185,7 +11185,7 @@
       german: Nein
   poll_id: 11205
   results:
-    accurate_predict: 12.2
+    accurate_predict: 87.8
     female_response_1: 17.2
     female_response_2: 82.8
     male_response_1: 19.5
@@ -11221,7 +11221,7 @@
       german: Nein
   poll_id: 11207
   results:
-    accurate_predict: 48.6
+    accurate_predict: 51.4
     female_response_1: 47.2
     female_response_2: 52.8
     male_response_1: 36.1
@@ -11293,7 +11293,7 @@
       german: Nein
   poll_id: 11211
   results:
-    accurate_predict: 36.3
+    accurate_predict: 63.7
     female_response_1: 32.4
     female_response_2: 67.6
     male_response_1: 28.9
@@ -11329,7 +11329,7 @@
       german: Nein
   poll_id: 11213
   results:
-    accurate_predict: 24.7
+    accurate_predict: 75.3
     female_response_1: 8.8
     female_response_2: 91.2
     male_response_1: 12.8
@@ -11365,7 +11365,7 @@
       german: Nein
   poll_id: 11215
   results:
-    accurate_predict: 36.4
+    accurate_predict: 63.6
     female_response_1: 25.4
     female_response_2: 74.6
     male_response_1: 26.0
@@ -11401,7 +11401,7 @@
       german: Nein
   poll_id: 11217
   results:
-    accurate_predict: 11.0
+    accurate_predict: 89.0
     female_response_1: 8.3
     female_response_2: 91.7
     male_response_1: 12.3
@@ -11419,7 +11419,7 @@
       german: Nudeln.
   poll_id: 11218
   results:
-    accurate_predict: 17.6
+    accurate_predict: 82.4
     female_response_1: 26.7
     female_response_2: 73.3
     male_response_1: 22.8
@@ -11437,7 +11437,7 @@
       german: Nein
   poll_id: 11219
   results:
-    accurate_predict: 10.6
+    accurate_predict: 89.4
     female_response_1: 10.1
     female_response_2: 89.9
     male_response_1: 11.4
@@ -11455,7 +11455,7 @@
       german: Nein
   poll_id: 11220
   results:
-    accurate_predict: 22.0
+    accurate_predict: 78.0
     female_response_1: 32.6
     female_response_2: 67.4
     male_response_1: 28.6
@@ -11491,7 +11491,7 @@
       german: Nein
   poll_id: 11222
   results:
-    accurate_predict: 29.1
+    accurate_predict: 70.9
     female_response_1: 34.5
     female_response_2: 65.5
     male_response_1: 31.7
@@ -11509,7 +11509,7 @@
       german: Geschmack
   poll_id: 11223
   results:
-    accurate_predict: 35.9
+    accurate_predict: 64.1
     female_response_1: 38.7
     female_response_2: 61.3
     male_response_1: 35.8
@@ -11581,7 +11581,7 @@
       german: Nein
   poll_id: 11227
   results:
-    accurate_predict: 62.8
+    accurate_predict: 37.2
     female_response_1: 39.4
     female_response_2: 60.6
     male_response_1: 42.9
@@ -11599,7 +11599,7 @@
       german: Nein
   poll_id: 11228
   results:
-    accurate_predict: 32.9
+    accurate_predict: 67.1
     female_response_1: 23.7
     female_response_2: 76.3
     male_response_1: 25.6
@@ -11635,7 +11635,7 @@
       german: Nein
   poll_id: 11230
   results:
-    accurate_predict: 15.8
+    accurate_predict: 84.2
     female_response_1: 14.0
     female_response_2: 86.0
     male_response_1: 19.3
@@ -11653,7 +11653,7 @@
       german: Schokolade
   poll_id: 11231
   results:
-    accurate_predict: 27.0
+    accurate_predict: 73.0
     female_response_1: 43.6
     female_response_2: 56.4
     male_response_1: 41.8
@@ -11671,7 +11671,7 @@
       german: Nein
   poll_id: 11232
   results:
-    accurate_predict: 52.8
+    accurate_predict: 47.2
     female_response_1: 31.5
     female_response_2: 68.5
     male_response_1: 36.4
@@ -11689,7 +11689,7 @@
       german: geschlossen.
   poll_id: 11233
   results:
-    accurate_predict: 29.0
+    accurate_predict: 71.0
     female_response_1: 27.9
     female_response_2: 72.1
     male_response_1: 27.6
@@ -11725,7 +11725,7 @@
       german: "Blo\xDF nicht!"
   poll_id: 13047
   results:
-    accurate_predict: 47.4
+    accurate_predict: 52.6
     female_response_1: 59.2
     female_response_2: 40.8
     male_response_1: 35.5
@@ -11763,7 +11763,7 @@
       german: Eine Schneeballschlacht
   poll_id: 13049
   results:
-    accurate_predict: 38.9
+    accurate_predict: 61.1
     female_response_1: 52.9
     female_response_2: 47.1
     male_response_1: 39.0
@@ -11891,7 +11891,7 @@
       german: Schokolade
   poll_id: 13056
   results:
-    accurate_predict: 21.7
+    accurate_predict: 78.3
     female_response_1: 21.0
     female_response_2: 79.0
     male_response_1: 23.2
@@ -11909,7 +11909,7 @@
       german: Nein
   poll_id: 13057
   results:
-    accurate_predict: 15.0
+    accurate_predict: 85.0
     female_response_1: 15.1
     female_response_2: 84.9
     male_response_1: 20.9
@@ -11947,7 +11947,7 @@
       german: Altes Rom
   poll_id: 13059
   results:
-    accurate_predict: 50.9
+    accurate_predict: 49.1
     female_response_1: 58.0
     female_response_2: 42.0
     male_response_1: 43.8
@@ -11965,7 +11965,7 @@
       german: Nein
   poll_id: 13060
   results:
-    accurate_predict: 24.5
+    accurate_predict: 75.5
     female_response_1: 19.5
     female_response_2: 80.5
     male_response_1: 19.1
@@ -11985,7 +11985,7 @@
       german: Nein
   poll_id: 13061
   results:
-    accurate_predict: 10.2
+    accurate_predict: 89.8
     female_response_1: 8.9
     female_response_2: 91.1
     male_response_1: 11.9
@@ -12003,7 +12003,7 @@
       german: Nein
   poll_id: 13062
   results:
-    accurate_predict: 27.9
+    accurate_predict: 72.1
     female_response_1: 21.0
     female_response_2: 79.0
     male_response_1: 21.9
@@ -12057,7 +12057,7 @@
       german: Nein
   poll_id: 13065
   results:
-    accurate_predict: 50.4
+    accurate_predict: 49.6
     female_response_1: 52.0
     female_response_2: 48.0
     male_response_1: 48.2
@@ -12075,7 +12075,7 @@
       german: Nein
   poll_id: 13066
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 14.4
     female_response_2: 85.6
     male_response_1: 19.9
@@ -12093,7 +12093,7 @@
       german: Nein
   poll_id: 13067
   results:
-    accurate_predict: 17.5
+    accurate_predict: 82.5
     female_response_1: 17.7
     female_response_2: 82.3
     male_response_1: 14.0
@@ -12111,7 +12111,7 @@
       german: Haustier
   poll_id: 13068
   results:
-    accurate_predict: 48.7
+    accurate_predict: 51.3
     female_response_1: 44.2
     female_response_2: 55.8
     male_response_1: 53.2
@@ -12129,7 +12129,7 @@
       german: Schauspieler
   poll_id: 13069
   results:
-    accurate_predict: 13.0
+    accurate_predict: 87.0
     female_response_1: 29.1
     female_response_2: 70.9
     male_response_1: 29.2
@@ -12222,7 +12222,7 @@
       german: 1000 Jahre
   poll_id: 13074
   results:
-    accurate_predict: 34.6
+    accurate_predict: 65.4
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 40.4
@@ -12240,7 +12240,7 @@
       german: Nein
   poll_id: 13075
   results:
-    accurate_predict: 40.3
+    accurate_predict: 59.7
     female_response_1: 34.3
     female_response_2: 65.7
     male_response_1: 35.9
@@ -12276,7 +12276,7 @@
       german: Ohne Sahne
   poll_id: 13077
   results:
-    accurate_predict: 53.2
+    accurate_predict: 46.8
     female_response_1: 38.6
     female_response_2: 61.4
     male_response_1: 39.3
@@ -12294,7 +12294,7 @@
       german: Nein
   poll_id: 13078
   results:
-    accurate_predict: 27.2
+    accurate_predict: 72.8
     female_response_1: 18.4
     female_response_2: 81.6
     male_response_1: 17.3
@@ -12312,7 +12312,7 @@
       german: Nein
   poll_id: 13079
   results:
-    accurate_predict: 28.5
+    accurate_predict: 71.5
     female_response_1: 28.6
     female_response_2: 71.4
     male_response_1: 34.3
@@ -12368,7 +12368,7 @@
       german: Nein
   poll_id: 13082
   results:
-    accurate_predict: 27.6
+    accurate_predict: 72.4
     female_response_1: 33.7
     female_response_2: 66.3
     male_response_1: 35.8
@@ -12422,7 +12422,7 @@
       german: Krake
   poll_id: 13085
   results:
-    accurate_predict: 40.4
+    accurate_predict: 59.6
     female_response_1: 45.7
     female_response_2: 54.3
     male_response_1: 33.0
@@ -12440,7 +12440,7 @@
       german: Nein
   poll_id: 13086
   results:
-    accurate_predict: 48.0
+    accurate_predict: 52.0
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 47.1
@@ -12458,7 +12458,7 @@
       german: Mache ich es aus
   poll_id: 13087
   results:
-    accurate_predict: 22.9
+    accurate_predict: 77.1
     female_response_1: 21.4
     female_response_2: 78.6
     male_response_1: 23.3
@@ -12531,7 +12531,7 @@
       german: Nein
   poll_id: 13091
   results:
-    accurate_predict: 24.1
+    accurate_predict: 75.9
     female_response_1: 20.4
     female_response_2: 79.6
     male_response_1: 26.1
@@ -12567,7 +12567,7 @@
       german: Gar nicht cool!
   poll_id: 13093
   results:
-    accurate_predict: 31.8
+    accurate_predict: 68.2
     female_response_1: 25.4
     female_response_2: 74.6
     male_response_1: 30.5
@@ -12585,7 +12585,7 @@
       german: Nein
   poll_id: 13094
   results:
-    accurate_predict: 31.7
+    accurate_predict: 68.3
     female_response_1: 35.2
     female_response_2: 64.8
     male_response_1: 22.0
@@ -12603,7 +12603,7 @@
       german: Nein
   poll_id: 13095
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 34.4
     female_response_2: 65.6
     male_response_1: 34.3
@@ -12621,7 +12621,7 @@
       german: Frisch gemahlen
   poll_id: 13096
   results:
-    accurate_predict: 31.7
+    accurate_predict: 68.3
     female_response_1: 37.7
     female_response_2: 62.3
     male_response_1: 36.9
@@ -12639,7 +12639,7 @@
       german: Langweilt mich
   poll_id: 13097
   results:
-    accurate_predict: 45.9
+    accurate_predict: 54.1
     female_response_1: 31.0
     female_response_2: 69.0
     male_response_1: 33.7
@@ -12657,7 +12657,7 @@
       german: Nein
   poll_id: 13098
   results:
-    accurate_predict: 33.7
+    accurate_predict: 66.3
     female_response_1: 41.9
     female_response_2: 58.1
     male_response_1: 21.8
@@ -12713,7 +12713,7 @@
       german: Alles nur Sci-Fi!
   poll_id: 13101
   results:
-    accurate_predict: 21.1
+    accurate_predict: 78.9
     female_response_1: 23.4
     female_response_2: 76.6
     male_response_1: 30.2
@@ -12731,7 +12731,7 @@
       german: Nein
   poll_id: 13102
   results:
-    accurate_predict: 26.4
+    accurate_predict: 73.6
     female_response_1: 22.1
     female_response_2: 77.9
     male_response_1: 23.8
@@ -12749,7 +12749,7 @@
       german: "Wei\xDFen"
   poll_id: 13103
   results:
-    accurate_predict: 14.0
+    accurate_predict: 86.0
     female_response_1: 22.1
     female_response_2: 77.9
     male_response_1: 19.5
@@ -12785,7 +12785,7 @@
       german: Ohne Knochen
   poll_id: 13105
   results:
-    accurate_predict: 19.8
+    accurate_predict: 80.2
     female_response_1: 20.6
     female_response_2: 79.4
     male_response_1: 24.3
@@ -12803,7 +12803,7 @@
       german: Keine Ahnung...
   poll_id: 13106
   results:
-    accurate_predict: 24.0
+    accurate_predict: 76.0
     female_response_1: 27.1
     female_response_2: 72.9
     male_response_1: 30.3
@@ -12839,7 +12839,7 @@
       german: Nachsehen
   poll_id: 13108
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 32.0
     female_response_2: 68.0
     male_response_1: 21.6
@@ -12893,7 +12893,7 @@
       german: Ich verhalte mich ruhig.
   poll_id: 13111
   results:
-    accurate_predict: 58.4
+    accurate_predict: 41.6
     female_response_1: 48.0
     female_response_2: 52.0
     male_response_1: 39.3
@@ -12911,7 +12911,7 @@
       german: Welcher Spiegel?
   poll_id: 13112
   results:
-    accurate_predict: 56.5
+    accurate_predict: 43.5
     female_response_1: 58.3
     female_response_2: 41.7
     male_response_1: 24.0
@@ -12929,7 +12929,7 @@
       german: Actionfilme
   poll_id: 13113
   results:
-    accurate_predict: 33.9
+    accurate_predict: 66.1
     female_response_1: 40.9
     female_response_2: 59.1
     male_response_1: 30.7
@@ -12947,7 +12947,7 @@
       german: Bello
   poll_id: 13114
   results:
-    accurate_predict: 17.2
+    accurate_predict: 82.8
     female_response_1: 29.9
     female_response_2: 70.1
     male_response_1: 21.7
@@ -12965,7 +12965,7 @@
       german: Nein
   poll_id: 13115
   results:
-    accurate_predict: 13.7
+    accurate_predict: 86.3
     female_response_1: 15.0
     female_response_2: 85.0
     male_response_1: 14.4
@@ -12983,7 +12983,7 @@
       german: Nein
   poll_id: 13116
   results:
-    accurate_predict: 28.9
+    accurate_predict: 71.1
     female_response_1: 33.0
     female_response_2: 67.0
     male_response_1: 25.4
@@ -13001,7 +13001,7 @@
       german: Fliegen!
   poll_id: 13117
   results:
-    accurate_predict: 21.8
+    accurate_predict: 78.2
     female_response_1: 32.8
     female_response_2: 67.2
     male_response_1: 27.5
@@ -13038,7 +13038,7 @@
       german: Ich sage nichts.
   poll_id: 13119
   results:
-    accurate_predict: 33.1
+    accurate_predict: 66.9
     female_response_1: 24.9
     female_response_2: 75.1
     male_response_1: 27.9
@@ -13074,7 +13074,7 @@
       german: "Spa\xDF"
   poll_id: 13121
   results:
-    accurate_predict: 46.1
+    accurate_predict: 53.9
     female_response_1: 50.9
     female_response_2: 49.1
     male_response_1: 48.0
@@ -13110,7 +13110,7 @@
       german: Nein
   poll_id: 13123
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 15.7
     female_response_2: 84.3
     male_response_1: 13.6
@@ -13182,7 +13182,7 @@
       german: Zu jeder Jahreszeit
   poll_id: 13127
   results:
-    accurate_predict: 38.3
+    accurate_predict: 61.7
     female_response_1: 27.2
     female_response_2: 72.8
     male_response_1: 29.1
@@ -13273,7 +13273,7 @@
       german: Doppeldeckerbus
   poll_id: 13132
   results:
-    accurate_predict: 35.2
+    accurate_predict: 64.8
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 40.3
@@ -13291,7 +13291,7 @@
       german: Eine gelehrte Person
   poll_id: 13133
   results:
-    accurate_predict: 54.6
+    accurate_predict: 45.4
     female_response_1: 49.3
     female_response_2: 50.7
     male_response_1: 47.9
@@ -13309,7 +13309,7 @@
       german: Nein
   poll_id: 14894
   results:
-    accurate_predict: 46.3
+    accurate_predict: 53.7
     female_response_1: 48.2
     female_response_2: 51.8
     male_response_1: 46.6
@@ -13327,7 +13327,7 @@
       german: Nachtisch
   poll_id: 14895
   results:
-    accurate_predict: 16.5
+    accurate_predict: 83.5
     female_response_1: 23.8
     female_response_2: 76.2
     male_response_1: 25.5
@@ -13381,7 +13381,7 @@
       german: In der Waffel
   poll_id: 14898
   results:
-    accurate_predict: 23.8
+    accurate_predict: 76.2
     female_response_1: 36.7
     female_response_2: 63.3
     male_response_1: 32.7
@@ -13399,7 +13399,7 @@
       german: Nein
   poll_id: 14899
   results:
-    accurate_predict: 49.3
+    accurate_predict: 50.7
     female_response_1: 41.2
     female_response_2: 58.8
     male_response_1: 46.5
@@ -13472,7 +13472,7 @@
       german: Nein
   poll_id: 14903
   results:
-    accurate_predict: 43.1
+    accurate_predict: 56.9
     female_response_1: 47.1
     female_response_2: 52.9
     male_response_1: 38.8
@@ -13490,7 +13490,7 @@
       german: Nein!
   poll_id: 14904
   results:
-    accurate_predict: 17.9
+    accurate_predict: 82.1
     female_response_1: 16.2
     female_response_2: 83.8
     male_response_1: 18.4
@@ -13526,7 +13526,7 @@
       german: Nein
   poll_id: 14906
   results:
-    accurate_predict: 22.7
+    accurate_predict: 77.3
     female_response_1: 19.8
     female_response_2: 80.2
     male_response_1: 21.3
@@ -13544,7 +13544,7 @@
       german: Nein
   poll_id: 14907
   results:
-    accurate_predict: 55.6
+    accurate_predict: 44.4
     female_response_1: 46.5
     female_response_2: 53.5
     male_response_1: 42.2
@@ -13599,7 +13599,7 @@
       german: Nein, gar nicht.
   poll_id: 14910
   results:
-    accurate_predict: 41.8
+    accurate_predict: 58.2
     female_response_1: 37.9
     female_response_2: 62.1
     male_response_1: 34.9
@@ -13635,7 +13635,7 @@
       german: Noch nicht...
   poll_id: 14912
   results:
-    accurate_predict: 22.3
+    accurate_predict: 77.7
     female_response_1: 25.7
     female_response_2: 74.3
     male_response_1: 22.1
@@ -13653,7 +13653,7 @@
       german: Nein
   poll_id: 14913
   results:
-    accurate_predict: 25.6
+    accurate_predict: 74.4
     female_response_1: 24.8
     female_response_2: 75.2
     male_response_1: 25.0
@@ -13671,7 +13671,7 @@
       german: Wasser
   poll_id: 14914
   results:
-    accurate_predict: 41.8
+    accurate_predict: 58.2
     female_response_1: 28.2
     female_response_2: 71.8
     male_response_1: 45.5
@@ -13689,7 +13689,7 @@
       german: Noch nie...
   poll_id: 14915
   results:
-    accurate_predict: 24.6
+    accurate_predict: 75.4
     female_response_1: 17.9
     female_response_2: 82.1
     male_response_1: 15.7
@@ -13707,7 +13707,7 @@
       german: Nein
   poll_id: 14916
   results:
-    accurate_predict: 43.5
+    accurate_predict: 56.5
     female_response_1: 47.6
     female_response_2: 52.4
     male_response_1: 47.0
@@ -13725,7 +13725,7 @@
       german: "R\xFCpelhaften Krieger"
   poll_id: 14917
   results:
-    accurate_predict: 39.2
+    accurate_predict: 60.8
     female_response_1: 54.8
     female_response_2: 45.2
     male_response_1: 41.4
@@ -13781,7 +13781,7 @@
       german: "H\xE4???"
   poll_id: 14920
   results:
-    accurate_predict: 16.7
+    accurate_predict: 83.3
     female_response_1: 18.2
     female_response_2: 81.8
     male_response_1: 26.3
@@ -13819,7 +13819,7 @@
       german: Nein
   poll_id: 14922
   results:
-    accurate_predict: 36.2
+    accurate_predict: 63.8
     female_response_1: 39.3
     female_response_2: 60.7
     male_response_1: 47.0
@@ -13857,7 +13857,7 @@
       german: Nein
   poll_id: 14924
   results:
-    accurate_predict: 46.0
+    accurate_predict: 54.0
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 49.6
@@ -13876,7 +13876,7 @@
       german: Gerundete Seite
   poll_id: 14925
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 23.2
     female_response_2: 76.8
     male_response_1: 22.8
@@ -13894,7 +13894,7 @@
       german: Nein
   poll_id: 14926
   results:
-    accurate_predict: 42.2
+    accurate_predict: 57.8
     female_response_1: 36.3
     female_response_2: 63.7
     male_response_1: 51.1
@@ -13914,7 +13914,7 @@
       german: Nein
   poll_id: 14927
   results:
-    accurate_predict: 38.5
+    accurate_predict: 61.5
     female_response_1: 30.3
     female_response_2: 69.7
     male_response_1: 33.2
@@ -13932,7 +13932,7 @@
       german: Muscheln!
   poll_id: 14928
   results:
-    accurate_predict: 36.1
+    accurate_predict: 63.9
     female_response_1: 32.6
     female_response_2: 67.4
     male_response_1: 36.2
@@ -13952,7 +13952,7 @@
       german: Auf keinen Fall...
   poll_id: 14929
   results:
-    accurate_predict: 14.4
+    accurate_predict: 85.6
     female_response_1: 10.6
     female_response_2: 89.4
     male_response_1: 12.1
@@ -13972,7 +13972,7 @@
       german: Konsonant
   poll_id: 14930
   results:
-    accurate_predict: 23.5
+    accurate_predict: 76.5
     female_response_1: 25.6
     female_response_2: 74.4
     male_response_1: 24.5
@@ -13990,7 +13990,7 @@
       german: Nein
   poll_id: 14931
   results:
-    accurate_predict: 33.6
+    accurate_predict: 66.4
     female_response_1: 26.1
     female_response_2: 73.9
     male_response_1: 32.4
@@ -14045,7 +14045,7 @@
       german: Nein
   poll_id: 14934
   results:
-    accurate_predict: 57.0
+    accurate_predict: 43.0
     female_response_1: 37.8
     female_response_2: 62.2
     male_response_1: 38.7
@@ -14063,7 +14063,7 @@
       german: Nein
   poll_id: 14935
   results:
-    accurate_predict: 35.1
+    accurate_predict: 64.9
     female_response_1: 38.1
     female_response_2: 61.9
     male_response_1: 21.9
@@ -14135,7 +14135,7 @@
       german: Zu teuer!
   poll_id: 14939
   results:
-    accurate_predict: 24.7
+    accurate_predict: 75.3
     female_response_1: 32.0
     female_response_2: 68.0
     male_response_1: 32.8
@@ -14171,7 +14171,7 @@
       german: Riesige Villa!
   poll_id: 14941
   results:
-    accurate_predict: 23.0
+    accurate_predict: 77.0
     female_response_1: 35.4
     female_response_2: 64.6
     male_response_1: 32.9
@@ -14207,7 +14207,7 @@
       german: Nein
   poll_id: 14943
   results:
-    accurate_predict: 49.9
+    accurate_predict: 50.1
     female_response_1: 42.9
     female_response_2: 57.1
     male_response_1: 41.8
@@ -14225,7 +14225,7 @@
       german: Fleisch
   poll_id: 14944
   results:
-    accurate_predict: 17.5
+    accurate_predict: 82.5
     female_response_1: 27.7
     female_response_2: 72.3
     male_response_1: 22.1
@@ -14261,7 +14261,7 @@
       german: '...Kino.'
   poll_id: 14946
   results:
-    accurate_predict: 8.2
+    accurate_predict: 91.8
     female_response_1: 13.2
     female_response_2: 86.8
     male_response_1: 9.6
@@ -14297,7 +14297,7 @@
       german: Nein
   poll_id: 14948
   results:
-    accurate_predict: 35.6
+    accurate_predict: 64.4
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 44.2
@@ -14351,7 +14351,7 @@
       german: Freunde und Familie!
   poll_id: 14951
   results:
-    accurate_predict: 39.7
+    accurate_predict: 60.3
     female_response_1: 30.0
     female_response_2: 70.0
     male_response_1: 35.3
@@ -14371,7 +14371,7 @@
       german: Nein
   poll_id: 14952
   results:
-    accurate_predict: 11.1
+    accurate_predict: 88.9
     female_response_1: 8.1
     female_response_2: 91.9
     male_response_1: 11.2
@@ -14461,7 +14461,7 @@
       german: Nein
   poll_id: 14957
   results:
-    accurate_predict: 21.3
+    accurate_predict: 78.7
     female_response_1: 20.4
     female_response_2: 79.6
     male_response_1: 24.1
@@ -14515,7 +14515,7 @@
       german: "L\xF6we"
   poll_id: 14960
   results:
-    accurate_predict: 16.1
+    accurate_predict: 83.9
     female_response_1: 25.8
     female_response_2: 74.2
     male_response_1: 23.7
@@ -14533,7 +14533,7 @@
       german: Freundschaft
   poll_id: 14961
   results:
-    accurate_predict: 40.4
+    accurate_predict: 59.6
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 40.7
@@ -14551,7 +14551,7 @@
       german: Ich lege es weg...
   poll_id: 14962
   results:
-    accurate_predict: 19.4
+    accurate_predict: 80.6
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 21.8
@@ -14569,7 +14569,7 @@
       german: "Barfu\xDF"
   poll_id: 14963
   results:
-    accurate_predict: 53.6
+    accurate_predict: 46.4
     female_response_1: 46.3
     female_response_2: 53.7
     male_response_1: 48.7
@@ -14587,7 +14587,7 @@
       german: Nein
   poll_id: 14964
   results:
-    accurate_predict: 36.9
+    accurate_predict: 63.1
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 24.9
@@ -14605,7 +14605,7 @@
       german: Nein
   poll_id: 14965
   results:
-    accurate_predict: 49.3
+    accurate_predict: 50.7
     female_response_1: 36.8
     female_response_2: 63.2
     male_response_1: 40.9
@@ -14623,7 +14623,7 @@
       german: Zum Grand Canyon!
   poll_id: 14966
   results:
-    accurate_predict: 53.6
+    accurate_predict: 46.4
     female_response_1: 52.2
     female_response_2: 47.8
     male_response_1: 45.4
@@ -14717,7 +14717,7 @@
       german: Glattes Haar
   poll_id: 14971
   results:
-    accurate_predict: 27.9
+    accurate_predict: 72.1
     female_response_1: 38.2
     female_response_2: 61.8
     male_response_1: 18.2
@@ -14735,7 +14735,7 @@
       german: "Gru\xDF erwidern"
   poll_id: 14972
   results:
-    accurate_predict: 35.0
+    accurate_predict: 65.0
     female_response_1: 27.7
     female_response_2: 72.3
     male_response_1: 27.7
@@ -14755,7 +14755,7 @@
       german: Nein
   poll_id: 14973
   results:
-    accurate_predict: 47.4
+    accurate_predict: 52.6
     female_response_1: 26.3
     female_response_2: 73.7
     male_response_1: 46.3
@@ -14793,7 +14793,7 @@
       german: Nein
   poll_id: 14975
   results:
-    accurate_predict: 50.9
+    accurate_predict: 49.1
     female_response_1: 46.5
     female_response_2: 53.5
     male_response_1: 39.4
@@ -14824,14 +14824,14 @@
   date: April 26, 2012
   poll:
     question:
-      german: "Glaubst du, dass das Ungeheuer von Loch Ness wirklich existiert?"
+      german: Glaubst du, dass das Ungeheuer von Loch Ness wirklich existiert?
     response_1:
       german: Ja
     response_2:
       german: Nein
   poll_id: 14977
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 22.8
     female_response_2: 77.2
     male_response_1: 20.9
@@ -14885,7 +14885,7 @@
       german: Nein
   poll_id: 14980
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 35.5
     female_response_2: 64.5
     male_response_1: 39.6
@@ -14903,7 +14903,7 @@
       german: Nein
   poll_id: 14981
   results:
-    accurate_predict: 21.2
+    accurate_predict: 78.8
     female_response_1: 18.6
     female_response_2: 81.4
     male_response_1: 18.3
@@ -14922,7 +14922,7 @@
       german: Nein
   poll_id: 14982
   results:
-    accurate_predict: 27.4
+    accurate_predict: 72.6
     female_response_1: 36.6
     female_response_2: 63.4
     male_response_1: 34.8
@@ -14979,7 +14979,7 @@
       german: Nein
   poll_id: 14985
   results:
-    accurate_predict: 30.4
+    accurate_predict: 69.6
     female_response_1: 34.1
     female_response_2: 65.9
     male_response_1: 36.9
@@ -14997,7 +14997,7 @@
       german: Rockstar!
   poll_id: 14986
   results:
-    accurate_predict: 8.1
+    accurate_predict: 91.9
     female_response_1: 13.8
     female_response_2: 86.2
     male_response_1: 12.0
@@ -15015,7 +15015,7 @@
       german: "Nat\xFCrlich KEINE Socken!"
   poll_id: 14987
   results:
-    accurate_predict: 17.4
+    accurate_predict: 82.6
     female_response_1: 14.3
     female_response_2: 85.7
     male_response_1: 27.5
@@ -15069,7 +15069,7 @@
       german: Es zur Polizei bringen
   poll_id: 14990
   results:
-    accurate_predict: 36.5
+    accurate_predict: 63.5
     female_response_1: 28.9
     female_response_2: 71.1
     male_response_1: 40.1
@@ -15087,7 +15087,7 @@
       german: Krokodil!
   poll_id: 14991
   results:
-    accurate_predict: 26.7
+    accurate_predict: 73.3
     female_response_1: 50.4
     female_response_2: 49.6
     male_response_1: 24.2
@@ -15142,7 +15142,7 @@
       german: Nein
   poll_id: 14994
   results:
-    accurate_predict: 19.4
+    accurate_predict: 80.6
     female_response_1: 22.1
     female_response_2: 77.9
     male_response_1: 24.6
@@ -15198,7 +15198,7 @@
       german: Schriftlich
   poll_id: 14997
   results:
-    accurate_predict: 46.0
+    accurate_predict: 54.0
     female_response_1: 36.8
     female_response_2: 63.2
     male_response_1: 46.3
@@ -15216,7 +15216,7 @@
       german: '...Pegasus!'
   poll_id: 14998
   results:
-    accurate_predict: 34.5
+    accurate_predict: 65.5
     female_response_1: 27.4
     female_response_2: 72.6
     male_response_1: 51.0
@@ -15234,7 +15234,7 @@
       german: Nein
   poll_id: 14999
   results:
-    accurate_predict: 47.3
+    accurate_predict: 52.7
     female_response_1: 48.3
     female_response_2: 51.7
     male_response_1: 47.5
@@ -15252,7 +15252,7 @@
       german: '...nach dem Wasser.'
   poll_id: 15000
   results:
-    accurate_predict: 51.3
+    accurate_predict: 48.7
     female_response_1: 46.1
     female_response_2: 53.9
     male_response_1: 48.4
@@ -15270,7 +15270,7 @@
       german: '...total nervig.'
   poll_id: 15001
   results:
-    accurate_predict: 14.9
+    accurate_predict: 85.1
     female_response_1: 18.5
     female_response_2: 81.5
     male_response_1: 18.4
@@ -15288,7 +15288,7 @@
       german: "Gr\xFCn"
   poll_id: 15002
   results:
-    accurate_predict: 39.6
+    accurate_predict: 60.4
     female_response_1: 40.9
     female_response_2: 59.1
     male_response_1: 29.2
@@ -15306,7 +15306,7 @@
       german: Nein
   poll_id: 15003
   results:
-    accurate_predict: 13.3
+    accurate_predict: 86.7
     female_response_1: 11.8
     female_response_2: 88.2
     male_response_1: 12.8
@@ -15324,7 +15324,7 @@
       german: Nein
   poll_id: 15004
   results:
-    accurate_predict: 22.6
+    accurate_predict: 77.4
     female_response_1: 29.2
     female_response_2: 70.8
     male_response_1: 18.9
@@ -15360,7 +15360,7 @@
       german: Nein
   poll_id: 15006
   results:
-    accurate_predict: 18.9
+    accurate_predict: 81.1
     female_response_1: 19.5
     female_response_2: 80.5
     male_response_1: 18.1
@@ -15396,7 +15396,7 @@
       german: Nein
   poll_id: 15008
   results:
-    accurate_predict: 30.5
+    accurate_predict: 69.5
     female_response_1: 33.1
     female_response_2: 66.9
     male_response_1: 28.0
@@ -15416,7 +15416,7 @@
       german: Nein
   poll_id: 15009
   results:
-    accurate_predict: 45.0
+    accurate_predict: 55.0
     female_response_1: 32.5
     female_response_2: 67.5
     male_response_1: 33.6
@@ -15434,7 +15434,7 @@
       german: Feuerdrachen
   poll_id: 15010
   results:
-    accurate_predict: 17.4
+    accurate_predict: 82.6
     female_response_1: 16.0
     female_response_2: 84.0
     male_response_1: 21.7
@@ -15452,7 +15452,7 @@
       german: Gepard
   poll_id: 15011
   results:
-    accurate_predict: 28.5
+    accurate_predict: 71.5
     female_response_1: 31.2
     female_response_2: 68.8
     male_response_1: 42.7
@@ -15490,7 +15490,7 @@
       german: Nein
   poll_id: 17385
   results:
-    accurate_predict: 38.3
+    accurate_predict: 61.7
     female_response_1: 41.7
     female_response_2: 58.3
     male_response_1: 38.3
@@ -15508,7 +15508,7 @@
       german: Hund
   poll_id: 17386
   results:
-    accurate_predict: 35.9
+    accurate_predict: 64.1
     female_response_1: 43.6
     female_response_2: 56.4
     male_response_1: 41.6
@@ -15526,7 +15526,7 @@
       german: Ja
   poll_id: 17387
   results:
-    accurate_predict: 32.5
+    accurate_predict: 67.5
     female_response_1: 46.5
     female_response_2: 53.5
     male_response_1: 37.4
@@ -15544,7 +15544,7 @@
       german: Nein
   poll_id: 17388
   results:
-    accurate_predict: 22.8
+    accurate_predict: 77.2
     female_response_1: 15.1
     female_response_2: 84.9
     male_response_1: 23.4
@@ -15562,7 +15562,7 @@
       german: Alte Puppen
   poll_id: 17389
   results:
-    accurate_predict: 41.2
+    accurate_predict: 58.8
     female_response_1: 30.9
     female_response_2: 69.1
     male_response_1: 27.4
@@ -15600,7 +15600,7 @@
       german: Nein
   poll_id: 17391
   results:
-    accurate_predict: 60.5
+    accurate_predict: 39.5
     female_response_1: 47.7
     female_response_2: 52.3
     male_response_1: 49.8
@@ -15655,7 +15655,7 @@
       german: "Fr\xFChling"
   poll_id: 17394
   results:
-    accurate_predict: 20.0
+    accurate_predict: 80.0
     female_response_1: 32.4
     female_response_2: 67.6
     male_response_1: 34.0
@@ -15728,7 +15728,7 @@
       german: Nein
   poll_id: 17398
   results:
-    accurate_predict: 24.3
+    accurate_predict: 75.7
     female_response_1: 18.0
     female_response_2: 82.0
     male_response_1: 25.9
@@ -15765,7 +15765,7 @@
       german: Danach
   poll_id: 17400
   results:
-    accurate_predict: 28.5
+    accurate_predict: 71.5
     female_response_1: 28.6
     female_response_2: 71.4
     male_response_1: 29.3
@@ -15784,7 +15784,7 @@
       german: Nein
   poll_id: 17401
   results:
-    accurate_predict: 55.9
+    accurate_predict: 44.1
     female_response_1: 47.3
     female_response_2: 52.7
     male_response_1: 39.7
@@ -15822,7 +15822,7 @@
       german: Nein, niemals
   poll_id: 17403
   results:
-    accurate_predict: 33.3
+    accurate_predict: 66.7
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 32.0
@@ -15895,7 +15895,7 @@
       german: Geister
   poll_id: 17407
   results:
-    accurate_predict: 49.2
+    accurate_predict: 50.8
     female_response_1: 33.5
     female_response_2: 66.5
     male_response_1: 49.8
@@ -15931,7 +15931,7 @@
       german: Nein
   poll_id: 17409
   results:
-    accurate_predict: 36.3
+    accurate_predict: 63.7
     female_response_1: 33.0
     female_response_2: 67.0
     male_response_1: 30.8
@@ -15949,7 +15949,7 @@
       german: Nein
   poll_id: 17410
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 33.2
     female_response_2: 66.8
     male_response_1: 31.4
@@ -15968,7 +15968,7 @@
       german: "M\xF6glichst nicht hinsehen"
   poll_id: 17411
   results:
-    accurate_predict: 30.0
+    accurate_predict: 70.0
     female_response_1: 34.3
     female_response_2: 65.7
     male_response_1: 28.3
@@ -16022,7 +16022,7 @@
       german: Kurz
   poll_id: 17414
   results:
-    accurate_predict: 46.5
+    accurate_predict: 53.5
     female_response_1: 75.9
     female_response_2: 24.1
     male_response_1: 19.8
@@ -16078,7 +16078,7 @@
       german: Nepal
   poll_id: 17417
   results:
-    accurate_predict: 20.8
+    accurate_predict: 79.2
     female_response_1: 21.2
     female_response_2: 78.8
     male_response_1: 20.5
@@ -16114,7 +16114,7 @@
       german: Nein
   poll_id: 17419
   results:
-    accurate_predict: 26.3
+    accurate_predict: 73.7
     female_response_1: 16.7
     female_response_2: 83.3
     male_response_1: 23.0
@@ -16132,7 +16132,7 @@
       german: Hinten
   poll_id: 17420
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 47.5
     female_response_2: 52.5
     male_response_1: 44.7
@@ -16186,7 +16186,7 @@
       german: Die Sonne
   poll_id: 17423
   results:
-    accurate_predict: 24.0
+    accurate_predict: 76.0
     female_response_1: 26.7
     female_response_2: 73.3
     male_response_1: 23.2
@@ -16206,7 +16206,7 @@
       german: Nein
   poll_id: 17424
   results:
-    accurate_predict: 43.7
+    accurate_predict: 56.3
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 48.7
@@ -16224,7 +16224,7 @@
       german: Nein
   poll_id: 17425
   results:
-    accurate_predict: 63.6
+    accurate_predict: 36.4
     female_response_1: 66.3
     female_response_2: 33.7
     male_response_1: 35.3
@@ -16260,7 +16260,7 @@
       german: Ein Hai
   poll_id: 17427
   results:
-    accurate_predict: 41.6
+    accurate_predict: 58.4
     female_response_1: 80.6
     female_response_2: 19.4
     male_response_1: 17.0
@@ -16314,7 +16314,7 @@
       german: Nein
   poll_id: 17430
   results:
-    accurate_predict: 21.7
+    accurate_predict: 78.3
     female_response_1: 28.2
     female_response_2: 71.8
     male_response_1: 23.4
@@ -16332,7 +16332,7 @@
       german: Nein
   poll_id: 17431
   results:
-    accurate_predict: 33.7
+    accurate_predict: 66.3
     female_response_1: 28.1
     female_response_2: 71.9
     male_response_1: 28.3
@@ -16350,7 +16350,7 @@
       german: Nein
   poll_id: 17432
   results:
-    accurate_predict: 20.0
+    accurate_predict: 80.0
     female_response_1: 25.0
     female_response_2: 75.0
     male_response_1: 22.7
@@ -16423,7 +16423,7 @@
       german: "Es Freunden erz\xE4hlen"
   poll_id: 17436
   results:
-    accurate_predict: 35.2
+    accurate_predict: 64.8
     female_response_1: 36.3
     female_response_2: 63.7
     male_response_1: 39.6
@@ -16459,7 +16459,7 @@
       german: Nein
   poll_id: 17438
   results:
-    accurate_predict: 53.2
+    accurate_predict: 46.8
     female_response_1: 48.1
     female_response_2: 51.9
     male_response_1: 44.7
@@ -16477,7 +16477,7 @@
       german: Kalte
   poll_id: 17439
   results:
-    accurate_predict: 28.5
+    accurate_predict: 71.5
     female_response_1: 34.2
     female_response_2: 65.8
     male_response_1: 24.5
@@ -16495,7 +16495,7 @@
       german: Nein
   poll_id: 17440
   results:
-    accurate_predict: 59.0
+    accurate_predict: 41.0
     female_response_1: 38.5
     female_response_2: 61.5
     male_response_1: 34.8
@@ -16586,7 +16586,7 @@
       german: "Wei\xDFe"
   poll_id: 17445
   results:
-    accurate_predict: 29.2
+    accurate_predict: 70.8
     female_response_1: 32.0
     female_response_2: 68.0
     male_response_1: 24.3
@@ -16624,7 +16624,7 @@
       german: Ein Fallschirmsprung
   poll_id: 17447
   results:
-    accurate_predict: 43.4
+    accurate_predict: 56.6
     female_response_1: 39.8
     female_response_2: 60.2
     male_response_1: 35.5
@@ -16714,7 +16714,7 @@
       german: "Wei\xDF"
   poll_id: 17452
   results:
-    accurate_predict: 44.6
+    accurate_predict: 55.4
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 52.5
@@ -16752,7 +16752,7 @@
       german: Nein
   poll_id: 17454
   results:
-    accurate_predict: 27.3
+    accurate_predict: 72.7
     female_response_1: 30.9
     female_response_2: 69.1
     male_response_1: 31.1
@@ -16770,7 +16770,7 @@
       german: Schokolade
   poll_id: 17455
   results:
-    accurate_predict: 23.5
+    accurate_predict: 76.5
     female_response_1: 38.0
     female_response_2: 62.0
     male_response_1: 41.0
@@ -16806,7 +16806,7 @@
       german: Den Aufzug
   poll_id: 17457
   results:
-    accurate_predict: 19.9
+    accurate_predict: 80.1
     female_response_1: 38.4
     female_response_2: 61.6
     male_response_1: 37.8
@@ -16826,7 +16826,7 @@
       german: Nein
   poll_id: 17458
   results:
-    accurate_predict: 31.2
+    accurate_predict: 68.8
     female_response_1: 48.7
     female_response_2: 51.3
     male_response_1: 44.1
@@ -16844,7 +16844,7 @@
       german: "Wei\xDFbrot"
   poll_id: 17459
   results:
-    accurate_predict: 40.2
+    accurate_predict: 59.8
     female_response_1: 49.9
     female_response_2: 50.1
     male_response_1: 40.6
@@ -16864,7 +16864,7 @@
       german: Nein
   poll_id: 17460
   results:
-    accurate_predict: 20.0
+    accurate_predict: 80.0
     female_response_1: 14.2
     female_response_2: 85.8
     male_response_1: 35.2
@@ -16882,7 +16882,7 @@
       german: Nein
   poll_id: 17461
   results:
-    accurate_predict: 44.7
+    accurate_predict: 55.3
     female_response_1: 41.1
     female_response_2: 58.9
     male_response_1: 45.0
@@ -16918,7 +16918,7 @@
       german: Nein
   poll_id: 17463
   results:
-    accurate_predict: 54.5
+    accurate_predict: 45.5
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 37.5
@@ -16936,7 +16936,7 @@
       german: Nein
   poll_id: 17464
   results:
-    accurate_predict: 31.4
+    accurate_predict: 68.6
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 37.9
@@ -16954,7 +16954,7 @@
       german: Nein
   poll_id: 17465
   results:
-    accurate_predict: 40.8
+    accurate_predict: 59.2
     female_response_1: 36.4
     female_response_2: 63.6
     male_response_1: 41.7
@@ -16974,7 +16974,7 @@
       german: Nein
   poll_id: 17466
   results:
-    accurate_predict: 11.6
+    accurate_predict: 88.4
     female_response_1: 9.1
     female_response_2: 90.9
     male_response_1: 8.8
@@ -17028,7 +17028,7 @@
       german: Kurz
   poll_id: 17469
   results:
-    accurate_predict: 34.5
+    accurate_predict: 65.5
     female_response_1: 53.3
     female_response_2: 46.7
     male_response_1: 14.1
@@ -17064,7 +17064,7 @@
       german: Rosen
   poll_id: 17471
   results:
-    accurate_predict: 17.3
+    accurate_predict: 82.7
     female_response_1: 23.1
     female_response_2: 76.9
     male_response_1: 31.2
@@ -17082,7 +17082,7 @@
       german: "Unm\xF6glich"
   poll_id: 17472
   results:
-    accurate_predict: 13.0
+    accurate_predict: 87.0
     female_response_1: 21.8
     female_response_2: 78.2
     male_response_1: 17.4
@@ -17196,7 +17196,7 @@
       german: Nein
   poll_id: 17478
   results:
-    accurate_predict: 28.9
+    accurate_predict: 71.1
     female_response_1: 21.9
     female_response_2: 78.1
     male_response_1: 29.5
@@ -17214,7 +17214,7 @@
       german: Nein
   poll_id: 17479
   results:
-    accurate_predict: 26.2
+    accurate_predict: 73.8
     female_response_1: 16.3
     female_response_2: 83.7
     male_response_1: 18.5
@@ -17232,7 +17232,7 @@
       german: Cola
   poll_id: 17480
   results:
-    accurate_predict: 19.5
+    accurate_predict: 80.5
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 31.6
@@ -17250,7 +17250,7 @@
       german: Niemals/Sehr selten
   poll_id: 17481
   results:
-    accurate_predict: 30.5
+    accurate_predict: 69.5
     female_response_1: 41.6
     female_response_2: 58.4
     male_response_1: 36.6
@@ -17304,7 +17304,7 @@
       german: Nein, kann ich nicht
   poll_id: 17484
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 21.7
     female_response_2: 78.3
     male_response_1: 14.7
@@ -17322,7 +17322,7 @@
       german: Nein, wie denn?
   poll_id: 17485
   results:
-    accurate_predict: 26.0
+    accurate_predict: 74.0
     female_response_1: 21.0
     female_response_2: 79.0
     male_response_1: 24.3
@@ -17340,7 +17340,7 @@
       german: Toast
   poll_id: 17486
   results:
-    accurate_predict: 47.4
+    accurate_predict: 52.6
     female_response_1: 46.7
     female_response_2: 53.3
     male_response_1: 43.8
@@ -17430,7 +17430,7 @@
       german: Nein
   poll_id: 17491
   results:
-    accurate_predict: 13.5
+    accurate_predict: 86.5
     female_response_1: 9.5
     female_response_2: 90.5
     male_response_1: 12.2
@@ -17485,7 +17485,7 @@
       german: So wie immer
   poll_id: 17494
   results:
-    accurate_predict: 21.1
+    accurate_predict: 78.9
     female_response_1: 21.9
     female_response_2: 78.1
     male_response_1: 24.5
@@ -17503,7 +17503,7 @@
       german: Es niemandem sagen
   poll_id: 17495
   results:
-    accurate_predict: 53.2
+    accurate_predict: 46.8
     female_response_1: 28.2
     female_response_2: 71.8
     male_response_1: 36.7
@@ -17521,7 +17521,7 @@
       german: Nein
   poll_id: 17496
   results:
-    accurate_predict: 27.4
+    accurate_predict: 72.6
     female_response_1: 17.0
     female_response_2: 83.0
     male_response_1: 31.1
@@ -17559,7 +17559,7 @@
       german: An Gesichter
   poll_id: 17498
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 39.4
@@ -17577,7 +17577,7 @@
       german: Freitag!
   poll_id: 17499
   results:
-    accurate_predict: 43.5
+    accurate_predict: 56.5
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 45.4
@@ -17596,7 +17596,7 @@
       german: Nein/Vielleicht
   poll_id: 17500
   results:
-    accurate_predict: 51.9
+    accurate_predict: 48.1
     female_response_1: 48.5
     female_response_2: 51.5
     male_response_1: 40.8
@@ -17671,7 +17671,7 @@
       german: "Am 1. M\xE4rz"
   poll_id: 17504
   results:
-    accurate_predict: 38.0
+    accurate_predict: 62.0
     female_response_1: 30.9
     female_response_2: 69.1
     male_response_1: 34.0
@@ -17690,7 +17690,7 @@
       german: Nein
   poll_id: 17505
   results:
-    accurate_predict: 54.1
+    accurate_predict: 45.9
     female_response_1: 47.4
     female_response_2: 52.6
     male_response_1: 49.8
@@ -17708,7 +17708,7 @@
       german: Nein
   poll_id: 17506
   results:
-    accurate_predict: 21.0
+    accurate_predict: 79.0
     female_response_1: 15.2
     female_response_2: 84.8
     male_response_1: 22.0
@@ -17726,7 +17726,7 @@
       german: Sonnenbrille
   poll_id: 17507
   results:
-    accurate_predict: 18.7
+    accurate_predict: 81.3
     female_response_1: 23.4
     female_response_2: 76.6
     male_response_1: 26.1
@@ -17746,7 +17746,7 @@
       german: E-Gitarren
   poll_id: 17508
   results:
-    accurate_predict: 36.1
+    accurate_predict: 63.9
     female_response_1: 55.0
     female_response_2: 45.0
     male_response_1: 33.8
@@ -17764,7 +17764,7 @@
       german: Absolut nicht
   poll_id: 17509
   results:
-    accurate_predict: 21.5
+    accurate_predict: 78.5
     female_response_1: 22.3
     female_response_2: 77.7
     male_response_1: 31.6
@@ -17782,7 +17782,7 @@
       german: Restaurants
   poll_id: 17510
   results:
-    accurate_predict: 40.0
+    accurate_predict: 60.0
     female_response_1: 30.0
     female_response_2: 70.0
     male_response_1: 31.4
@@ -17802,7 +17802,7 @@
       german: Keine Chance
   poll_id: 17511
   results:
-    accurate_predict: 27.2
+    accurate_predict: 72.8
     female_response_1: 21.3
     female_response_2: 78.7
     male_response_1: 32.7
@@ -17838,7 +17838,7 @@
       german: Nein
   poll_id: 17513
   results:
-    accurate_predict: 46.3
+    accurate_predict: 53.7
     female_response_1: 48.9
     female_response_2: 51.1
     male_response_1: 43.0
@@ -17856,7 +17856,7 @@
       german: Videospiele
   poll_id: 17514
   results:
-    accurate_predict: 30.7
+    accurate_predict: 69.3
     female_response_1: 53.6
     female_response_2: 46.4
     male_response_1: 31.6
@@ -17875,7 +17875,7 @@
       german: Nein
   poll_id: 17515
   results:
-    accurate_predict: 37.3
+    accurate_predict: 62.7
     female_response_1: 45.9
     female_response_2: 54.1
     male_response_1: 39.3
@@ -17893,7 +17893,7 @@
       german: Den Donner
   poll_id: 17516
   results:
-    accurate_predict: 45.6
+    accurate_predict: 54.4
     female_response_1: 46.6
     female_response_2: 53.4
     male_response_1: 44.0
@@ -17929,7 +17929,7 @@
       german: Auf einem Skilift
   poll_id: 17518
   results:
-    accurate_predict: 50.1
+    accurate_predict: 49.9
     female_response_1: 46.9
     female_response_2: 53.1
     male_response_1: 50.7
@@ -17949,7 +17949,7 @@
       german: Schmeckt schrecklich!
   poll_id: 17519
   results:
-    accurate_predict: 50.3
+    accurate_predict: 49.7
     female_response_1: 46.6
     female_response_2: 53.4
     male_response_1: 39.8
@@ -18021,7 +18021,7 @@
       german: Weiche
   poll_id: 17523
   results:
-    accurate_predict: 29.9
+    accurate_predict: 70.1
     female_response_1: 35.5
     female_response_2: 64.5
     male_response_1: 34.0
@@ -18061,7 +18061,7 @@
       german: Nein
   poll_id: 17525
   results:
-    accurate_predict: 29.4
+    accurate_predict: 70.6
     female_response_1: 27.1
     female_response_2: 72.9
     male_response_1: 32.5

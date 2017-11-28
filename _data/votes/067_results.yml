@@ -18,7 +18,7 @@
       italian: Al tegamino
   poll_id: 508
   results:
-    accurate_predict: 37.1
+    accurate_predict: 62.9
     female_response_1: 51.1
     female_response_2: 48.9
     male_response_1: 32.6
@@ -72,7 +72,7 @@
       italian: Rilassarmi a casa
   poll_id: 510
   results:
-    accurate_predict: 68.8
+    accurate_predict: 31.2
     female_response_1: 27.0
     female_response_2: 73.0
     male_response_1: 28.9
@@ -126,7 +126,7 @@
       italian: Il volo
   poll_id: 512
   results:
-    accurate_predict: 22.5
+    accurate_predict: 77.5
     female_response_1: 22.7
     female_response_2: 77.3
     male_response_1: 20.0
@@ -180,7 +180,7 @@
       italian: "Il caff\xE8"
   poll_id: 514
   results:
-    accurate_predict: 18.6
+    accurate_predict: 81.4
     female_response_1: 51.2
     female_response_2: 48.8
     male_response_1: 45.6
@@ -207,7 +207,7 @@
       italian: I ragni
   poll_id: 515
   results:
-    accurate_predict: 36.4
+    accurate_predict: 63.6
     female_response_1: 42.5
     female_response_2: 57.5
     male_response_1: 45.8
@@ -261,7 +261,7 @@
       italian: Una lettera
   poll_id: 517
   results:
-    accurate_predict: 45.7
+    accurate_predict: 54.3
     female_response_1: 28.7
     female_response_2: 71.3
     male_response_1: 43.3
@@ -288,7 +288,7 @@
       italian: 'No'
   poll_id: 518
   results:
-    accurate_predict: 29.0
+    accurate_predict: 71.0
     female_response_1: 19.7
     female_response_2: 80.3
     male_response_1: 26.5
@@ -315,7 +315,7 @@
       italian: L'aeroplano
   poll_id: 519
   results:
-    accurate_predict: 19.2
+    accurate_predict: 80.8
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 45.5
@@ -342,7 +342,7 @@
       italian: "La felicit\xE0 personale"
   poll_id: 520
   results:
-    accurate_predict: 69.1
+    accurate_predict: 30.9
     female_response_1: 51.3
     female_response_2: 48.7
     male_response_1: 47.6
@@ -369,7 +369,7 @@
       italian: Nottambulo
   poll_id: 521
   results:
-    accurate_predict: 17.9
+    accurate_predict: 82.1
     female_response_1: 41.7
     female_response_2: 58.3
     male_response_1: 23.8
@@ -396,7 +396,7 @@
       italian: Una tigre
   poll_id: 522
   results:
-    accurate_predict: 61.2
+    accurate_predict: 38.8
     female_response_1: 37.4
     female_response_2: 62.6
     male_response_1: 43.7
@@ -423,7 +423,7 @@
       italian: Un chitarrista
   poll_id: 523
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 53.6
     female_response_2: 46.4
     male_response_1: 35.2
@@ -509,7 +509,7 @@
       italian: 'No'
   poll_id: 526
   results:
-    accurate_predict: 51.8
+    accurate_predict: 48.2
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 38.6
@@ -536,7 +536,7 @@
       italian: Il cane
   poll_id: 527
   results:
-    accurate_predict: 22.5
+    accurate_predict: 77.5
     female_response_1: 50.3
     female_response_2: 49.7
     male_response_1: 44.1
@@ -590,7 +590,7 @@
       italian: Dolce
   poll_id: 529
   results:
-    accurate_predict: 31.7
+    accurate_predict: 68.3
     female_response_1: 45.6
     female_response_2: 54.4
     male_response_1: 50.5
@@ -617,7 +617,7 @@
       italian: 'No'
   poll_id: 530
   results:
-    accurate_predict: 40.2
+    accurate_predict: 59.8
     female_response_1: 34.5
     female_response_2: 65.5
     male_response_1: 22.2
@@ -644,7 +644,7 @@
       italian: La scienza
   poll_id: 531
   results:
-    accurate_predict: 44.9
+    accurate_predict: 55.1
     female_response_1: 54.4
     female_response_2: 45.6
     male_response_1: 28.8
@@ -661,8 +661,8 @@
       french: 'Quelque chose attire votre attention
 
         dans la vitrine d''une boutique...'
-      german: "Du siehst in einem Schaufenster etwas, das du unbedingt haben musst.\
-        \ Was tust du?"
+      german: Du siehst in einem Schaufenster etwas, das du unbedingt haben musst.
+        Was tust du?
       italian: In una vetrina vedi qualcosa che ti piace. Cosa fai?
     response_1:
       dutch: Meteen kopen!
@@ -676,7 +676,7 @@
       italian: Ci penso su
   poll_id: 532
   results:
-    accurate_predict: 40.6
+    accurate_predict: 59.4
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 28.7
@@ -703,7 +703,7 @@
       italian: Il blu
   poll_id: 533
   results:
-    accurate_predict: 38.2
+    accurate_predict: 61.8
     female_response_1: 43.8
     female_response_2: 56.2
     male_response_1: 35.0
@@ -720,7 +720,7 @@
       french: 'Vous devez prononcer un discours
 
         devant une salle comble...'
-      german: "Du musst eine Rede vor vielen Leuten halten..."
+      german: Du musst eine Rede vor vielen Leuten halten...
       italian: Devi fare un discorso davanti a tanta gente...
     response_1:
       dutch: Te gek!
@@ -734,7 +734,7 @@
       italian: Che incubo!
   poll_id: 534
   results:
-    accurate_predict: 9.8
+    accurate_predict: 90.2
     female_response_1: 23.9
     female_response_2: 76.1
     male_response_1: 27.3
@@ -761,7 +761,7 @@
       italian: Commedie
   poll_id: 535
   results:
-    accurate_predict: 56.0
+    accurate_predict: 44.0
     female_response_1: 28.1
     female_response_2: 71.9
     male_response_1: 52.3
@@ -842,7 +842,7 @@
       italian: L'uovo
   poll_id: 538
   results:
-    accurate_predict: 48.5
+    accurate_predict: 51.5
     female_response_1: 47.8
     female_response_2: 52.2
     male_response_1: 49.4
@@ -869,7 +869,7 @@
       italian: 'No'
   poll_id: 539
   results:
-    accurate_predict: 37.2
+    accurate_predict: 62.8
     female_response_1: 25.0
     female_response_2: 75.0
     male_response_1: 28.0
@@ -950,7 +950,7 @@
       italian: Leggenda del rock
   poll_id: 542
   results:
-    accurate_predict: 47.2
+    accurate_predict: 52.8
     female_response_1: 43.3
     female_response_2: 56.7
     male_response_1: 43.9
@@ -1031,7 +1031,7 @@
       italian: Moderna
   poll_id: 545
   results:
-    accurate_predict: 4.4
+    accurate_predict: 95.6
     female_response_1: 11.4
     female_response_2: 88.6
     male_response_1: 10.4
@@ -1059,7 +1059,7 @@
       italian: Nel futuro
   poll_id: 546
   results:
-    accurate_predict: 20.4
+    accurate_predict: 79.6
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 38.0
@@ -1117,7 +1117,7 @@
       italian: Ti rimetti a dormire
   poll_id: 1716
   results:
-    accurate_predict: 14.6
+    accurate_predict: 85.4
     female_response_1: 23.6
     female_response_2: 76.4
     male_response_1: 24.1
@@ -1171,7 +1171,7 @@
       italian: Mezzo pieno
   poll_id: 1718
   results:
-    accurate_predict: 32.6
+    accurate_predict: 67.4
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 32.6
@@ -1198,7 +1198,7 @@
       italian: "S\xEC, la mangio sempre"
   poll_id: 1719
   results:
-    accurate_predict: 24.3
+    accurate_predict: 75.7
     female_response_1: 26.0
     female_response_2: 74.0
     male_response_1: 13.8
@@ -1226,7 +1226,7 @@
       italian: 'No'
   poll_id: 1720
   results:
-    accurate_predict: 50.8
+    accurate_predict: 49.2
     female_response_1: 26.9
     female_response_2: 73.1
     male_response_1: 30.6
@@ -1253,7 +1253,7 @@
       italian: Fuori
   poll_id: 1721
   results:
-    accurate_predict: 31.9
+    accurate_predict: 68.1
     female_response_1: 37.8
     female_response_2: 62.2
     male_response_1: 50.8
@@ -1361,7 +1361,7 @@
       italian: 'No'
   poll_id: 1725
   results:
-    accurate_predict: 24.5
+    accurate_predict: 75.5
     female_response_1: 33.5
     female_response_2: 66.5
     male_response_1: 17.7
@@ -1415,7 +1415,7 @@
       italian: In una casa
   poll_id: 1727
   results:
-    accurate_predict: 29.1
+    accurate_predict: 70.9
     female_response_1: 25.1
     female_response_2: 74.9
     male_response_1: 21.4
@@ -1496,7 +1496,7 @@
       italian: 'No'
   poll_id: 1991
   results:
-    accurate_predict: 11.3
+    accurate_predict: 88.7
     female_response_1: 7.6
     female_response_2: 92.4
     male_response_1: 12.4
@@ -1577,7 +1577,7 @@
       italian: "La personalit\xE0"
   poll_id: 1994
   results:
-    accurate_predict: 29.2
+    accurate_predict: 70.8
     female_response_1: 17.7
     female_response_2: 82.3
     male_response_1: 23.9
@@ -1631,7 +1631,7 @@
       italian: Snowboard
   poll_id: 1996
   results:
-    accurate_predict: 28.8
+    accurate_predict: 71.2
     female_response_1: 48.0
     female_response_2: 52.0
     male_response_1: 29.2
@@ -1686,7 +1686,7 @@
       italian: 'No'
   poll_id: 1998
   results:
-    accurate_predict: 51.0
+    accurate_predict: 49.0
     female_response_1: 49.3
     female_response_2: 50.7
     male_response_1: 49.4
@@ -1713,7 +1713,7 @@
       italian: Moro
   poll_id: 1999
   results:
-    accurate_predict: 51.9
+    accurate_predict: 48.1
     female_response_1: 43.1
     female_response_2: 56.9
     male_response_1: 28.6
@@ -1767,7 +1767,7 @@
       italian: Fast food
   poll_id: 2001
   results:
-    accurate_predict: 19.1
+    accurate_predict: 80.9
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 28.3
@@ -1795,7 +1795,7 @@
       italian: Che disastro!
   poll_id: 2002
   results:
-    accurate_predict: 22.6
+    accurate_predict: 77.4
     female_response_1: 33.3
     female_response_2: 66.7
     male_response_1: 38.9
@@ -1822,7 +1822,7 @@
       italian: Spenderli
   poll_id: 2003
   results:
-    accurate_predict: 35.6
+    accurate_predict: 64.4
     female_response_1: 47.2
     female_response_2: 52.8
     male_response_1: 42.0
@@ -1876,7 +1876,7 @@
       italian: Una piscina
   poll_id: 2005
   results:
-    accurate_predict: 8.1
+    accurate_predict: 91.9
     female_response_1: 10.6
     female_response_2: 89.4
     male_response_1: 18.4
@@ -1903,7 +1903,7 @@
       italian: 'No'
   poll_id: 2006
   results:
-    accurate_predict: 56.9
+    accurate_predict: 43.1
     female_response_1: 58.1
     female_response_2: 41.9
     male_response_1: 40.9
@@ -1957,7 +1957,7 @@
       italian: Rimando
   poll_id: 2008
   results:
-    accurate_predict: 32.8
+    accurate_predict: 67.2
     female_response_1: 53.9
     female_response_2: 46.1
     male_response_1: 31.4
@@ -2065,7 +2065,7 @@
       italian: Introverso
   poll_id: 2012
   results:
-    accurate_predict: 51.9
+    accurate_predict: 48.1
     female_response_1: 50.2
     female_response_2: 49.8
     male_response_1: 44.1
@@ -2092,7 +2092,7 @@
       italian: Messicana
   poll_id: 2013
   results:
-    accurate_predict: 26.1
+    accurate_predict: 73.9
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 33.2
@@ -2119,7 +2119,7 @@
       italian: "Povert\xE0 e felicit\xE0"
   poll_id: 2014
   results:
-    accurate_predict: 21.9
+    accurate_predict: 78.1
     female_response_1: 16.1
     female_response_2: 83.9
     male_response_1: 25.3
@@ -2254,7 +2254,7 @@
       italian: Digitale
   poll_id: 2019
   results:
-    accurate_predict: 31.5
+    accurate_predict: 68.5
     female_response_1: 49.6
     female_response_2: 50.4
     male_response_1: 41.6
@@ -2281,7 +2281,7 @@
       italian: Rischi
   poll_id: 2020
   results:
-    accurate_predict: 37.0
+    accurate_predict: 63.0
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 17.9
@@ -2336,7 +2336,7 @@
       italian: Un computer da tavolo
   poll_id: 2769
   results:
-    accurate_predict: 62.7
+    accurate_predict: 37.3
     female_response_1: 57.6
     female_response_2: 42.4
     male_response_1: 45.0
@@ -2390,7 +2390,7 @@
       italian: 'No'
   poll_id: 2771
   results:
-    accurate_predict: 20.4
+    accurate_predict: 79.6
     female_response_1: 37.3
     female_response_2: 62.7
     male_response_1: 21.2
@@ -2454,7 +2454,7 @@
       italian: No, mai
   poll_id: 2773
   results:
-    accurate_predict: 37.9
+    accurate_predict: 62.1
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 41.2
@@ -2535,7 +2535,7 @@
       italian: 'No'
   poll_id: 2776
   results:
-    accurate_predict: 52.6
+    accurate_predict: 47.4
     female_response_1: 28.8
     female_response_2: 71.2
     male_response_1: 23.7
@@ -2616,7 +2616,7 @@
       italian: Biscotti secchi
   poll_id: 2779
   results:
-    accurate_predict: 36.2
+    accurate_predict: 63.8
     female_response_1: 40.6
     female_response_2: 59.4
     male_response_1: 38.2
@@ -2670,7 +2670,7 @@
       italian: Nello spazio
   poll_id: 2781
   results:
-    accurate_predict: 25.1
+    accurate_predict: 74.9
     female_response_1: 57.4
     female_response_2: 42.6
     male_response_1: 36.5
@@ -2726,7 +2726,7 @@
       italian: In fondo
   poll_id: 2783
   results:
-    accurate_predict: 11.0
+    accurate_predict: 89.0
     female_response_1: 13.0
     female_response_2: 87.0
     male_response_1: 15.4
@@ -2753,7 +2753,7 @@
       italian: 'No'
   poll_id: 2784
   results:
-    accurate_predict: 54.3
+    accurate_predict: 45.7
     female_response_1: 44.8
     female_response_2: 55.2
     male_response_1: 38.3
@@ -2780,7 +2780,7 @@
       italian: Il tramonto
   poll_id: 2785
   results:
-    accurate_predict: 10.0
+    accurate_predict: 90.0
     female_response_1: 18.2
     female_response_2: 81.8
     male_response_1: 22.1
@@ -2871,7 +2871,7 @@
       italian: 'No'
   poll_id: 2788
   results:
-    accurate_predict: 19.1
+    accurate_predict: 80.9
     female_response_1: 23.2
     female_response_2: 76.8
     male_response_1: 27.1
@@ -2898,7 +2898,7 @@
       italian: Il prezzo
   poll_id: 2789
   results:
-    accurate_predict: 32.0
+    accurate_predict: 68.0
     female_response_1: 25.4
     female_response_2: 74.6
     male_response_1: 33.2
@@ -2927,7 +2927,7 @@
       italian: Con le posate
   poll_id: 2790
   results:
-    accurate_predict: 39.9
+    accurate_predict: 60.1
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 49.3
@@ -2981,7 +2981,7 @@
       italian: Da guardia
   poll_id: 2792
   results:
-    accurate_predict: 43.0
+    accurate_predict: 57.0
     female_response_1: 50.9
     female_response_2: 49.1
     male_response_1: 35.3
@@ -3035,7 +3035,7 @@
       italian: All'avventura
   poll_id: 2794
   results:
-    accurate_predict: 48.8
+    accurate_predict: 51.2
     female_response_1: 44.5
     female_response_2: 55.5
     male_response_1: 36.6
@@ -3099,7 +3099,7 @@
       italian: Meglio riceverle
   poll_id: 2796
   results:
-    accurate_predict: 27.2
+    accurate_predict: 72.8
     female_response_1: 48.9
     female_response_2: 51.1
     male_response_1: 50.2
@@ -3126,7 +3126,7 @@
       italian: 'No'
   poll_id: 2797
   results:
-    accurate_predict: 35.2
+    accurate_predict: 64.8
     female_response_1: 46.5
     female_response_2: 53.5
     male_response_1: 47.4
@@ -3153,7 +3153,7 @@
       italian: 'No'
   poll_id: 2798
   results:
-    accurate_predict: 40.4
+    accurate_predict: 59.6
     female_response_1: 34.0
     female_response_2: 66.0
     male_response_1: 45.6
@@ -3210,7 +3210,7 @@
       italian: 'No'
   poll_id: 2800
   results:
-    accurate_predict: 19.8
+    accurate_predict: 80.2
     female_response_1: 19.3
     female_response_2: 80.7
     male_response_1: 6.3
@@ -3299,7 +3299,7 @@
       italian: 'No'
   poll_id: 2803
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 46.1
     female_response_2: 53.9
     male_response_1: 27.3
@@ -3353,7 +3353,7 @@
       italian: 'No'
   poll_id: 2805
   results:
-    accurate_predict: 49.8
+    accurate_predict: 50.2
     female_response_1: 50.8
     female_response_2: 49.2
     male_response_1: 40.5
@@ -3380,7 +3380,7 @@
       italian: A colori
   poll_id: 2806
   results:
-    accurate_predict: 31.2
+    accurate_predict: 68.8
     female_response_1: 48.5
     female_response_2: 51.5
     male_response_1: 37.9
@@ -3438,7 +3438,7 @@
       italian: La lampadina
   poll_id: 2808
   results:
-    accurate_predict: 25.6
+    accurate_predict: 74.4
     female_response_1: 32.5
     female_response_2: 67.5
     male_response_1: 36.3
@@ -3500,7 +3500,7 @@
       italian: Moderno
   poll_id: 2810
   results:
-    accurate_predict: 9.1
+    accurate_predict: 90.9
     female_response_1: 19.9
     female_response_2: 80.1
     male_response_1: 18.4
@@ -3533,7 +3533,7 @@
       italian: 'No'
   poll_id: 2811
   results:
-    accurate_predict: 60.2
+    accurate_predict: 39.8
     female_response_1: 62.9
     female_response_2: 37.1
     male_response_1: 42.9
@@ -3594,7 +3594,7 @@
       italian: 'No'
   poll_id: 2813
   results:
-    accurate_predict: 24.0
+    accurate_predict: 76.0
     female_response_1: 22.2
     female_response_2: 77.8
     male_response_1: 15.9
@@ -3621,7 +3621,7 @@
       italian: 'No'
   poll_id: 2814
   results:
-    accurate_predict: 45.7
+    accurate_predict: 54.3
     female_response_1: 41.0
     female_response_2: 59.0
     male_response_1: 42.9
@@ -3648,7 +3648,7 @@
       italian: Sto in piedi
   poll_id: 2815
   results:
-    accurate_predict: 44.4
+    accurate_predict: 55.6
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 44.4
@@ -3729,7 +3729,7 @@
       italian: Un alieno
   poll_id: 2818
   results:
-    accurate_predict: 18.6
+    accurate_predict: 81.4
     female_response_1: 27.5
     female_response_2: 72.5
     male_response_1: 24.4
@@ -3893,7 +3893,7 @@
       italian: Guardo un po' tutto
   poll_id: 2824
   results:
-    accurate_predict: 39.4
+    accurate_predict: 60.6
     female_response_1: 36.2
     female_response_2: 63.8
     male_response_1: 54.7
@@ -3925,7 +3925,7 @@
       italian: Di cucina
   poll_id: 2825
   results:
-    accurate_predict: 74.5
+    accurate_predict: 25.5
     female_response_1: 31.5
     female_response_2: 68.5
     male_response_1: 56.8
@@ -4008,7 +4008,7 @@
       italian: Rettangolari
   poll_id: 2828
   results:
-    accurate_predict: 23.2
+    accurate_predict: 76.8
     female_response_1: 19.3
     female_response_2: 80.7
     male_response_1: 17.6
@@ -4035,7 +4035,7 @@
       italian: Dolci
   poll_id: 2829
   results:
-    accurate_predict: 15.6
+    accurate_predict: 84.4
     female_response_1: 19.0
     female_response_2: 81.0
     male_response_1: 18.6
@@ -4092,7 +4092,7 @@
       italian: Neanche un po'!
   poll_id: 2831
   results:
-    accurate_predict: 24.4
+    accurate_predict: 75.6
     female_response_1: 28.4
     female_response_2: 71.6
     male_response_1: 33.6
@@ -4203,7 +4203,7 @@
       italian: Mi fa venir sonno
   poll_id: 2835
   results:
-    accurate_predict: 39.3
+    accurate_predict: 60.7
     female_response_1: 41.6
     female_response_2: 58.4
     male_response_1: 45.8
@@ -4230,7 +4230,7 @@
       italian: Della polvere di cacao
   poll_id: 3864
   results:
-    accurate_predict: 36.5
+    accurate_predict: 63.5
     female_response_1: 44.1
     female_response_2: 55.9
     male_response_1: 43.4
@@ -4284,7 +4284,7 @@
       italian: In digitale
   poll_id: 3866
   results:
-    accurate_predict: 14.9
+    accurate_predict: 85.1
     female_response_1: 19.8
     female_response_2: 80.2
     male_response_1: 15.8
@@ -4475,7 +4475,7 @@
       italian: 'No'
   poll_id: 3873
   results:
-    accurate_predict: 12.3
+    accurate_predict: 87.7
     female_response_1: 10.9
     female_response_2: 89.1
     male_response_1: 14.5
@@ -4556,7 +4556,7 @@
       italian: Un trampolo a molla
   poll_id: 3876
   results:
-    accurate_predict: 54.2
+    accurate_predict: 45.8
     female_response_1: 47.7
     female_response_2: 52.3
     male_response_1: 49.0
@@ -4667,7 +4667,7 @@
       italian: Quella cattiva
   poll_id: 3880
   results:
-    accurate_predict: 37.7
+    accurate_predict: 62.3
     female_response_1: 26.7
     female_response_2: 73.3
     male_response_1: 29.2
@@ -4694,7 +4694,7 @@
       italian: 'No'
   poll_id: 3881
   results:
-    accurate_predict: 36.7
+    accurate_predict: 63.3
     female_response_1: 32.9
     female_response_2: 67.1
     male_response_1: 33.7
@@ -4775,7 +4775,7 @@
       italian: Sulla spiaggia
   poll_id: 3884
   results:
-    accurate_predict: 25.1
+    accurate_predict: 74.9
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 46.5
@@ -4802,7 +4802,7 @@
       italian: Il telefono cellulare
   poll_id: 3885
   results:
-    accurate_predict: 42.3
+    accurate_predict: 57.7
     female_response_1: 48.4
     female_response_2: 51.6
     male_response_1: 45.0
@@ -4831,7 +4831,7 @@
       italian: Lo lasci in pace
   poll_id: 3886
   results:
-    accurate_predict: 74.1
+    accurate_predict: 25.9
     female_response_1: 46.1
     female_response_2: 53.9
     male_response_1: 36.9
@@ -4887,7 +4887,7 @@
       italian: Qualcosa di diverso
   poll_id: 3888
   results:
-    accurate_predict: 45.7
+    accurate_predict: 54.3
     female_response_1: 43.4
     female_response_2: 56.6
     male_response_1: 48.6
@@ -4944,7 +4944,7 @@
       italian: Tutte le risposte
   poll_id: 3890
   results:
-    accurate_predict: 39.3
+    accurate_predict: 60.7
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 37.0
@@ -4971,7 +4971,7 @@
       italian: In corsivo
   poll_id: 3891
   results:
-    accurate_predict: 19.7
+    accurate_predict: 80.3
     female_response_1: 15.4
     female_response_2: 84.6
     male_response_1: 21.9
@@ -4998,7 +4998,7 @@
       italian: Vai fuori
   poll_id: 3892
   results:
-    accurate_predict: 25.3
+    accurate_predict: 74.7
     female_response_1: 39.7
     female_response_2: 60.3
     male_response_1: 31.3
@@ -5027,7 +5027,7 @@
       italian: Che non sei pronto
   poll_id: 3893
   results:
-    accurate_predict: 10.9
+    accurate_predict: 89.1
     female_response_1: 14.0
     female_response_2: 86.0
     male_response_1: 15.6
@@ -5054,7 +5054,7 @@
       italian: Il dolce
   poll_id: 3894
   results:
-    accurate_predict: 25.3
+    accurate_predict: 74.7
     female_response_1: 38.0
     female_response_2: 62.0
     male_response_1: 40.6
@@ -5081,7 +5081,7 @@
       italian: A mente
   poll_id: 3895
   results:
-    accurate_predict: 62.3
+    accurate_predict: 37.7
     female_response_1: 48.9
     female_response_2: 51.1
     male_response_1: 34.2
@@ -5108,7 +5108,7 @@
       italian: Dietro
   poll_id: 3896
   results:
-    accurate_predict: 23.2
+    accurate_predict: 76.8
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 28.4
@@ -5138,7 +5138,7 @@
       italian: La rimandi
   poll_id: 3897
   results:
-    accurate_predict: 37.7
+    accurate_predict: 62.3
     female_response_1: 47.3
     female_response_2: 52.7
     male_response_1: 49.1
@@ -5165,7 +5165,7 @@
       italian: Gustando ogni boccone
   poll_id: 3898
   results:
-    accurate_predict: 23.5
+    accurate_predict: 76.5
     female_response_1: 22.7
     female_response_2: 77.3
     male_response_1: 34.8
@@ -5192,7 +5192,7 @@
       italian: Scarpe da ginnastica
   poll_id: 3899
   results:
-    accurate_predict: 23.7
+    accurate_predict: 76.3
     female_response_1: 51.1
     female_response_2: 48.9
     male_response_1: 17.5
@@ -5331,7 +5331,7 @@
       italian: Al giorno dopo
   poll_id: 3904
   results:
-    accurate_predict: 44.3
+    accurate_predict: 55.7
     female_response_1: 42.8
     female_response_2: 57.2
     male_response_1: 39.7
@@ -5439,7 +5439,7 @@
       italian: Il tuo idolo
   poll_id: 3908
   results:
-    accurate_predict: 29.3
+    accurate_predict: 70.7
     female_response_1: 25.4
     female_response_2: 74.6
     male_response_1: 48.9
@@ -5524,7 +5524,7 @@
       italian: Carini
   poll_id: 3911
   results:
-    accurate_predict: 53.2
+    accurate_predict: 46.8
     female_response_1: 32.7
     female_response_2: 67.3
     male_response_1: 20.4
@@ -5635,7 +5635,7 @@
       italian: Con i vestiti addosso
   poll_id: 5081
   results:
-    accurate_predict: 45.9
+    accurate_predict: 54.1
     female_response_1: 38.3
     female_response_2: 61.7
     male_response_1: 37.4
@@ -5662,7 +5662,7 @@
       italian: No, non m'importa
   poll_id: 5082
   results:
-    accurate_predict: 68.4
+    accurate_predict: 31.6
     female_response_1: 61.6
     female_response_2: 38.4
     male_response_1: 42.0
@@ -5689,7 +5689,7 @@
       italian: 'No'
   poll_id: 5083
   results:
-    accurate_predict: 14.5
+    accurate_predict: 85.5
     female_response_1: 17.4
     female_response_2: 82.6
     male_response_1: 15.0
@@ -5718,7 +5718,7 @@
       italian: Impossibile
   poll_id: 5084
   results:
-    accurate_predict: 30.8
+    accurate_predict: 69.2
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 41.0
@@ -5745,7 +5745,7 @@
       italian: Dispari
   poll_id: 5085
   results:
-    accurate_predict: 45.5
+    accurate_predict: 54.5
     female_response_1: 46.6
     female_response_2: 53.4
     male_response_1: 43.7
@@ -5772,7 +5772,7 @@
       italian: Che schifo!
   poll_id: 5086
   results:
-    accurate_predict: 23.3
+    accurate_predict: 76.7
     female_response_1: 31.0
     female_response_2: 69.0
     male_response_1: 34.9
@@ -5799,7 +5799,7 @@
       italian: 'No'
   poll_id: 5087
   results:
-    accurate_predict: 29.7
+    accurate_predict: 70.3
     female_response_1: 47.8
     female_response_2: 52.2
     male_response_1: 43.8
@@ -5829,7 +5829,7 @@
       italian: Il destro
   poll_id: 5088
   results:
-    accurate_predict: 35.4
+    accurate_predict: 64.6
     female_response_1: 45.5
     female_response_2: 54.5
     male_response_1: 43.5
@@ -5968,7 +5968,7 @@
       italian: 'No'
   poll_id: 5093
   results:
-    accurate_predict: 56.8
+    accurate_predict: 43.2
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 45.9
@@ -5998,7 +5998,7 @@
       italian: Mai!
   poll_id: 5094
   results:
-    accurate_predict: 43.7
+    accurate_predict: 56.3
     female_response_1: 48.2
     female_response_2: 51.8
     male_response_1: 44.7
@@ -6027,7 +6027,7 @@
       italian: La destra
   poll_id: 5095
   results:
-    accurate_predict: 26.5
+    accurate_predict: 73.5
     female_response_1: 34.1
     female_response_2: 65.9
     male_response_1: 37.5
@@ -6108,7 +6108,7 @@
       italian: Tempo usato bene
   poll_id: 5098
   results:
-    accurate_predict: 34.5
+    accurate_predict: 65.5
     female_response_1: 24.9
     female_response_2: 75.1
     male_response_1: 31.6
@@ -6135,7 +6135,7 @@
       italian: 'No'
   poll_id: 5099
   results:
-    accurate_predict: 31.2
+    accurate_predict: 68.8
     female_response_1: 40.5
     female_response_2: 59.5
     male_response_1: 34.1
@@ -6162,7 +6162,7 @@
       italian: Tante torte piccole
   poll_id: 5100
   results:
-    accurate_predict: 40.0
+    accurate_predict: 60.0
     female_response_1: 29.4
     female_response_2: 70.6
     male_response_1: 36.3
@@ -6189,7 +6189,7 @@
       italian: 'No'
   poll_id: 5101
   results:
-    accurate_predict: 47.6
+    accurate_predict: 52.4
     female_response_1: 41.4
     female_response_2: 58.6
     male_response_1: 52.5
@@ -6297,7 +6297,7 @@
       italian: I cheeseburger!
   poll_id: 5105
   results:
-    accurate_predict: 46.8
+    accurate_predict: 53.2
     female_response_1: 44.9
     female_response_2: 55.1
     male_response_1: 43.9
@@ -6324,7 +6324,7 @@
       italian: Manuale
   poll_id: 5106
   results:
-    accurate_predict: 31.9
+    accurate_predict: 68.1
     female_response_1: 30.8
     female_response_2: 69.2
     male_response_1: 36.5
@@ -6464,7 +6464,7 @@
       italian: 'No'
   poll_id: 5111
   results:
-    accurate_predict: 25.4
+    accurate_predict: 74.6
     female_response_1: 26.2
     female_response_2: 73.8
     male_response_1: 17.4
@@ -6491,7 +6491,7 @@
       italian: Lo raccolgo
   poll_id: 5112
   results:
-    accurate_predict: 29.8
+    accurate_predict: 70.2
     female_response_1: 21.9
     female_response_2: 78.1
     male_response_1: 31.3
@@ -6521,7 +6521,7 @@
       italian: Solo rilassarsi!
   poll_id: 5113
   results:
-    accurate_predict: 35.3
+    accurate_predict: 64.7
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 37.5
@@ -6689,7 +6689,7 @@
       italian: La famiglia
   poll_id: 5119
   results:
-    accurate_predict: 18.4
+    accurate_predict: 81.6
     female_response_1: 17.8
     female_response_2: 82.2
     male_response_1: 23.4
@@ -6743,7 +6743,7 @@
       italian: Sottile e croccante
   poll_id: 5121
   results:
-    accurate_predict: 31.5
+    accurate_predict: 68.5
     female_response_1: 31.6
     female_response_2: 68.4
     male_response_1: 34.7
@@ -6797,7 +6797,7 @@
       italian: Essere
   poll_id: 5123
   results:
-    accurate_predict: 44.3
+    accurate_predict: 55.7
     female_response_1: 34.0
     female_response_2: 66.0
     male_response_1: 38.2
@@ -6826,7 +6826,7 @@
       italian: "Pi\xF9 vecchi di me"
   poll_id: 5124
   results:
-    accurate_predict: 51.5
+    accurate_predict: 48.5
     female_response_1: 52.6
     female_response_2: 47.4
     male_response_1: 47.6
@@ -7108,7 +7108,7 @@
       italian: 'No'
   poll_id: 5134
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 33.0
     female_response_2: 67.0
     male_response_1: 43.5
@@ -7142,7 +7142,7 @@
       italian: 'No'
   poll_id: 5135
   results:
-    accurate_predict: 53.5
+    accurate_predict: 46.5
     female_response_1: 36.5
     female_response_2: 63.5
     male_response_1: 42.4
@@ -7171,7 +7171,7 @@
       italian: 'No'
   poll_id: 5136
   results:
-    accurate_predict: 42.1
+    accurate_predict: 57.9
     female_response_1: 31.6
     female_response_2: 68.4
     male_response_1: 37.3
@@ -7198,7 +7198,7 @@
       italian: Negli Stati Uniti
   poll_id: 5137
   results:
-    accurate_predict: 25.7
+    accurate_predict: 74.3
     female_response_1: 34.4
     female_response_2: 65.6
     male_response_1: 41.5
@@ -7229,7 +7229,7 @@
       italian: 'No'
   poll_id: 5138
   results:
-    accurate_predict: 32.7
+    accurate_predict: 67.3
     female_response_1: 21.6
     female_response_2: 78.4
     male_response_1: 22.3
@@ -7256,7 +7256,7 @@
       italian: 'No'
   poll_id: 5139
   results:
-    accurate_predict: 48.4
+    accurate_predict: 51.6
     female_response_1: 50.2
     female_response_2: 49.8
     male_response_1: 42.7
@@ -7344,7 +7344,7 @@
       italian: La spada
   poll_id: 5142
   results:
-    accurate_predict: 34.0
+    accurate_predict: 66.0
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 41.3
@@ -7398,7 +7398,7 @@
       italian: Bleah!
   poll_id: 5144
   results:
-    accurate_predict: 39.1
+    accurate_predict: 60.9
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 34.4
@@ -7425,7 +7425,7 @@
       italian: Assolutamente no!
   poll_id: 5145
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 24.7
     female_response_2: 75.3
     male_response_1: 29.8
@@ -7452,7 +7452,7 @@
       italian: Scienze
   poll_id: 5146
   results:
-    accurate_predict: 43.7
+    accurate_predict: 56.3
     female_response_1: 58.6
     female_response_2: 41.4
     male_response_1: 28.8
@@ -7571,7 +7571,7 @@
       italian: Mi giro dall'altra parte
   poll_id: 6131
   results:
-    accurate_predict: 24.8
+    accurate_predict: 75.2
     female_response_1: 35.5
     female_response_2: 64.5
     male_response_1: 33.9
@@ -7625,7 +7625,7 @@
       italian: Nel mare
   poll_id: 6133
   results:
-    accurate_predict: 38.0
+    accurate_predict: 62.0
     female_response_1: 38.1
     female_response_2: 61.9
     male_response_1: 42.7
@@ -7657,7 +7657,7 @@
       italian: Un dipinto
   poll_id: 6134
   results:
-    accurate_predict: 49.7
+    accurate_predict: 50.3
     female_response_1: 53.3
     female_response_2: 46.7
     male_response_1: 45.0
@@ -7684,7 +7684,7 @@
       italian: 'No'
   poll_id: 6135
   results:
-    accurate_predict: 38.3
+    accurate_predict: 61.7
     female_response_1: 45.8
     female_response_2: 54.2
     male_response_1: 49.3
@@ -7738,7 +7738,7 @@
       italian: 'No'
   poll_id: 6137
   results:
-    accurate_predict: 67.5
+    accurate_predict: 32.5
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 47.2
@@ -7765,7 +7765,7 @@
       italian: Marmellata
   poll_id: 6138
   results:
-    accurate_predict: 14.3
+    accurate_predict: 85.7
     female_response_1: 16.6
     female_response_2: 83.4
     male_response_1: 21.5
@@ -7824,7 +7824,7 @@
       italian: In TV
   poll_id: 6140
   results:
-    accurate_predict: 64.3
+    accurate_predict: 35.7
     female_response_1: 40.9
     female_response_2: 59.1
     male_response_1: 49.8
@@ -7855,7 +7855,7 @@
       italian: 'No'
   poll_id: 6141
   results:
-    accurate_predict: 32.9
+    accurate_predict: 67.1
     female_response_1: 32.4
     female_response_2: 67.6
     male_response_1: 29.5
@@ -7940,7 +7940,7 @@
       italian: 'No'
   poll_id: 6144
   results:
-    accurate_predict: 9.6
+    accurate_predict: 90.4
     female_response_1: 20.8
     female_response_2: 79.2
     male_response_1: 24.1
@@ -7967,7 +7967,7 @@
       italian: 'No'
   poll_id: 6145
   results:
-    accurate_predict: 30.6
+    accurate_predict: 69.4
     female_response_1: 37.7
     female_response_2: 62.3
     male_response_1: 21.5
@@ -7994,7 +7994,7 @@
       italian: Videogiochi
   poll_id: 6146
   results:
-    accurate_predict: 13.5
+    accurate_predict: 86.5
     female_response_1: 39.3
     female_response_2: 60.7
     male_response_1: 16.3
@@ -8050,7 +8050,7 @@
       italian: Moderne
   poll_id: 6148
   results:
-    accurate_predict: 35.5
+    accurate_predict: 64.5
     female_response_1: 36.8
     female_response_2: 63.2
     male_response_1: 37.8
@@ -8106,7 +8106,7 @@
       italian: Le vespe
   poll_id: 6447
   results:
-    accurate_predict: 15.4
+    accurate_predict: 84.6
     female_response_1: 12.9
     female_response_2: 87.1
     male_response_1: 14.5
@@ -8135,7 +8135,7 @@
       italian: I fili d'erba
   poll_id: 6448
   results:
-    accurate_predict: 34.6
+    accurate_predict: 65.4
     female_response_1: 45.8
     female_response_2: 54.2
     male_response_1: 44.8
@@ -8243,7 +8243,7 @@
       italian: Eh no!
   poll_id: 6452
   results:
-    accurate_predict: 22.1
+    accurate_predict: 77.9
     female_response_1: 41.6
     female_response_2: 58.4
     male_response_1: 38.3
@@ -8356,7 +8356,7 @@
       italian: 'No'
   poll_id: 6456
   results:
-    accurate_predict: 32.7
+    accurate_predict: 67.3
     female_response_1: 34.4
     female_response_2: 65.6
     male_response_1: 28.3
@@ -8383,7 +8383,7 @@
       italian: La sera
   poll_id: 6457
   results:
-    accurate_predict: 57.8
+    accurate_predict: 42.2
     female_response_1: 41.8
     female_response_2: 58.2
     male_response_1: 41.5
@@ -8410,7 +8410,7 @@
       italian: 'No'
   poll_id: 6458
   results:
-    accurate_predict: 45.3
+    accurate_predict: 54.7
     female_response_1: 49.5
     female_response_2: 50.5
     male_response_1: 39.4
@@ -8466,7 +8466,7 @@
       italian: 'No'
   poll_id: 6460
   results:
-    accurate_predict: 12.2
+    accurate_predict: 87.8
     female_response_1: 15.7
     female_response_2: 84.3
     male_response_1: 12.7
@@ -8493,7 +8493,7 @@
       italian: Il destro
   poll_id: 6461
   results:
-    accurate_predict: 40.7
+    accurate_predict: 59.3
     female_response_1: 42.0
     female_response_2: 58.0
     male_response_1: 42.8
@@ -8547,7 +8547,7 @@
       italian: "In pur\xE8"
   poll_id: 6463
   results:
-    accurate_predict: 44.5
+    accurate_predict: 55.5
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 46.4
@@ -8661,7 +8661,7 @@
       italian: Le torte
   poll_id: 6467
   results:
-    accurate_predict: 33.3
+    accurate_predict: 66.7
     female_response_1: 46.1
     female_response_2: 53.9
     male_response_1: 43.7
@@ -8715,7 +8715,7 @@
       italian: All'estero
   poll_id: 6469
   results:
-    accurate_predict: 8.7
+    accurate_predict: 91.3
     female_response_1: 13.3
     female_response_2: 86.7
     male_response_1: 14.3
@@ -8827,7 +8827,7 @@
       italian: Un regalo costoso
   poll_id: 6473
   results:
-    accurate_predict: 50.6
+    accurate_predict: 49.4
     female_response_1: 50.1
     female_response_2: 49.9
     male_response_1: 43.6
@@ -8856,7 +8856,7 @@
       italian: 'No'
   poll_id: 6474
   results:
-    accurate_predict: 46.3
+    accurate_predict: 53.7
     female_response_1: 47.3
     female_response_2: 52.7
     male_response_1: 43.3
@@ -8918,7 +8918,7 @@
       italian: 'No'
   poll_id: 6476
   results:
-    accurate_predict: 48.9
+    accurate_predict: 51.1
     female_response_1: 25.0
     female_response_2: 75.0
     male_response_1: 26.7
@@ -8947,7 +8947,7 @@
       italian: Sfortuna!
   poll_id: 6477
   results:
-    accurate_predict: 18.6
+    accurate_predict: 81.4
     female_response_1: 45.7
     female_response_2: 54.3
     male_response_1: 39.2
@@ -8976,7 +8976,7 @@
       italian: Praticarlo
   poll_id: 6478
   results:
-    accurate_predict: 39.0
+    accurate_predict: 61.0
     female_response_1: 32.9
     female_response_2: 67.1
     male_response_1: 31.2
@@ -9003,7 +9003,7 @@
       italian: 'No'
   poll_id: 6479
   results:
-    accurate_predict: 35.6
+    accurate_predict: 64.4
     female_response_1: 33.3
     female_response_2: 66.7
     male_response_1: 40.0
@@ -9086,7 +9086,7 @@
       italian: 'No'
   poll_id: 6482
   results:
-    accurate_predict: 52.3
+    accurate_predict: 47.7
     female_response_1: 50.7
     female_response_2: 49.3
     male_response_1: 38.8
@@ -9120,7 +9120,7 @@
       italian: A destra
   poll_id: 6483
   results:
-    accurate_predict: 32.8
+    accurate_predict: 67.2
     female_response_1: 39.7
     female_response_2: 60.3
     male_response_1: 41.0
@@ -9149,7 +9149,7 @@
       italian: 'No'
   poll_id: 6484
   results:
-    accurate_predict: 12.4
+    accurate_predict: 87.6
     female_response_1: 12.3
     female_response_2: 87.7
     male_response_1: 10.7
@@ -9176,7 +9176,7 @@
       italian: Con il cioccolato
   poll_id: 6485
   results:
-    accurate_predict: 15.4
+    accurate_predict: 84.6
     female_response_1: 20.1
     female_response_2: 79.9
     male_response_1: 20.7
@@ -9203,7 +9203,7 @@
       italian: 'No'
   poll_id: 6486
   results:
-    accurate_predict: 27.4
+    accurate_predict: 72.6
     female_response_1: 25.8
     female_response_2: 74.2
     male_response_1: 25.3
@@ -9257,7 +9257,7 @@
       italian: 'No'
   poll_id: 6488
   results:
-    accurate_predict: 34.3
+    accurate_predict: 65.7
     female_response_1: 28.3
     female_response_2: 71.7
     male_response_1: 36.7
@@ -9284,7 +9284,7 @@
       italian: 'No'
   poll_id: 6489
   results:
-    accurate_predict: 44.2
+    accurate_predict: 55.8
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 37.8
@@ -9311,7 +9311,7 @@
       italian: Con un bicchiere
   poll_id: 6490
   results:
-    accurate_predict: 14.3
+    accurate_predict: 85.7
     female_response_1: 17.7
     female_response_2: 82.3
     male_response_1: 17.7
@@ -9365,7 +9365,7 @@
       italian: Pop
   poll_id: 6970
   results:
-    accurate_predict: 43.9
+    accurate_predict: 56.1
     female_response_1: 38.1
     female_response_2: 61.9
     male_response_1: 53.7
@@ -9392,7 +9392,7 @@
       italian: 'No'
   poll_id: 6971
   results:
-    accurate_predict: 21.6
+    accurate_predict: 78.4
     female_response_1: 25.7
     female_response_2: 74.3
     male_response_1: 25.8
@@ -9554,7 +9554,7 @@
       italian: 'No'
   poll_id: 6977
   results:
-    accurate_predict: 20.1
+    accurate_predict: 79.9
     female_response_1: 30.2
     female_response_2: 69.8
     male_response_1: 23.2
@@ -9635,7 +9635,7 @@
       italian: Le spiagge
   poll_id: 6980
   results:
-    accurate_predict: 7.5
+    accurate_predict: 92.5
     female_response_1: 12.4
     female_response_2: 87.6
     male_response_1: 14.2
@@ -9662,7 +9662,7 @@
       italian: 'No'
   poll_id: 6981
   results:
-    accurate_predict: 11.4
+    accurate_predict: 88.6
     female_response_1: 13.0
     female_response_2: 87.0
     male_response_1: 15.3
@@ -9689,7 +9689,7 @@
       italian: 'No'
   poll_id: 6982
   results:
-    accurate_predict: 28.2
+    accurate_predict: 71.8
     female_response_1: 44.3
     female_response_2: 55.7
     male_response_1: 51.6
@@ -9716,7 +9716,7 @@
       italian: 'No'
   poll_id: 6983
   results:
-    accurate_predict: 38.7
+    accurate_predict: 61.3
     female_response_1: 32.9
     female_response_2: 67.1
     male_response_1: 36.0
@@ -9770,7 +9770,7 @@
       italian: 'No'
   poll_id: 6985
   results:
-    accurate_predict: 59.8
+    accurate_predict: 40.2
     female_response_1: 41.6
     female_response_2: 58.4
     male_response_1: 51.1
@@ -9824,7 +9824,7 @@
       italian: 'No'
   poll_id: 6987
   results:
-    accurate_predict: 59.2
+    accurate_predict: 40.8
     female_response_1: 30.7
     female_response_2: 69.3
     male_response_1: 37.8
@@ -9878,7 +9878,7 @@
       italian: 'No'
   poll_id: 6989
   results:
-    accurate_predict: 39.7
+    accurate_predict: 60.3
     female_response_1: 34.1
     female_response_2: 65.9
     male_response_1: 41.0
@@ -9959,7 +9959,7 @@
       italian: 'No'
   poll_id: 6992
   results:
-    accurate_predict: 45.3
+    accurate_predict: 54.7
     female_response_1: 39.7
     female_response_2: 60.3
     male_response_1: 43.7
@@ -9986,7 +9986,7 @@
       italian: 'No'
   poll_id: 6993
   results:
-    accurate_predict: 18.0
+    accurate_predict: 82.0
     female_response_1: 13.8
     female_response_2: 86.2
     male_response_1: 20.0
@@ -10013,7 +10013,7 @@
       italian: Samurai
   poll_id: 6994
   results:
-    accurate_predict: 33.4
+    accurate_predict: 66.6
     female_response_1: 30.7
     female_response_2: 69.3
     male_response_1: 29.0
@@ -10067,7 +10067,7 @@
       italian: 'No'
   poll_id: 6996
   results:
-    accurate_predict: 12.6
+    accurate_predict: 87.4
     female_response_1: 12.0
     female_response_2: 88.0
     male_response_1: 17.8
@@ -10175,7 +10175,7 @@
       italian: Bianca
   poll_id: 7000
   results:
-    accurate_predict: 33.2
+    accurate_predict: 66.8
     female_response_1: 32.0
     female_response_2: 68.0
     male_response_1: 35.8
@@ -10283,7 +10283,7 @@
       italian: Polizieschi
   poll_id: 7004
   results:
-    accurate_predict: 21.0
+    accurate_predict: 79.0
     female_response_1: 36.5
     female_response_2: 63.5
     male_response_1: 36.1
@@ -10337,7 +10337,7 @@
       italian: Rose
   poll_id: 7006
   results:
-    accurate_predict: 39.8
+    accurate_predict: 60.2
     female_response_1: 47.5
     female_response_2: 52.5
     male_response_1: 44.6
@@ -10364,7 +10364,7 @@
       italian: "S\xEC"
   poll_id: 7007
   results:
-    accurate_predict: 11.7
+    accurate_predict: 88.3
     female_response_1: 15.5
     female_response_2: 84.5
     male_response_1: 19.2
@@ -10445,7 +10445,7 @@
       italian: 'No'
   poll_id: 7010
   results:
-    accurate_predict: 38.4
+    accurate_predict: 61.6
     female_response_1: 28.7
     female_response_2: 71.3
     male_response_1: 48.4
@@ -10580,7 +10580,7 @@
       italian: 'No'
   poll_id: 7015
   results:
-    accurate_predict: 32.8
+    accurate_predict: 67.2
     female_response_1: 30.7
     female_response_2: 69.3
     male_response_1: 30.4
@@ -10607,7 +10607,7 @@
       italian: 'No'
   poll_id: 7016
   results:
-    accurate_predict: 43.3
+    accurate_predict: 56.7
     female_response_1: 46.8
     female_response_2: 53.2
     male_response_1: 47.7
@@ -10877,7 +10877,7 @@
       italian: 'No'
   poll_id: 8165
   results:
-    accurate_predict: 17.3
+    accurate_predict: 82.7
     female_response_1: 25.8
     female_response_2: 74.2
     male_response_1: 20.0
@@ -10904,7 +10904,7 @@
       italian: 'No'
   poll_id: 8166
   results:
-    accurate_predict: 34.3
+    accurate_predict: 65.7
     female_response_1: 33.6
     female_response_2: 66.4
     male_response_1: 41.5
@@ -10931,7 +10931,7 @@
       italian: 'No'
   poll_id: 8167
   results:
-    accurate_predict: 60.6
+    accurate_predict: 39.4
     female_response_1: 54.4
     female_response_2: 45.6
     male_response_1: 43.5
@@ -10958,7 +10958,7 @@
       italian: 'No'
   poll_id: 8168
   results:
-    accurate_predict: 20.5
+    accurate_predict: 79.5
     female_response_1: 18.5
     female_response_2: 81.5
     male_response_1: 20.0
@@ -11012,7 +11012,7 @@
       italian: "T\xE8 freddo"
   poll_id: 8170
   results:
-    accurate_predict: 41.9
+    accurate_predict: 58.1
     female_response_1: 45.9
     female_response_2: 54.1
     male_response_1: 38.6
@@ -11039,7 +11039,7 @@
       italian: 'No'
   poll_id: 8171
   results:
-    accurate_predict: 15.1
+    accurate_predict: 84.9
     female_response_1: 19.5
     female_response_2: 80.5
     male_response_1: 18.9
@@ -11066,7 +11066,7 @@
       italian: Verde
   poll_id: 8172
   results:
-    accurate_predict: 33.3
+    accurate_predict: 66.7
     female_response_1: 31.6
     female_response_2: 68.4
     male_response_1: 28.9
@@ -11093,7 +11093,7 @@
       italian: 'No'
   poll_id: 8173
   results:
-    accurate_predict: 45.5
+    accurate_predict: 54.5
     female_response_1: 32.8
     female_response_2: 67.2
     male_response_1: 37.4
@@ -11120,7 +11120,7 @@
       italian: 'No'
   poll_id: 8174
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 19.9
     female_response_2: 80.1
     male_response_1: 23.7
@@ -11147,7 +11147,7 @@
       italian: 'No'
   poll_id: 8175
   results:
-    accurate_predict: 46.3
+    accurate_predict: 53.7
     female_response_1: 40.8
     female_response_2: 59.2
     male_response_1: 53.1
@@ -11174,7 +11174,7 @@
       italian: Parquet
   poll_id: 8176
   results:
-    accurate_predict: 38.4
+    accurate_predict: 61.6
     female_response_1: 29.4
     female_response_2: 70.6
     male_response_1: 35.2
@@ -11228,7 +11228,7 @@
       italian: Parole intere
   poll_id: 8178
   results:
-    accurate_predict: 73.9
+    accurate_predict: 26.1
     female_response_1: 42.9
     female_response_2: 57.1
     male_response_1: 39.0
@@ -11309,7 +11309,7 @@
       italian: 'No'
   poll_id: 8181
   results:
-    accurate_predict: 32.7
+    accurate_predict: 67.3
     female_response_1: 27.1
     female_response_2: 72.9
     male_response_1: 20.8
@@ -11478,7 +11478,7 @@
       italian: 'No'
   poll_id: 8187
   results:
-    accurate_predict: 25.1
+    accurate_predict: 74.9
     female_response_1: 24.5
     female_response_2: 75.5
     male_response_1: 35.4
@@ -11505,7 +11505,7 @@
       italian: Liquido
   poll_id: 8188
   results:
-    accurate_predict: 17.8
+    accurate_predict: 82.2
     female_response_1: 18.0
     female_response_2: 82.0
     male_response_1: 20.1
@@ -11565,7 +11565,7 @@
       italian: "Venerd\xEC"
   poll_id: 8190
   results:
-    accurate_predict: 6.2
+    accurate_predict: 93.8
     female_response_1: 11.0
     female_response_2: 89.0
     male_response_1: 7.8
@@ -11733,7 +11733,7 @@
       italian: Con apertura slide
   poll_id: 8196
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 35.5
     female_response_2: 64.5
     male_response_1: 30.9
@@ -11819,7 +11819,7 @@
       italian: Delfino
   poll_id: 8199
   results:
-    accurate_predict: 10.8
+    accurate_predict: 89.2
     female_response_1: 13.9
     female_response_2: 86.1
     male_response_1: 21.0
@@ -11873,7 +11873,7 @@
       italian: Per niente!
   poll_id: 8201
   results:
-    accurate_predict: 16.9
+    accurate_predict: 83.1
     female_response_1: 19.3
     female_response_2: 80.7
     male_response_1: 14.3
@@ -11954,7 +11954,7 @@
       italian: 'No'
   poll_id: 8204
   results:
-    accurate_predict: 45.0
+    accurate_predict: 55.0
     female_response_1: 46.1
     female_response_2: 53.9
     male_response_1: 19.2
@@ -12010,7 +12010,7 @@
       italian: 'No'
   poll_id: 9184
   results:
-    accurate_predict: 54.4
+    accurate_predict: 45.6
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 42.7
@@ -12121,7 +12121,7 @@
       italian: 'No'
   poll_id: 9188
   results:
-    accurate_predict: 23.1
+    accurate_predict: 76.9
     female_response_1: 24.5
     female_response_2: 75.5
     male_response_1: 25.0
@@ -12175,7 +12175,7 @@
       italian: Gridi
   poll_id: 9190
   results:
-    accurate_predict: 54.8
+    accurate_predict: 45.2
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 53.1
@@ -12229,7 +12229,7 @@
       italian: I ninja!
   poll_id: 9192
   results:
-    accurate_predict: 23.1
+    accurate_predict: 76.9
     female_response_1: 31.1
     female_response_2: 68.9
     male_response_1: 23.0
@@ -12256,7 +12256,7 @@
       italian: 'No'
   poll_id: 9193
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 33.5
     female_response_2: 66.5
     male_response_1: 21.0
@@ -12283,7 +12283,7 @@
       italian: Tiro con l'arco
   poll_id: 9194
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 33.5
     female_response_2: 66.5
     male_response_1: 32.5
@@ -12310,7 +12310,7 @@
       italian: 'No'
   poll_id: 9195
   results:
-    accurate_predict: 25.3
+    accurate_predict: 74.7
     female_response_1: 18.6
     female_response_2: 81.4
     male_response_1: 21.3
@@ -12366,7 +12366,7 @@
       italian: 'No'
   poll_id: 9197
   results:
-    accurate_predict: 63.2
+    accurate_predict: 36.8
     female_response_1: 18.2
     female_response_2: 81.8
     male_response_1: 42.0
@@ -12393,7 +12393,7 @@
       italian: Fatto da me!
   poll_id: 9198
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 19.4
     female_response_2: 80.6
     male_response_1: 23.0
@@ -12447,7 +12447,7 @@
       italian: 'No'
   poll_id: 9200
   results:
-    accurate_predict: 21.5
+    accurate_predict: 78.5
     female_response_1: 9.1
     female_response_2: 90.9
     male_response_1: 10.2
@@ -12503,7 +12503,7 @@
       italian: 'No'
   poll_id: 9202
   results:
-    accurate_predict: 51.1
+    accurate_predict: 48.9
     female_response_1: 42.0
     female_response_2: 58.0
     male_response_1: 46.0
@@ -12557,7 +12557,7 @@
       italian: La neve
   poll_id: 9204
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 42.7
     female_response_2: 57.3
     male_response_1: 34.5
@@ -12584,7 +12584,7 @@
       italian: 'No'
   poll_id: 9205
   results:
-    accurate_predict: 45.8
+    accurate_predict: 54.2
     female_response_1: 42.3
     female_response_2: 57.7
     male_response_1: 42.8
@@ -12613,7 +12613,7 @@
       italian: 'No'
   poll_id: 9206
   results:
-    accurate_predict: 21.7
+    accurate_predict: 78.3
     female_response_1: 18.8
     female_response_2: 81.2
     male_response_1: 25.3
@@ -12671,7 +12671,7 @@
       italian: 'No'
   poll_id: 9208
   results:
-    accurate_predict: 41.7
+    accurate_predict: 58.3
     female_response_1: 42.7
     female_response_2: 57.3
     male_response_1: 42.7
@@ -12698,7 +12698,7 @@
       italian: 'No'
   poll_id: 9209
   results:
-    accurate_predict: 22.1
+    accurate_predict: 77.9
     female_response_1: 16.2
     female_response_2: 83.8
     male_response_1: 16.7
@@ -12754,7 +12754,7 @@
       italian: Poco prima
   poll_id: 9211
   results:
-    accurate_predict: 32.5
+    accurate_predict: 67.5
     female_response_1: 34.9
     female_response_2: 65.1
     male_response_1: 28.6
@@ -12782,7 +12782,7 @@
       italian: 'No'
   poll_id: 9212
   results:
-    accurate_predict: 49.5
+    accurate_predict: 50.5
     female_response_1: 48.0
     female_response_2: 52.0
     male_response_1: 49.1
@@ -12809,7 +12809,7 @@
       italian: Hip-hop
   poll_id: 9213
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 30.3
     female_response_2: 69.7
     male_response_1: 29.2
@@ -12868,7 +12868,7 @@
       italian: 'No'
   poll_id: 9215
   results:
-    accurate_predict: 60.3
+    accurate_predict: 39.7
     female_response_1: 43.6
     female_response_2: 56.4
     male_response_1: 37.3
@@ -12896,7 +12896,7 @@
       italian: 'No'
   poll_id: 9216
   results:
-    accurate_predict: 35.6
+    accurate_predict: 64.4
     female_response_1: 33.0
     female_response_2: 67.0
     male_response_1: 35.9
@@ -12977,7 +12977,7 @@
       italian: 'No'
   poll_id: 9219
   results:
-    accurate_predict: 22.3
+    accurate_predict: 77.7
     female_response_1: 14.1
     female_response_2: 85.9
     male_response_1: 22.2
@@ -13004,7 +13004,7 @@
       italian: 'No'
   poll_id: 9220
   results:
-    accurate_predict: 49.6
+    accurate_predict: 50.4
     female_response_1: 43.8
     female_response_2: 56.2
     male_response_1: 39.6
@@ -13058,7 +13058,7 @@
       italian: 'No'
   poll_id: 9222
   results:
-    accurate_predict: 68.6
+    accurate_predict: 31.4
     female_response_1: 60.2
     female_response_2: 39.8
     male_response_1: 33.5
@@ -13087,7 +13087,7 @@
       italian: 'No'
   poll_id: 9223
   results:
-    accurate_predict: 21.9
+    accurate_predict: 78.1
     female_response_1: 20.6
     female_response_2: 79.4
     male_response_1: 24.3
@@ -13200,7 +13200,7 @@
       italian: 'No'
   poll_id: 9227
   results:
-    accurate_predict: 18.4
+    accurate_predict: 81.6
     female_response_1: 16.3
     female_response_2: 83.7
     male_response_1: 20.7
@@ -13254,7 +13254,7 @@
       italian: 'No'
   poll_id: 9229
   results:
-    accurate_predict: 31.3
+    accurate_predict: 68.7
     female_response_1: 39.8
     female_response_2: 60.2
     male_response_1: 38.3
@@ -13281,7 +13281,7 @@
       italian: 'No'
   poll_id: 9230
   results:
-    accurate_predict: 52.2
+    accurate_predict: 47.8
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 27.4
@@ -13308,7 +13308,7 @@
       italian: 'No'
   poll_id: 9231
   results:
-    accurate_predict: 15.9
+    accurate_predict: 84.1
     female_response_1: 12.8
     female_response_2: 87.2
     male_response_1: 17.7
@@ -13393,7 +13393,7 @@
       italian: Separate!
   poll_id: 9234
   results:
-    accurate_predict: 35.8
+    accurate_predict: 64.2
     female_response_1: 33.7
     female_response_2: 66.3
     male_response_1: 36.5
@@ -13476,7 +13476,7 @@
       italian: Il pilota
   poll_id: 9237
   results:
-    accurate_predict: 46.2
+    accurate_predict: 53.8
     female_response_1: 38.3
     female_response_2: 61.7
     male_response_1: 43.9
@@ -13505,7 +13505,7 @@
       italian: 'No'
   poll_id: 9238
   results:
-    accurate_predict: 29.2
+    accurate_predict: 70.8
     female_response_1: 37.8
     female_response_2: 62.2
     male_response_1: 35.9
@@ -13535,7 +13535,7 @@
       italian: 'No'
   poll_id: 9239
   results:
-    accurate_predict: 25.8
+    accurate_predict: 74.2
     female_response_1: 24.7
     female_response_2: 75.3
     male_response_1: 27.3
@@ -13621,7 +13621,7 @@
       italian: 'No'
   poll_id: 9242
   results:
-    accurate_predict: 56.3
+    accurate_predict: 43.7
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 39.8
@@ -13648,7 +13648,7 @@
       italian: "Invisibilit\xE0"
   poll_id: 10615
   results:
-    accurate_predict: 42.9
+    accurate_predict: 57.1
     female_response_1: 21.8
     female_response_2: 78.2
     male_response_1: 41.3
@@ -13675,7 +13675,7 @@
       italian: 'No'
   poll_id: 10616
   results:
-    accurate_predict: 55.6
+    accurate_predict: 44.4
     female_response_1: 38.6
     female_response_2: 61.4
     male_response_1: 41.5
@@ -13783,7 +13783,7 @@
       italian: 'No'
   poll_id: 10620
   results:
-    accurate_predict: 27.0
+    accurate_predict: 73.0
     female_response_1: 42.6
     female_response_2: 57.4
     male_response_1: 17.3
@@ -13810,7 +13810,7 @@
       italian: "Ci\xF2 che serve"
   poll_id: 10621
   results:
-    accurate_predict: 31.9
+    accurate_predict: 68.1
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 17.6
@@ -13864,7 +13864,7 @@
       italian: 'No'
   poll_id: 10623
   results:
-    accurate_predict: 25.1
+    accurate_predict: 74.9
     female_response_1: 26.7
     female_response_2: 73.3
     male_response_1: 28.9
@@ -13891,7 +13891,7 @@
       italian: 'No'
   poll_id: 10624
   results:
-    accurate_predict: 28.8
+    accurate_predict: 71.2
     female_response_1: 35.2
     female_response_2: 64.8
     male_response_1: 33.8
@@ -13918,7 +13918,7 @@
       italian: "Creativit\xE0"
   poll_id: 10625
   results:
-    accurate_predict: 49.5
+    accurate_predict: 50.5
     female_response_1: 41.5
     female_response_2: 58.5
     male_response_1: 55.2
@@ -13945,7 +13945,7 @@
       italian: LCD
   poll_id: 10626
   results:
-    accurate_predict: 52.7
+    accurate_predict: 47.3
     female_response_1: 49.2
     female_response_2: 50.8
     male_response_1: 48.3
@@ -13972,7 +13972,7 @@
       italian: Corti
   poll_id: 10627
   results:
-    accurate_predict: 46.9
+    accurate_predict: 53.1
     female_response_1: 75.1
     female_response_2: 24.9
     male_response_1: 23.4
@@ -13999,7 +13999,7 @@
       italian: Internet
   poll_id: 10628
   results:
-    accurate_predict: 36.0
+    accurate_predict: 64.0
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 33.8
@@ -14026,7 +14026,7 @@
       italian: Di sera
   poll_id: 10629
   results:
-    accurate_predict: 45.4
+    accurate_predict: 54.6
     female_response_1: 35.7
     female_response_2: 64.3
     male_response_1: 33.6
@@ -14053,7 +14053,7 @@
       italian: Con amici
   poll_id: 10630
   results:
-    accurate_predict: 12.8
+    accurate_predict: 87.2
     female_response_1: 19.0
     female_response_2: 81.0
     male_response_1: 19.6
@@ -14080,7 +14080,7 @@
       italian: Forchetta
   poll_id: 10631
   results:
-    accurate_predict: 40.7
+    accurate_predict: 59.3
     female_response_1: 30.1
     female_response_2: 69.9
     male_response_1: 33.4
@@ -14107,7 +14107,7 @@
       italian: Neve
   poll_id: 10632
   results:
-    accurate_predict: 15.1
+    accurate_predict: 84.9
     female_response_1: 24.4
     female_response_2: 75.6
     male_response_1: 18.8
@@ -14161,7 +14161,7 @@
       italian: 'No'
   poll_id: 10634
   results:
-    accurate_predict: 51.7
+    accurate_predict: 48.3
     female_response_1: 50.9
     female_response_2: 49.1
     male_response_1: 48.3
@@ -14244,7 +14244,7 @@
       italian: 'No'
   poll_id: 10637
   results:
-    accurate_predict: 14.1
+    accurate_predict: 85.9
     female_response_1: 19.3
     female_response_2: 80.7
     male_response_1: 16.5
@@ -14271,7 +14271,7 @@
       italian: Cena
   poll_id: 10638
   results:
-    accurate_predict: 36.0
+    accurate_predict: 64.0
     female_response_1: 42.6
     female_response_2: 57.4
     male_response_1: 34.1
@@ -14325,7 +14325,7 @@
       italian: Fortuna
   poll_id: 10640
   results:
-    accurate_predict: 28.5
+    accurate_predict: 71.5
     female_response_1: 34.0
     female_response_2: 66.0
     male_response_1: 27.2
@@ -14460,7 +14460,7 @@
       italian: 'No'
   poll_id: 10645
   results:
-    accurate_predict: 34.0
+    accurate_predict: 66.0
     female_response_1: 40.6
     female_response_2: 59.4
     male_response_1: 40.9
@@ -14568,7 +14568,7 @@
       italian: "S\xEC"
   poll_id: 10649
   results:
-    accurate_predict: 26.5
+    accurate_predict: 73.5
     female_response_1: 23.5
     female_response_2: 76.5
     male_response_1: 23.3
@@ -14595,7 +14595,7 @@
       italian: 'No'
   poll_id: 10650
   results:
-    accurate_predict: 35.1
+    accurate_predict: 64.9
     female_response_1: 26.8
     female_response_2: 73.2
     male_response_1: 25.9
@@ -14622,7 +14622,7 @@
       italian: 'No'
   poll_id: 10651
   results:
-    accurate_predict: 16.2
+    accurate_predict: 83.8
     female_response_1: 27.6
     female_response_2: 72.4
     male_response_1: 21.7
@@ -14649,7 +14649,7 @@
       italian: 'No'
   poll_id: 10652
   results:
-    accurate_predict: 14.0
+    accurate_predict: 86.0
     female_response_1: 14.7
     female_response_2: 85.3
     male_response_1: 15.1
@@ -14813,7 +14813,7 @@
       italian: 'No'
   poll_id: 10658
   results:
-    accurate_predict: 38.6
+    accurate_predict: 61.4
     female_response_1: 22.1
     female_response_2: 77.9
     male_response_1: 46.1
@@ -14867,7 +14867,7 @@
       italian: 'No'
   poll_id: 10660
   results:
-    accurate_predict: 55.8
+    accurate_predict: 44.2
     female_response_1: 45.7
     female_response_2: 54.3
     male_response_1: 36.1
@@ -15033,7 +15033,7 @@
       italian: 'No'
   poll_id: 10666
   results:
-    accurate_predict: 40.3
+    accurate_predict: 59.7
     female_response_1: 25.9
     female_response_2: 74.1
     male_response_1: 28.1
@@ -15060,7 +15060,7 @@
       italian: "Caff\xE8"
   poll_id: 10667
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 37.6
     female_response_2: 62.4
     male_response_1: 33.6
@@ -15087,7 +15087,7 @@
       italian: 'No'
   poll_id: 10668
   results:
-    accurate_predict: 49.6
+    accurate_predict: 50.4
     female_response_1: 41.0
     female_response_2: 59.0
     male_response_1: 40.2
@@ -15114,7 +15114,7 @@
       italian: 'No'
   poll_id: 10669
   results:
-    accurate_predict: 20.7
+    accurate_predict: 79.3
     female_response_1: 16.9
     female_response_2: 83.1
     male_response_1: 21.1
@@ -15141,7 +15141,7 @@
       italian: 'No'
   poll_id: 10670
   results:
-    accurate_predict: 44.0
+    accurate_predict: 56.0
     female_response_1: 40.2
     female_response_2: 59.8
     male_response_1: 48.0
@@ -15168,7 +15168,7 @@
       italian: 'No'
   poll_id: 10671
   results:
-    accurate_predict: 16.8
+    accurate_predict: 83.2
     female_response_1: 15.9
     female_response_2: 84.1
     male_response_1: 15.0
@@ -15195,7 +15195,7 @@
       italian: Al polo sud
   poll_id: 10672
   results:
-    accurate_predict: 48.1
+    accurate_predict: 51.9
     female_response_1: 43.2
     female_response_2: 56.8
     male_response_1: 45.6
@@ -15222,7 +15222,7 @@
       italian: 'No'
   poll_id: 10673
   results:
-    accurate_predict: 14.3
+    accurate_predict: 85.7
     female_response_1: 23.5
     female_response_2: 76.5
     male_response_1: 25.9
@@ -15330,7 +15330,7 @@
       italian: 'No'
   poll_id: 10677
   results:
-    accurate_predict: 51.6
+    accurate_predict: 48.4
     female_response_1: 48.5
     female_response_2: 51.5
     male_response_1: 47.2
@@ -15413,7 +15413,7 @@
       italian: Al chiuso
   poll_id: 10680
   results:
-    accurate_predict: 29.7
+    accurate_predict: 70.3
     female_response_1: 50.3
     female_response_2: 49.7
     male_response_1: 32.8
@@ -15602,7 +15602,7 @@
       italian: 'No'
   poll_id: 11489
   results:
-    accurate_predict: 30.3
+    accurate_predict: 69.7
     female_response_1: 22.8
     female_response_2: 77.2
     male_response_1: 27.9
@@ -15629,7 +15629,7 @@
       italian: 'No'
   poll_id: 11490
   results:
-    accurate_predict: 31.0
+    accurate_predict: 69.0
     female_response_1: 34.5
     female_response_2: 65.5
     male_response_1: 23.2
@@ -15791,7 +15791,7 @@
       italian: 'No'
   poll_id: 11496
   results:
-    accurate_predict: 42.2
+    accurate_predict: 57.8
     female_response_1: 38.3
     female_response_2: 61.7
     male_response_1: 23.6
@@ -15845,7 +15845,7 @@
       italian: 'No'
   poll_id: 11498
   results:
-    accurate_predict: 37.6
+    accurate_predict: 62.4
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 33.4
@@ -15899,7 +15899,7 @@
       italian: 'No'
   poll_id: 11500
   results:
-    accurate_predict: 43.1
+    accurate_predict: 56.9
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 38.2
@@ -15926,7 +15926,7 @@
       italian: Un impermeabile
   poll_id: 11501
   results:
-    accurate_predict: 60.4
+    accurate_predict: 39.6
     female_response_1: 61.5
     female_response_2: 38.5
     male_response_1: 35.1
@@ -16007,7 +16007,7 @@
       italian: 'No'
   poll_id: 11504
   results:
-    accurate_predict: 39.5
+    accurate_predict: 60.5
     female_response_1: 37.6
     female_response_2: 62.4
     male_response_1: 33.8
@@ -16034,7 +16034,7 @@
       italian: 'No'
   poll_id: 11505
   results:
-    accurate_predict: 57.5
+    accurate_predict: 42.5
     female_response_1: 47.3
     female_response_2: 52.7
     male_response_1: 44.1
@@ -16088,7 +16088,7 @@
       italian: 'No'
   poll_id: 11507
   results:
-    accurate_predict: 31.2
+    accurate_predict: 68.8
     female_response_1: 31.6
     female_response_2: 68.4
     male_response_1: 32.0
@@ -16115,7 +16115,7 @@
       italian: Con amici
   poll_id: 11508
   results:
-    accurate_predict: 20.6
+    accurate_predict: 79.4
     female_response_1: 31.9
     female_response_2: 68.1
     male_response_1: 31.1
@@ -16142,7 +16142,7 @@
       italian: Acqua fredda
   poll_id: 11509
   results:
-    accurate_predict: 45.9
+    accurate_predict: 54.1
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 39.2
@@ -16304,7 +16304,7 @@
       italian: 'No'
   poll_id: 11515
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 22.1
     female_response_2: 77.9
     male_response_1: 24.2
@@ -16331,7 +16331,7 @@
       italian: 'No'
   poll_id: 11516
   results:
-    accurate_predict: 49.7
+    accurate_predict: 50.3
     female_response_1: 38.1
     female_response_2: 61.9
     male_response_1: 53.3
@@ -16358,7 +16358,7 @@
       italian: Anni duemila
   poll_id: 11517
   results:
-    accurate_predict: 35.4
+    accurate_predict: 64.6
     female_response_1: 41.8
     female_response_2: 58.2
     male_response_1: 40.0
@@ -16412,7 +16412,7 @@
       italian: 'No'
   poll_id: 11519
   results:
-    accurate_predict: 38.3
+    accurate_predict: 61.7
     female_response_1: 39.4
     female_response_2: 60.6
     male_response_1: 27.4
@@ -16466,7 +16466,7 @@
       italian: 'No'
   poll_id: 11521
   results:
-    accurate_predict: 27.2
+    accurate_predict: 72.8
     female_response_1: 20.8
     female_response_2: 79.2
     male_response_1: 23.5
@@ -16547,7 +16547,7 @@
       italian: 'No'
   poll_id: 11524
   results:
-    accurate_predict: 38.9
+    accurate_predict: 61.1
     female_response_1: 27.0
     female_response_2: 73.0
     male_response_1: 31.3
@@ -16574,7 +16574,7 @@
       italian: 'No'
   poll_id: 11525
   results:
-    accurate_predict: 38.2
+    accurate_predict: 61.8
     female_response_1: 29.2
     female_response_2: 70.8
     male_response_1: 30.9
@@ -16628,7 +16628,7 @@
       italian: 'No'
   poll_id: 11527
   results:
-    accurate_predict: 42.4
+    accurate_predict: 57.6
     female_response_1: 38.7
     female_response_2: 61.3
     male_response_1: 33.3
@@ -16873,7 +16873,7 @@
       italian: 'No'
   poll_id: 11536
   results:
-    accurate_predict: 15.7
+    accurate_predict: 84.3
     female_response_1: 6.3
     female_response_2: 93.7
     male_response_1: 8.1
@@ -17008,7 +17008,7 @@
       italian: 'No'
   poll_id: 11541
   results:
-    accurate_predict: 13.2
+    accurate_predict: 86.8
     female_response_1: 15.0
     female_response_2: 85.0
     male_response_1: 17.7
@@ -17062,7 +17062,7 @@
       italian: 'No'
   poll_id: 11543
   results:
-    accurate_predict: 57.0
+    accurate_predict: 43.0
     female_response_1: 55.3
     female_response_2: 44.7
     male_response_1: 44.9
@@ -17116,7 +17116,7 @@
       italian: Una fenice
   poll_id: 11545
   results:
-    accurate_predict: 59.5
+    accurate_predict: 40.5
     female_response_1: 41.0
     female_response_2: 59.0
     male_response_1: 55.2
@@ -17170,7 +17170,7 @@
       italian: 'No'
   poll_id: 11547
   results:
-    accurate_predict: 42.9
+    accurate_predict: 57.1
     female_response_1: 30.5
     female_response_2: 69.5
     male_response_1: 28.7
@@ -17226,7 +17226,7 @@
       italian: 'No'
   poll_id: 11549
   results:
-    accurate_predict: 45.2
+    accurate_predict: 54.8
     female_response_1: 28.6
     female_response_2: 71.4
     male_response_1: 30.5
@@ -17334,7 +17334,7 @@
       italian: 'No'
   poll_id: 11553
   results:
-    accurate_predict: 27.5
+    accurate_predict: 72.5
     female_response_1: 31.2
     female_response_2: 68.8
     male_response_1: 32.8
@@ -17361,7 +17361,7 @@
       italian: La pasta
   poll_id: 11554
   results:
-    accurate_predict: 20.5
+    accurate_predict: 79.5
     female_response_1: 22.9
     female_response_2: 77.1
     male_response_1: 25.5
@@ -17388,7 +17388,7 @@
       italian: 'No'
   poll_id: 11555
   results:
-    accurate_predict: 14.1
+    accurate_predict: 85.9
     female_response_1: 13.2
     female_response_2: 86.8
     male_response_1: 14.7
@@ -17469,7 +17469,7 @@
       italian: 'No'
   poll_id: 11558
   results:
-    accurate_predict: 35.0
+    accurate_predict: 65.0
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 31.4
@@ -17496,7 +17496,7 @@
       italian: Dal sapore
   poll_id: 11559
   results:
-    accurate_predict: 31.8
+    accurate_predict: 68.2
     female_response_1: 29.4
     female_response_2: 70.6
     male_response_1: 27.4
@@ -17606,7 +17606,7 @@
       italian: 'No'
   poll_id: 11563
   results:
-    accurate_predict: 68.7
+    accurate_predict: 31.3
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 50.6
@@ -17634,7 +17634,7 @@
       italian: 'No'
   poll_id: 11564
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 25.0
     female_response_2: 75.0
     male_response_1: 20.7
@@ -17691,7 +17691,7 @@
       italian: 'No'
   poll_id: 11566
   results:
-    accurate_predict: 23.1
+    accurate_predict: 76.9
     female_response_1: 21.5
     female_response_2: 78.5
     male_response_1: 29.8
@@ -17718,7 +17718,7 @@
       italian: Cioccolato
   poll_id: 11567
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 39.9
@@ -17745,7 +17745,7 @@
       italian: 'No'
   poll_id: 11568
   results:
-    accurate_predict: 54.2
+    accurate_predict: 45.8
     female_response_1: 33.3
     female_response_2: 66.7
     male_response_1: 36.9
@@ -17772,7 +17772,7 @@
       italian: Chiusa
   poll_id: 11569
   results:
-    accurate_predict: 24.0
+    accurate_predict: 76.0
     female_response_1: 21.2
     female_response_2: 78.8
     male_response_1: 21.4
@@ -17799,7 +17799,7 @@
       italian: Bevande non gassate
   poll_id: 13398
   results:
-    accurate_predict: 41.7
+    accurate_predict: 58.3
     female_response_1: 34.7
     female_response_2: 65.3
     male_response_1: 39.7
@@ -17882,7 +17882,7 @@
       italian: Battaglia di palle di neve
   poll_id: 13401
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 33.5
@@ -17941,7 +17941,7 @@
       italian: In pianura
   poll_id: 13403
   results:
-    accurate_predict: 52.9
+    accurate_predict: 47.1
     female_response_1: 44.7
     female_response_2: 55.3
     male_response_1: 51.3
@@ -18024,7 +18024,7 @@
       italian: Dolce
   poll_id: 13406
   results:
-    accurate_predict: 20.1
+    accurate_predict: 79.9
     female_response_1: 34.3
     female_response_2: 65.7
     male_response_1: 39.8
@@ -18051,7 +18051,7 @@
       italian: Spazzola
   poll_id: 13407
   results:
-    accurate_predict: 45.1
+    accurate_predict: 54.9
     female_response_1: 27.9
     female_response_2: 72.1
     male_response_1: 65.5
@@ -18078,7 +18078,7 @@
       italian: Cacao
   poll_id: 13408
   results:
-    accurate_predict: 20.8
+    accurate_predict: 79.2
     female_response_1: 17.7
     female_response_2: 82.3
     male_response_1: 18.5
@@ -18105,7 +18105,7 @@
       italian: 'No'
   poll_id: 13409
   results:
-    accurate_predict: 18.9
+    accurate_predict: 81.1
     female_response_1: 19.4
     female_response_2: 80.6
     male_response_1: 25.2
@@ -18168,7 +18168,7 @@
       italian: Romani
   poll_id: 13411
   results:
-    accurate_predict: 47.0
+    accurate_predict: 53.0
     female_response_1: 53.0
     female_response_2: 47.0
     male_response_1: 40.8
@@ -18195,7 +18195,7 @@
       italian: 'No'
   poll_id: 13412
   results:
-    accurate_predict: 32.0
+    accurate_predict: 68.0
     female_response_1: 28.6
     female_response_2: 71.4
     male_response_1: 27.7
@@ -18224,7 +18224,7 @@
       italian: 'No'
   poll_id: 13413
   results:
-    accurate_predict: 13.0
+    accurate_predict: 87.0
     female_response_1: 9.4
     female_response_2: 90.6
     male_response_1: 11.1
@@ -18251,7 +18251,7 @@
       italian: 'No'
   poll_id: 13414
   results:
-    accurate_predict: 44.6
+    accurate_predict: 55.4
     female_response_1: 37.1
     female_response_2: 62.9
     male_response_1: 38.8
@@ -18281,7 +18281,7 @@
       italian: Preferisco le sorprese
   poll_id: 13415
   results:
-    accurate_predict: 44.9
+    accurate_predict: 55.1
     female_response_1: 45.7
     female_response_2: 54.3
     male_response_1: 43.8
@@ -18362,7 +18362,7 @@
       italian: 'No'
   poll_id: 13418
   results:
-    accurate_predict: 30.1
+    accurate_predict: 69.9
     female_response_1: 14.8
     female_response_2: 85.2
     male_response_1: 16.7
@@ -18394,7 +18394,7 @@
       italian: 'No'
   poll_id: 13419
   results:
-    accurate_predict: 34.5
+    accurate_predict: 65.5
     female_response_1: 28.0
     female_response_2: 72.0
     male_response_1: 29.7
@@ -18425,7 +18425,7 @@
       italian: Animale domestico
   poll_id: 13420
   results:
-    accurate_predict: 44.3
+    accurate_predict: 55.7
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 48.9
@@ -18457,7 +18457,7 @@
       italian: Attore
   poll_id: 13421
   results:
-    accurate_predict: 14.5
+    accurate_predict: 85.5
     female_response_1: 26.0
     female_response_2: 74.0
     male_response_1: 21.8
@@ -18584,7 +18584,7 @@
   date: May 28, 2011
   poll:
     question:
-      dutch: "Als je naar de toekomst kon reizen, hoe ver zou je dan gaan?"
+      dutch: Als je naar de toekomst kon reizen, hoe ver zou je dan gaan?
       french: "Si vous pouviez voyager dans l'avenir,\no\xF9 aimeriez-vous vous retrouver?"
       german: "Wie weit w\xFCrdest du in die Zukunft reisen,\nwenn du k\xF6nntest?"
       italian: 'Se potessi viaggiare nel futuro,
@@ -18602,7 +18602,7 @@
       italian: 1000 anni
   poll_id: 13426
   results:
-    accurate_predict: 35.1
+    accurate_predict: 64.9
     female_response_1: 46.3
     female_response_2: 53.7
     male_response_1: 38.3
@@ -18630,7 +18630,7 @@
       italian: 'No'
   poll_id: 13427
   results:
-    accurate_predict: 49.0
+    accurate_predict: 51.0
     female_response_1: 47.0
     female_response_2: 53.0
     male_response_1: 41.8
@@ -18688,7 +18688,7 @@
       italian: Senza panna
   poll_id: 13429
   results:
-    accurate_predict: 59.1
+    accurate_predict: 40.9
     female_response_1: 46.7
     female_response_2: 53.3
     male_response_1: 41.4
@@ -18720,7 +18720,7 @@
       italian: 'No'
   poll_id: 13430
   results:
-    accurate_predict: 32.4
+    accurate_predict: 67.6
     female_response_1: 28.0
     female_response_2: 72.0
     male_response_1: 25.0
@@ -18747,7 +18747,7 @@
       italian: 'No'
   poll_id: 13431
   results:
-    accurate_predict: 38.1
+    accurate_predict: 61.9
     female_response_1: 36.2
     female_response_2: 63.8
     male_response_1: 42.3
@@ -18803,7 +18803,7 @@
       italian: 'No'
   poll_id: 13433
   results:
-    accurate_predict: 27.9
+    accurate_predict: 72.1
     female_response_1: 31.0
     female_response_2: 69.0
     male_response_1: 31.9
@@ -18830,7 +18830,7 @@
       italian: 'No'
   poll_id: 13434
   results:
-    accurate_predict: 37.9
+    accurate_predict: 62.1
     female_response_1: 41.9
     female_response_2: 58.1
     male_response_1: 40.7
@@ -18912,7 +18912,7 @@
       italian: Un polipo
   poll_id: 13437
   results:
-    accurate_predict: 35.2
+    accurate_predict: 64.8
     female_response_1: 36.3
     female_response_2: 63.7
     male_response_1: 34.3
@@ -18969,7 +18969,7 @@
       italian: Spente
   poll_id: 13439
   results:
-    accurate_predict: 30.4
+    accurate_predict: 69.6
     female_response_1: 27.4
     female_response_2: 72.6
     male_response_1: 26.0
@@ -18996,7 +18996,7 @@
       italian: No grazie...
   poll_id: 13440
   results:
-    accurate_predict: 38.9
+    accurate_predict: 61.1
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 45.3
@@ -19081,7 +19081,7 @@
       italian: 'No'
   poll_id: 13443
   results:
-    accurate_predict: 26.5
+    accurate_predict: 73.5
     female_response_1: 21.9
     female_response_2: 78.1
     male_response_1: 29.9
@@ -19138,7 +19138,7 @@
       italian: Out
   poll_id: 13445
   results:
-    accurate_predict: 41.8
+    accurate_predict: 58.2
     female_response_1: 42.6
     female_response_2: 57.4
     male_response_1: 40.3
@@ -19165,7 +19165,7 @@
       italian: 'No'
   poll_id: 13446
   results:
-    accurate_predict: 46.2
+    accurate_predict: 53.8
     female_response_1: 41.4
     female_response_2: 58.6
     male_response_1: 34.8
@@ -19194,7 +19194,7 @@
       italian: 'No'
   poll_id: 13447
   results:
-    accurate_predict: 43.8
+    accurate_predict: 56.2
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 35.4
@@ -19221,7 +19221,7 @@
       italian: Appena macinato
   poll_id: 13448
   results:
-    accurate_predict: 32.0
+    accurate_predict: 68.0
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 35.1
@@ -19248,7 +19248,7 @@
       italian: Noia
   poll_id: 13449
   results:
-    accurate_predict: 54.6
+    accurate_predict: 45.4
     female_response_1: 39.9
     female_response_2: 60.1
     male_response_1: 41.2
@@ -19275,7 +19275,7 @@
       italian: 'No'
   poll_id: 13450
   results:
-    accurate_predict: 43.0
+    accurate_predict: 57.0
     female_response_1: 47.8
     female_response_2: 52.2
     male_response_1: 35.5
@@ -19367,7 +19367,7 @@
       italian: "\xC8 pura fantasia"
   poll_id: 13453
   results:
-    accurate_predict: 27.0
+    accurate_predict: 73.0
     female_response_1: 32.7
     female_response_2: 67.3
     male_response_1: 37.8
@@ -19397,7 +19397,7 @@
       italian: 'No'
   poll_id: 13454
   results:
-    accurate_predict: 30.1
+    accurate_predict: 69.9
     female_response_1: 24.0
     female_response_2: 76.0
     male_response_1: 29.9
@@ -19424,7 +19424,7 @@
       italian: Bianco raffinato
   poll_id: 13455
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 35.9
     female_response_2: 64.1
     male_response_1: 33.4
@@ -19479,7 +19479,7 @@
       italian: Senz'osso
   poll_id: 13457
   results:
-    accurate_predict: 32.6
+    accurate_predict: 67.4
     female_response_1: 31.7
     female_response_2: 68.3
     male_response_1: 38.9
@@ -19508,7 +19508,7 @@
       italian: Non lo so...
   poll_id: 13458
   results:
-    accurate_predict: 21.9
+    accurate_predict: 78.1
     female_response_1: 22.3
     female_response_2: 77.7
     male_response_1: 25.4
@@ -19568,7 +19568,7 @@
       italian: Investigo!
   poll_id: 13460
   results:
-    accurate_predict: 39.2
+    accurate_predict: 60.8
     female_response_1: 43.8
     female_response_2: 56.2
     male_response_1: 29.0
@@ -19676,7 +19676,7 @@
       italian: Quale specchio?
   poll_id: 13464
   results:
-    accurate_predict: 53.6
+    accurate_predict: 46.4
     female_response_1: 61.5
     female_response_2: 38.5
     male_response_1: 24.3
@@ -19703,7 +19703,7 @@
       italian: Film d'azione
   poll_id: 13465
   results:
-    accurate_predict: 32.1
+    accurate_predict: 67.9
     female_response_1: 32.5
     female_response_2: 67.5
     male_response_1: 26.1
@@ -19730,7 +19730,7 @@
       italian: Zampa
   poll_id: 13466
   results:
-    accurate_predict: 39.0
+    accurate_predict: 61.0
     female_response_1: 40.6
     female_response_2: 59.4
     male_response_1: 38.8
@@ -19757,7 +19757,7 @@
       italian: 'No'
   poll_id: 13467
   results:
-    accurate_predict: 17.6
+    accurate_predict: 82.4
     female_response_1: 16.6
     female_response_2: 83.4
     male_response_1: 16.6
@@ -19784,7 +19784,7 @@
       italian: 'No'
   poll_id: 13468
   results:
-    accurate_predict: 34.6
+    accurate_predict: 65.4
     female_response_1: 39.2
     female_response_2: 60.8
     male_response_1: 30.5
@@ -19811,7 +19811,7 @@
       italian: Volare nel cielo!
   poll_id: 13469
   results:
-    accurate_predict: 24.4
+    accurate_predict: 75.6
     female_response_1: 34.5
     female_response_2: 65.5
     male_response_1: 26.7
@@ -19870,7 +19870,7 @@
       italian: Terresti per te
   poll_id: 13471
   results:
-    accurate_predict: 34.3
+    accurate_predict: 65.7
     female_response_1: 26.1
     female_response_2: 73.9
     male_response_1: 21.7
@@ -19982,7 +19982,7 @@
       italian: 'No'
   poll_id: 13475
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 12.5
     female_response_2: 87.5
     male_response_1: 10.0
@@ -20094,7 +20094,7 @@
       italian: Tutto l'anno!
   poll_id: 13479
   results:
-    accurate_predict: 45.3
+    accurate_predict: 54.7
     female_response_1: 41.7
     female_response_2: 58.3
     male_response_1: 42.7
@@ -20177,7 +20177,7 @@
       italian: 'No'
   poll_id: 13482
   results:
-    accurate_predict: 31.9
+    accurate_predict: 68.1
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 34.8
@@ -20234,7 +20234,7 @@
       italian: A due piani
   poll_id: 13484
   results:
-    accurate_predict: 23.8
+    accurate_predict: 76.2
     female_response_1: 28.9
     female_response_2: 71.1
     male_response_1: 26.7
@@ -20261,7 +20261,7 @@
       italian: Una persona versatile
   poll_id: 13485
   results:
-    accurate_predict: 40.4
+    accurate_predict: 59.6
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 40.5
@@ -20277,7 +20277,7 @@
         een gesprek te volgen?'
       french: "Avez-vous tendance \xE0 perdre\nle fil des conversations?"
       german: "Kommst du im Gespr\xE4ch manchmal nicht\nmehr so recht hinterher?"
-      italian: "Ti capita di non riuscire a seguire una conversazione?"
+      italian: Ti capita di non riuscire a seguire una conversazione?
     response_1:
       dutch: Ja
       french: Oui
@@ -20317,7 +20317,7 @@
       italian: Un dolce
   poll_id: 15371
   results:
-    accurate_predict: 19.0
+    accurate_predict: 81.0
     female_response_1: 30.1
     female_response_2: 69.9
     male_response_1: 31.8
@@ -20425,7 +20425,7 @@
       italian: 'No'
   poll_id: 15375
   results:
-    accurate_predict: 54.1
+    accurate_predict: 45.9
     female_response_1: 46.8
     female_response_2: 53.2
     male_response_1: 47.0
@@ -20452,7 +20452,7 @@
       italian: 'No'
   poll_id: 15376
   results:
-    accurate_predict: 44.2
+    accurate_predict: 55.8
     female_response_1: 35.5
     female_response_2: 64.5
     male_response_1: 55.4
@@ -20534,7 +20534,7 @@
       italian: 'No'
   poll_id: 15379
   results:
-    accurate_predict: 55.6
+    accurate_predict: 44.4
     female_response_1: 54.8
     female_response_2: 45.2
     male_response_1: 44.8
@@ -20561,7 +20561,7 @@
       italian: No!
   poll_id: 15380
   results:
-    accurate_predict: 22.6
+    accurate_predict: 77.4
     female_response_1: 18.5
     female_response_2: 81.5
     male_response_1: 22.8
@@ -20588,7 +20588,7 @@
       italian: Frittata
   poll_id: 15381
   results:
-    accurate_predict: 40.6
+    accurate_predict: 59.4
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 47.2
@@ -20615,7 +20615,7 @@
       italian: 'No'
   poll_id: 15382
   results:
-    accurate_predict: 25.5
+    accurate_predict: 74.5
     female_response_1: 21.1
     female_response_2: 78.9
     male_response_1: 22.2
@@ -20629,7 +20629,7 @@
       dutch: Heb je geknipperd terwijl je deze vraag las?
       french: "Avez-vous clign\xE9 des yeux en lisant cette question?"
       german: "Hast du geblinzelt, w\xE4hrend du diese\nFrage gelesen hast?"
-      italian: "Hai battuto le palpebre mentre leggevi questa domanda?"
+      italian: Hai battuto le palpebre mentre leggevi questa domanda?
     response_1:
       dutch: Ja!
       french: Oui
@@ -20642,7 +20642,7 @@
       italian: 'No'
   poll_id: 15383
   results:
-    accurate_predict: 56.4
+    accurate_predict: 43.6
     female_response_1: 47.8
     female_response_2: 52.2
     male_response_1: 45.7
@@ -20688,7 +20688,7 @@
         dont le nom contient la lettre Z?'
       german: "Kennst du wenigstens zwei Menschen,\ndie ein \u201EZ\u201C in ihrem\
         \ Namen tragen?"
-      italian: "Conosci almeno due persone il cui nome contiene la \"z\"?"
+      italian: Conosci almeno due persone il cui nome contiene la "z"?
     response_1:
       dutch: Ja
       french: Oui
@@ -20728,7 +20728,7 @@
       italian: Per nulla
   poll_id: 15386
   results:
-    accurate_predict: 34.5
+    accurate_predict: 65.5
     female_response_1: 34.7
     female_response_2: 65.3
     male_response_1: 26.9
@@ -20784,7 +20784,7 @@
       italian: Non acnora...
   poll_id: 15388
   results:
-    accurate_predict: 25.6
+    accurate_predict: 74.4
     female_response_1: 28.1
     female_response_2: 71.9
     male_response_1: 28.1
@@ -20811,7 +20811,7 @@
       italian: 'No'
   poll_id: 15389
   results:
-    accurate_predict: 29.9
+    accurate_predict: 70.1
     female_response_1: 26.6
     female_response_2: 73.4
     male_response_1: 25.0
@@ -20838,7 +20838,7 @@
       italian: Acqua
   poll_id: 15390
   results:
-    accurate_predict: 38.6
+    accurate_predict: 61.4
     female_response_1: 27.2
     female_response_2: 72.8
     male_response_1: 41.7
@@ -20868,7 +20868,7 @@
       italian: No, mai
   poll_id: 15391
   results:
-    accurate_predict: 32.7
+    accurate_predict: 67.3
     female_response_1: 24.6
     female_response_2: 75.4
     male_response_1: 20.1
@@ -21009,7 +21009,7 @@
       italian: Eh?
   poll_id: 15396
   results:
-    accurate_predict: 17.7
+    accurate_predict: 82.3
     female_response_1: 14.3
     female_response_2: 85.7
     male_response_1: 21.2
@@ -21054,7 +21054,7 @@
       german: 'Kannst du die Planeten unseres Sonnensystems
 
         in Reihenfolge von der Sonne aus nennen?'
-      italian: "Sei in grado di nominare i pianeti in ordine di distanza dal sole?"
+      italian: Sei in grado di nominare i pianeti in ordine di distanza dal sole?
     response_1:
       dutch: Ja
       french: Oui
@@ -21067,7 +21067,7 @@
       italian: 'No'
   poll_id: 15398
   results:
-    accurate_predict: 30.9
+    accurate_predict: 69.1
     female_response_1: 32.5
     female_response_2: 67.5
     male_response_1: 42.2
@@ -21125,7 +21125,7 @@
       italian: 'No'
   poll_id: 15400
   results:
-    accurate_predict: 29.9
+    accurate_predict: 70.1
     female_response_1: 28.0
     female_response_2: 72.0
     male_response_1: 30.4
@@ -21186,7 +21186,7 @@
       italian: 'No'
   poll_id: 15402
   results:
-    accurate_predict: 40.2
+    accurate_predict: 59.8
     female_response_1: 36.1
     female_response_2: 63.9
     male_response_1: 50.7
@@ -21217,7 +21217,7 @@
       italian: 'No'
   poll_id: 15403
   results:
-    accurate_predict: 40.1
+    accurate_predict: 59.9
     female_response_1: 30.7
     female_response_2: 69.3
     male_response_1: 33.0
@@ -21244,7 +21244,7 @@
       italian: Le cozze!
   poll_id: 15404
   results:
-    accurate_predict: 19.8
+    accurate_predict: 80.2
     female_response_1: 17.8
     female_response_2: 82.2
     male_response_1: 21.3
@@ -21277,7 +21277,7 @@
       italian: Ma va'!
   poll_id: 15405
   results:
-    accurate_predict: 17.3
+    accurate_predict: 82.7
     female_response_1: 13.1
     female_response_2: 86.9
     male_response_1: 15.4
@@ -21308,7 +21308,7 @@
       italian: Consonante
   poll_id: 15406
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 25.9
     female_response_2: 74.1
     male_response_1: 24.3
@@ -21335,7 +21335,7 @@
       italian: 'No'
   poll_id: 15407
   results:
-    accurate_predict: 43.8
+    accurate_predict: 56.2
     female_response_1: 38.1
     female_response_2: 61.9
     male_response_1: 47.3
@@ -21354,8 +21354,8 @@
         qui ronfle terriblement fort. Vous...'
       german: "Du schl\xE4fst mit jemandem im Raum, der\nunglaublich laut schnarcht:\
         \ Was tust du?"
-      italian: "Sei in una stanza con una persona che russa in modo terribile...\
-        \ Cosa fai?"
+      italian: Sei in una stanza con una persona che russa in modo terribile... Cosa
+        fai?
     response_1:
       dutch: Hem/haar wakker maken
       french: "La r\xE9veillez!"
@@ -21424,7 +21424,7 @@
       italian: 'No'
   poll_id: 15410
   results:
-    accurate_predict: 51.7
+    accurate_predict: 48.3
     female_response_1: 39.4
     female_response_2: 60.6
     male_response_1: 36.5
@@ -21451,7 +21451,7 @@
       italian: 'No'
   poll_id: 15411
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 48.4
     female_response_2: 51.6
     male_response_1: 27.5
@@ -21561,7 +21561,7 @@
       italian: "\xC8 troppo caro!"
   poll_id: 15415
   results:
-    accurate_predict: 26.6
+    accurate_predict: 73.4
     female_response_1: 37.3
     female_response_2: 62.7
     male_response_1: 37.9
@@ -21615,7 +21615,7 @@
       italian: Una reggia
   poll_id: 15417
   results:
-    accurate_predict: 20.2
+    accurate_predict: 79.8
     female_response_1: 32.6
     female_response_2: 67.4
     male_response_1: 28.5
@@ -21646,7 +21646,7 @@
       italian: I pantaloni
   poll_id: 15418
   results:
-    accurate_predict: 38.4
+    accurate_predict: 61.6
     female_response_1: 41.6
     female_response_2: 58.4
     male_response_1: 41.8
@@ -21673,7 +21673,7 @@
       italian: 'No'
   poll_id: 15419
   results:
-    accurate_predict: 48.8
+    accurate_predict: 51.2
     female_response_1: 38.7
     female_response_2: 61.3
     male_response_1: 41.8
@@ -21700,7 +21700,7 @@
       italian: Carne
   poll_id: 15420
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 32.9
     female_response_2: 67.1
     male_response_1: 22.5
@@ -21808,7 +21808,7 @@
       italian: 'No'
   poll_id: 15424
   results:
-    accurate_predict: 32.8
+    accurate_predict: 67.2
     female_response_1: 39.3
     female_response_2: 60.7
     male_response_1: 42.7
@@ -21889,7 +21889,7 @@
       italian: La famiglia e gli amici!
   poll_id: 15427
   results:
-    accurate_predict: 32.3
+    accurate_predict: 67.7
     female_response_1: 26.8
     female_response_2: 73.2
     male_response_1: 33.9
@@ -21920,7 +21920,7 @@
       italian: 'No'
   poll_id: 15428
   results:
-    accurate_predict: 13.8
+    accurate_predict: 86.2
     female_response_1: 6.9
     female_response_2: 93.1
     male_response_1: 11.5
@@ -22055,7 +22055,7 @@
       italian: 'No'
   poll_id: 15433
   results:
-    accurate_predict: 28.3
+    accurate_predict: 71.7
     female_response_1: 26.1
     female_response_2: 73.9
     male_response_1: 23.9
@@ -22136,7 +22136,7 @@
       italian: Leone
   poll_id: 15436
   results:
-    accurate_predict: 21.1
+    accurate_predict: 78.9
     female_response_1: 28.0
     female_response_2: 72.0
     male_response_1: 20.8
@@ -22163,7 +22163,7 @@
       italian: L'amicizia
   poll_id: 15437
   results:
-    accurate_predict: 42.9
+    accurate_predict: 57.1
     female_response_1: 42.8
     female_response_2: 57.2
     male_response_1: 38.2
@@ -22190,7 +22190,7 @@
       italian: Smetti di leggerlo
   poll_id: 15438
   results:
-    accurate_predict: 22.8
+    accurate_predict: 77.2
     female_response_1: 26.3
     female_response_2: 73.7
     male_response_1: 23.7
@@ -22248,7 +22248,7 @@
       italian: 'No'
   poll_id: 15440
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 29.8
     female_response_2: 70.2
     male_response_1: 25.0
@@ -22275,7 +22275,7 @@
       italian: 'No'
   poll_id: 15441
   results:
-    accurate_predict: 57.5
+    accurate_predict: 42.5
     female_response_1: 48.9
     female_response_2: 51.1
     male_response_1: 47.4
@@ -22333,7 +22333,7 @@
       italian: 'No'
   poll_id: 15443
   results:
-    accurate_predict: 52.4
+    accurate_predict: 47.6
     female_response_1: 43.2
     female_response_2: 56.8
     male_response_1: 51.6
@@ -22443,7 +22443,7 @@
       italian: Lisci
   poll_id: 15447
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 45.1
     female_response_2: 54.9
     male_response_1: 25.2
@@ -22470,7 +22470,7 @@
       italian: Lo saluto
   poll_id: 15448
   results:
-    accurate_predict: 34.5
+    accurate_predict: 65.5
     female_response_1: 28.9
     female_response_2: 71.1
     male_response_1: 27.8
@@ -22501,7 +22501,7 @@
       italian: 'No'
   poll_id: 15449
   results:
-    accurate_predict: 52.5
+    accurate_predict: 47.5
     female_response_1: 39.8
     female_response_2: 60.2
     male_response_1: 42.3
@@ -22562,7 +22562,7 @@
       italian: 'No'
   poll_id: 15451
   results:
-    accurate_predict: 43.1
+    accurate_predict: 56.9
     female_response_1: 41.8
     female_response_2: 58.2
     male_response_1: 37.1
@@ -22606,7 +22606,7 @@
     question:
       dutch: Bestaat het Monster van Loch Ness?
       french: Pensez-vous que le monstre du Loch Ness existe?
-      german: "Glaubst du, dass das Ungeheuer von Loch Ness wirklich existiert?"
+      german: Glaubst du, dass das Ungeheuer von Loch Ness wirklich existiert?
       italian: Esiste il Mostro di Loch Ness?
     response_1:
       dutch: Ja
@@ -22620,7 +22620,7 @@
       italian: 'No'
   poll_id: 15453
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 21.2
     female_response_2: 78.8
     male_response_1: 26.4
@@ -22704,7 +22704,7 @@
       italian: 'No'
   poll_id: 15456
   results:
-    accurate_predict: 40.2
+    accurate_predict: 59.8
     female_response_1: 35.2
     female_response_2: 64.8
     male_response_1: 32.4
@@ -22731,7 +22731,7 @@
       italian: 'No'
   poll_id: 15457
   results:
-    accurate_predict: 24.4
+    accurate_predict: 75.6
     female_response_1: 20.7
     female_response_2: 79.3
     male_response_1: 19.2
@@ -22761,7 +22761,7 @@
       italian: 'No'
   poll_id: 15458
   results:
-    accurate_predict: 29.9
+    accurate_predict: 70.1
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 36.5
@@ -22779,7 +22779,7 @@
       german: 'Kannst du dreistellige Zahlen ohne
 
         Taschenrechner dividieren?'
-      italian: "Sei in grado di fare una divisione a tre cifre senza calcolatrice?"
+      italian: Sei in grado di fare una divisione a tre cifre senza calcolatrice?
     response_1:
       dutch: Ja
       french: Oui
@@ -22851,7 +22851,7 @@
       italian: 'No'
   poll_id: 15461
   results:
-    accurate_predict: 28.7
+    accurate_predict: 71.3
     female_response_1: 27.9
     female_response_2: 72.1
     male_response_1: 37.7
@@ -22880,7 +22880,7 @@
       italian: Cantante rock
   poll_id: 15462
   results:
-    accurate_predict: 14.2
+    accurate_predict: 85.8
     female_response_1: 21.8
     female_response_2: 78.2
     male_response_1: 14.7
@@ -22907,7 +22907,7 @@
       italian: Senza calze
   poll_id: 15463
   results:
-    accurate_predict: 14.6
+    accurate_predict: 85.4
     female_response_1: 10.0
     female_response_2: 90.0
     male_response_1: 19.1
@@ -22990,7 +22990,7 @@
       italian: Lo porterei alla polizia
   poll_id: 15466
   results:
-    accurate_predict: 50.1
+    accurate_predict: 49.9
     female_response_1: 40.2
     female_response_2: 59.8
     male_response_1: 51.9
@@ -23019,7 +23019,7 @@
       italian: Un coccodrillo!
   poll_id: 15467
   results:
-    accurate_predict: 27.1
+    accurate_predict: 72.9
     female_response_1: 42.6
     female_response_2: 57.4
     male_response_1: 26.0
@@ -23106,7 +23106,7 @@
       italian: 'No'
   poll_id: 15470
   results:
-    accurate_predict: 34.4
+    accurate_predict: 65.6
     female_response_1: 40.6
     female_response_2: 59.4
     male_response_1: 39.5
@@ -23152,7 +23152,7 @@
       german: 'Hast du je etwas geschenkt bekommen,
 
         das dir gar nicht gefallen hat?'
-      italian: "Hai mai ricevuto un regalo che non ti piaceva per nulla?"
+      italian: Hai mai ricevuto un regalo che non ti piaceva per nulla?
     response_1:
       dutch: Helaas wel
       french: Oui, malheureusement...
@@ -23192,7 +23192,7 @@
       italian: Scritto
   poll_id: 15473
   results:
-    accurate_predict: 36.5
+    accurate_predict: 63.5
     female_response_1: 33.9
     female_response_2: 66.1
     male_response_1: 40.5
@@ -23221,7 +23221,7 @@
       italian: Cavallo alato
   poll_id: 15474
   results:
-    accurate_predict: 36.8
+    accurate_predict: 63.2
     female_response_1: 29.4
     female_response_2: 70.6
     male_response_1: 51.8
@@ -23252,7 +23252,7 @@
       italian: 'No'
   poll_id: 15475
   results:
-    accurate_predict: 38.0
+    accurate_predict: 62.0
     female_response_1: 33.7
     female_response_2: 66.3
     male_response_1: 38.6
@@ -23283,7 +23283,7 @@
       italian: Dopo l'acqua
   poll_id: 15476
   results:
-    accurate_predict: 50.3
+    accurate_predict: 49.7
     female_response_1: 42.1
     female_response_2: 57.9
     male_response_1: 45.7
@@ -23310,7 +23310,7 @@
       italian: "\xC8 fastidiosa"
   poll_id: 15477
   results:
-    accurate_predict: 20.4
+    accurate_predict: 79.6
     female_response_1: 22.2
     female_response_2: 77.8
     male_response_1: 23.7
@@ -23339,7 +23339,7 @@
       italian: Verdi
   poll_id: 15478
   results:
-    accurate_predict: 37.6
+    accurate_predict: 62.4
     female_response_1: 45.3
     female_response_2: 54.7
     male_response_1: 26.4
@@ -23366,7 +23366,7 @@
       italian: 'No'
   poll_id: 15479
   results:
-    accurate_predict: 12.3
+    accurate_predict: 87.7
     female_response_1: 11.1
     female_response_2: 88.9
     male_response_1: 13.9
@@ -23393,7 +23393,7 @@
       italian: 'No'
   poll_id: 15480
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 23.4
@@ -23420,7 +23420,7 @@
       italian: 'No'
   poll_id: 15481
   results:
-    accurate_predict: 51.4
+    accurate_predict: 48.6
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 50.2
@@ -23447,7 +23447,7 @@
       italian: 'No'
   poll_id: 15482
   results:
-    accurate_predict: 17.2
+    accurate_predict: 82.8
     female_response_1: 18.3
     female_response_2: 81.7
     male_response_1: 14.4
@@ -23501,7 +23501,7 @@
       italian: 'No'
   poll_id: 15484
   results:
-    accurate_predict: 30.8
+    accurate_predict: 69.2
     female_response_1: 40.9
     female_response_2: 59.1
     male_response_1: 30.7
@@ -23532,7 +23532,7 @@
       italian: 'No'
   poll_id: 15485
   results:
-    accurate_predict: 41.7
+    accurate_predict: 58.3
     female_response_1: 28.6
     female_response_2: 71.4
     male_response_1: 33.0
@@ -23549,7 +23549,7 @@
       french: "Pr\xE9f\xE9reriez-vous \xEAtre un g\xE9ant\nde fer ou un dragon de\
         \ feu?"
       german: "W\xE4rst du lieber ein Eisenriese\noder ein Feuerdrachen?"
-      italian: "Preferiresti essere un gigante di ferro o un drago di fuoco?"
+      italian: Preferiresti essere un gigante di ferro o un drago di fuoco?
     response_1:
       dutch: IJzeren reus
       french: "G\xE9ant de fer"
@@ -23562,7 +23562,7 @@
       italian: Un drago di fuoco
   poll_id: 15486
   results:
-    accurate_predict: 26.9
+    accurate_predict: 73.1
     female_response_1: 26.2
     female_response_2: 73.8
     male_response_1: 26.9
@@ -23589,7 +23589,7 @@
       italian: Il ghepardo
   poll_id: 15487
   results:
-    accurate_predict: 30.0
+    accurate_predict: 70.0
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 42.7
@@ -23676,7 +23676,7 @@
       italian: Cane
   poll_id: 18126
   results:
-    accurate_predict: 34.8
+    accurate_predict: 65.2
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 42.8
@@ -23703,7 +23703,7 @@
       italian: "S\xEC"
   poll_id: 18127
   results:
-    accurate_predict: 35.1
+    accurate_predict: 64.9
     female_response_1: 44.5
     female_response_2: 55.5
     male_response_1: 35.9
@@ -23730,7 +23730,7 @@
       italian: 'No'
   poll_id: 18128
   results:
-    accurate_predict: 22.6
+    accurate_predict: 77.4
     female_response_1: 16.6
     female_response_2: 83.4
     male_response_1: 25.8
@@ -23757,7 +23757,7 @@
       italian: Bambole
   poll_id: 18129
   results:
-    accurate_predict: 46.5
+    accurate_predict: 53.5
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 32.2
@@ -23898,7 +23898,7 @@
       italian: Primavera
   poll_id: 18134
   results:
-    accurate_predict: 15.0
+    accurate_predict: 85.0
     female_response_1: 20.0
     female_response_2: 80.0
     male_response_1: 25.5
@@ -23999,8 +23999,8 @@
       dutch: 'Als je een reis naar de ruimte
 
         zou mogen maken, zou je dan gaan?'
-      french: "Si on vous donnait un ticket pour un aller vers l'espace, iriez-vous\
-        \ ?"
+      french: Si on vous donnait un ticket pour un aller vers l'espace, iriez-vous
+        ?
       german: "W\xFCrdest du ein Ticket ins All nutzen,\nauch ohne Ticket f\xFCr den\
         \ R\xFCckflug?"
       italian: 'Se ricevessi un biglietto di sola andata
@@ -24078,7 +24078,7 @@
       italian: Dopo
   poll_id: 18140
   results:
-    accurate_predict: 25.8
+    accurate_predict: 74.2
     female_response_1: 26.9
     female_response_2: 73.1
     male_response_1: 27.8
@@ -24112,7 +24112,7 @@
       italian: 'No'
   poll_id: 18141
   results:
-    accurate_predict: 46.8
+    accurate_predict: 53.2
     female_response_1: 41.6
     female_response_2: 58.4
     male_response_1: 37.6
@@ -24168,7 +24168,7 @@
       italian: No, mai
   poll_id: 18143
   results:
-    accurate_predict: 36.3
+    accurate_predict: 63.7
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 34.7
@@ -24200,7 +24200,7 @@
       italian: Lavare i piatti
   poll_id: 18144
   results:
-    accurate_predict: 53.5
+    accurate_predict: 46.5
     female_response_1: 48.3
     female_response_2: 51.7
     male_response_1: 51.3
@@ -24293,7 +24293,7 @@
       italian: Fantasmi
   poll_id: 18147
   results:
-    accurate_predict: 53.4
+    accurate_predict: 46.6
     female_response_1: 34.7
     female_response_2: 65.3
     male_response_1: 56.1
@@ -24320,7 +24320,7 @@
       italian: Estroversa
   poll_id: 18148
   results:
-    accurate_predict: 42.0
+    accurate_predict: 58.0
     female_response_1: 49.7
     female_response_2: 50.3
     male_response_1: 50.0
@@ -24347,7 +24347,7 @@
       italian: 'No'
   poll_id: 18149
   results:
-    accurate_predict: 44.4
+    accurate_predict: 55.6
     female_response_1: 38.0
     female_response_2: 62.0
     male_response_1: 37.7
@@ -24374,7 +24374,7 @@
       italian: 'No'
   poll_id: 18150
   results:
-    accurate_predict: 41.9
+    accurate_predict: 58.1
     female_response_1: 38.7
     female_response_2: 61.3
     male_response_1: 34.1
@@ -24405,7 +24405,7 @@
       italian: Cerco di non guardare
   poll_id: 18151
   results:
-    accurate_predict: 35.3
+    accurate_predict: 64.7
     female_response_1: 39.3
     female_response_2: 60.7
     male_response_1: 30.8
@@ -24432,7 +24432,7 @@
       italian: 'No'
   poll_id: 18152
   results:
-    accurate_predict: 24.6
+    accurate_predict: 75.4
     female_response_1: 23.8
     female_response_2: 76.2
     male_response_1: 31.2
@@ -24521,7 +24521,7 @@
       italian: Provo a rispondere
   poll_id: 18155
   results:
-    accurate_predict: 49.5
+    accurate_predict: 50.5
     female_response_1: 52.2
     female_response_2: 47.8
     male_response_1: 44.8
@@ -24575,7 +24575,7 @@
       italian: Nepal
   poll_id: 18157
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 28.6
     female_response_2: 71.4
     male_response_1: 29.8
@@ -24629,7 +24629,7 @@
       italian: 'No'
   poll_id: 18159
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 21.3
     female_response_2: 78.7
     male_response_1: 29.3
@@ -24656,7 +24656,7 @@
       italian: Sedermi in fondo
   poll_id: 18160
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 47.1
     female_response_2: 52.9
     male_response_1: 39.2
@@ -24741,7 +24741,7 @@
       italian: Il Sole
   poll_id: 18163
   results:
-    accurate_predict: 25.7
+    accurate_predict: 74.3
     female_response_1: 26.2
     female_response_2: 73.8
     male_response_1: 24.0
@@ -24884,7 +24884,7 @@
       italian: 'No'
   poll_id: 18168
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 45.8
@@ -24939,7 +24939,7 @@
       italian: 'No'
   poll_id: 18170
   results:
-    accurate_predict: 30.0
+    accurate_predict: 70.0
     female_response_1: 31.3
     female_response_2: 68.7
     male_response_1: 30.3
@@ -24966,7 +24966,7 @@
       italian: 'No'
   poll_id: 18171
   results:
-    accurate_predict: 42.3
+    accurate_predict: 57.7
     female_response_1: 35.8
     female_response_2: 64.2
     male_response_1: 31.5
@@ -24995,7 +24995,7 @@
       italian: 'No'
   poll_id: 18172
   results:
-    accurate_predict: 23.7
+    accurate_predict: 76.3
     female_response_1: 26.4
     female_response_2: 73.6
     male_response_1: 23.8
@@ -25106,7 +25106,7 @@
       italian: Lo dico agli amici
   poll_id: 18176
   results:
-    accurate_predict: 33.9
+    accurate_predict: 66.1
     female_response_1: 36.2
     female_response_2: 63.8
     male_response_1: 40.3
@@ -25160,7 +25160,7 @@
       italian: 'No'
   poll_id: 18178
   results:
-    accurate_predict: 55.7
+    accurate_predict: 44.3
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 44.1
@@ -25187,7 +25187,7 @@
       italian: Fredde
   poll_id: 18179
   results:
-    accurate_predict: 29.4
+    accurate_predict: 70.6
     female_response_1: 37.4
     female_response_2: 62.6
     male_response_1: 27.2
@@ -25299,7 +25299,7 @@
       italian: Sale e aceto
   poll_id: 18183
   results:
-    accurate_predict: 53.4
+    accurate_predict: 46.6
     female_response_1: 50.0
     female_response_2: 50.0
     male_response_1: 48.2
@@ -25414,7 +25414,7 @@
       italian: Lancio col paracadute
   poll_id: 18187
   results:
-    accurate_predict: 39.3
+    accurate_predict: 60.7
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 32.4
@@ -25549,7 +25549,7 @@
       italian: Bianco
   poll_id: 18192
   results:
-    accurate_predict: 42.8
+    accurate_predict: 57.2
     female_response_1: 39.4
     female_response_2: 60.6
     male_response_1: 52.0
@@ -25606,7 +25606,7 @@
       italian: 'No'
   poll_id: 18194
   results:
-    accurate_predict: 31.8
+    accurate_predict: 68.2
     female_response_1: 33.2
     female_response_2: 66.8
     male_response_1: 32.6
@@ -25633,7 +25633,7 @@
       italian: Cioccolato
   poll_id: 18195
   results:
-    accurate_predict: 33.1
+    accurate_predict: 66.9
     female_response_1: 48.7
     female_response_2: 51.3
     male_response_1: 43.4
@@ -25716,7 +25716,7 @@
       italian: 'No'
   poll_id: 18198
   results:
-    accurate_predict: 29.7
+    accurate_predict: 70.3
     female_response_1: 43.6
     female_response_2: 56.4
     male_response_1: 39.2
@@ -25743,7 +25743,7 @@
       italian: Bianco
   poll_id: 18199
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 33.5
     female_response_2: 66.5
     male_response_1: 34.3
@@ -25772,7 +25772,7 @@
       italian: 'No'
   poll_id: 18200
   results:
-    accurate_predict: 16.5
+    accurate_predict: 83.5
     female_response_1: 11.5
     female_response_2: 88.5
     male_response_1: 26.7
@@ -25799,7 +25799,7 @@
       italian: 'No'
   poll_id: 18201
   results:
-    accurate_predict: 36.5
+    accurate_predict: 63.5
     female_response_1: 33.4
     female_response_2: 66.6
     male_response_1: 35.3
@@ -25855,7 +25855,7 @@
       italian: 'No'
   poll_id: 18203
   results:
-    accurate_predict: 56.4
+    accurate_predict: 43.6
     female_response_1: 39.1
     female_response_2: 60.9
     male_response_1: 43.3
@@ -25884,7 +25884,7 @@
       italian: 'No'
   poll_id: 18204
   results:
-    accurate_predict: 30.5
+    accurate_predict: 69.5
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 34.2
@@ -25911,7 +25911,7 @@
       italian: 'No'
   poll_id: 18205
   results:
-    accurate_predict: 43.3
+    accurate_predict: 56.7
     female_response_1: 42.7
     female_response_2: 57.3
     male_response_1: 38.8
@@ -25940,7 +25940,7 @@
       italian: 'No'
   poll_id: 18206
   results:
-    accurate_predict: 17.5
+    accurate_predict: 82.5
     female_response_1: 16.8
     female_response_2: 83.2
     male_response_1: 14.2
@@ -25999,7 +25999,7 @@
       italian: 'No'
   poll_id: 18208
   results:
-    accurate_predict: 53.5
+    accurate_predict: 46.5
     female_response_1: 45.9
     female_response_2: 54.1
     male_response_1: 45.0
@@ -26026,7 +26026,7 @@
       italian: Corte
   poll_id: 18209
   results:
-    accurate_predict: 35.1
+    accurate_predict: 64.9
     female_response_1: 53.2
     female_response_2: 46.8
     male_response_1: 18.2
@@ -26082,7 +26082,7 @@
       italian: Rosa
   poll_id: 18211
   results:
-    accurate_predict: 18.4
+    accurate_predict: 81.6
     female_response_1: 21.2
     female_response_2: 78.8
     male_response_1: 27.6
@@ -26111,7 +26111,7 @@
       italian: Impossibile
   poll_id: 18212
   results:
-    accurate_predict: 16.8
+    accurate_predict: 83.2
     female_response_1: 26.8
     female_response_2: 73.2
     male_response_1: 24.6
@@ -26295,7 +26295,7 @@
       italian: 'No'
   poll_id: 18218
   results:
-    accurate_predict: 38.0
+    accurate_predict: 62.0
     female_response_1: 30.1
     female_response_2: 69.9
     male_response_1: 36.3
@@ -26322,7 +26322,7 @@
       italian: 'No'
   poll_id: 18219
   results:
-    accurate_predict: 28.0
+    accurate_predict: 72.0
     female_response_1: 20.6
     female_response_2: 79.4
     male_response_1: 19.6
@@ -26349,7 +26349,7 @@
       italian: Cola
   poll_id: 18220
   results:
-    accurate_predict: 24.9
+    accurate_predict: 75.1
     female_response_1: 45.3
     female_response_2: 54.7
     male_response_1: 34.8
@@ -26376,7 +26376,7 @@
       italian: Mai/Raramente
   poll_id: 18221
   results:
-    accurate_predict: 43.0
+    accurate_predict: 57.0
     female_response_1: 53.9
     female_response_2: 46.1
     male_response_1: 43.7
@@ -26457,7 +26457,7 @@
       italian: Non ci riesco
   poll_id: 18224
   results:
-    accurate_predict: 26.9
+    accurate_predict: 73.1
     female_response_1: 30.4
     female_response_2: 69.6
     male_response_1: 17.6
@@ -26484,7 +26484,7 @@
       italian: No. Come si fa?
   poll_id: 18225
   results:
-    accurate_predict: 31.3
+    accurate_predict: 68.7
     female_response_1: 26.3
     female_response_2: 73.7
     male_response_1: 32.7
@@ -26650,7 +26650,7 @@
       italian: 'No'
   poll_id: 18231
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 12.8
     female_response_2: 87.2
     male_response_1: 20.0
@@ -26738,7 +26738,7 @@
       italian: Nulla di speciale
   poll_id: 18234
   results:
-    accurate_predict: 27.9
+    accurate_predict: 72.1
     female_response_1: 29.9
     female_response_2: 70.1
     male_response_1: 32.0
@@ -26769,7 +26769,7 @@
       italian: Non lo direi a nessuno
   poll_id: 18235
   results:
-    accurate_predict: 58.2
+    accurate_predict: 41.8
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 44.0
@@ -26796,7 +26796,7 @@
       italian: 'No'
   poll_id: 18236
   results:
-    accurate_predict: 43.6
+    accurate_predict: 56.4
     female_response_1: 35.6
     female_response_2: 64.4
     male_response_1: 38.5
@@ -26854,7 +26854,7 @@
       italian: Volti
   poll_id: 18238
   results:
-    accurate_predict: 39.0
+    accurate_predict: 61.0
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 37.1
@@ -26883,7 +26883,7 @@
       italian: "Venerd\xEC!"
   poll_id: 18239
   results:
-    accurate_predict: 37.7
+    accurate_predict: 62.3
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 38.6
@@ -26916,7 +26916,7 @@
       italian: No/Forse
   poll_id: 18240
   results:
-    accurate_predict: 47.9
+    accurate_predict: 52.1
     female_response_1: 43.8
     female_response_2: 56.2
     male_response_1: 34.5
@@ -27007,7 +27007,7 @@
       italian: 'No'
   poll_id: 18243
   results:
-    accurate_predict: 51.4
+    accurate_predict: 48.6
     female_response_1: 46.9
     female_response_2: 53.1
     male_response_1: 42.5
@@ -27098,7 +27098,7 @@
       italian: 'No'
   poll_id: 18246
   results:
-    accurate_predict: 25.9
+    accurate_predict: 74.1
     female_response_1: 14.1
     female_response_2: 85.9
     male_response_1: 26.1
@@ -27125,7 +27125,7 @@
       italian: Occhiali da sole
   poll_id: 18247
   results:
-    accurate_predict: 27.4
+    accurate_predict: 72.6
     female_response_1: 24.3
     female_response_2: 75.7
     male_response_1: 30.4
@@ -27159,7 +27159,7 @@
       italian: Elettrica
   poll_id: 18248
   results:
-    accurate_predict: 35.9
+    accurate_predict: 64.1
     female_response_1: 61.8
     female_response_2: 38.2
     male_response_1: 29.4
@@ -27186,7 +27186,7 @@
       italian: Non ci riesco
   poll_id: 18249
   results:
-    accurate_predict: 25.3
+    accurate_predict: 74.7
     female_response_1: 21.3
     female_response_2: 78.7
     male_response_1: 27.6
@@ -27213,7 +27213,7 @@
       italian: Ristorante
   poll_id: 18250
   results:
-    accurate_predict: 30.6
+    accurate_predict: 69.4
     female_response_1: 29.5
     female_response_2: 70.5
     male_response_1: 32.9
@@ -27246,7 +27246,7 @@
       italian: Impossibile!
   poll_id: 18251
   results:
-    accurate_predict: 31.3
+    accurate_predict: 68.7
     female_response_1: 23.4
     female_response_2: 76.6
     male_response_1: 36.5
@@ -27337,7 +27337,7 @@
       italian: Videogiochi
   poll_id: 18254
   results:
-    accurate_predict: 31.8
+    accurate_predict: 68.2
     female_response_1: 52.3
     female_response_2: 47.7
     male_response_1: 34.6
@@ -27370,7 +27370,7 @@
       italian: 'No'
   poll_id: 18255
   results:
-    accurate_predict: 47.4
+    accurate_predict: 52.6
     female_response_1: 50.9
     female_response_2: 49.1
     male_response_1: 40.7
@@ -27455,7 +27455,7 @@
       italian: Sullo skilift
   poll_id: 18258
   results:
-    accurate_predict: 47.8
+    accurate_predict: 52.2
     female_response_1: 47.1
     female_response_2: 52.9
     male_response_1: 45.7
@@ -27489,7 +27489,7 @@
       italian: "\xC8 terribile!"
   poll_id: 18259
   results:
-    accurate_predict: 45.8
+    accurate_predict: 54.2
     female_response_1: 49.8
     female_response_2: 50.2
     male_response_1: 38.9
@@ -27597,7 +27597,7 @@
       italian: Morbidi
   poll_id: 18263
   results:
-    accurate_predict: 32.7
+    accurate_predict: 67.3
     female_response_1: 33.9
     female_response_2: 66.1
     male_response_1: 35.0
@@ -27660,7 +27660,7 @@
       italian: 'No'
   poll_id: 18265
   results:
-    accurate_predict: 24.0
+    accurate_predict: 76.0
     female_response_1: 21.0
     female_response_2: 79.0
     male_response_1: 25.4

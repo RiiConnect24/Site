@@ -9,7 +9,7 @@
       french: Au plat
   poll_id: 235
   results:
-    accurate_predict: 33.9
+    accurate_predict: 66.1
     female_response_1: 55.4
     female_response_2: 44.6
     male_response_1: 42.8
@@ -27,7 +27,7 @@
       french: Dormir
   poll_id: 236
   results:
-    accurate_predict: 49.1
+    accurate_predict: 50.9
     female_response_1: 42.4
     female_response_2: 57.6
     male_response_1: 51.1
@@ -45,7 +45,7 @@
       french: "Je reste \xE0 la maison"
   poll_id: 237
   results:
-    accurate_predict: 71.6
+    accurate_predict: 28.4
     female_response_1: 33.3
     female_response_2: 66.7
     male_response_1: 33.7
@@ -81,7 +81,7 @@
       french: Voler
   poll_id: 239
   results:
-    accurate_predict: 17.6
+    accurate_predict: 82.4
     female_response_1: 17.9
     female_response_2: 82.1
     male_response_1: 18.4
@@ -117,7 +117,7 @@
       french: "Le caf\xE9"
   poll_id: 241
   results:
-    accurate_predict: 19.6
+    accurate_predict: 80.4
     female_response_1: 58.5
     female_response_2: 41.5
     male_response_1: 45.8
@@ -171,7 +171,7 @@
       french: Une lettre
   poll_id: 244
   results:
-    accurate_predict: 36.6
+    accurate_predict: 63.4
     female_response_1: 22.0
     female_response_2: 78.0
     male_response_1: 34.6
@@ -189,7 +189,7 @@
       french: Non
   poll_id: 245
   results:
-    accurate_predict: 29.1
+    accurate_predict: 70.9
     female_response_1: 15.8
     female_response_2: 84.2
     male_response_1: 23.3
@@ -207,7 +207,7 @@
       french: L'avion
   poll_id: 246
   results:
-    accurate_predict: 12.9
+    accurate_predict: 87.1
     female_response_1: 37.6
     female_response_2: 62.4
     male_response_1: 35.3
@@ -243,7 +243,7 @@
       french: Couche-tard
   poll_id: 248
   results:
-    accurate_predict: 16.7
+    accurate_predict: 83.3
     female_response_1: 39.4
     female_response_2: 60.6
     male_response_1: 25.7
@@ -261,7 +261,7 @@
       french: Un tigre
   poll_id: 249
   results:
-    accurate_predict: 60.6
+    accurate_predict: 39.4
     female_response_1: 35.1
     female_response_2: 64.9
     male_response_1: 38.7
@@ -279,7 +279,7 @@
       french: Guitariste
   poll_id: 250
   results:
-    accurate_predict: 22.2
+    accurate_predict: 77.8
     female_response_1: 55.5
     female_response_2: 44.5
     male_response_1: 32.3
@@ -297,7 +297,7 @@
       french: Au restaurant
   poll_id: 251
   results:
-    accurate_predict: 30.6
+    accurate_predict: 69.4
     female_response_1: 47.6
     female_response_2: 52.4
     male_response_1: 45.3
@@ -334,7 +334,7 @@
       french: Non
   poll_id: 253
   results:
-    accurate_predict: 33.8
+    accurate_predict: 66.2
     female_response_1: 29.1
     female_response_2: 70.9
     male_response_1: 25.8
@@ -352,7 +352,7 @@
       french: Les chiens
   poll_id: 254
   results:
-    accurate_predict: 23.4
+    accurate_predict: 76.6
     female_response_1: 50.1
     female_response_2: 49.9
     male_response_1: 44.0
@@ -406,7 +406,7 @@
       french: Non
   poll_id: 257
   results:
-    accurate_predict: 37.4
+    accurate_predict: 62.6
     female_response_1: 28.7
     female_response_2: 71.3
     male_response_1: 17.3
@@ -424,7 +424,7 @@
       french: Les sciences
   poll_id: 258
   results:
-    accurate_predict: 51.5
+    accurate_predict: 48.5
     female_response_1: 60.1
     female_response_2: 39.9
     male_response_1: 31.6
@@ -444,7 +444,7 @@
       french: "Je r\xE9fl\xE9chis"
   poll_id: 259
   results:
-    accurate_predict: 29.6
+    accurate_predict: 70.4
     female_response_1: 26.7
     female_response_2: 73.3
     male_response_1: 20.4
@@ -462,7 +462,7 @@
       french: Le bleu
   poll_id: 260
   results:
-    accurate_predict: 27.6
+    accurate_predict: 72.4
     female_response_1: 40.9
     female_response_2: 59.1
     male_response_1: 35.0
@@ -482,7 +482,7 @@
       french: "Je d\xE9teste!"
   poll_id: 261
   results:
-    accurate_predict: 10.6
+    accurate_predict: 89.4
     female_response_1: 20.3
     female_response_2: 79.7
     male_response_1: 27.0
@@ -554,7 +554,7 @@
       french: "L'\u0153uf!"
   poll_id: 265
   results:
-    accurate_predict: 45.7
+    accurate_predict: 54.3
     female_response_1: 48.1
     female_response_2: 51.9
     male_response_1: 48.3
@@ -572,7 +572,7 @@
       french: Non
   poll_id: 266
   results:
-    accurate_predict: 38.5
+    accurate_predict: 61.5
     female_response_1: 29.1
     female_response_2: 70.9
     male_response_1: 34.0
@@ -626,7 +626,7 @@
       french: Rocker
   poll_id: 269
   results:
-    accurate_predict: 45.7
+    accurate_predict: 54.3
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 41.5
@@ -644,7 +644,7 @@
       french: Ville!
   poll_id: 270
   results:
-    accurate_predict: 26.4
+    accurate_predict: 73.6
     female_response_1: 48.0
     female_response_2: 52.0
     male_response_1: 43.0
@@ -680,7 +680,7 @@
       french: La musique moderne
   poll_id: 272
   results:
-    accurate_predict: 4.6
+    accurate_predict: 95.4
     female_response_1: 10.8
     female_response_2: 89.2
     male_response_1: 9.3
@@ -699,7 +699,7 @@
       french: Le futur
   poll_id: 273
   results:
-    accurate_predict: 20.5
+    accurate_predict: 79.5
     female_response_1: 42.8
     female_response_2: 57.2
     male_response_1: 35.3
@@ -737,7 +737,7 @@
       french: Je reste au lit!
   poll_id: 1656
   results:
-    accurate_predict: 14.0
+    accurate_predict: 86.0
     female_response_1: 25.2
     female_response_2: 74.8
     male_response_1: 23.9
@@ -773,7 +773,7 @@
       french: "A moiti\xE9 plein!"
   poll_id: 1658
   results:
-    accurate_predict: 41.2
+    accurate_predict: 58.8
     female_response_1: 41.8
     female_response_2: 58.2
     male_response_1: 39.9
@@ -791,7 +791,7 @@
       french: Oui
   poll_id: 1659
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 30.4
     female_response_2: 69.6
     male_response_1: 19.0
@@ -810,7 +810,7 @@
       french: Non
   poll_id: 1660
   results:
-    accurate_predict: 61.1
+    accurate_predict: 38.9
     female_response_1: 31.7
     female_response_2: 68.3
     male_response_1: 34.3
@@ -828,7 +828,7 @@
       french: "A l'ext\xE9rieur"
   poll_id: 1661
   results:
-    accurate_predict: 27.1
+    accurate_predict: 72.9
     female_response_1: 34.0
     female_response_2: 66.0
     male_response_1: 49.0
@@ -900,7 +900,7 @@
       french: Non
   poll_id: 1665
   results:
-    accurate_predict: 31.5
+    accurate_predict: 68.5
     female_response_1: 36.2
     female_response_2: 63.8
     male_response_1: 22.7
@@ -936,7 +936,7 @@
       french: Une maison
   poll_id: 1667
   results:
-    accurate_predict: 60.2
+    accurate_predict: 39.8
     female_response_1: 48.7
     female_response_2: 51.3
     male_response_1: 43.3
@@ -990,7 +990,7 @@
       french: Non
   poll_id: 1836
   results:
-    accurate_predict: 11.9
+    accurate_predict: 88.1
     female_response_1: 12.9
     female_response_2: 87.1
     male_response_1: 13.0
@@ -1044,7 +1044,7 @@
       french: "La personnalit\xE9"
   poll_id: 1839
   results:
-    accurate_predict: 35.3
+    accurate_predict: 64.7
     female_response_1: 19.0
     female_response_2: 81.0
     male_response_1: 27.3
@@ -1080,7 +1080,7 @@
       french: Le snowboard
   poll_id: 1841
   results:
-    accurate_predict: 42.0
+    accurate_predict: 58.0
     female_response_1: 50.3
     female_response_2: 49.7
     male_response_1: 35.4
@@ -1117,7 +1117,7 @@
       french: La seconde
   poll_id: 1843
   results:
-    accurate_predict: 53.7
+    accurate_predict: 46.3
     female_response_1: 48.5
     female_response_2: 51.5
     male_response_1: 48.1
@@ -1135,7 +1135,7 @@
       french: Noirs
   poll_id: 1844
   results:
-    accurate_predict: 48.8
+    accurate_predict: 51.2
     female_response_1: 40.4
     female_response_2: 59.6
     male_response_1: 27.3
@@ -1171,7 +1171,7 @@
       french: Fast-food!
   poll_id: 1846
   results:
-    accurate_predict: 20.8
+    accurate_predict: 79.2
     female_response_1: 53.5
     female_response_2: 46.5
     male_response_1: 30.5
@@ -1190,7 +1190,7 @@
       french: "J'ai fourch\xE9!"
   poll_id: 1847
   results:
-    accurate_predict: 18.4
+    accurate_predict: 81.6
     female_response_1: 30.0
     female_response_2: 70.0
     male_response_1: 32.1
@@ -1208,7 +1208,7 @@
       french: "D\xE9pensier"
   poll_id: 1848
   results:
-    accurate_predict: 37.2
+    accurate_predict: 62.8
     female_response_1: 50.9
     female_response_2: 49.1
     male_response_1: 46.6
@@ -1244,7 +1244,7 @@
       french: Une piscine!
   poll_id: 1850
   results:
-    accurate_predict: 5.1
+    accurate_predict: 94.9
     female_response_1: 7.2
     female_response_2: 92.8
     male_response_1: 13.8
@@ -1262,7 +1262,7 @@
       french: Non
   poll_id: 1851
   results:
-    accurate_predict: 62.0
+    accurate_predict: 38.0
     female_response_1: 59.1
     female_response_2: 40.9
     male_response_1: 42.9
@@ -1298,7 +1298,7 @@
       french: "Je le mets de c\xF4t\xE9."
   poll_id: 1853
   results:
-    accurate_predict: 35.1
+    accurate_predict: 64.9
     female_response_1: 51.6
     female_response_2: 48.4
     male_response_1: 33.2
@@ -1316,7 +1316,7 @@
       french: Sur CD
   poll_id: 1854
   results:
-    accurate_predict: 52.6
+    accurate_predict: 47.4
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 42.3
@@ -1370,7 +1370,7 @@
       french: Introverti...
   poll_id: 1857
   results:
-    accurate_predict: 51.4
+    accurate_predict: 48.6
     female_response_1: 46.0
     female_response_2: 54.0
     male_response_1: 43.4
@@ -1388,7 +1388,7 @@
       french: Italienne
   poll_id: 1858
   results:
-    accurate_predict: 32.9
+    accurate_predict: 67.1
     female_response_1: 41.3
     female_response_2: 58.7
     male_response_1: 38.9
@@ -1406,7 +1406,7 @@
       french: Pauvre et heureux
   poll_id: 1859
   results:
-    accurate_predict: 22.7
+    accurate_predict: 77.3
     female_response_1: 15.1
     female_response_2: 84.9
     male_response_1: 23.9
@@ -1496,7 +1496,7 @@
       french: A cristaux liquides
   poll_id: 1864
   results:
-    accurate_predict: 36.3
+    accurate_predict: 63.7
     female_response_1: 57.7
     female_response_2: 42.3
     male_response_1: 45.1
@@ -1514,7 +1514,7 @@
       french: Je cours le risque!
   poll_id: 1865
   results:
-    accurate_predict: 40.4
+    accurate_predict: 59.6
     female_response_1: 39.9
     female_response_2: 60.1
     male_response_1: 18.7
@@ -1532,7 +1532,7 @@
       french: Le ronflement!
   poll_id: 1866
   results:
-    accurate_predict: 23.0
+    accurate_predict: 77.0
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 37.6
@@ -1551,7 +1551,7 @@
       french: Un ordinateur de bureau
   poll_id: 2434
   results:
-    accurate_predict: 57.4
+    accurate_predict: 42.6
     female_response_1: 54.3
     female_response_2: 45.7
     male_response_1: 41.5
@@ -1587,7 +1587,7 @@
       french: Non
   poll_id: 2436
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 26.6
@@ -1625,7 +1625,7 @@
       french: Jamais
   poll_id: 2438
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 44.1
     female_response_2: 55.9
     male_response_1: 38.2
@@ -1679,7 +1679,7 @@
       french: Non
   poll_id: 2441
   results:
-    accurate_predict: 57.8
+    accurate_predict: 42.2
     female_response_1: 28.7
     female_response_2: 71.3
     male_response_1: 25.8
@@ -1733,7 +1733,7 @@
       french: Croquants
   poll_id: 2444
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 46.5
     female_response_2: 53.5
     male_response_1: 42.6
@@ -1769,7 +1769,7 @@
       french: Dans l'espace
   poll_id: 2446
   results:
-    accurate_predict: 25.7
+    accurate_predict: 74.3
     female_response_1: 56.2
     female_response_2: 43.8
     male_response_1: 40.3
@@ -1805,7 +1805,7 @@
       french: Dans le fond
   poll_id: 2448
   results:
-    accurate_predict: 19.2
+    accurate_predict: 80.8
     female_response_1: 19.3
     female_response_2: 80.7
     male_response_1: 22.5
@@ -1823,7 +1823,7 @@
       french: Non
   poll_id: 2449
   results:
-    accurate_predict: 55.2
+    accurate_predict: 44.8
     female_response_1: 41.4
     female_response_2: 58.6
     male_response_1: 38.1
@@ -1841,7 +1841,7 @@
       french: Un coucher de soleil
   poll_id: 2450
   results:
-    accurate_predict: 8.1
+    accurate_predict: 91.9
     female_response_1: 17.7
     female_response_2: 82.3
     male_response_1: 19.3
@@ -1896,7 +1896,7 @@
       french: Non
   poll_id: 2453
   results:
-    accurate_predict: 23.1
+    accurate_predict: 76.9
     female_response_1: 22.7
     female_response_2: 77.3
     male_response_1: 31.7
@@ -1914,7 +1914,7 @@
       french: Le prix
   poll_id: 2454
   results:
-    accurate_predict: 33.9
+    accurate_predict: 66.1
     female_response_1: 21.3
     female_response_2: 78.7
     male_response_1: 32.0
@@ -1968,7 +1968,7 @@
       french: Les gros chiens
   poll_id: 2457
   results:
-    accurate_predict: 46.2
+    accurate_predict: 53.8
     female_response_1: 46.7
     female_response_2: 53.3
     male_response_1: 38.3
@@ -2004,7 +2004,7 @@
       french: "Improvis\xE9es"
   poll_id: 2459
   results:
-    accurate_predict: 58.0
+    accurate_predict: 42.0
     female_response_1: 53.2
     female_response_2: 46.8
     male_response_1: 47.0
@@ -2060,7 +2060,7 @@
       french: Non
   poll_id: 2462
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 48.5
@@ -2078,7 +2078,7 @@
       french: Non
   poll_id: 2463
   results:
-    accurate_predict: 43.5
+    accurate_predict: 56.5
     female_response_1: 35.4
     female_response_2: 64.6
     male_response_1: 43.7
@@ -2115,7 +2115,7 @@
       french: Non
   poll_id: 2465
   results:
-    accurate_predict: 17.0
+    accurate_predict: 83.0
     female_response_1: 14.6
     female_response_2: 85.4
     male_response_1: 6.1
@@ -2171,7 +2171,7 @@
       french: Non
   poll_id: 2468
   results:
-    accurate_predict: 43.6
+    accurate_predict: 56.4
     female_response_1: 50.1
     female_response_2: 49.9
     male_response_1: 34.0
@@ -2207,7 +2207,7 @@
       french: Non
   poll_id: 2470
   results:
-    accurate_predict: 44.1
+    accurate_predict: 55.9
     female_response_1: 45.8
     female_response_2: 54.2
     male_response_1: 36.1
@@ -2225,7 +2225,7 @@
       french: Les photos couleurs
   poll_id: 2471
   results:
-    accurate_predict: 39.3
+    accurate_predict: 60.7
     female_response_1: 54.7
     female_response_2: 45.3
     male_response_1: 41.2
@@ -2263,7 +2263,7 @@
       french: "L'\xE9lectricit\xE9"
   poll_id: 2473
   results:
-    accurate_predict: 18.6
+    accurate_predict: 81.4
     female_response_1: 24.3
     female_response_2: 75.7
     male_response_1: 29.2
@@ -2299,7 +2299,7 @@
       french: Moderne
   poll_id: 2475
   results:
-    accurate_predict: 9.7
+    accurate_predict: 90.3
     female_response_1: 20.4
     female_response_2: 79.6
     male_response_1: 18.4
@@ -2355,7 +2355,7 @@
       french: Non
   poll_id: 2478
   results:
-    accurate_predict: 21.3
+    accurate_predict: 78.7
     female_response_1: 24.1
     female_response_2: 75.9
     male_response_1: 19.1
@@ -2373,7 +2373,7 @@
       french: Non
   poll_id: 2479
   results:
-    accurate_predict: 46.0
+    accurate_predict: 54.0
     female_response_1: 41.5
     female_response_2: 58.5
     male_response_1: 42.2
@@ -2391,7 +2391,7 @@
       french: Etre debout
   poll_id: 2480
   results:
-    accurate_predict: 31.1
+    accurate_predict: 68.9
     female_response_1: 52.0
     female_response_2: 48.0
     male_response_1: 45.2
@@ -2427,7 +2427,7 @@
       french: Non
   poll_id: 2482
   results:
-    accurate_predict: 39.9
+    accurate_predict: 60.1
     female_response_1: 47.0
     female_response_2: 53.0
     male_response_1: 43.7
@@ -2445,7 +2445,7 @@
       french: Un extraterrestre
   poll_id: 2483
   results:
-    accurate_predict: 17.1
+    accurate_predict: 82.9
     female_response_1: 27.1
     female_response_2: 72.9
     male_response_1: 24.4
@@ -2627,7 +2627,7 @@
       french: En rectangles
   poll_id: 2493
   results:
-    accurate_predict: 46.7
+    accurate_predict: 53.3
     female_response_1: 44.4
     female_response_2: 55.6
     male_response_1: 36.5
@@ -2645,7 +2645,7 @@
       french: "Sucr\xE9"
   poll_id: 2494
   results:
-    accurate_predict: 15.1
+    accurate_predict: 84.9
     female_response_1: 21.6
     female_response_2: 78.4
     male_response_1: 21.2
@@ -2682,7 +2682,7 @@
       french: Non
   poll_id: 2496
   results:
-    accurate_predict: 27.0
+    accurate_predict: 73.0
     female_response_1: 32.1
     female_response_2: 67.9
     male_response_1: 38.0
@@ -2755,7 +2755,7 @@
       french: Endormi
   poll_id: 2500
   results:
-    accurate_predict: 38.9
+    accurate_predict: 61.1
     female_response_1: 39.2
     female_response_2: 60.8
     male_response_1: 45.9
@@ -2773,7 +2773,7 @@
       french: Le cacao en poudre
   poll_id: 3609
   results:
-    accurate_predict: 30.6
+    accurate_predict: 69.4
     female_response_1: 42.0
     female_response_2: 58.0
     male_response_1: 39.5
@@ -2791,7 +2791,7 @@
       french: Non
   poll_id: 3610
   results:
-    accurate_predict: 53.3
+    accurate_predict: 46.7
     female_response_1: 51.8
     female_response_2: 48.2
     male_response_1: 48.4
@@ -2809,7 +2809,7 @@
       french: "Num\xE9rique"
   poll_id: 3611
   results:
-    accurate_predict: 14.7
+    accurate_predict: 85.3
     female_response_1: 18.8
     female_response_2: 81.2
     male_response_1: 15.1
@@ -2917,7 +2917,7 @@
       french: Avec un ordinateur
   poll_id: 3617
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 53.8
     female_response_2: 46.2
     male_response_1: 37.2
@@ -2935,7 +2935,7 @@
       french: Non
   poll_id: 3618
   results:
-    accurate_predict: 13.1
+    accurate_predict: 86.9
     female_response_1: 12.4
     female_response_2: 87.6
     male_response_1: 14.5
@@ -2989,7 +2989,7 @@
       french: "Un b\xE2ton sauteur"
   poll_id: 3621
   results:
-    accurate_predict: 52.5
+    accurate_predict: 47.5
     female_response_1: 46.4
     female_response_2: 53.6
     male_response_1: 49.1
@@ -3043,7 +3043,7 @@
       french: Long mais facile
   poll_id: 3624
   results:
-    accurate_predict: 34.2
+    accurate_predict: 65.8
     female_response_1: 33.4
     female_response_2: 66.6
     male_response_1: 53.8
@@ -3063,7 +3063,7 @@
       french: La mauvaise
   poll_id: 3625
   results:
-    accurate_predict: 32.0
+    accurate_predict: 68.0
     female_response_1: 22.8
     female_response_2: 77.2
     male_response_1: 25.4
@@ -3081,7 +3081,7 @@
       french: Non
   poll_id: 3626
   results:
-    accurate_predict: 36.7
+    accurate_predict: 63.3
     female_response_1: 35.7
     female_response_2: 64.3
     male_response_1: 32.5
@@ -3117,7 +3117,7 @@
       french: Essuyer
   poll_id: 3628
   results:
-    accurate_predict: 30.7
+    accurate_predict: 69.3
     female_response_1: 56.0
     female_response_2: 44.0
     male_response_1: 39.2
@@ -3135,7 +3135,7 @@
       french: Sur la plage
   poll_id: 3629
   results:
-    accurate_predict: 23.2
+    accurate_predict: 76.8
     female_response_1: 34.4
     female_response_2: 65.6
     male_response_1: 44.5
@@ -3171,7 +3171,7 @@
       french: Je la laisse tranquille
   poll_id: 3631
   results:
-    accurate_predict: 78.7
+    accurate_predict: 21.3
     female_response_1: 46.5
     female_response_2: 53.5
     male_response_1: 42.3
@@ -3207,7 +3207,7 @@
       french: Autre chose
   poll_id: 3633
   results:
-    accurate_predict: 45.5
+    accurate_predict: 54.5
     female_response_1: 44.0
     female_response_2: 56.0
     male_response_1: 46.7
@@ -3243,7 +3243,7 @@
       french: Tout comprendre
   poll_id: 3635
   results:
-    accurate_predict: 42.6
+    accurate_predict: 57.4
     female_response_1: 40.7
     female_response_2: 59.3
     male_response_1: 39.3
@@ -3261,7 +3261,7 @@
       french: "Lettres li\xE9es"
   poll_id: 3636
   results:
-    accurate_predict: 15.9
+    accurate_predict: 84.1
     female_response_1: 14.2
     female_response_2: 85.8
     male_response_1: 15.9
@@ -3279,7 +3279,7 @@
       french: Je sors
   poll_id: 3637
   results:
-    accurate_predict: 22.6
+    accurate_predict: 77.4
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 29.9
@@ -3297,7 +3297,7 @@
       french: "Quand je serai pr\xEAt"
   poll_id: 3638
   results:
-    accurate_predict: 10.1
+    accurate_predict: 89.9
     female_response_1: 15.4
     female_response_2: 84.6
     male_response_1: 15.0
@@ -3315,7 +3315,7 @@
       french: Dessert
   poll_id: 3639
   results:
-    accurate_predict: 13.8
+    accurate_predict: 86.2
     female_response_1: 20.1
     female_response_2: 79.9
     male_response_1: 22.9
@@ -3351,7 +3351,7 @@
       french: "A l'arri\xE8re"
   poll_id: 3641
   results:
-    accurate_predict: 26.4
+    accurate_predict: 73.6
     female_response_1: 46.3
     female_response_2: 53.7
     male_response_1: 35.7
@@ -3370,7 +3370,7 @@
       french: Je repousse la date
   poll_id: 3642
   results:
-    accurate_predict: 33.7
+    accurate_predict: 66.3
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 45.0
@@ -3388,7 +3388,7 @@
       french: En le savourant
   poll_id: 3643
   results:
-    accurate_predict: 22.5
+    accurate_predict: 77.5
     female_response_1: 25.8
     female_response_2: 74.2
     male_response_1: 36.6
@@ -3406,7 +3406,7 @@
       french: Baskets
   poll_id: 3644
   results:
-    accurate_predict: 22.3
+    accurate_predict: 77.7
     female_response_1: 45.5
     female_response_2: 54.5
     male_response_1: 19.8
@@ -3496,7 +3496,7 @@
       french: Au lendemain
   poll_id: 3649
   results:
-    accurate_predict: 42.5
+    accurate_predict: 57.5
     female_response_1: 42.3
     female_response_2: 57.7
     male_response_1: 38.6
@@ -3568,7 +3568,7 @@
       french: "Votre star pr\xE9f\xE9r\xE9e"
   poll_id: 3653
   results:
-    accurate_predict: 30.2
+    accurate_predict: 69.8
     female_response_1: 30.7
     female_response_2: 69.3
     male_response_1: 50.1
@@ -3622,7 +3622,7 @@
       french: Mignon
   poll_id: 3656
   results:
-    accurate_predict: 44.9
+    accurate_predict: 55.1
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 18.7
@@ -3712,7 +3712,7 @@
       french: Non
   poll_id: 4737
   results:
-    accurate_predict: 65.5
+    accurate_predict: 34.5
     female_response_1: 51.0
     female_response_2: 49.0
     male_response_1: 38.0
@@ -3730,7 +3730,7 @@
       french: Non
   poll_id: 4738
   results:
-    accurate_predict: 11.4
+    accurate_predict: 88.6
     female_response_1: 16.1
     female_response_2: 83.9
     male_response_1: 14.7
@@ -3768,7 +3768,7 @@
       french: Impair
   poll_id: 4740
   results:
-    accurate_predict: 47.0
+    accurate_predict: 53.0
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 46.1
@@ -3786,7 +3786,7 @@
       french: Beurk!
   poll_id: 4741
   results:
-    accurate_predict: 26.5
+    accurate_predict: 73.5
     female_response_1: 35.3
     female_response_2: 64.7
     male_response_1: 37.2
@@ -3804,7 +3804,7 @@
       french: Non
   poll_id: 4742
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 51.4
     female_response_2: 48.6
     male_response_1: 44.0
@@ -3823,7 +3823,7 @@
       french: "Sur le c\xF4t\xE9 droit"
   poll_id: 4743
   results:
-    accurate_predict: 38.3
+    accurate_predict: 61.7
     female_response_1: 46.4
     female_response_2: 53.6
     male_response_1: 44.5
@@ -3861,7 +3861,7 @@
       french: Non
   poll_id: 4745
   results:
-    accurate_predict: 30.9
+    accurate_predict: 69.1
     female_response_1: 45.4
     female_response_2: 54.6
     male_response_1: 44.5
@@ -3915,7 +3915,7 @@
       french: "Blasph\xE8me!"
   poll_id: 4748
   results:
-    accurate_predict: 25.7
+    accurate_predict: 74.3
     female_response_1: 29.6
     female_response_2: 70.4
     male_response_1: 30.3
@@ -3953,7 +3953,7 @@
       french: La chaussure droite
   poll_id: 4750
   results:
-    accurate_predict: 26.9
+    accurate_predict: 73.1
     female_response_1: 32.8
     female_response_2: 67.2
     male_response_1: 36.7
@@ -4007,7 +4007,7 @@
       french: "Du temps bien utilis\xE9"
   poll_id: 4753
   results:
-    accurate_predict: 30.0
+    accurate_predict: 70.0
     female_response_1: 21.8
     female_response_2: 78.2
     male_response_1: 30.2
@@ -4025,7 +4025,7 @@
       french: Non
   poll_id: 4754
   results:
-    accurate_predict: 32.9
+    accurate_predict: 67.1
     female_response_1: 40.9
     female_response_2: 59.1
     male_response_1: 33.6
@@ -4043,7 +4043,7 @@
       french: "Plusieurs petits g\xE2teaux"
   poll_id: 4755
   results:
-    accurate_predict: 34.8
+    accurate_predict: 65.2
     female_response_1: 23.4
     female_response_2: 76.6
     male_response_1: 31.9
@@ -4097,7 +4097,7 @@
       french: Non
   poll_id: 4758
   results:
-    accurate_predict: 53.7
+    accurate_predict: 46.3
     female_response_1: 49.3
     female_response_2: 50.7
     male_response_1: 47.4
@@ -4133,7 +4133,7 @@
       french: Cheeseburgers!
   poll_id: 4760
   results:
-    accurate_predict: 43.6
+    accurate_predict: 56.4
     female_response_1: 40.9
     female_response_2: 59.1
     male_response_1: 42.2
@@ -4151,7 +4151,7 @@
       french: Manuelle
   poll_id: 4761
   results:
-    accurate_predict: 13.5
+    accurate_predict: 86.5
     female_response_1: 12.9
     female_response_2: 87.1
     male_response_1: 15.1
@@ -4242,7 +4242,7 @@
       french: Non
   poll_id: 4766
   results:
-    accurate_predict: 14.8
+    accurate_predict: 85.2
     female_response_1: 15.1
     female_response_2: 84.9
     male_response_1: 11.0
@@ -4260,7 +4260,7 @@
       french: Vous la ramassez
   poll_id: 4767
   results:
-    accurate_predict: 26.7
+    accurate_predict: 73.3
     female_response_1: 19.9
     female_response_2: 80.1
     male_response_1: 26.4
@@ -4279,7 +4279,7 @@
       french: Non, peu importe
   poll_id: 4768
   results:
-    accurate_predict: 45.5
+    accurate_predict: 54.5
     female_response_1: 46.1
     female_response_2: 53.9
     male_response_1: 45.1
@@ -4389,7 +4389,7 @@
       french: La famille
   poll_id: 4774
   results:
-    accurate_predict: 14.8
+    accurate_predict: 85.2
     female_response_1: 15.6
     female_response_2: 84.4
     male_response_1: 20.2
@@ -4407,7 +4407,7 @@
       french: Par un surnom
   poll_id: 4775
   results:
-    accurate_predict: 42.6
+    accurate_predict: 57.4
     female_response_1: 50.1
     female_response_2: 49.9
     male_response_1: 48.1
@@ -4425,7 +4425,7 @@
       french: Fine et croustillante
   poll_id: 4776
   results:
-    accurate_predict: 31.5
+    accurate_predict: 68.5
     female_response_1: 36.5
     female_response_2: 63.5
     male_response_1: 42.3
@@ -4461,7 +4461,7 @@
       french: Etre
   poll_id: 4778
   results:
-    accurate_predict: 41.0
+    accurate_predict: 59.0
     female_response_1: 28.9
     female_response_2: 71.1
     male_response_1: 34.7
@@ -4479,7 +4479,7 @@
       french: Plus vieux
   poll_id: 4779
   results:
-    accurate_predict: 35.5
+    accurate_predict: 64.5
     female_response_1: 36.9
     female_response_2: 63.1
     male_response_1: 45.1
@@ -4663,7 +4663,7 @@
       french: Non
   poll_id: 4789
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 33.3
     female_response_2: 66.7
     male_response_1: 40.9
@@ -4683,7 +4683,7 @@
       french: Non
   poll_id: 4790
   results:
-    accurate_predict: 55.9
+    accurate_predict: 44.1
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 42.5
@@ -4701,7 +4701,7 @@
       french: Non
   poll_id: 4791
   results:
-    accurate_predict: 44.2
+    accurate_predict: 55.8
     female_response_1: 30.8
     female_response_2: 69.2
     male_response_1: 35.2
@@ -4719,7 +4719,7 @@
       french: Aux USA
   poll_id: 4792
   results:
-    accurate_predict: 30.4
+    accurate_predict: 69.6
     female_response_1: 37.5
     female_response_2: 62.5
     male_response_1: 45.7
@@ -4739,7 +4739,7 @@
       french: Non
   poll_id: 4793
   results:
-    accurate_predict: 28.0
+    accurate_predict: 72.0
     female_response_1: 19.2
     female_response_2: 80.8
     male_response_1: 21.0
@@ -4757,7 +4757,7 @@
       french: Non
   poll_id: 4794
   results:
-    accurate_predict: 47.9
+    accurate_predict: 52.1
     female_response_1: 53.8
     female_response_2: 46.2
     male_response_1: 46.1
@@ -4812,7 +4812,7 @@
       french: "L'\xE9p\xE9e"
   poll_id: 4797
   results:
-    accurate_predict: 31.1
+    accurate_predict: 68.9
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 37.6
@@ -4848,7 +4848,7 @@
       french: Beurk!
   poll_id: 4799
   results:
-    accurate_predict: 49.0
+    accurate_predict: 51.0
     female_response_1: 46.0
     female_response_2: 54.0
     male_response_1: 44.9
@@ -4866,7 +4866,7 @@
       french: Non
   poll_id: 4800
   results:
-    accurate_predict: 20.8
+    accurate_predict: 79.2
     female_response_1: 21.7
     female_response_2: 78.3
     male_response_1: 27.0
@@ -4884,7 +4884,7 @@
       french: Sciences
   poll_id: 4801
   results:
-    accurate_predict: 49.1
+    accurate_predict: 50.9
     female_response_1: 59.9
     female_response_2: 40.1
     male_response_1: 33.6
@@ -4959,7 +4959,7 @@
       french: Je dors encore un peu...
   poll_id: 6041
   results:
-    accurate_predict: 31.8
+    accurate_predict: 68.2
     female_response_1: 43.3
     female_response_2: 56.7
     male_response_1: 40.6
@@ -4977,7 +4977,7 @@
       french: Science-fiction
   poll_id: 6042
   results:
-    accurate_predict: 49.4
+    accurate_predict: 50.6
     female_response_1: 55.5
     female_response_2: 44.5
     male_response_1: 33.9
@@ -4995,7 +4995,7 @@
       french: En haute mer
   poll_id: 6043
   results:
-    accurate_predict: 47.9
+    accurate_predict: 52.1
     female_response_1: 49.1
     female_response_2: 50.9
     male_response_1: 50.0
@@ -5014,7 +5014,7 @@
       french: Une peinture
   poll_id: 6044
   results:
-    accurate_predict: 50.4
+    accurate_predict: 49.6
     female_response_1: 50.3
     female_response_2: 49.7
     male_response_1: 46.6
@@ -5032,7 +5032,7 @@
       french: Non
   poll_id: 6045
   results:
-    accurate_predict: 39.6
+    accurate_predict: 60.4
     female_response_1: 47.4
     female_response_2: 52.6
     male_response_1: 50.8
@@ -5086,7 +5086,7 @@
       french: De la confiture
   poll_id: 6048
   results:
-    accurate_predict: 12.3
+    accurate_predict: 87.7
     female_response_1: 18.8
     female_response_2: 81.2
     male_response_1: 22.1
@@ -5143,7 +5143,7 @@
       french: Non
   poll_id: 6051
   results:
-    accurate_predict: 27.4
+    accurate_predict: 72.6
     female_response_1: 29.8
     female_response_2: 70.2
     male_response_1: 27.9
@@ -5197,7 +5197,7 @@
       french: Non
   poll_id: 6054
   results:
-    accurate_predict: 13.5
+    accurate_predict: 86.5
     female_response_1: 28.8
     female_response_2: 71.2
     male_response_1: 33.0
@@ -5215,7 +5215,7 @@
       french: Non
   poll_id: 6055
   results:
-    accurate_predict: 29.4
+    accurate_predict: 70.6
     female_response_1: 34.2
     female_response_2: 65.8
     male_response_1: 19.4
@@ -5233,7 +5233,7 @@
       french: "Jeux vid\xE9o"
   poll_id: 6056
   results:
-    accurate_predict: 11.3
+    accurate_predict: 88.7
     female_response_1: 33.3
     female_response_2: 66.7
     male_response_1: 13.6
@@ -5269,7 +5269,7 @@
       french: Moderne
   poll_id: 6058
   results:
-    accurate_predict: 36.2
+    accurate_predict: 63.8
     female_response_1: 37.7
     female_response_2: 62.3
     male_response_1: 37.4
@@ -5305,7 +5305,7 @@
       french: "Les gu\xEApes"
   poll_id: 6222
   results:
-    accurate_predict: 13.3
+    accurate_predict: 86.7
     female_response_1: 12.1
     female_response_2: 87.9
     male_response_1: 11.7
@@ -5323,7 +5323,7 @@
       french: Les brins d'herbe
   poll_id: 6223
   results:
-    accurate_predict: 36.4
+    accurate_predict: 63.6
     female_response_1: 44.0
     female_response_2: 56.0
     male_response_1: 41.2
@@ -5341,7 +5341,7 @@
       french: Le ketchup
   poll_id: 6224
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 50.9
     female_response_2: 49.1
     male_response_1: 48.7
@@ -5395,7 +5395,7 @@
       french: Impossible!
   poll_id: 6227
   results:
-    accurate_predict: 21.2
+    accurate_predict: 78.8
     female_response_1: 39.9
     female_response_2: 60.1
     male_response_1: 38.7
@@ -5467,7 +5467,7 @@
       french: Non
   poll_id: 6231
   results:
-    accurate_predict: 20.2
+    accurate_predict: 79.8
     female_response_1: 21.3
     female_response_2: 78.7
     male_response_1: 18.4
@@ -5503,7 +5503,7 @@
       french: Non
   poll_id: 6233
   results:
-    accurate_predict: 31.4
+    accurate_predict: 68.6
     female_response_1: 30.9
     female_response_2: 69.1
     male_response_1: 24.3
@@ -5539,7 +5539,7 @@
       french: Non
   poll_id: 6235
   results:
-    accurate_predict: 9.8
+    accurate_predict: 90.2
     female_response_1: 13.2
     female_response_2: 86.8
     male_response_1: 11.0
@@ -5557,7 +5557,7 @@
       french: Le droit
   poll_id: 6236
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 46.5
@@ -5665,7 +5665,7 @@
       french: "Les g\xE2teaux"
   poll_id: 6242
   results:
-    accurate_predict: 20.4
+    accurate_predict: 79.6
     female_response_1: 29.5
     female_response_2: 70.5
     male_response_1: 27.4
@@ -5701,7 +5701,7 @@
       french: "A l'\xE9tranger"
   poll_id: 6244
   results:
-    accurate_predict: 20.7
+    accurate_predict: 79.3
     female_response_1: 25.3
     female_response_2: 74.7
     male_response_1: 28.8
@@ -5737,7 +5737,7 @@
       french: Epaisses
   poll_id: 6246
   results:
-    accurate_predict: 55.7
+    accurate_predict: 44.3
     female_response_1: 56.2
     female_response_2: 43.8
     male_response_1: 45.9
@@ -5773,7 +5773,7 @@
       french: Un gros cadeau
   poll_id: 6248
   results:
-    accurate_predict: 52.5
+    accurate_predict: 47.5
     female_response_1: 51.7
     female_response_2: 48.3
     male_response_1: 47.1
@@ -5791,7 +5791,7 @@
       french: Non
   poll_id: 6249
   results:
-    accurate_predict: 38.0
+    accurate_predict: 62.0
     female_response_1: 39.3
     female_response_2: 60.7
     male_response_1: 37.4
@@ -5811,7 +5811,7 @@
       french: L'eau du robinet
   poll_id: 6250
   results:
-    accurate_predict: 55.0
+    accurate_predict: 45.0
     female_response_1: 48.3
     female_response_2: 51.7
     male_response_1: 46.0
@@ -5829,7 +5829,7 @@
       french: Non
   poll_id: 6251
   results:
-    accurate_predict: 43.2
+    accurate_predict: 56.8
     female_response_1: 24.5
     female_response_2: 75.5
     male_response_1: 28.8
@@ -5847,7 +5847,7 @@
       french: Malheur!
   poll_id: 6252
   results:
-    accurate_predict: 17.8
+    accurate_predict: 82.2
     female_response_1: 42.9
     female_response_2: 57.1
     male_response_1: 35.8
@@ -5865,7 +5865,7 @@
       french: Pratiquer
   poll_id: 6253
   results:
-    accurate_predict: 40.3
+    accurate_predict: 59.7
     female_response_1: 38.4
     female_response_2: 61.6
     male_response_1: 31.0
@@ -5883,7 +5883,7 @@
       french: Non
   poll_id: 6254
   results:
-    accurate_predict: 17.1
+    accurate_predict: 82.9
     female_response_1: 18.7
     female_response_2: 81.3
     male_response_1: 26.7
@@ -5937,7 +5937,7 @@
       french: Non
   poll_id: 6257
   results:
-    accurate_predict: 51.6
+    accurate_predict: 48.4
     female_response_1: 49.7
     female_response_2: 50.3
     male_response_1: 34.8
@@ -5956,7 +5956,7 @@
       french: Droite
   poll_id: 6258
   results:
-    accurate_predict: 32.6
+    accurate_predict: 67.4
     female_response_1: 38.6
     female_response_2: 61.4
     male_response_1: 41.2
@@ -5974,7 +5974,7 @@
       french: Non
   poll_id: 6259
   results:
-    accurate_predict: 13.6
+    accurate_predict: 86.4
     female_response_1: 16.1
     female_response_2: 83.9
     male_response_1: 13.4
@@ -5992,7 +5992,7 @@
       french: Au chocolat
   poll_id: 6260
   results:
-    accurate_predict: 22.1
+    accurate_predict: 77.9
     female_response_1: 29.9
     female_response_2: 70.1
     male_response_1: 29.9
@@ -6010,7 +6010,7 @@
       french: Non
   poll_id: 6261
   results:
-    accurate_predict: 16.8
+    accurate_predict: 83.2
     female_response_1: 15.8
     female_response_2: 84.2
     male_response_1: 17.7
@@ -6046,7 +6046,7 @@
       french: Non
   poll_id: 6263
   results:
-    accurate_predict: 21.3
+    accurate_predict: 78.7
     female_response_1: 19.0
     female_response_2: 81.0
     male_response_1: 24.9
@@ -6064,7 +6064,7 @@
       french: Non
   poll_id: 6264
   results:
-    accurate_predict: 51.6
+    accurate_predict: 48.4
     female_response_1: 36.5
     female_response_2: 63.5
     male_response_1: 37.1
@@ -6082,7 +6082,7 @@
       french: Dans un verre
   poll_id: 6265
   results:
-    accurate_predict: 12.3
+    accurate_predict: 87.7
     female_response_1: 17.5
     female_response_2: 82.5
     male_response_1: 12.4
@@ -6136,7 +6136,7 @@
       french: Non
   poll_id: 6716
   results:
-    accurate_predict: 21.0
+    accurate_predict: 79.0
     female_response_1: 25.4
     female_response_2: 74.6
     male_response_1: 25.4
@@ -6244,7 +6244,7 @@
       french: Non
   poll_id: 6722
   results:
-    accurate_predict: 25.5
+    accurate_predict: 74.5
     female_response_1: 36.6
     female_response_2: 63.4
     male_response_1: 31.5
@@ -6298,7 +6298,7 @@
       french: La plage
   poll_id: 6725
   results:
-    accurate_predict: 6.1
+    accurate_predict: 93.9
     female_response_1: 12.9
     female_response_2: 87.1
     male_response_1: 12.9
@@ -6316,7 +6316,7 @@
       french: Non
   poll_id: 6726
   results:
-    accurate_predict: 11.0
+    accurate_predict: 89.0
     female_response_1: 12.4
     female_response_2: 87.6
     male_response_1: 14.7
@@ -6334,7 +6334,7 @@
       french: Non
   poll_id: 6727
   results:
-    accurate_predict: 18.2
+    accurate_predict: 81.8
     female_response_1: 29.6
     female_response_2: 70.4
     male_response_1: 34.9
@@ -6352,7 +6352,7 @@
       french: Non
   poll_id: 6728
   results:
-    accurate_predict: 34.5
+    accurate_predict: 65.5
     female_response_1: 22.0
     female_response_2: 78.0
     male_response_1: 26.7
@@ -6388,7 +6388,7 @@
       french: Non
   poll_id: 6730
   results:
-    accurate_predict: 51.2
+    accurate_predict: 48.8
     female_response_1: 30.8
     female_response_2: 69.2
     male_response_1: 45.4
@@ -6424,7 +6424,7 @@
       french: Non
   poll_id: 6732
   results:
-    accurate_predict: 54.9
+    accurate_predict: 45.1
     female_response_1: 31.0
     female_response_2: 69.0
     male_response_1: 38.2
@@ -6460,7 +6460,7 @@
       french: Non
   poll_id: 6734
   results:
-    accurate_predict: 39.6
+    accurate_predict: 60.4
     female_response_1: 36.9
     female_response_2: 63.1
     male_response_1: 44.4
@@ -6478,7 +6478,7 @@
       french: Non
   poll_id: 6735
   results:
-    accurate_predict: 36.7
+    accurate_predict: 63.3
     female_response_1: 34.4
     female_response_2: 65.6
     male_response_1: 31.6
@@ -6514,7 +6514,7 @@
       french: Non
   poll_id: 6737
   results:
-    accurate_predict: 48.8
+    accurate_predict: 51.2
     female_response_1: 42.2
     female_response_2: 57.8
     male_response_1: 46.2
@@ -6532,7 +6532,7 @@
       french: Non
   poll_id: 6738
   results:
-    accurate_predict: 20.0
+    accurate_predict: 80.0
     female_response_1: 19.1
     female_response_2: 80.9
     male_response_1: 24.9
@@ -6550,7 +6550,7 @@
       french: "Samoura\xEF"
   poll_id: 6739
   results:
-    accurate_predict: 34.8
+    accurate_predict: 65.2
     female_response_1: 35.1
     female_response_2: 64.9
     male_response_1: 32.9
@@ -6586,7 +6586,7 @@
       french: Non
   poll_id: 6741
   results:
-    accurate_predict: 10.1
+    accurate_predict: 89.9
     female_response_1: 10.6
     female_response_2: 89.4
     male_response_1: 16.0
@@ -6658,7 +6658,7 @@
       french: Blanc
   poll_id: 6745
   results:
-    accurate_predict: 45.7
+    accurate_predict: 54.3
     female_response_1: 41.6
     female_response_2: 58.4
     male_response_1: 47.5
@@ -6730,7 +6730,7 @@
       french: "S\xE9rie polici\xE8re"
   poll_id: 6749
   results:
-    accurate_predict: 19.8
+    accurate_predict: 80.2
     female_response_1: 35.9
     female_response_2: 64.1
     male_response_1: 34.9
@@ -6766,7 +6766,7 @@
       french: Fleurs
   poll_id: 6751
   results:
-    accurate_predict: 33.4
+    accurate_predict: 66.6
     female_response_1: 38.7
     female_response_2: 61.3
     male_response_1: 39.3
@@ -6784,7 +6784,7 @@
       french: Non
   poll_id: 6752
   results:
-    accurate_predict: 11.6
+    accurate_predict: 88.4
     female_response_1: 13.7
     female_response_2: 86.3
     male_response_1: 15.2
@@ -6928,7 +6928,7 @@
       french: Non
   poll_id: 6760
   results:
-    accurate_predict: 19.8
+    accurate_predict: 80.2
     female_response_1: 22.0
     female_response_2: 78.0
     male_response_1: 23.3
@@ -7090,7 +7090,7 @@
       french: Les petits pois
   poll_id: 7933
   results:
-    accurate_predict: 49.4
+    accurate_predict: 50.6
     female_response_1: 52.2
     female_response_2: 47.8
     male_response_1: 48.5
@@ -7126,7 +7126,7 @@
       french: Non
   poll_id: 7935
   results:
-    accurate_predict: 14.7
+    accurate_predict: 85.3
     female_response_1: 23.7
     female_response_2: 76.3
     male_response_1: 18.5
@@ -7144,7 +7144,7 @@
       french: Non
   poll_id: 7936
   results:
-    accurate_predict: 38.4
+    accurate_predict: 61.6
     female_response_1: 36.8
     female_response_2: 63.2
     male_response_1: 44.6
@@ -7180,7 +7180,7 @@
       french: Non
   poll_id: 7938
   results:
-    accurate_predict: 22.8
+    accurate_predict: 77.2
     female_response_1: 21.5
     female_response_2: 78.5
     male_response_1: 22.2
@@ -7216,7 +7216,7 @@
       french: "Le th\xE9 glac\xE9"
   poll_id: 7940
   results:
-    accurate_predict: 44.4
+    accurate_predict: 55.6
     female_response_1: 42.9
     female_response_2: 57.1
     male_response_1: 35.7
@@ -7234,7 +7234,7 @@
       french: Non
   poll_id: 7941
   results:
-    accurate_predict: 13.6
+    accurate_predict: 86.4
     female_response_1: 14.7
     female_response_2: 85.3
     male_response_1: 16.8
@@ -7252,7 +7252,7 @@
       french: Vert
   poll_id: 7942
   results:
-    accurate_predict: 31.2
+    accurate_predict: 68.8
     female_response_1: 29.3
     female_response_2: 70.7
     male_response_1: 25.7
@@ -7270,7 +7270,7 @@
       french: Non
   poll_id: 7943
   results:
-    accurate_predict: 52.8
+    accurate_predict: 47.2
     female_response_1: 36.5
     female_response_2: 63.5
     male_response_1: 35.4
@@ -7288,7 +7288,7 @@
       french: Non
   poll_id: 7944
   results:
-    accurate_predict: 19.2
+    accurate_predict: 80.8
     female_response_1: 12.6
     female_response_2: 87.4
     male_response_1: 15.4
@@ -7324,7 +7324,7 @@
       french: Le parquet
   poll_id: 7946
   results:
-    accurate_predict: 32.4
+    accurate_predict: 67.6
     female_response_1: 23.8
     female_response_2: 76.2
     male_response_1: 30.8
@@ -7342,7 +7342,7 @@
       french: Non
   poll_id: 7947
   results:
-    accurate_predict: 55.9
+    accurate_predict: 44.1
     female_response_1: 43.7
     female_response_2: 56.3
     male_response_1: 51.0
@@ -7360,7 +7360,7 @@
       french: Normalement
   poll_id: 7948
   results:
-    accurate_predict: 78.5
+    accurate_predict: 21.5
     female_response_1: 50.2
     female_response_2: 49.8
     male_response_1: 48.1
@@ -7414,7 +7414,7 @@
       french: Non
   poll_id: 7951
   results:
-    accurate_predict: 32.6
+    accurate_predict: 67.4
     female_response_1: 27.0
     female_response_2: 73.0
     male_response_1: 18.1
@@ -7523,7 +7523,7 @@
       french: Non
   poll_id: 7957
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 22.7
     female_response_2: 77.3
     male_response_1: 34.3
@@ -7541,7 +7541,7 @@
       french: Du savon liquide
   poll_id: 7958
   results:
-    accurate_predict: 19.2
+    accurate_predict: 80.8
     female_response_1: 20.1
     female_response_2: 79.9
     male_response_1: 22.6
@@ -7577,7 +7577,7 @@
       french: Le vendredi
   poll_id: 7960
   results:
-    accurate_predict: 7.5
+    accurate_predict: 92.5
     female_response_1: 13.1
     female_response_2: 86.9
     male_response_1: 10.9
@@ -7685,7 +7685,7 @@
       french: Coulissants
   poll_id: 7966
   results:
-    accurate_predict: 19.8
+    accurate_predict: 80.2
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 23.6
@@ -7740,7 +7740,7 @@
       french: Le dauphin
   poll_id: 7969
   results:
-    accurate_predict: 8.9
+    accurate_predict: 91.1
     female_response_1: 14.7
     female_response_2: 85.3
     male_response_1: 20.5
@@ -7776,7 +7776,7 @@
       french: "Bien s\xFBr que non"
   poll_id: 7971
   results:
-    accurate_predict: 14.7
+    accurate_predict: 85.3
     female_response_1: 22.0
     female_response_2: 78.0
     male_response_1: 13.8
@@ -7830,7 +7830,7 @@
       french: Non
   poll_id: 7974
   results:
-    accurate_predict: 48.2
+    accurate_predict: 51.8
     female_response_1: 50.9
     female_response_2: 49.1
     male_response_1: 18.7
@@ -7866,7 +7866,7 @@
       french: Non
   poll_id: 8884
   results:
-    accurate_predict: 42.1
+    accurate_predict: 57.9
     female_response_1: 30.3
     female_response_2: 69.7
     male_response_1: 27.9
@@ -7938,7 +7938,7 @@
       french: Non
   poll_id: 8888
   results:
-    accurate_predict: 16.7
+    accurate_predict: 83.3
     female_response_1: 18.1
     female_response_2: 81.9
     male_response_1: 21.8
@@ -8010,7 +8010,7 @@
       french: Le ninja
   poll_id: 8892
   results:
-    accurate_predict: 19.1
+    accurate_predict: 80.9
     female_response_1: 24.9
     female_response_2: 75.1
     male_response_1: 18.3
@@ -8028,7 +8028,7 @@
       french: Non
   poll_id: 8893
   results:
-    accurate_predict: 27.7
+    accurate_predict: 72.3
     female_response_1: 35.3
     female_response_2: 64.7
     male_response_1: 20.7
@@ -8046,7 +8046,7 @@
       french: "Le tir \xE0 l'arc"
   poll_id: 8894
   results:
-    accurate_predict: 36.5
+    accurate_predict: 63.5
     female_response_1: 32.7
     female_response_2: 67.3
     male_response_1: 33.7
@@ -8064,7 +8064,7 @@
       french: Non
   poll_id: 8895
   results:
-    accurate_predict: 24.6
+    accurate_predict: 75.4
     female_response_1: 21.2
     female_response_2: 78.8
     male_response_1: 23.8
@@ -8102,7 +8102,7 @@
       french: Non
   poll_id: 8897
   results:
-    accurate_predict: 68.1
+    accurate_predict: 31.9
     female_response_1: 19.4
     female_response_2: 80.6
     male_response_1: 46.0
@@ -8120,7 +8120,7 @@
       french: Votre pique-nique
   poll_id: 8898
   results:
-    accurate_predict: 50.3
+    accurate_predict: 49.7
     female_response_1: 45.4
     female_response_2: 54.6
     male_response_1: 50.8
@@ -8156,7 +8156,7 @@
       french: Non
   poll_id: 8900
   results:
-    accurate_predict: 16.4
+    accurate_predict: 83.6
     female_response_1: 8.0
     female_response_2: 92.0
     male_response_1: 9.7
@@ -8192,7 +8192,7 @@
       french: Non
   poll_id: 8902
   results:
-    accurate_predict: 39.1
+    accurate_predict: 60.9
     female_response_1: 29.5
     female_response_2: 70.5
     male_response_1: 36.7
@@ -8228,7 +8228,7 @@
       french: La neige
   poll_id: 8904
   results:
-    accurate_predict: 52.1
+    accurate_predict: 47.9
     female_response_1: 48.4
     female_response_2: 51.6
     male_response_1: 36.4
@@ -8246,7 +8246,7 @@
       french: Non
   poll_id: 8905
   results:
-    accurate_predict: 47.2
+    accurate_predict: 52.8
     female_response_1: 42.7
     female_response_2: 57.3
     male_response_1: 46.9
@@ -8264,7 +8264,7 @@
       french: Non
   poll_id: 8906
   results:
-    accurate_predict: 21.8
+    accurate_predict: 78.2
     female_response_1: 17.6
     female_response_2: 82.4
     male_response_1: 22.6
@@ -8300,7 +8300,7 @@
       french: Non
   poll_id: 8908
   results:
-    accurate_predict: 34.6
+    accurate_predict: 65.4
     female_response_1: 30.9
     female_response_2: 69.1
     male_response_1: 32.5
@@ -8318,7 +8318,7 @@
       french: Non
   poll_id: 8909
   results:
-    accurate_predict: 22.1
+    accurate_predict: 77.9
     female_response_1: 18.2
     female_response_2: 81.8
     male_response_1: 19.9
@@ -8336,7 +8336,7 @@
       french: Non
   poll_id: 8910
   results:
-    accurate_predict: 43.4
+    accurate_predict: 56.6
     female_response_1: 44.8
     female_response_2: 55.2
     male_response_1: 44.8
@@ -8354,7 +8354,7 @@
       french: Juste avant
   poll_id: 8911
   results:
-    accurate_predict: 35.5
+    accurate_predict: 64.5
     female_response_1: 40.8
     female_response_2: 59.2
     male_response_1: 32.0
@@ -8373,7 +8373,7 @@
       french: Non
   poll_id: 8912
   results:
-    accurate_predict: 45.6
+    accurate_predict: 54.4
     female_response_1: 48.0
     female_response_2: 52.0
     male_response_1: 44.7
@@ -8391,7 +8391,7 @@
       french: Le hip-hop
   poll_id: 8913
   results:
-    accurate_predict: 21.6
+    accurate_predict: 78.4
     female_response_1: 37.7
     female_response_2: 62.3
     male_response_1: 36.3
@@ -8427,7 +8427,7 @@
       french: Non
   poll_id: 8915
   results:
-    accurate_predict: 56.9
+    accurate_predict: 43.1
     female_response_1: 41.7
     female_response_2: 58.3
     male_response_1: 34.4
@@ -8446,7 +8446,7 @@
       french: Non
   poll_id: 8916
   results:
-    accurate_predict: 22.9
+    accurate_predict: 77.1
     female_response_1: 20.5
     female_response_2: 79.5
     male_response_1: 23.1
@@ -8500,7 +8500,7 @@
       french: Non
   poll_id: 8919
   results:
-    accurate_predict: 19.6
+    accurate_predict: 80.4
     female_response_1: 14.2
     female_response_2: 85.8
     male_response_1: 16.0
@@ -8518,7 +8518,7 @@
       french: Non
   poll_id: 8920
   results:
-    accurate_predict: 42.1
+    accurate_predict: 57.9
     female_response_1: 38.5
     female_response_2: 61.5
     male_response_1: 37.8
@@ -8536,7 +8536,7 @@
       french: Non
   poll_id: 8921
   results:
-    accurate_predict: 43.8
+    accurate_predict: 56.2
     female_response_1: 54.0
     female_response_2: 46.0
     male_response_1: 44.7
@@ -8554,7 +8554,7 @@
       french: Non
   poll_id: 8922
   results:
-    accurate_predict: 61.6
+    accurate_predict: 38.4
     female_response_1: 51.4
     female_response_2: 48.6
     male_response_1: 21.6
@@ -8572,7 +8572,7 @@
       french: Non
   poll_id: 8923
   results:
-    accurate_predict: 25.7
+    accurate_predict: 74.3
     female_response_1: 25.4
     female_response_2: 74.6
     male_response_1: 31.3
@@ -8645,7 +8645,7 @@
       french: Non
   poll_id: 8927
   results:
-    accurate_predict: 17.6
+    accurate_predict: 82.4
     female_response_1: 16.7
     female_response_2: 83.3
     male_response_1: 19.9
@@ -8681,7 +8681,7 @@
       french: Non
   poll_id: 8929
   results:
-    accurate_predict: 30.0
+    accurate_predict: 70.0
     female_response_1: 35.8
     female_response_2: 64.2
     male_response_1: 34.9
@@ -8699,7 +8699,7 @@
       french: Non
   poll_id: 8930
   results:
-    accurate_predict: 46.5
+    accurate_predict: 53.5
     female_response_1: 33.5
     female_response_2: 66.5
     male_response_1: 23.4
@@ -8717,7 +8717,7 @@
       french: Non
   poll_id: 8931
   results:
-    accurate_predict: 17.2
+    accurate_predict: 82.8
     female_response_1: 15.4
     female_response_2: 84.6
     male_response_1: 18.4
@@ -8827,7 +8827,7 @@
       french: Le pilote
   poll_id: 8937
   results:
-    accurate_predict: 39.3
+    accurate_predict: 60.7
     female_response_1: 35.2
     female_response_2: 64.8
     male_response_1: 35.7
@@ -8845,7 +8845,7 @@
       french: Non
   poll_id: 8938
   results:
-    accurate_predict: 18.1
+    accurate_predict: 81.9
     female_response_1: 28.8
     female_response_2: 71.2
     male_response_1: 23.5
@@ -8864,7 +8864,7 @@
       french: Non
   poll_id: 8939
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 26.4
     female_response_2: 73.6
     male_response_1: 25.0
@@ -8919,7 +8919,7 @@
       french: Non
   poll_id: 8942
   results:
-    accurate_predict: 54.9
+    accurate_predict: 45.1
     female_response_1: 39.9
     female_response_2: 60.1
     male_response_1: 38.9
@@ -8937,7 +8937,7 @@
       french: "L'invisibilit\xE9"
   poll_id: 10270
   results:
-    accurate_predict: 40.4
+    accurate_predict: 59.6
     female_response_1: 22.9
     female_response_2: 77.1
     male_response_1: 38.6
@@ -8955,7 +8955,7 @@
       french: Non
   poll_id: 10271
   results:
-    accurate_predict: 68.3
+    accurate_predict: 31.7
     female_response_1: 47.7
     female_response_2: 52.3
     male_response_1: 49.5
@@ -9027,7 +9027,7 @@
       french: Non
   poll_id: 10275
   results:
-    accurate_predict: 25.6
+    accurate_predict: 74.4
     female_response_1: 44.7
     female_response_2: 55.3
     male_response_1: 18.4
@@ -9045,7 +9045,7 @@
       french: Ce dont j'ai besoin
   poll_id: 10276
   results:
-    accurate_predict: 35.2
+    accurate_predict: 64.8
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 17.4
@@ -9081,7 +9081,7 @@
       french: Non
   poll_id: 10278
   results:
-    accurate_predict: 10.7
+    accurate_predict: 89.3
     female_response_1: 10.8
     female_response_2: 89.2
     male_response_1: 15.5
@@ -9099,7 +9099,7 @@
       french: Non
   poll_id: 10279
   results:
-    accurate_predict: 36.5
+    accurate_predict: 63.5
     female_response_1: 44.7
     female_response_2: 55.3
     male_response_1: 38.2
@@ -9153,7 +9153,7 @@
       french: Courts
   poll_id: 10282
   results:
-    accurate_predict: 40.4
+    accurate_predict: 59.6
     female_response_1: 75.1
     female_response_2: 24.9
     male_response_1: 21.1
@@ -9171,7 +9171,7 @@
       french: Internet
   poll_id: 10283
   results:
-    accurate_predict: 32.4
+    accurate_predict: 67.6
     female_response_1: 39.1
     female_response_2: 60.9
     male_response_1: 31.6
@@ -9189,7 +9189,7 @@
       french: Le soir
   poll_id: 10284
   results:
-    accurate_predict: 48.9
+    accurate_predict: 51.1
     female_response_1: 37.4
     female_response_2: 62.6
     male_response_1: 34.6
@@ -9207,7 +9207,7 @@
       french: Entre amis
   poll_id: 10285
   results:
-    accurate_predict: 14.4
+    accurate_predict: 85.6
     female_response_1: 19.4
     female_response_2: 80.6
     male_response_1: 22.3
@@ -9225,7 +9225,7 @@
       french: A la fourchette
   poll_id: 10286
   results:
-    accurate_predict: 17.6
+    accurate_predict: 82.4
     female_response_1: 14.0
     female_response_2: 86.0
     male_response_1: 15.0
@@ -9243,7 +9243,7 @@
       french: La neige
   poll_id: 10287
   results:
-    accurate_predict: 13.7
+    accurate_predict: 86.3
     female_response_1: 19.5
     female_response_2: 80.5
     male_response_1: 16.2
@@ -9279,7 +9279,7 @@
       french: Non
   poll_id: 10289
   results:
-    accurate_predict: 42.8
+    accurate_predict: 57.2
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 42.0
@@ -9333,7 +9333,7 @@
       french: Non
   poll_id: 10292
   results:
-    accurate_predict: 9.6
+    accurate_predict: 90.4
     female_response_1: 10.7
     female_response_2: 89.3
     male_response_1: 9.5
@@ -9351,7 +9351,7 @@
       french: "Le d\xEEner"
   poll_id: 10293
   results:
-    accurate_predict: 49.2
+    accurate_predict: 50.8
     female_response_1: 51.2
     female_response_2: 48.8
     male_response_1: 47.1
@@ -9387,7 +9387,7 @@
       french: La fortune
   poll_id: 10295
   results:
-    accurate_predict: 28.8
+    accurate_predict: 71.2
     female_response_1: 27.7
     female_response_2: 72.3
     male_response_1: 23.5
@@ -9477,7 +9477,7 @@
       french: Non
   poll_id: 10300
   results:
-    accurate_predict: 33.2
+    accurate_predict: 66.8
     female_response_1: 38.4
     female_response_2: 61.6
     male_response_1: 38.6
@@ -9549,7 +9549,7 @@
       french: Non
   poll_id: 10304
   results:
-    accurate_predict: 48.3
+    accurate_predict: 51.7
     female_response_1: 43.4
     female_response_2: 56.6
     male_response_1: 38.4
@@ -9567,7 +9567,7 @@
       french: Non
   poll_id: 10305
   results:
-    accurate_predict: 41.8
+    accurate_predict: 58.2
     female_response_1: 27.7
     female_response_2: 72.3
     male_response_1: 27.7
@@ -9585,7 +9585,7 @@
       french: Non
   poll_id: 10306
   results:
-    accurate_predict: 13.1
+    accurate_predict: 86.9
     female_response_1: 22.8
     female_response_2: 77.2
     male_response_1: 18.1
@@ -9603,7 +9603,7 @@
       french: Non
   poll_id: 10307
   results:
-    accurate_predict: 12.0
+    accurate_predict: 88.0
     female_response_1: 12.2
     female_response_2: 87.8
     male_response_1: 14.1
@@ -9711,7 +9711,7 @@
       french: Non
   poll_id: 10313
   results:
-    accurate_predict: 39.0
+    accurate_predict: 61.0
     female_response_1: 20.1
     female_response_2: 79.9
     male_response_1: 47.4
@@ -9747,7 +9747,7 @@
       french: Non
   poll_id: 10315
   results:
-    accurate_predict: 62.5
+    accurate_predict: 37.5
     female_response_1: 50.3
     female_response_2: 49.7
     male_response_1: 40.5
@@ -9783,7 +9783,7 @@
       french: Non
   poll_id: 10317
   results:
-    accurate_predict: 52.8
+    accurate_predict: 47.2
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 49.6
@@ -9819,7 +9819,7 @@
       french: Non
   poll_id: 10319
   results:
-    accurate_predict: 38.0
+    accurate_predict: 62.0
     female_response_1: 47.6
     female_response_2: 52.4
     male_response_1: 46.5
@@ -9855,7 +9855,7 @@
       french: Non
   poll_id: 10321
   results:
-    accurate_predict: 41.9
+    accurate_predict: 58.1
     female_response_1: 26.4
     female_response_2: 73.6
     male_response_1: 28.7
@@ -9873,7 +9873,7 @@
       french: "Du caf\xE9"
   poll_id: 10322
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 46.6
     female_response_2: 53.4
     male_response_1: 34.4
@@ -9891,7 +9891,7 @@
       french: Non
   poll_id: 10323
   results:
-    accurate_predict: 48.6
+    accurate_predict: 51.4
     female_response_1: 39.9
     female_response_2: 60.1
     male_response_1: 40.6
@@ -9909,7 +9909,7 @@
       french: Non
   poll_id: 10324
   results:
-    accurate_predict: 21.7
+    accurate_predict: 78.3
     female_response_1: 24.4
     female_response_2: 75.6
     male_response_1: 26.2
@@ -9927,7 +9927,7 @@
       french: Non
   poll_id: 10325
   results:
-    accurate_predict: 30.8
+    accurate_predict: 69.2
     female_response_1: 34.0
     female_response_2: 66.0
     male_response_1: 45.1
@@ -9945,7 +9945,7 @@
       french: Non
   poll_id: 10326
   results:
-    accurate_predict: 10.2
+    accurate_predict: 89.8
     female_response_1: 7.4
     female_response_2: 92.6
     male_response_1: 8.3
@@ -9981,7 +9981,7 @@
       french: Non
   poll_id: 10328
   results:
-    accurate_predict: 13.3
+    accurate_predict: 86.7
     female_response_1: 21.3
     female_response_2: 78.7
     male_response_1: 21.2
@@ -10017,7 +10017,7 @@
       french: Non
   poll_id: 10330
   results:
-    accurate_predict: 51.6
+    accurate_predict: 48.4
     female_response_1: 42.5
     female_response_2: 57.5
     male_response_1: 43.6
@@ -10035,7 +10035,7 @@
       french: La cuisine maison
   poll_id: 10331
   results:
-    accurate_predict: 37.9
+    accurate_predict: 62.1
     female_response_1: 25.1
     female_response_2: 74.9
     male_response_1: 31.5
@@ -10107,7 +10107,7 @@
       french: "En ext\xE9rieur"
   poll_id: 10335
   results:
-    accurate_predict: 25.6
+    accurate_predict: 74.4
     female_response_1: 41.1
     female_response_2: 58.9
     male_response_1: 30.7
@@ -10125,7 +10125,7 @@
       french: Non
   poll_id: 10336
   results:
-    accurate_predict: 30.2
+    accurate_predict: 69.8
     female_response_1: 33.0
     female_response_2: 67.0
     male_response_1: 35.2
@@ -10233,7 +10233,7 @@
       french: Non
   poll_id: 11069
   results:
-    accurate_predict: 41.8
+    accurate_predict: 58.2
     female_response_1: 29.4
     female_response_2: 70.6
     male_response_1: 38.4
@@ -10251,7 +10251,7 @@
       french: Non
   poll_id: 11070
   results:
-    accurate_predict: 38.1
+    accurate_predict: 61.9
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 27.2
@@ -10359,7 +10359,7 @@
       french: Non
   poll_id: 11076
   results:
-    accurate_predict: 41.9
+    accurate_predict: 58.1
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 26.7
@@ -10395,7 +10395,7 @@
       french: Non
   poll_id: 11078
   results:
-    accurate_predict: 29.9
+    accurate_predict: 70.1
     female_response_1: 25.9
     female_response_2: 74.1
     male_response_1: 27.1
@@ -10413,7 +10413,7 @@
       french: Entrouvertes
   poll_id: 11079
   results:
-    accurate_predict: 52.5
+    accurate_predict: 47.5
     female_response_1: 47.2
     female_response_2: 52.8
     male_response_1: 48.9
@@ -10503,7 +10503,7 @@
       french: Non
   poll_id: 11084
   results:
-    accurate_predict: 30.4
+    accurate_predict: 69.6
     female_response_1: 30.0
     female_response_2: 70.0
     male_response_1: 28.6
@@ -10521,7 +10521,7 @@
       french: Non
   poll_id: 11085
   results:
-    accurate_predict: 46.5
+    accurate_predict: 53.5
     female_response_1: 44.2
     female_response_2: 55.8
     male_response_1: 38.1
@@ -10557,7 +10557,7 @@
       french: Non
   poll_id: 11087
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 28.7
     female_response_2: 71.3
     male_response_1: 29.3
@@ -10575,7 +10575,7 @@
       french: Avec vos amis
   poll_id: 11088
   results:
-    accurate_predict: 34.0
+    accurate_predict: 66.0
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 47.1
@@ -10593,7 +10593,7 @@
       french: L'eau froide
   poll_id: 11089
   results:
-    accurate_predict: 52.5
+    accurate_predict: 47.5
     female_response_1: 46.9
     female_response_2: 53.1
     male_response_1: 43.3
@@ -10701,7 +10701,7 @@
       french: Non
   poll_id: 11095
   results:
-    accurate_predict: 29.2
+    accurate_predict: 70.8
     female_response_1: 21.4
     female_response_2: 78.6
     male_response_1: 21.6
@@ -10719,7 +10719,7 @@
       french: Non
   poll_id: 11096
   results:
-    accurate_predict: 41.7
+    accurate_predict: 58.3
     female_response_1: 36.9
     female_response_2: 63.1
     male_response_1: 54.7
@@ -10737,7 +10737,7 @@
       french: '2000'
   poll_id: 11097
   results:
-    accurate_predict: 37.7
+    accurate_predict: 62.3
     female_response_1: 39.9
     female_response_2: 60.1
     male_response_1: 40.6
@@ -10773,7 +10773,7 @@
       french: Non
   poll_id: 11099
   results:
-    accurate_predict: 41.7
+    accurate_predict: 58.3
     female_response_1: 42.7
     female_response_2: 57.3
     male_response_1: 30.3
@@ -10809,7 +10809,7 @@
       french: Non
   poll_id: 11101
   results:
-    accurate_predict: 16.0
+    accurate_predict: 84.0
     female_response_1: 13.4
     female_response_2: 86.6
     male_response_1: 16.3
@@ -10863,7 +10863,7 @@
       french: Non
   poll_id: 11104
   results:
-    accurate_predict: 39.7
+    accurate_predict: 60.3
     female_response_1: 31.6
     female_response_2: 68.4
     male_response_1: 34.3
@@ -10881,7 +10881,7 @@
       french: Non
   poll_id: 11105
   results:
-    accurate_predict: 40.7
+    accurate_predict: 59.3
     female_response_1: 40.5
     female_response_2: 59.5
     male_response_1: 41.1
@@ -10917,7 +10917,7 @@
       french: Non
   poll_id: 11107
   results:
-    accurate_predict: 44.1
+    accurate_predict: 55.9
     female_response_1: 44.5
     female_response_2: 55.5
     male_response_1: 35.5
@@ -11045,7 +11045,7 @@
       french: Non
   poll_id: 11114
   results:
-    accurate_predict: 39.9
+    accurate_predict: 60.1
     female_response_1: 33.7
     female_response_2: 66.3
     male_response_1: 40.4
@@ -11063,7 +11063,7 @@
       french: "Les \xE9couteurs"
   poll_id: 11115
   results:
-    accurate_predict: 42.3
+    accurate_predict: 57.7
     female_response_1: 44.0
     female_response_2: 56.0
     male_response_1: 50.9
@@ -11081,7 +11081,7 @@
       french: Non
   poll_id: 11116
   results:
-    accurate_predict: 10.2
+    accurate_predict: 89.8
     female_response_1: 5.7
     female_response_2: 94.3
     male_response_1: 6.7
@@ -11171,7 +11171,7 @@
       french: Non
   poll_id: 11121
   results:
-    accurate_predict: 9.6
+    accurate_predict: 90.4
     female_response_1: 13.3
     female_response_2: 86.7
     male_response_1: 14.8
@@ -11207,7 +11207,7 @@
       french: Non
   poll_id: 11123
   results:
-    accurate_predict: 54.2
+    accurate_predict: 45.8
     female_response_1: 50.7
     female_response_2: 49.3
     male_response_1: 43.4
@@ -11243,7 +11243,7 @@
       french: "Un ph\xE9nix"
   poll_id: 11125
   results:
-    accurate_predict: 54.2
+    accurate_predict: 45.8
     female_response_1: 39.8
     female_response_2: 60.2
     male_response_1: 50.9
@@ -11279,7 +11279,7 @@
       french: Non
   poll_id: 11127
   results:
-    accurate_predict: 42.7
+    accurate_predict: 57.3
     female_response_1: 32.4
     female_response_2: 67.6
     male_response_1: 32.1
@@ -11317,7 +11317,7 @@
       french: Non
   poll_id: 11129
   results:
-    accurate_predict: 30.5
+    accurate_predict: 69.5
     female_response_1: 13.8
     female_response_2: 86.2
     male_response_1: 15.7
@@ -11353,7 +11353,7 @@
       french: Non
   poll_id: 11131
   results:
-    accurate_predict: 57.4
+    accurate_predict: 42.6
     female_response_1: 47.1
     female_response_2: 52.9
     male_response_1: 43.9
@@ -11389,7 +11389,7 @@
       french: Non
   poll_id: 11133
   results:
-    accurate_predict: 37.1
+    accurate_predict: 62.9
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 41.9
@@ -11407,7 +11407,7 @@
       french: "P\xE2tes"
   poll_id: 11134
   results:
-    accurate_predict: 19.4
+    accurate_predict: 80.6
     female_response_1: 27.1
     female_response_2: 72.9
     male_response_1: 23.8
@@ -11425,7 +11425,7 @@
       french: Non
   poll_id: 11135
   results:
-    accurate_predict: 9.1
+    accurate_predict: 90.9
     female_response_1: 7.7
     female_response_2: 92.3
     male_response_1: 9.8
@@ -11479,7 +11479,7 @@
       french: Non
   poll_id: 11138
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 30.7
     female_response_2: 69.3
     male_response_1: 27.0
@@ -11497,7 +11497,7 @@
       french: "Le go\xFBt"
   poll_id: 11139
   results:
-    accurate_predict: 27.9
+    accurate_predict: 72.1
     female_response_1: 28.0
     female_response_2: 72.0
     male_response_1: 24.7
@@ -11590,7 +11590,7 @@
       french: Non
   poll_id: 11144
   results:
-    accurate_predict: 21.0
+    accurate_predict: 79.0
     female_response_1: 19.7
     female_response_2: 80.3
     male_response_1: 18.2
@@ -11629,7 +11629,7 @@
       french: Non
   poll_id: 11146
   results:
-    accurate_predict: 19.9
+    accurate_predict: 80.1
     female_response_1: 17.8
     female_response_2: 82.2
     male_response_1: 25.4
@@ -11647,7 +11647,7 @@
       french: Chocolat
   poll_id: 11147
   results:
-    accurate_predict: 26.3
+    accurate_predict: 73.7
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 39.0
@@ -11665,7 +11665,7 @@
       french: Non
   poll_id: 11148
   results:
-    accurate_predict: 49.2
+    accurate_predict: 50.8
     female_response_1: 28.0
     female_response_2: 72.0
     male_response_1: 31.1
@@ -11683,7 +11683,7 @@
       french: "Ferm\xE9e"
   poll_id: 11149
   results:
-    accurate_predict: 21.9
+    accurate_predict: 78.1
     female_response_1: 20.7
     female_response_2: 79.3
     male_response_1: 20.8
@@ -11701,7 +11701,7 @@
       french: Non gazeuses
   poll_id: 12958
   results:
-    accurate_predict: 48.8
+    accurate_predict: 51.2
     female_response_1: 42.0
     female_response_2: 58.0
     male_response_1: 47.8
@@ -11755,7 +11755,7 @@
       french: Des boules de neige
   poll_id: 12961
   results:
-    accurate_predict: 26.6
+    accurate_predict: 73.4
     female_response_1: 34.7
     female_response_2: 65.3
     male_response_1: 29.2
@@ -11846,7 +11846,7 @@
       french: Le dessert
   poll_id: 12966
   results:
-    accurate_predict: 27.6
+    accurate_predict: 72.4
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 44.8
@@ -11864,7 +11864,7 @@
       french: Une brosse
   poll_id: 12967
   results:
-    accurate_predict: 37.3
+    accurate_predict: 62.7
     female_response_1: 20.2
     female_response_2: 79.8
     male_response_1: 61.4
@@ -11882,7 +11882,7 @@
       french: Du cacao
   poll_id: 12968
   results:
-    accurate_predict: 18.7
+    accurate_predict: 81.3
     female_response_1: 19.8
     female_response_2: 80.2
     male_response_1: 19.0
@@ -11900,7 +11900,7 @@
       french: Non
   poll_id: 12969
   results:
-    accurate_predict: 19.8
+    accurate_predict: 80.2
     female_response_1: 20.4
     female_response_2: 79.6
     male_response_1: 26.2
@@ -11939,7 +11939,7 @@
       french: La Rome antique
   poll_id: 12971
   results:
-    accurate_predict: 50.5
+    accurate_predict: 49.5
     female_response_1: 53.9
     female_response_2: 46.1
     male_response_1: 41.9
@@ -11957,7 +11957,7 @@
       french: Non
   poll_id: 12972
   results:
-    accurate_predict: 22.0
+    accurate_predict: 78.0
     female_response_1: 16.0
     female_response_2: 84.0
     male_response_1: 18.0
@@ -11975,7 +11975,7 @@
       french: Non
   poll_id: 12973
   results:
-    accurate_predict: 11.4
+    accurate_predict: 88.6
     female_response_1: 7.3
     female_response_2: 92.7
     male_response_1: 10.4
@@ -11993,7 +11993,7 @@
       french: Non
   poll_id: 12974
   results:
-    accurate_predict: 44.9
+    accurate_predict: 55.1
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 41.3
@@ -12048,7 +12048,7 @@
       french: Non
   poll_id: 12977
   results:
-    accurate_predict: 42.9
+    accurate_predict: 57.1
     female_response_1: 46.4
     female_response_2: 53.6
     male_response_1: 43.0
@@ -12066,7 +12066,7 @@
       french: Non
   poll_id: 12978
   results:
-    accurate_predict: 28.8
+    accurate_predict: 71.2
     female_response_1: 13.1
     female_response_2: 86.9
     male_response_1: 19.2
@@ -12085,7 +12085,7 @@
       french: Non
   poll_id: 12979
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 25.0
     female_response_2: 75.0
     male_response_1: 23.2
@@ -12104,7 +12104,7 @@
       french: Un animal de compagnie
   poll_id: 12980
   results:
-    accurate_predict: 47.9
+    accurate_predict: 52.1
     female_response_1: 43.2
     female_response_2: 56.8
     male_response_1: 54.0
@@ -12123,7 +12123,7 @@
       french: Un acteur
   poll_id: 12981
   results:
-    accurate_predict: 12.6
+    accurate_predict: 87.4
     female_response_1: 26.0
     female_response_2: 74.0
     male_response_1: 22.9
@@ -12215,7 +12215,7 @@
       french: 1 000 ans plus tard
   poll_id: 12986
   results:
-    accurate_predict: 36.0
+    accurate_predict: 64.0
     female_response_1: 46.8
     female_response_2: 53.2
     male_response_1: 36.8
@@ -12290,7 +12290,7 @@
       french: Non
   poll_id: 12990
   results:
-    accurate_predict: 56.7
+    accurate_predict: 43.3
     female_response_1: 45.8
     female_response_2: 54.2
     male_response_1: 45.7
@@ -12308,7 +12308,7 @@
       french: Non
   poll_id: 12991
   results:
-    accurate_predict: 39.7
+    accurate_predict: 60.3
     female_response_1: 42.2
     female_response_2: 57.8
     male_response_1: 42.8
@@ -12344,7 +12344,7 @@
       french: Non
   poll_id: 12993
   results:
-    accurate_predict: 37.7
+    accurate_predict: 62.3
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 41.7
@@ -12362,7 +12362,7 @@
       french: Non
   poll_id: 12994
   results:
-    accurate_predict: 29.7
+    accurate_predict: 70.3
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 34.3
@@ -12380,7 +12380,7 @@
       french: Beurk...
   poll_id: 12995
   results:
-    accurate_predict: 27.6
+    accurate_predict: 72.4
     female_response_1: 50.4
     female_response_2: 49.6
     male_response_1: 43.3
@@ -12417,7 +12417,7 @@
       french: Une pieuvre
   poll_id: 12997
   results:
-    accurate_predict: 32.1
+    accurate_predict: 67.9
     female_response_1: 28.9
     female_response_2: 71.1
     male_response_1: 35.2
@@ -12454,7 +12454,7 @@
       french: Non
   poll_id: 12999
   results:
-    accurate_predict: 41.3
+    accurate_predict: 58.7
     female_response_1: 36.8
     female_response_2: 63.2
     male_response_1: 37.4
@@ -12472,7 +12472,7 @@
       french: Non merci...
   poll_id: 13000
   results:
-    accurate_predict: 39.8
+    accurate_predict: 60.2
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 45.6
@@ -12527,7 +12527,7 @@
       french: Non
   poll_id: 13003
   results:
-    accurate_predict: 20.4
+    accurate_predict: 79.6
     female_response_1: 16.1
     female_response_2: 83.9
     male_response_1: 24.7
@@ -12564,7 +12564,7 @@
       french: Ringard
   poll_id: 13005
   results:
-    accurate_predict: 34.0
+    accurate_predict: 66.0
     female_response_1: 37.1
     female_response_2: 62.9
     male_response_1: 29.2
@@ -12582,7 +12582,7 @@
       french: Non
   poll_id: 13006
   results:
-    accurate_predict: 48.5
+    accurate_predict: 51.5
     female_response_1: 43.5
     female_response_2: 56.5
     male_response_1: 37.6
@@ -12602,7 +12602,7 @@
       french: Non
   poll_id: 13007
   results:
-    accurate_predict: 41.6
+    accurate_predict: 58.4
     female_response_1: 36.7
     female_response_2: 63.3
     male_response_1: 35.5
@@ -12620,7 +12620,7 @@
       french: "Fra\xEEchement moulu"
   poll_id: 13008
   results:
-    accurate_predict: 42.5
+    accurate_predict: 57.5
     female_response_1: 45.4
     female_response_2: 54.6
     male_response_1: 43.9
@@ -12638,7 +12638,7 @@
       french: "De l'ennui... *B\xE2\xE2ille*"
   poll_id: 13009
   results:
-    accurate_predict: 65.4
+    accurate_predict: 34.6
     female_response_1: 46.4
     female_response_2: 53.6
     male_response_1: 48.4
@@ -12711,7 +12711,7 @@
       french: C'est de la pure fiction
   poll_id: 13013
   results:
-    accurate_predict: 25.2
+    accurate_predict: 74.8
     female_response_1: 28.3
     female_response_2: 71.7
     male_response_1: 34.5
@@ -12730,7 +12730,7 @@
       french: Non
   poll_id: 13014
   results:
-    accurate_predict: 32.1
+    accurate_predict: 67.9
     female_response_1: 26.2
     female_response_2: 73.8
     male_response_1: 28.4
@@ -12748,7 +12748,7 @@
       french: Le sucre blanc
   poll_id: 13015
   results:
-    accurate_predict: 24.7
+    accurate_predict: 75.3
     female_response_1: 36.6
     female_response_2: 63.4
     male_response_1: 34.8
@@ -12785,7 +12785,7 @@
       french: "D\xE9soss\xE9"
   poll_id: 13017
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 30.1
     female_response_2: 69.9
     male_response_1: 36.1
@@ -12805,7 +12805,7 @@
       french: "Aucune id\xE9e..."
   poll_id: 13018
   results:
-    accurate_predict: 22.8
+    accurate_predict: 77.2
     female_response_1: 25.9
     female_response_2: 74.1
     male_response_1: 29.5
@@ -12843,7 +12843,7 @@
       french: Je vais voir!
   poll_id: 13020
   results:
-    accurate_predict: 38.9
+    accurate_predict: 61.1
     female_response_1: 47.2
     female_response_2: 52.8
     male_response_1: 34.5
@@ -12915,7 +12915,7 @@
       french: Devant quel miroir?
   poll_id: 13024
   results:
-    accurate_predict: 54.5
+    accurate_predict: 45.5
     female_response_1: 56.8
     female_response_2: 43.2
     male_response_1: 27.9
@@ -12933,7 +12933,7 @@
       french: Les films d'action
   poll_id: 13025
   results:
-    accurate_predict: 29.4
+    accurate_predict: 70.6
     female_response_1: 28.4
     female_response_2: 71.6
     male_response_1: 25.4
@@ -12969,7 +12969,7 @@
       french: Non
   poll_id: 13027
   results:
-    accurate_predict: 15.4
+    accurate_predict: 84.6
     female_response_1: 16.1
     female_response_2: 83.9
     male_response_1: 17.2
@@ -12987,7 +12987,7 @@
       french: Non
   poll_id: 13028
   results:
-    accurate_predict: 42.0
+    accurate_predict: 58.0
     female_response_1: 43.7
     female_response_2: 56.3
     male_response_1: 36.6
@@ -13005,7 +13005,7 @@
       french: Voler dans les airs!
   poll_id: 13029
   results:
-    accurate_predict: 24.9
+    accurate_predict: 75.1
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 29.5
@@ -13042,7 +13042,7 @@
       french: Ce serait mon secret
   poll_id: 13031
   results:
-    accurate_predict: 20.4
+    accurate_predict: 79.6
     female_response_1: 17.5
     female_response_2: 82.5
     male_response_1: 19.3
@@ -13116,7 +13116,7 @@
       french: Non
   poll_id: 13035
   results:
-    accurate_predict: 22.7
+    accurate_predict: 77.3
     female_response_1: 16.2
     female_response_2: 83.8
     male_response_1: 13.8
@@ -13190,7 +13190,7 @@
       french: "Toute l'ann\xE9e!"
   poll_id: 13039
   results:
-    accurate_predict: 55.2
+    accurate_predict: 44.8
     female_response_1: 49.8
     female_response_2: 50.2
     male_response_1: 48.1
@@ -13244,7 +13244,7 @@
       french: Non
   poll_id: 13042
   results:
-    accurate_predict: 32.9
+    accurate_predict: 67.1
     female_response_1: 41.7
     female_response_2: 58.3
     male_response_1: 41.0
@@ -13280,7 +13280,7 @@
       french: "Un bus \xE0 imp\xE9riale"
   poll_id: 13044
   results:
-    accurate_predict: 34.0
+    accurate_predict: 66.0
     female_response_1: 34.5
     female_response_2: 65.5
     male_response_1: 36.7
@@ -13298,7 +13298,7 @@
       french: Un homme savant
   poll_id: 13045
   results:
-    accurate_predict: 40.1
+    accurate_predict: 59.9
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 38.0
@@ -13316,7 +13316,7 @@
       french: Non
   poll_id: 14775
   results:
-    accurate_predict: 42.3
+    accurate_predict: 57.7
     female_response_1: 44.8
     female_response_2: 55.2
     male_response_1: 42.4
@@ -13334,7 +13334,7 @@
       french: Un dessert
   poll_id: 14776
   results:
-    accurate_predict: 14.0
+    accurate_predict: 86.0
     female_response_1: 20.4
     female_response_2: 79.6
     male_response_1: 22.2
@@ -13406,7 +13406,7 @@
       french: Non
   poll_id: 14780
   results:
-    accurate_predict: 51.4
+    accurate_predict: 48.6
     female_response_1: 41.2
     female_response_2: 58.8
     male_response_1: 42.3
@@ -13424,7 +13424,7 @@
       french: Non
   poll_id: 14781
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 31.1
     female_response_2: 68.9
     male_response_1: 49.7
@@ -13478,7 +13478,7 @@
       french: Non
   poll_id: 14784
   results:
-    accurate_predict: 48.2
+    accurate_predict: 51.8
     female_response_1: 47.5
     female_response_2: 52.5
     male_response_1: 41.1
@@ -13496,7 +13496,7 @@
       french: Non!
   poll_id: 14785
   results:
-    accurate_predict: 11.3
+    accurate_predict: 88.7
     female_response_1: 8.3
     female_response_2: 91.7
     male_response_1: 10.8
@@ -13532,7 +13532,7 @@
       french: Non
   poll_id: 14787
   results:
-    accurate_predict: 23.9
+    accurate_predict: 76.1
     female_response_1: 20.1
     female_response_2: 79.9
     male_response_1: 20.7
@@ -13550,7 +13550,7 @@
       french: Non
   poll_id: 14788
   results:
-    accurate_predict: 47.6
+    accurate_predict: 52.4
     female_response_1: 41.9
     female_response_2: 58.1
     male_response_1: 40.0
@@ -13606,7 +13606,7 @@
       french: Pas du tout
   poll_id: 14791
   results:
-    accurate_predict: 39.5
+    accurate_predict: 60.5
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 33.7
@@ -13642,7 +13642,7 @@
       french: Pas encore...
   poll_id: 14793
   results:
-    accurate_predict: 24.9
+    accurate_predict: 75.1
     female_response_1: 28.2
     female_response_2: 71.8
     male_response_1: 26.0
@@ -13660,7 +13660,7 @@
       french: Non
   poll_id: 14794
   results:
-    accurate_predict: 19.0
+    accurate_predict: 81.0
     female_response_1: 17.2
     female_response_2: 82.8
     male_response_1: 17.9
@@ -13678,7 +13678,7 @@
       french: L'eau!
   poll_id: 14795
   results:
-    accurate_predict: 38.1
+    accurate_predict: 61.9
     female_response_1: 31.1
     female_response_2: 68.9
     male_response_1: 44.0
@@ -13697,7 +13697,7 @@
       french: Jamais
   poll_id: 14796
   results:
-    accurate_predict: 23.4
+    accurate_predict: 76.6
     female_response_1: 19.5
     female_response_2: 80.5
     male_response_1: 17.5
@@ -13789,7 +13789,7 @@
       french: Le quoi?!
   poll_id: 14801
   results:
-    accurate_predict: 14.2
+    accurate_predict: 85.8
     female_response_1: 14.9
     female_response_2: 85.1
     male_response_1: 21.1
@@ -13825,7 +13825,7 @@
       french: Non
   poll_id: 14803
   results:
-    accurate_predict: 39.8
+    accurate_predict: 60.2
     female_response_1: 39.6
     female_response_2: 60.4
     male_response_1: 50.3
@@ -13903,7 +13903,7 @@
       french: Non
   poll_id: 14807
   results:
-    accurate_predict: 39.6
+    accurate_predict: 60.4
     female_response_1: 34.7
     female_response_2: 65.3
     male_response_1: 49.4
@@ -13921,7 +13921,7 @@
       french: Non
   poll_id: 14808
   results:
-    accurate_predict: 42.9
+    accurate_predict: 57.1
     female_response_1: 35.5
     female_response_2: 64.5
     male_response_1: 37.3
@@ -13939,7 +13939,7 @@
       french: Les moules!
   poll_id: 14809
   results:
-    accurate_predict: 26.0
+    accurate_predict: 74.0
     female_response_1: 21.8
     female_response_2: 78.2
     male_response_1: 25.0
@@ -13959,7 +13959,7 @@
       french: N'importe quoi!
   poll_id: 14810
   results:
-    accurate_predict: 16.1
+    accurate_predict: 83.9
     female_response_1: 12.1
     female_response_2: 87.9
     male_response_1: 11.4
@@ -13977,7 +13977,7 @@
       french: Consonne
   poll_id: 14811
   results:
-    accurate_predict: 20.0
+    accurate_predict: 80.0
     female_response_1: 26.2
     female_response_2: 73.8
     male_response_1: 23.3
@@ -13995,7 +13995,7 @@
       french: Non
   poll_id: 14812
   results:
-    accurate_predict: 39.9
+    accurate_predict: 60.1
     female_response_1: 37.7
     female_response_2: 62.3
     male_response_1: 45.4
@@ -14051,7 +14051,7 @@
       french: Non
   poll_id: 14815
   results:
-    accurate_predict: 56.0
+    accurate_predict: 44.0
     female_response_1: 42.7
     female_response_2: 57.3
     male_response_1: 40.2
@@ -14069,7 +14069,7 @@
       french: Non
   poll_id: 14816
   results:
-    accurate_predict: 39.7
+    accurate_predict: 60.3
     female_response_1: 44.5
     female_response_2: 55.5
     male_response_1: 24.1
@@ -14141,7 +14141,7 @@
       french: Trop cher!
   poll_id: 14820
   results:
-    accurate_predict: 16.9
+    accurate_predict: 83.1
     female_response_1: 24.0
     female_response_2: 76.0
     male_response_1: 25.0
@@ -14177,7 +14177,7 @@
       french: Immense et luxueuse
   poll_id: 14822
   results:
-    accurate_predict: 22.2
+    accurate_predict: 77.8
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 30.6
@@ -14197,7 +14197,7 @@
       french: Pantalon
   poll_id: 14823
   results:
-    accurate_predict: 40.8
+    accurate_predict: 59.2
     female_response_1: 39.8
     female_response_2: 60.2
     male_response_1: 42.5
@@ -14215,7 +14215,7 @@
       french: Non
   poll_id: 14824
   results:
-    accurate_predict: 56.2
+    accurate_predict: 43.8
     female_response_1: 47.4
     female_response_2: 52.6
     male_response_1: 47.9
@@ -14233,7 +14233,7 @@
       french: Viande
   poll_id: 14825
   results:
-    accurate_predict: 19.7
+    accurate_predict: 80.3
     female_response_1: 30.2
     female_response_2: 69.8
     male_response_1: 21.6
@@ -14305,7 +14305,7 @@
       french: Non
   poll_id: 14829
   results:
-    accurate_predict: 29.3
+    accurate_predict: 70.7
     female_response_1: 32.8
     female_response_2: 67.2
     male_response_1: 34.7
@@ -14359,7 +14359,7 @@
       french: La famille et les amis!
   poll_id: 14832
   results:
-    accurate_predict: 40.7
+    accurate_predict: 59.3
     female_response_1: 36.8
     female_response_2: 63.2
     male_response_1: 40.3
@@ -14377,7 +14377,7 @@
       french: Non
   poll_id: 14833
   results:
-    accurate_predict: 11.3
+    accurate_predict: 88.7
     female_response_1: 6.1
     female_response_2: 93.9
     male_response_1: 8.4
@@ -14413,7 +14413,7 @@
       french: Non
   poll_id: 14835
   results:
-    accurate_predict: 46.2
+    accurate_predict: 53.8
     female_response_1: 32.8
     female_response_2: 67.2
     male_response_1: 31.9
@@ -14449,7 +14449,7 @@
       french: Grande cuisine
   poll_id: 14837
   results:
-    accurate_predict: 50.1
+    accurate_predict: 49.9
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 46.3
@@ -14467,7 +14467,7 @@
       french: Non
   poll_id: 14838
   results:
-    accurate_predict: 30.7
+    accurate_predict: 69.3
     female_response_1: 28.0
     female_response_2: 72.0
     male_response_1: 26.5
@@ -14485,7 +14485,7 @@
       french: Les orages
   poll_id: 14839
   results:
-    accurate_predict: 42.2
+    accurate_predict: 57.8
     female_response_1: 46.3
     female_response_2: 53.7
     male_response_1: 50.9
@@ -14521,7 +14521,7 @@
       french: Un lion
   poll_id: 14841
   results:
-    accurate_predict: 14.9
+    accurate_predict: 85.1
     female_response_1: 21.4
     female_response_2: 78.6
     male_response_1: 18.3
@@ -14539,7 +14539,7 @@
       french: "L'amiti\xE9"
   poll_id: 14842
   results:
-    accurate_predict: 49.1
+    accurate_predict: 50.9
     female_response_1: 43.6
     female_response_2: 56.4
     male_response_1: 46.6
@@ -14557,7 +14557,7 @@
       french: Je le laisse tomber
   poll_id: 14843
   results:
-    accurate_predict: 22.2
+    accurate_predict: 77.8
     female_response_1: 27.3
     female_response_2: 72.7
     male_response_1: 25.3
@@ -14595,7 +14595,7 @@
       french: Non
   poll_id: 14845
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 30.3
     female_response_2: 69.7
     male_response_1: 25.6
@@ -14649,7 +14649,7 @@
       french: Non
   poll_id: 14848
   results:
-    accurate_predict: 52.0
+    accurate_predict: 48.0
     female_response_1: 39.1
     female_response_2: 60.9
     male_response_1: 51.3
@@ -14685,7 +14685,7 @@
       french: "Ecr\xE9m\xE9"
   poll_id: 14850
   results:
-    accurate_predict: 35.0
+    accurate_predict: 65.0
     female_response_1: 32.6
     female_response_2: 67.4
     male_response_1: 38.3
@@ -14721,7 +14721,7 @@
       french: Raides
   poll_id: 14852
   results:
-    accurate_predict: 36.1
+    accurate_predict: 63.9
     female_response_1: 48.5
     female_response_2: 51.5
     male_response_1: 31.5
@@ -14739,7 +14739,7 @@
       french: Lui dites bonjour
   poll_id: 14853
   results:
-    accurate_predict: 33.1
+    accurate_predict: 66.9
     female_response_1: 27.2
     female_response_2: 72.8
     male_response_1: 26.0
@@ -14757,7 +14757,7 @@
       french: Non
   poll_id: 14854
   results:
-    accurate_predict: 59.4
+    accurate_predict: 40.6
     female_response_1: 58.4
     female_response_2: 41.6
     male_response_1: 39.8
@@ -14794,7 +14794,7 @@
       french: Non
   poll_id: 14856
   results:
-    accurate_predict: 54.8
+    accurate_predict: 45.2
     female_response_1: 49.3
     female_response_2: 50.7
     male_response_1: 42.0
@@ -14832,7 +14832,7 @@
       french: Non
   poll_id: 14858
   results:
-    accurate_predict: 20.5
+    accurate_predict: 79.5
     female_response_1: 24.2
     female_response_2: 75.8
     male_response_1: 24.0
@@ -14887,7 +14887,7 @@
       french: Non
   poll_id: 14861
   results:
-    accurate_predict: 36.9
+    accurate_predict: 63.1
     female_response_1: 29.4
     female_response_2: 70.6
     male_response_1: 31.3
@@ -14905,7 +14905,7 @@
       french: Non
   poll_id: 14862
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 26.4
     female_response_2: 73.6
     male_response_1: 20.2
@@ -14923,7 +14923,7 @@
       french: Non
   poll_id: 14863
   results:
-    accurate_predict: 30.9
+    accurate_predict: 69.1
     female_response_1: 36.7
     female_response_2: 63.3
     male_response_1: 36.1
@@ -14977,7 +14977,7 @@
       french: Non
   poll_id: 14866
   results:
-    accurate_predict: 22.8
+    accurate_predict: 77.2
     female_response_1: 24.2
     female_response_2: 75.8
     male_response_1: 26.0
@@ -14995,7 +14995,7 @@
       french: De rock
   poll_id: 14867
   results:
-    accurate_predict: 14.3
+    accurate_predict: 85.7
     female_response_1: 23.4
     female_response_2: 76.6
     male_response_1: 15.3
@@ -15013,7 +15013,7 @@
       french: Sans chaussettes
   poll_id: 14868
   results:
-    accurate_predict: 9.2
+    accurate_predict: 90.8
     female_response_1: 6.6
     female_response_2: 93.4
     male_response_1: 10.7
@@ -15067,7 +15067,7 @@
       french: "L'apportez \xE0 la police"
   poll_id: 14871
   results:
-    accurate_predict: 50.1
+    accurate_predict: 49.9
     female_response_1: 47.1
     female_response_2: 52.9
     male_response_1: 52.2
@@ -15085,7 +15085,7 @@
       french: Un crocodile!
   poll_id: 14872
   results:
-    accurate_predict: 30.2
+    accurate_predict: 69.8
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 24.0
@@ -15104,7 +15104,7 @@
       french: Non...
   poll_id: 14873
   results:
-    accurate_predict: 43.3
+    accurate_predict: 56.7
     female_response_1: 48.7
     female_response_2: 51.3
     male_response_1: 44.1
@@ -15140,7 +15140,7 @@
       french: Non
   poll_id: 14875
   results:
-    accurate_predict: 30.9
+    accurate_predict: 69.1
     female_response_1: 37.0
     female_response_2: 63.0
     male_response_1: 38.6
@@ -15195,7 +15195,7 @@
       french: Ecrits
   poll_id: 14878
   results:
-    accurate_predict: 37.6
+    accurate_predict: 62.4
     female_response_1: 31.3
     female_response_2: 68.7
     male_response_1: 42.2
@@ -15215,7 +15215,7 @@
       french: "P\xE9gase"
   poll_id: 14879
   results:
-    accurate_predict: 33.1
+    accurate_predict: 66.9
     female_response_1: 32.0
     female_response_2: 68.0
     male_response_1: 46.8
@@ -15235,7 +15235,7 @@
       french: Non
   poll_id: 14880
   results:
-    accurate_predict: 40.2
+    accurate_predict: 59.8
     female_response_1: 38.2
     female_response_2: 61.8
     male_response_1: 38.8
@@ -15255,7 +15255,7 @@
       french: "Apr\xE8s"
   poll_id: 14881
   results:
-    accurate_predict: 31.3
+    accurate_predict: 68.7
     female_response_1: 26.0
     female_response_2: 74.0
     male_response_1: 29.7
@@ -15273,7 +15273,7 @@
       french: Ennuyantes
   poll_id: 14882
   results:
-    accurate_predict: 29.3
+    accurate_predict: 70.7
     female_response_1: 32.8
     female_response_2: 67.2
     male_response_1: 31.0
@@ -15291,7 +15291,7 @@
       french: Vertes
   poll_id: 14883
   results:
-    accurate_predict: 41.4
+    accurate_predict: 58.6
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 32.5
@@ -15309,7 +15309,7 @@
       french: Non
   poll_id: 14884
   results:
-    accurate_predict: 11.6
+    accurate_predict: 88.4
     female_response_1: 11.0
     female_response_2: 89.0
     male_response_1: 12.1
@@ -15327,7 +15327,7 @@
       french: Non
   poll_id: 14885
   results:
-    accurate_predict: 27.7
+    accurate_predict: 72.3
     female_response_1: 33.6
     female_response_2: 66.4
     male_response_1: 23.0
@@ -15363,7 +15363,7 @@
       french: Non
   poll_id: 14887
   results:
-    accurate_predict: 16.6
+    accurate_predict: 83.4
     female_response_1: 16.3
     female_response_2: 83.7
     male_response_1: 15.3
@@ -15399,7 +15399,7 @@
       french: Non
   poll_id: 14889
   results:
-    accurate_predict: 34.2
+    accurate_predict: 65.8
     female_response_1: 39.2
     female_response_2: 60.8
     male_response_1: 31.2
@@ -15417,7 +15417,7 @@
       french: Non
   poll_id: 14890
   results:
-    accurate_predict: 35.6
+    accurate_predict: 64.4
     female_response_1: 25.6
     female_response_2: 74.4
     male_response_1: 26.4
@@ -15436,7 +15436,7 @@
       french: Dragon de feu
   poll_id: 14891
   results:
-    accurate_predict: 20.5
+    accurate_predict: 79.5
     female_response_1: 21.3
     female_response_2: 78.7
     male_response_1: 23.8
@@ -15454,7 +15454,7 @@
       french: "Gu\xE9pard"
   poll_id: 14892
   results:
-    accurate_predict: 25.7
+    accurate_predict: 74.3
     female_response_1: 26.8
     female_response_2: 73.2
     male_response_1: 33.9
@@ -15508,7 +15508,7 @@
       french: Le chien
   poll_id: 17201
   results:
-    accurate_predict: 40.0
+    accurate_predict: 60.0
     female_response_1: 45.8
     female_response_2: 54.2
     male_response_1: 45.4
@@ -15526,7 +15526,7 @@
       french: Oui
   poll_id: 17202
   results:
-    accurate_predict: 39.1
+    accurate_predict: 60.9
     female_response_1: 53.5
     female_response_2: 46.5
     male_response_1: 38.1
@@ -15544,7 +15544,7 @@
       french: Non
   poll_id: 17203
   results:
-    accurate_predict: 21.4
+    accurate_predict: 78.6
     female_response_1: 15.3
     female_response_2: 84.7
     male_response_1: 22.6
@@ -15562,7 +15562,7 @@
       french: "Vieilles poup\xE9es"
   poll_id: 17204
   results:
-    accurate_predict: 41.4
+    accurate_predict: 58.6
     female_response_1: 34.5
     female_response_2: 65.5
     male_response_1: 30.7
@@ -15653,7 +15653,7 @@
       french: Le printemps
   poll_id: 17209
   results:
-    accurate_predict: 15.8
+    accurate_predict: 84.2
     female_response_1: 21.5
     female_response_2: 78.5
     male_response_1: 25.4
@@ -15720,8 +15720,8 @@
   date: August 18, 2012
   poll:
     question:
-      french: "Si on vous donnait un ticket pour un aller vers l'espace, iriez-vous\
-        \ ?"
+      french: Si on vous donnait un ticket pour un aller vers l'espace, iriez-vous
+        ?
     response_1:
       french: Oui
     response_2:
@@ -15747,7 +15747,7 @@
       french: "J'essaye de la r\xE9parer"
   poll_id: 17214
   results:
-    accurate_predict: 46.8
+    accurate_predict: 53.2
     female_response_1: 50.1
     female_response_2: 49.9
     male_response_1: 36.3
@@ -15765,7 +15765,7 @@
       french: "Apr\xE8s"
   poll_id: 17215
   results:
-    accurate_predict: 12.4
+    accurate_predict: 87.6
     female_response_1: 13.0
     female_response_2: 87.0
     male_response_1: 14.6
@@ -15785,7 +15785,7 @@
       french: Non
   poll_id: 17216
   results:
-    accurate_predict: 42.0
+    accurate_predict: 58.0
     female_response_1: 35.4
     female_response_2: 64.6
     male_response_1: 35.6
@@ -15821,7 +15821,7 @@
       french: Non, jamais
   poll_id: 17218
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 27.6
@@ -15840,7 +15840,7 @@
       french: Faire la vaisselle
   poll_id: 17219
   results:
-    accurate_predict: 49.8
+    accurate_predict: 50.2
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 48.3
@@ -15897,7 +15897,7 @@
       french: "Les fant\xF4mes"
   poll_id: 17222
   results:
-    accurate_predict: 45.4
+    accurate_predict: 54.6
     female_response_1: 30.1
     female_response_2: 69.9
     male_response_1: 46.9
@@ -15915,7 +15915,7 @@
       french: Extravertie
   poll_id: 17223
   results:
-    accurate_predict: 42.4
+    accurate_predict: 57.6
     female_response_1: 48.0
     female_response_2: 52.0
     male_response_1: 49.0
@@ -15933,7 +15933,7 @@
       french: Non
   poll_id: 17224
   results:
-    accurate_predict: 25.7
+    accurate_predict: 74.3
     female_response_1: 18.1
     female_response_2: 81.9
     male_response_1: 19.7
@@ -15951,7 +15951,7 @@
       french: Non
   poll_id: 17225
   results:
-    accurate_predict: 38.3
+    accurate_predict: 61.7
     female_response_1: 32.2
     female_response_2: 67.8
     male_response_1: 32.7
@@ -15970,7 +15970,7 @@
       french: Ne regardez pas
   poll_id: 17226
   results:
-    accurate_predict: 28.7
+    accurate_predict: 71.3
     female_response_1: 35.8
     female_response_2: 64.2
     male_response_1: 27.8
@@ -15988,7 +15988,7 @@
       french: Non
   poll_id: 17227
   results:
-    accurate_predict: 24.7
+    accurate_predict: 75.3
     female_response_1: 22.6
     female_response_2: 77.4
     male_response_1: 31.8
@@ -16044,7 +16044,7 @@
       french: "Inventez une r\xE9ponse"
   poll_id: 17230
   results:
-    accurate_predict: 48.9
+    accurate_predict: 51.1
     female_response_1: 48.9
     female_response_2: 51.1
     male_response_1: 43.5
@@ -16080,7 +16080,7 @@
       french: "Le N\xE9pal"
   poll_id: 17232
   results:
-    accurate_predict: 19.5
+    accurate_predict: 80.5
     female_response_1: 22.2
     female_response_2: 77.8
     male_response_1: 20.1
@@ -16116,7 +16116,7 @@
       french: Non
   poll_id: 17234
   results:
-    accurate_predict: 33.3
+    accurate_predict: 66.7
     female_response_1: 14.8
     female_response_2: 85.2
     male_response_1: 27.5
@@ -16134,7 +16134,7 @@
       french: "Asseoir derri\xE8re"
   poll_id: 17235
   results:
-    accurate_predict: 31.8
+    accurate_predict: 68.2
     female_response_1: 43.4
     female_response_2: 56.6
     male_response_1: 40.8
@@ -16190,7 +16190,7 @@
       french: Le Soleil
   poll_id: 17238
   results:
-    accurate_predict: 14.1
+    accurate_predict: 85.9
     female_response_1: 14.5
     female_response_2: 85.5
     male_response_1: 13.0
@@ -16244,7 +16244,7 @@
       french: Non
   poll_id: 17241
   results:
-    accurate_predict: 65.1
+    accurate_predict: 34.9
     female_response_1: 46.6
     female_response_2: 53.4
     male_response_1: 46.3
@@ -16282,7 +16282,7 @@
       french: Non
   poll_id: 17243
   results:
-    accurate_predict: 27.7
+    accurate_predict: 72.3
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 36.8
@@ -16319,7 +16319,7 @@
       french: Non
   poll_id: 17245
   results:
-    accurate_predict: 29.2
+    accurate_predict: 70.8
     female_response_1: 36.3
     female_response_2: 63.7
     male_response_1: 30.4
@@ -16337,7 +16337,7 @@
       french: Non
   poll_id: 17246
   results:
-    accurate_predict: 42.9
+    accurate_predict: 57.1
     female_response_1: 38.6
     female_response_2: 61.4
     male_response_1: 36.8
@@ -16357,7 +16357,7 @@
       french: Non
   poll_id: 17247
   results:
-    accurate_predict: 23.6
+    accurate_predict: 76.4
     female_response_1: 32.5
     female_response_2: 67.5
     male_response_1: 27.0
@@ -16431,7 +16431,7 @@
       french: "Je le dis \xE0 mes amis"
   poll_id: 17251
   results:
-    accurate_predict: 41.7
+    accurate_predict: 58.3
     female_response_1: 43.2
     female_response_2: 56.8
     male_response_1: 47.5
@@ -16449,7 +16449,7 @@
       french: Non
   poll_id: 17252
   results:
-    accurate_predict: 54.2
+    accurate_predict: 45.8
     female_response_1: 51.7
     female_response_2: 48.3
     male_response_1: 44.6
@@ -16467,7 +16467,7 @@
       french: Non
   poll_id: 17253
   results:
-    accurate_predict: 54.9
+    accurate_predict: 45.1
     female_response_1: 48.7
     female_response_2: 51.3
     male_response_1: 44.4
@@ -16485,7 +16485,7 @@
       french: Froides
   poll_id: 17254
   results:
-    accurate_predict: 30.3
+    accurate_predict: 69.7
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 25.8
@@ -16631,7 +16631,7 @@
       french: Sauter en parachute
   poll_id: 17262
   results:
-    accurate_predict: 33.3
+    accurate_predict: 66.7
     female_response_1: 35.6
     female_response_2: 64.4
     male_response_1: 28.2
@@ -16721,7 +16721,7 @@
       french: Blanche
   poll_id: 17267
   results:
-    accurate_predict: 40.1
+    accurate_predict: 59.9
     female_response_1: 40.8
     female_response_2: 59.2
     male_response_1: 46.9
@@ -16758,7 +16758,7 @@
       french: Non
   poll_id: 17269
   results:
-    accurate_predict: 23.4
+    accurate_predict: 76.6
     female_response_1: 25.6
     female_response_2: 74.4
     male_response_1: 27.4
@@ -16812,7 +16812,7 @@
       french: L'ascenceur
   poll_id: 17272
   results:
-    accurate_predict: 32.0
+    accurate_predict: 68.0
     female_response_1: 48.6
     female_response_2: 51.4
     male_response_1: 49.0
@@ -16830,7 +16830,7 @@
       french: Non
   poll_id: 17273
   results:
-    accurate_predict: 31.4
+    accurate_predict: 68.6
     female_response_1: 43.8
     female_response_2: 56.2
     male_response_1: 41.9
@@ -16848,7 +16848,7 @@
       french: Blanc
   poll_id: 17274
   results:
-    accurate_predict: 38.7
+    accurate_predict: 61.3
     female_response_1: 39.8
     female_response_2: 60.2
     male_response_1: 41.9
@@ -16866,7 +16866,7 @@
       french: Non
   poll_id: 17275
   results:
-    accurate_predict: 20.0
+    accurate_predict: 80.0
     female_response_1: 15.4
     female_response_2: 84.6
     male_response_1: 31.1
@@ -16884,7 +16884,7 @@
       french: Non
   poll_id: 17276
   results:
-    accurate_predict: 29.9
+    accurate_predict: 70.1
     female_response_1: 29.0
     female_response_2: 71.0
     male_response_1: 31.3
@@ -16922,7 +16922,7 @@
       french: Non
   poll_id: 17278
   results:
-    accurate_predict: 49.2
+    accurate_predict: 50.8
     female_response_1: 36.1
     female_response_2: 63.9
     male_response_1: 35.8
@@ -16942,7 +16942,7 @@
       french: Non
   poll_id: 17279
   results:
-    accurate_predict: 24.0
+    accurate_predict: 76.0
     female_response_1: 24.8
     female_response_2: 75.2
     male_response_1: 26.8
@@ -16960,7 +16960,7 @@
       french: Non
   poll_id: 17280
   results:
-    accurate_predict: 40.1
+    accurate_predict: 59.9
     female_response_1: 40.5
     female_response_2: 59.5
     male_response_1: 43.3
@@ -16978,7 +16978,7 @@
       french: Non
   poll_id: 17281
   results:
-    accurate_predict: 13.7
+    accurate_predict: 86.3
     female_response_1: 10.7
     female_response_2: 89.3
     male_response_1: 11.6
@@ -17015,7 +17015,7 @@
       french: Non
   poll_id: 17283
   results:
-    accurate_predict: 56.4
+    accurate_predict: 43.6
     female_response_1: 48.4
     female_response_2: 51.6
     male_response_1: 49.5
@@ -17033,7 +17033,7 @@
       french: Courts
   poll_id: 17284
   results:
-    accurate_predict: 39.2
+    accurate_predict: 60.8
     female_response_1: 62.8
     female_response_2: 37.2
     male_response_1: 17.4
@@ -17069,7 +17069,7 @@
       french: Les roses
   poll_id: 17286
   results:
-    accurate_predict: 14.2
+    accurate_predict: 85.8
     female_response_1: 15.4
     female_response_2: 84.6
     male_response_1: 23.7
@@ -17089,7 +17089,7 @@
       french: "Impossible \xE0 vivre"
   poll_id: 17287
   results:
-    accurate_predict: 20.0
+    accurate_predict: 80.0
     female_response_1: 30.6
     female_response_2: 69.4
     male_response_1: 27.0
@@ -17201,7 +17201,7 @@
       french: Non
   poll_id: 17293
   results:
-    accurate_predict: 34.0
+    accurate_predict: 66.0
     female_response_1: 22.7
     female_response_2: 77.3
     male_response_1: 35.6
@@ -17219,7 +17219,7 @@
       french: Non
   poll_id: 17294
   results:
-    accurate_predict: 26.7
+    accurate_predict: 73.3
     female_response_1: 16.3
     female_response_2: 83.7
     male_response_1: 20.0
@@ -17237,7 +17237,7 @@
       french: Le cola
   poll_id: 17295
   results:
-    accurate_predict: 20.1
+    accurate_predict: 79.9
     female_response_1: 43.2
     female_response_2: 56.8
     male_response_1: 36.4
@@ -17291,7 +17291,7 @@
       french: "\xAB w \xBB quoi ?"
   poll_id: 17298
   results:
-    accurate_predict: 40.3
+    accurate_predict: 59.7
     female_response_1: 43.5
     female_response_2: 56.5
     male_response_1: 49.2
@@ -17309,7 +17309,7 @@
       french: Non, je ne peux pas
   poll_id: 17299
   results:
-    accurate_predict: 23.0
+    accurate_predict: 77.0
     female_response_1: 28.6
     female_response_2: 71.4
     male_response_1: 17.7
@@ -17327,7 +17327,7 @@
       french: Non, comment on fait ?
   poll_id: 17300
   results:
-    accurate_predict: 41.4
+    accurate_predict: 58.6
     female_response_1: 31.5
     female_response_2: 68.5
     male_response_1: 38.9
@@ -17363,7 +17363,7 @@
       french: Non
   poll_id: 17302
   results:
-    accurate_predict: 47.4
+    accurate_predict: 52.6
     female_response_1: 39.1
     female_response_2: 60.9
     male_response_1: 59.4
@@ -17439,7 +17439,7 @@
       french: Non
   poll_id: 17306
   results:
-    accurate_predict: 14.6
+    accurate_predict: 85.4
     female_response_1: 10.6
     female_response_2: 89.4
     male_response_1: 14.2
@@ -17493,7 +17493,7 @@
       french: "Rien de sp\xE9cial"
   poll_id: 17309
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 22.6
     female_response_2: 77.4
     male_response_1: 24.5
@@ -17513,7 +17513,7 @@
       french: Je ne dirais rien !
   poll_id: 17310
   results:
-    accurate_predict: 52.4
+    accurate_predict: 47.6
     female_response_1: 30.5
     female_response_2: 69.5
     male_response_1: 38.7
@@ -17531,7 +17531,7 @@
       french: Non
   poll_id: 17311
   results:
-    accurate_predict: 53.6
+    accurate_predict: 46.4
     female_response_1: 51.3
     female_response_2: 48.7
     male_response_1: 42.7
@@ -17569,7 +17569,7 @@
       french: Des visages
   poll_id: 17313
   results:
-    accurate_predict: 32.2
+    accurate_predict: 67.8
     female_response_1: 30.8
     female_response_2: 69.2
     male_response_1: 35.1
@@ -17587,7 +17587,7 @@
       french: Le vendredi !
   poll_id: 17314
   results:
-    accurate_predict: 39.5
+    accurate_predict: 60.5
     female_response_1: 42.0
     female_response_2: 58.0
     male_response_1: 39.8
@@ -17607,7 +17607,7 @@
       french: "Non / Peut-\xEAtre"
   poll_id: 17315
   results:
-    accurate_predict: 52.1
+    accurate_predict: 47.9
     female_response_1: 48.0
     female_response_2: 52.0
     male_response_1: 38.1
@@ -17625,7 +17625,7 @@
       french: Absolument pas !
   poll_id: 17316
   results:
-    accurate_predict: 56.1
+    accurate_predict: 43.9
     female_response_1: 43.8
     female_response_2: 56.2
     male_response_1: 55.0
@@ -17682,7 +17682,7 @@
       french: Le 1er Mars
   poll_id: 17319
   results:
-    accurate_predict: 50.1
+    accurate_predict: 49.9
     female_response_1: 45.8
     female_response_2: 54.2
     male_response_1: 49.2
@@ -17718,7 +17718,7 @@
       french: Non
   poll_id: 17321
   results:
-    accurate_predict: 21.2
+    accurate_predict: 78.8
     female_response_1: 16.0
     female_response_2: 84.0
     male_response_1: 22.8
@@ -17736,7 +17736,7 @@
       french: Des lunettes de soleil
   poll_id: 17322
   results:
-    accurate_predict: 19.6
+    accurate_predict: 80.4
     female_response_1: 22.6
     female_response_2: 77.4
     male_response_1: 24.2
@@ -17755,7 +17755,7 @@
       french: "\xC9lectrique"
   poll_id: 17323
   results:
-    accurate_predict: 38.0
+    accurate_predict: 62.0
     female_response_1: 58.0
     female_response_2: 42.0
     male_response_1: 34.0
@@ -17773,7 +17773,7 @@
       french: Pas du tout
   poll_id: 17324
   results:
-    accurate_predict: 21.1
+    accurate_predict: 78.9
     female_response_1: 23.3
     female_response_2: 76.7
     male_response_1: 27.3
@@ -17791,7 +17791,7 @@
       french: Sur place
   poll_id: 17325
   results:
-    accurate_predict: 37.5
+    accurate_predict: 62.5
     female_response_1: 37.3
     female_response_2: 62.7
     male_response_1: 39.1
@@ -17811,7 +17811,7 @@
       french: Aucune chance
   poll_id: 17326
   results:
-    accurate_predict: 27.6
+    accurate_predict: 72.4
     female_response_1: 21.5
     female_response_2: 78.5
     male_response_1: 35.2
@@ -17848,7 +17848,7 @@
       french: Non
   poll_id: 17328
   results:
-    accurate_predict: 47.3
+    accurate_predict: 52.7
     female_response_1: 49.0
     female_response_2: 51.0
     male_response_1: 43.7
@@ -17867,7 +17867,7 @@
       french: "Jouer aux jeux vid\xE9o"
   poll_id: 17329
   results:
-    accurate_predict: 27.8
+    accurate_predict: 72.2
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 32.0
@@ -17904,7 +17904,7 @@
       french: Le tonnerre
   poll_id: 17331
   results:
-    accurate_predict: 38.5
+    accurate_predict: 61.5
     female_response_1: 39.6
     female_response_2: 60.4
     male_response_1: 39.1
@@ -17963,7 +17963,7 @@
       french: C'est infect !
   poll_id: 17334
   results:
-    accurate_predict: 40.0
+    accurate_predict: 60.0
     female_response_1: 38.0
     female_response_2: 62.0
     male_response_1: 34.7
@@ -18035,7 +18035,7 @@
       french: Mous
   poll_id: 17338
   results:
-    accurate_predict: 31.2
+    accurate_predict: 68.8
     female_response_1: 33.0
     female_response_2: 67.0
     male_response_1: 34.7
@@ -18054,7 +18054,7 @@
       french: Oui
   poll_id: 17339
   results:
-    accurate_predict: 45.4
+    accurate_predict: 54.6
     female_response_1: 44.9
     female_response_2: 55.1
     male_response_1: 48.9
@@ -18072,7 +18072,7 @@
       french: Non
   poll_id: 17340
   results:
-    accurate_predict: 23.3
+    accurate_predict: 76.7
     female_response_1: 20.4
     female_response_2: 79.6
     male_response_1: 24.6

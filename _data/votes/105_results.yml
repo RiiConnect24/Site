@@ -9,7 +9,7 @@
       spanish: Fritos
   poll_id: 391
   results:
-    accurate_predict: 4.1
+    accurate_predict: 95.9
     female_response_1: 15.3
     female_response_2: 84.7
     male_response_1: 10.0
@@ -27,7 +27,7 @@
       spanish: Dormir
   poll_id: 392
   results:
-    accurate_predict: 42.5
+    accurate_predict: 57.5
     female_response_1: 36.4
     female_response_2: 63.6
     male_response_1: 48.5
@@ -45,7 +45,7 @@
       spanish: Relajarme en casa
   poll_id: 393
   results:
-    accurate_predict: 80.6
+    accurate_predict: 19.4
     female_response_1: 51.6
     female_response_2: 48.4
     male_response_1: 46.2
@@ -81,7 +81,7 @@
       spanish: Poder volar
   poll_id: 395
   results:
-    accurate_predict: 20.6
+    accurate_predict: 79.4
     female_response_1: 18.3
     female_response_2: 81.7
     male_response_1: 18.5
@@ -117,7 +117,7 @@
       spanish: "El caf\xE9"
   poll_id: 397
   results:
-    accurate_predict: 12.1
+    accurate_predict: 87.9
     female_response_1: 37.5
     female_response_2: 62.5
     male_response_1: 34.5
@@ -189,7 +189,7 @@
       spanish: 'No'
   poll_id: 401
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 22.8
     female_response_2: 77.2
     male_response_1: 29.9
@@ -207,7 +207,7 @@
       spanish: "En un avi\xF3n"
   poll_id: 402
   results:
-    accurate_predict: 21.4
+    accurate_predict: 78.6
     female_response_1: 51.7
     female_response_2: 48.3
     male_response_1: 47.5
@@ -225,7 +225,7 @@
       spanish: Mi felicidad personal
   poll_id: 403
   results:
-    accurate_predict: 65.1
+    accurate_predict: 34.9
     female_response_1: 47.0
     female_response_2: 53.0
     male_response_1: 44.5
@@ -243,7 +243,7 @@
       spanish: Soy un ave nocturna
   poll_id: 404
   results:
-    accurate_predict: 13.5
+    accurate_predict: 86.5
     female_response_1: 34.9
     female_response_2: 65.1
     male_response_1: 29.9
@@ -261,7 +261,7 @@
       spanish: Con un tigre
   poll_id: 405
   results:
-    accurate_predict: 61.3
+    accurate_predict: 38.7
     female_response_1: 42.6
     female_response_2: 57.4
     male_response_1: 46.9
@@ -279,7 +279,7 @@
       spanish: Un guitarrista
   poll_id: 406
   results:
-    accurate_predict: 16.6
+    accurate_predict: 83.4
     female_response_1: 55.9
     female_response_2: 44.1
     male_response_1: 36.9
@@ -315,7 +315,7 @@
       spanish: Me dan asco
   poll_id: 408
   results:
-    accurate_predict: 13.2
+    accurate_predict: 86.8
     female_response_1: 52.4
     female_response_2: 47.6
     male_response_1: 39.9
@@ -333,7 +333,7 @@
       spanish: 'No'
   poll_id: 409
   results:
-    accurate_predict: 43.5
+    accurate_predict: 56.5
     female_response_1: 38.3
     female_response_2: 61.7
     male_response_1: 33.6
@@ -387,7 +387,7 @@
       spanish: Lo dulce
   poll_id: 412
   results:
-    accurate_predict: 13.6
+    accurate_predict: 86.4
     female_response_1: 35.8
     female_response_2: 64.2
     male_response_1: 37.4
@@ -405,7 +405,7 @@
       spanish: 'No'
   poll_id: 413
   results:
-    accurate_predict: 48.0
+    accurate_predict: 52.0
     female_response_1: 47.6
     female_response_2: 52.4
     male_response_1: 32.1
@@ -441,7 +441,7 @@
       spanish: Me lo pienso
   poll_id: 415
   results:
-    accurate_predict: 49.8
+    accurate_predict: 50.2
     female_response_1: 39.9
     female_response_2: 60.1
     male_response_1: 32.7
@@ -459,7 +459,7 @@
       spanish: El azul
   poll_id: 416
   results:
-    accurate_predict: 44.1
+    accurate_predict: 55.9
     female_response_1: 41.2
     female_response_2: 58.8
     male_response_1: 40.3
@@ -477,7 +477,7 @@
       spanish: Lo odio
   poll_id: 417
   results:
-    accurate_predict: 19.9
+    accurate_predict: 80.1
     female_response_1: 32.2
     female_response_2: 67.8
     male_response_1: 35.4
@@ -495,7 +495,7 @@
       spanish: Las comedias
   poll_id: 418
   results:
-    accurate_predict: 61.7
+    accurate_predict: 38.3
     female_response_1: 30.8
     female_response_2: 69.2
     male_response_1: 54.8
@@ -567,7 +567,7 @@
       spanish: 'No'
   poll_id: 422
   results:
-    accurate_predict: 41.8
+    accurate_predict: 58.2
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 39.7
@@ -621,7 +621,7 @@
       spanish: Una leyenda del rock
   poll_id: 425
   results:
-    accurate_predict: 27.1
+    accurate_predict: 72.9
     female_response_1: 22.0
     female_response_2: 78.0
     male_response_1: 26.1
@@ -639,7 +639,7 @@
       spanish: En la ciudad
   poll_id: 426
   results:
-    accurate_predict: 43.1
+    accurate_predict: 56.9
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 47.5
@@ -675,7 +675,7 @@
       spanish: La moderna
   poll_id: 428
   results:
-    accurate_predict: 5.8
+    accurate_predict: 94.2
     female_response_1: 15.9
     female_response_2: 84.1
     male_response_1: 15.3
@@ -693,7 +693,7 @@
       spanish: Al futuro
   poll_id: 429
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 44.5
     female_response_2: 55.5
     male_response_1: 38.0
@@ -711,7 +711,7 @@
       spanish: El derecho
   poll_id: 1700
   results:
-    accurate_predict: 43.2
+    accurate_predict: 56.8
     female_response_1: 51.2
     female_response_2: 48.8
     male_response_1: 48.4
@@ -729,7 +729,7 @@
       spanish: Me vuelvo a dormir
   poll_id: 1701
   results:
-    accurate_predict: 15.0
+    accurate_predict: 85.0
     female_response_1: 26.4
     female_response_2: 73.6
     male_response_1: 28.9
@@ -765,7 +765,7 @@
       spanish: Medio llena
   poll_id: 1703
   results:
-    accurate_predict: 24.1
+    accurate_predict: 75.9
     female_response_1: 35.2
     female_response_2: 64.8
     male_response_1: 30.0
@@ -783,7 +783,7 @@
       spanish: Me los como
   poll_id: 1704
   results:
-    accurate_predict: 43.1
+    accurate_predict: 56.9
     female_response_1: 38.6
     female_response_2: 61.4
     male_response_1: 26.8
@@ -801,7 +801,7 @@
       spanish: 'No'
   poll_id: 1705
   results:
-    accurate_predict: 52.1
+    accurate_predict: 47.9
     female_response_1: 27.2
     female_response_2: 72.8
     male_response_1: 29.6
@@ -819,7 +819,7 @@
       spanish: Fuera
   poll_id: 1706
   results:
-    accurate_predict: 22.9
+    accurate_predict: 77.1
     female_response_1: 37.2
     female_response_2: 62.8
     male_response_1: 46.1
@@ -891,7 +891,7 @@
       spanish: 'No'
   poll_id: 1710
   results:
-    accurate_predict: 41.1
+    accurate_predict: 58.9
     female_response_1: 44.9
     female_response_2: 55.1
     male_response_1: 28.4
@@ -945,7 +945,7 @@
       spanish: "Ba\xF1arme"
   poll_id: 1713
   results:
-    accurate_predict: 34.5
+    accurate_predict: 65.5
     female_response_1: 42.7
     female_response_2: 57.3
     male_response_1: 44.8
@@ -981,7 +981,7 @@
       spanish: 'No'
   poll_id: 1960
   results:
-    accurate_predict: 6.7
+    accurate_predict: 93.3
     female_response_1: 4.5
     female_response_2: 95.5
     male_response_1: 6.2
@@ -1017,7 +1017,7 @@
       spanish: El oscuro
   poll_id: 1962
   results:
-    accurate_predict: 21.6
+    accurate_predict: 78.4
     female_response_1: 36.9
     female_response_2: 63.1
     male_response_1: 40.8
@@ -1035,7 +1035,7 @@
       spanish: La personalidad
   poll_id: 1963
   results:
-    accurate_predict: 23.9
+    accurate_predict: 76.1
     female_response_1: 12.1
     female_response_2: 87.9
     male_response_1: 19.7
@@ -1071,7 +1071,7 @@
       spanish: El snowboard
   poll_id: 1965
   results:
-    accurate_predict: 47.0
+    accurate_predict: 53.0
     female_response_1: 53.3
     female_response_2: 46.7
     male_response_1: 40.7
@@ -1107,7 +1107,7 @@
       spanish: En la segunda
   poll_id: 1967
   results:
-    accurate_predict: 53.0
+    accurate_predict: 47.0
     female_response_1: 48.9
     female_response_2: 51.1
     male_response_1: 50.2
@@ -1125,7 +1125,7 @@
       spanish: El moreno
   poll_id: 1968
   results:
-    accurate_predict: 55.1
+    accurate_predict: 44.9
     female_response_1: 31.9
     female_response_2: 68.1
     male_response_1: 34.5
@@ -1161,7 +1161,7 @@
       spanish: Comida basura
   poll_id: 1970
   results:
-    accurate_predict: 37.7
+    accurate_predict: 62.3
     female_response_1: 61.8
     female_response_2: 38.2
     male_response_1: 44.8
@@ -1179,7 +1179,7 @@
       spanish: Me trabo...
   poll_id: 1971
   results:
-    accurate_predict: 28.8
+    accurate_predict: 71.2
     female_response_1: 36.1
     female_response_2: 63.9
     male_response_1: 43.2
@@ -1197,7 +1197,7 @@
       spanish: Gastar
   poll_id: 1972
   results:
-    accurate_predict: 21.6
+    accurate_predict: 78.4
     female_response_1: 35.1
     female_response_2: 64.9
     male_response_1: 35.2
@@ -1233,7 +1233,7 @@
       spanish: Una piscina
   poll_id: 1974
   results:
-    accurate_predict: 9.7
+    accurate_predict: 90.3
     female_response_1: 11.7
     female_response_2: 88.3
     male_response_1: 19.4
@@ -1251,7 +1251,7 @@
       spanish: 'No'
   poll_id: 1975
   results:
-    accurate_predict: 61.6
+    accurate_predict: 38.4
     female_response_1: 63.8
     female_response_2: 36.2
     male_response_1: 43.9
@@ -1287,7 +1287,7 @@
       spanish: "La dejo para otro d\xEDa"
   poll_id: 1977
   results:
-    accurate_predict: 30.0
+    accurate_predict: 70.0
     female_response_1: 52.9
     female_response_2: 47.1
     male_response_1: 34.3
@@ -1323,7 +1323,7 @@
       spanish: En absoluto
   poll_id: 1979
   results:
-    accurate_predict: 75.2
+    accurate_predict: 24.8
     female_response_1: 44.2
     female_response_2: 55.8
     male_response_1: 46.5
@@ -1359,7 +1359,7 @@
       spanish: Tranquila
   poll_id: 1981
   results:
-    accurate_predict: 57.8
+    accurate_predict: 42.2
     female_response_1: 46.9
     female_response_2: 53.1
     male_response_1: 37.5
@@ -1377,7 +1377,7 @@
       spanish: La italiana
   poll_id: 1982
   results:
-    accurate_predict: 24.8
+    accurate_predict: 75.2
     female_response_1: 26.8
     female_response_2: 73.2
     male_response_1: 29.0
@@ -1395,7 +1395,7 @@
       spanish: Pobre y feliz
   poll_id: 1983
   results:
-    accurate_predict: 21.2
+    accurate_predict: 78.8
     female_response_1: 15.2
     female_response_2: 84.8
     male_response_1: 22.4
@@ -1485,7 +1485,7 @@
       spanish: Digital
   poll_id: 1988
   results:
-    accurate_predict: 35.7
+    accurate_predict: 64.3
     female_response_1: 63.2
     female_response_2: 36.8
     male_response_1: 43.3
@@ -1504,7 +1504,7 @@
       spanish: Me arriesgo
   poll_id: 1989
   results:
-    accurate_predict: 34.0
+    accurate_predict: 66.0
     female_response_1: 36.9
     female_response_2: 63.1
     male_response_1: 17.7
@@ -1540,7 +1540,7 @@
       spanish: Ordenador de sobremesa
   poll_id: 2702
   results:
-    accurate_predict: 61.7
+    accurate_predict: 38.3
     female_response_1: 59.3
     female_response_2: 40.7
     male_response_1: 44.3
@@ -1576,7 +1576,7 @@
       spanish: 'No'
   poll_id: 2704
   results:
-    accurate_predict: 23.7
+    accurate_predict: 76.3
     female_response_1: 40.8
     female_response_2: 59.2
     male_response_1: 25.2
@@ -1594,7 +1594,7 @@
       spanish: Sin pulpa
   poll_id: 2705
   results:
-    accurate_predict: 24.1
+    accurate_predict: 75.9
     female_response_1: 37.8
     female_response_2: 62.2
     male_response_1: 39.8
@@ -1612,7 +1612,7 @@
       spanish: Nunca
   poll_id: 2706
   results:
-    accurate_predict: 30.9
+    accurate_predict: 69.1
     female_response_1: 40.7
     female_response_2: 59.3
     male_response_1: 46.9
@@ -1648,7 +1648,7 @@
       spanish: Ropa de colores
   poll_id: 2708
   results:
-    accurate_predict: 30.4
+    accurate_predict: 69.6
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 50.4
@@ -1666,7 +1666,7 @@
       spanish: 'No'
   poll_id: 2709
   results:
-    accurate_predict: 43.6
+    accurate_predict: 56.4
     female_response_1: 29.8
     female_response_2: 70.2
     male_response_1: 33.3
@@ -1720,7 +1720,7 @@
       spanish: Crujientes
   poll_id: 2712
   results:
-    accurate_predict: 16.2
+    accurate_predict: 83.8
     female_response_1: 24.4
     female_response_2: 75.6
     male_response_1: 28.0
@@ -1756,7 +1756,7 @@
       spanish: En el espacio
   poll_id: 2714
   results:
-    accurate_predict: 25.5
+    accurate_predict: 74.5
     female_response_1: 52.8
     female_response_2: 47.2
     male_response_1: 34.6
@@ -1792,7 +1792,7 @@
       spanish: "Atr\xE1s"
   poll_id: 2716
   results:
-    accurate_predict: 16.1
+    accurate_predict: 83.9
     female_response_1: 19.0
     female_response_2: 81.0
     male_response_1: 21.4
@@ -1810,7 +1810,7 @@
       spanish: 'No'
   poll_id: 2717
   results:
-    accurate_predict: 47.1
+    accurate_predict: 52.9
     female_response_1: 35.6
     female_response_2: 64.4
     male_response_1: 30.3
@@ -1828,7 +1828,7 @@
       spanish: La puesta de sol
   poll_id: 2718
   results:
-    accurate_predict: 25.1
+    accurate_predict: 74.9
     female_response_1: 26.7
     female_response_2: 73.3
     male_response_1: 30.3
@@ -1882,7 +1882,7 @@
       spanish: 'No'
   poll_id: 2721
   results:
-    accurate_predict: 19.5
+    accurate_predict: 80.5
     female_response_1: 18.7
     female_response_2: 81.3
     male_response_1: 27.4
@@ -1900,7 +1900,7 @@
       spanish: El precio
   poll_id: 2722
   results:
-    accurate_predict: 32.2
+    accurate_predict: 67.8
     female_response_1: 22.8
     female_response_2: 77.2
     male_response_1: 29.3
@@ -1918,7 +1918,7 @@
       spanish: Con cubiertos
   poll_id: 2723
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 38.7
     female_response_2: 61.3
     male_response_1: 42.4
@@ -2044,7 +2044,7 @@
       spanish: 'No'
   poll_id: 2730
   results:
-    accurate_predict: 19.9
+    accurate_predict: 80.1
     female_response_1: 31.0
     female_response_2: 69.0
     male_response_1: 32.9
@@ -2062,7 +2062,7 @@
       spanish: 'No'
   poll_id: 2731
   results:
-    accurate_predict: 36.6
+    accurate_predict: 63.4
     female_response_1: 28.0
     female_response_2: 72.0
     male_response_1: 36.3
@@ -2098,7 +2098,7 @@
       spanish: 'No'
   poll_id: 2733
   results:
-    accurate_predict: 20.2
+    accurate_predict: 79.8
     female_response_1: 23.3
     female_response_2: 76.7
     male_response_1: 8.9
@@ -2152,7 +2152,7 @@
       spanish: 'No'
   poll_id: 2736
   results:
-    accurate_predict: 38.2
+    accurate_predict: 61.8
     female_response_1: 54.6
     female_response_2: 45.4
     male_response_1: 29.8
@@ -2170,7 +2170,7 @@
       spanish: "En el sof\xE1"
   poll_id: 2737
   results:
-    accurate_predict: 34.6
+    accurate_predict: 65.4
     female_response_1: 45.2
     female_response_2: 54.8
     male_response_1: 51.7
@@ -2188,7 +2188,7 @@
       spanish: 'No'
   poll_id: 2738
   results:
-    accurate_predict: 42.7
+    accurate_predict: 57.3
     female_response_1: 44.1
     female_response_2: 55.9
     male_response_1: 33.7
@@ -2206,7 +2206,7 @@
       spanish: Color
   poll_id: 2739
   results:
-    accurate_predict: 16.1
+    accurate_predict: 83.9
     female_response_1: 31.2
     female_response_2: 68.8
     male_response_1: 19.0
@@ -2242,7 +2242,7 @@
       spanish: La electricidad
   poll_id: 2741
   results:
-    accurate_predict: 31.5
+    accurate_predict: 68.5
     female_response_1: 36.3
     female_response_2: 63.7
     male_response_1: 39.9
@@ -2278,7 +2278,7 @@
       spanish: Lo moderno
   poll_id: 2743
   results:
-    accurate_predict: 12.8
+    accurate_predict: 87.2
     female_response_1: 27.8
     female_response_2: 72.2
     male_response_1: 22.6
@@ -2296,7 +2296,7 @@
       spanish: 'No'
   poll_id: 2744
   results:
-    accurate_predict: 52.1
+    accurate_predict: 47.9
     female_response_1: 54.9
     female_response_2: 45.1
     male_response_1: 39.2
@@ -2332,7 +2332,7 @@
       spanish: 'No'
   poll_id: 2746
   results:
-    accurate_predict: 22.6
+    accurate_predict: 77.4
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 22.4
@@ -2350,7 +2350,7 @@
       spanish: 'No'
   poll_id: 2747
   results:
-    accurate_predict: 63.7
+    accurate_predict: 36.3
     female_response_1: 53.7
     female_response_2: 46.3
     male_response_1: 46.3
@@ -2368,7 +2368,7 @@
       spanish: Estar de pie
   poll_id: 2748
   results:
-    accurate_predict: 20.9
+    accurate_predict: 79.1
     female_response_1: 41.1
     female_response_2: 58.9
     male_response_1: 39.1
@@ -2404,7 +2404,7 @@
       spanish: 'No'
   poll_id: 2750
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 37.2
     female_response_2: 62.8
     male_response_1: 32.9
@@ -2422,7 +2422,7 @@
       spanish: Un extraterrestre
   poll_id: 2751
   results:
-    accurate_predict: 24.1
+    accurate_predict: 75.9
     female_response_1: 38.1
     female_response_2: 61.9
     male_response_1: 33.9
@@ -2566,7 +2566,7 @@
       spanish: Me quejo
   poll_id: 2759
   results:
-    accurate_predict: 31.5
+    accurate_predict: 68.5
     female_response_1: 36.7
     female_response_2: 63.3
     male_response_1: 45.3
@@ -2657,7 +2657,7 @@
       spanish: "\xA1Qu\xE9 va!"
   poll_id: 2764
   results:
-    accurate_predict: 25.5
+    accurate_predict: 74.5
     female_response_1: 28.2
     female_response_2: 71.8
     male_response_1: 33.0
@@ -2729,7 +2729,7 @@
       spanish: Despierto
   poll_id: 2768
   results:
-    accurate_predict: 44.5
+    accurate_predict: 55.5
     female_response_1: 47.3
     female_response_2: 52.7
     male_response_1: 38.5
@@ -2783,7 +2783,7 @@
       spanish: En formato digital
   poll_id: 3815
   results:
-    accurate_predict: 17.7
+    accurate_predict: 82.3
     female_response_1: 26.6
     female_response_2: 73.4
     male_response_1: 19.8
@@ -2819,7 +2819,7 @@
       spanish: "Un p\xF3ster"
   poll_id: 3817
   results:
-    accurate_predict: 32.3
+    accurate_predict: 67.7
     female_response_1: 54.5
     female_response_2: 45.5
     male_response_1: 35.7
@@ -2911,7 +2911,7 @@
       spanish: 'No'
   poll_id: 3822
   results:
-    accurate_predict: 11.3
+    accurate_predict: 88.7
     female_response_1: 10.5
     female_response_2: 89.5
     male_response_1: 11.5
@@ -2965,7 +2965,7 @@
       spanish: En un saltador-muelle
   poll_id: 3825
   results:
-    accurate_predict: 44.8
+    accurate_predict: 55.2
     female_response_1: 46.0
     female_response_2: 54.0
     male_response_1: 43.0
@@ -3001,7 +3001,7 @@
       spanish: Pitido
   poll_id: 3827
   results:
-    accurate_predict: 37.9
+    accurate_predict: 62.1
     female_response_1: 44.4
     female_response_2: 55.6
     male_response_1: 41.6
@@ -3019,7 +3019,7 @@
       spanish: El largo y llano
   poll_id: 3828
   results:
-    accurate_predict: 43.3
+    accurate_predict: 56.7
     female_response_1: 37.6
     female_response_2: 62.4
     male_response_1: 54.7
@@ -3037,7 +3037,7 @@
       spanish: La mala
   poll_id: 3829
   results:
-    accurate_predict: 35.8
+    accurate_predict: 64.2
     female_response_1: 27.2
     female_response_2: 72.8
     male_response_1: 28.6
@@ -3055,7 +3055,7 @@
       spanish: 'No'
   poll_id: 3830
   results:
-    accurate_predict: 40.4
+    accurate_predict: 59.6
     female_response_1: 37.2
     female_response_2: 62.8
     male_response_1: 33.8
@@ -3091,7 +3091,7 @@
       spanish: Secar los platos
   poll_id: 3832
   results:
-    accurate_predict: 27.8
+    accurate_predict: 72.2
     female_response_1: 52.9
     female_response_2: 47.1
     male_response_1: 39.1
@@ -3109,7 +3109,7 @@
       spanish: Playa
   poll_id: 3833
   results:
-    accurate_predict: 23.5
+    accurate_predict: 76.5
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 44.8
@@ -3145,7 +3145,7 @@
       spanish: "Le dejar\xEDa tranquilo"
   poll_id: 3835
   results:
-    accurate_predict: 80.8
+    accurate_predict: 19.2
     female_response_1: 52.9
     female_response_2: 47.1
     male_response_1: 45.9
@@ -3181,7 +3181,7 @@
       spanish: Algo diferente
   poll_id: 3837
   results:
-    accurate_predict: 42.4
+    accurate_predict: 57.6
     female_response_1: 45.3
     female_response_2: 54.7
     male_response_1: 47.6
@@ -3235,7 +3235,7 @@
       spanish: Con letra ligada
   poll_id: 3840
   results:
-    accurate_predict: 15.0
+    accurate_predict: 85.0
     female_response_1: 14.1
     female_response_2: 85.9
     male_response_1: 16.8
@@ -3253,7 +3253,7 @@
       spanish: Salir a la calle
   poll_id: 3841
   results:
-    accurate_predict: 13.9
+    accurate_predict: 86.1
     female_response_1: 22.7
     female_response_2: 77.3
     male_response_1: 19.7
@@ -3271,7 +3271,7 @@
       spanish: '"Cuando pueda"'
   poll_id: 3842
   results:
-    accurate_predict: 11.7
+    accurate_predict: 88.3
     female_response_1: 17.4
     female_response_2: 82.6
     male_response_1: 16.9
@@ -3325,7 +3325,7 @@
       spanish: "Detr\xE1s"
   poll_id: 3845
   results:
-    accurate_predict: 25.6
+    accurate_predict: 74.4
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 34.8
@@ -3362,7 +3362,7 @@
       spanish: Saboreo cada bocado
   poll_id: 3847
   results:
-    accurate_predict: 32.7
+    accurate_predict: 67.3
     female_response_1: 30.3
     female_response_2: 69.7
     male_response_1: 42.8
@@ -3380,7 +3380,7 @@
       spanish: Zapatillas deportivas
   poll_id: 3848
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 39.5
     female_response_2: 60.5
     male_response_1: 18.7
@@ -3471,7 +3471,7 @@
       spanish: "En el d\xEDa siguiente"
   poll_id: 3853
   results:
-    accurate_predict: 35.5
+    accurate_predict: 64.5
     female_response_1: 36.4
     female_response_2: 63.6
     male_response_1: 35.8
@@ -3543,7 +3543,7 @@
       spanish: A mi famoso preferido
   poll_id: 3857
   results:
-    accurate_predict: 36.9
+    accurate_predict: 63.1
     female_response_1: 33.1
     female_response_2: 66.9
     male_response_1: 52.7
@@ -3597,7 +3597,7 @@
       spanish: Son monos
   poll_id: 3860
   results:
-    accurate_predict: 59.4
+    accurate_predict: 40.6
     female_response_1: 50.0
     female_response_2: 50.0
     male_response_1: 29.5
@@ -3615,7 +3615,7 @@
       spanish: "Lo ceder\xEDa"
   poll_id: 3861
   results:
-    accurate_predict: 56.0
+    accurate_predict: 44.0
     female_response_1: 45.1
     female_response_2: 54.9
     male_response_1: 51.3
@@ -3669,7 +3669,7 @@
       spanish: "Despu\xE9s de vestirme"
   poll_id: 5012
   results:
-    accurate_predict: 46.5
+    accurate_predict: 53.5
     female_response_1: 47.8
     female_response_2: 52.2
     male_response_1: 42.8
@@ -3705,7 +3705,7 @@
       spanish: 'No'
   poll_id: 5014
   results:
-    accurate_predict: 12.9
+    accurate_predict: 87.1
     female_response_1: 15.3
     female_response_2: 84.7
     male_response_1: 14.6
@@ -3741,7 +3741,7 @@
       spanish: Impar
   poll_id: 5016
   results:
-    accurate_predict: 47.4
+    accurate_predict: 52.6
     female_response_1: 48.1
     female_response_2: 51.9
     male_response_1: 45.0
@@ -3759,7 +3759,7 @@
       spanish: "\xA1Puag!"
   poll_id: 5017
   results:
-    accurate_predict: 25.3
+    accurate_predict: 74.7
     female_response_1: 32.5
     female_response_2: 67.5
     male_response_1: 35.8
@@ -3795,7 +3795,7 @@
       spanish: Derecho
   poll_id: 5019
   results:
-    accurate_predict: 37.8
+    accurate_predict: 62.2
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 43.4
@@ -3885,7 +3885,7 @@
       spanish: 'No'
   poll_id: 5024
   results:
-    accurate_predict: 39.9
+    accurate_predict: 60.1
     female_response_1: 36.9
     female_response_2: 63.1
     male_response_1: 35.9
@@ -3903,7 +3903,7 @@
       spanish: "\xA1Nunca!"
   poll_id: 5025
   results:
-    accurate_predict: 43.8
+    accurate_predict: 56.2
     female_response_1: 44.4
     female_response_2: 55.6
     male_response_1: 45.0
@@ -3921,7 +3921,7 @@
       spanish: Derecho
   poll_id: 5026
   results:
-    accurate_predict: 24.3
+    accurate_predict: 75.7
     female_response_1: 30.1
     female_response_2: 69.9
     male_response_1: 33.5
@@ -3975,7 +3975,7 @@
       spanish: Tiempo aprovechado
   poll_id: 5029
   results:
-    accurate_predict: 34.6
+    accurate_predict: 65.4
     female_response_1: 28.9
     female_response_2: 71.1
     male_response_1: 34.8
@@ -3993,7 +3993,7 @@
       spanish: 'No'
   poll_id: 5030
   results:
-    accurate_predict: 24.3
+    accurate_predict: 75.7
     female_response_1: 26.2
     female_response_2: 73.8
     male_response_1: 22.5
@@ -4011,7 +4011,7 @@
       spanish: "Muchos peque\xF1os"
   poll_id: 5031
   results:
-    accurate_predict: 43.4
+    accurate_predict: 56.6
     female_response_1: 34.0
     female_response_2: 66.0
     male_response_1: 38.1
@@ -4083,7 +4083,7 @@
       spanish: 'No'
   poll_id: 5035
   results:
-    accurate_predict: 55.7
+    accurate_predict: 44.3
     female_response_1: 49.8
     female_response_2: 50.2
     male_response_1: 47.6
@@ -4101,7 +4101,7 @@
       spanish: "\xA1Con queso!"
   poll_id: 5036
   results:
-    accurate_predict: 16.9
+    accurate_predict: 83.1
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 23.8
@@ -4119,7 +4119,7 @@
       spanish: Manual
   poll_id: 5037
   results:
-    accurate_predict: 21.4
+    accurate_predict: 78.6
     female_response_1: 22.8
     female_response_2: 77.2
     male_response_1: 25.3
@@ -4191,7 +4191,7 @@
       spanish: De oro
   poll_id: 5041
   results:
-    accurate_predict: 25.8
+    accurate_predict: 74.2
     female_response_1: 52.0
     female_response_2: 48.0
     male_response_1: 42.5
@@ -4209,7 +4209,7 @@
       spanish: 'No'
   poll_id: 5042
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 23.8
     female_response_2: 76.2
     male_response_1: 16.1
@@ -4227,7 +4227,7 @@
       spanish: Lo recojo
   poll_id: 5043
   results:
-    accurate_predict: 34.6
+    accurate_predict: 65.4
     female_response_1: 27.4
     female_response_2: 72.6
     male_response_1: 31.6
@@ -4263,7 +4263,7 @@
       spanish: 'No'
   poll_id: 5045
   results:
-    accurate_predict: 43.9
+    accurate_predict: 56.1
     female_response_1: 45.6
     female_response_2: 54.4
     male_response_1: 45.9
@@ -4281,7 +4281,7 @@
       spanish: De tapa dura
   poll_id: 5046
   results:
-    accurate_predict: 46.0
+    accurate_predict: 54.0
     female_response_1: 36.7
     female_response_2: 63.3
     male_response_1: 37.0
@@ -4353,7 +4353,7 @@
       spanish: La familia
   poll_id: 5050
   results:
-    accurate_predict: 14.0
+    accurate_predict: 86.0
     female_response_1: 12.3
     female_response_2: 87.7
     male_response_1: 16.0
@@ -4389,7 +4389,7 @@
       spanish: Fina y crujiente
   poll_id: 5052
   results:
-    accurate_predict: 29.4
+    accurate_predict: 70.6
     female_response_1: 28.8
     female_response_2: 71.2
     male_response_1: 37.2
@@ -4425,7 +4425,7 @@
       spanish: Ser
   poll_id: 5054
   results:
-    accurate_predict: 31.8
+    accurate_predict: 68.2
     female_response_1: 22.8
     female_response_2: 77.2
     male_response_1: 27.0
@@ -4443,7 +4443,7 @@
       spanish: Son mayores
   poll_id: 5055
   results:
-    accurate_predict: 38.6
+    accurate_predict: 61.4
     female_response_1: 40.9
     female_response_2: 59.1
     male_response_1: 47.5
@@ -4624,7 +4624,7 @@
       spanish: 'No'
   poll_id: 5065
   results:
-    accurate_predict: 43.6
+    accurate_predict: 56.4
     female_response_1: 36.6
     female_response_2: 63.4
     male_response_1: 43.4
@@ -4643,7 +4643,7 @@
       spanish: 'No'
   poll_id: 5066
   results:
-    accurate_predict: 61.9
+    accurate_predict: 38.1
     female_response_1: 46.3
     female_response_2: 53.7
     male_response_1: 47.1
@@ -4679,7 +4679,7 @@
       spanish: En Estados Unidos
   poll_id: 5068
   results:
-    accurate_predict: 34.3
+    accurate_predict: 65.7
     female_response_1: 33.6
     female_response_2: 66.4
     male_response_1: 46.1
@@ -4697,7 +4697,7 @@
       spanish: 'No'
   poll_id: 5069
   results:
-    accurate_predict: 26.3
+    accurate_predict: 73.7
     female_response_1: 18.3
     female_response_2: 81.7
     male_response_1: 19.9
@@ -4715,7 +4715,7 @@
       spanish: 'No'
   poll_id: 5070
   results:
-    accurate_predict: 47.9
+    accurate_predict: 52.1
     female_response_1: 52.8
     female_response_2: 47.2
     male_response_1: 47.4
@@ -4769,7 +4769,7 @@
       spanish: La espada
   poll_id: 5073
   results:
-    accurate_predict: 35.5
+    accurate_predict: 64.5
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 38.7
@@ -4824,7 +4824,7 @@
       spanish: "\xA1Ni pensarlo!"
   poll_id: 5076
   results:
-    accurate_predict: 33.5
+    accurate_predict: 66.5
     female_response_1: 30.3
     female_response_2: 69.7
     male_response_1: 36.3
@@ -4842,7 +4842,7 @@
       spanish: Ciencias
   poll_id: 5077
   results:
-    accurate_predict: 42.5
+    accurate_predict: 57.5
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 29.3
@@ -4915,7 +4915,7 @@
       spanish: "Me hago el remol\xF3n"
   poll_id: 6113
   results:
-    accurate_predict: 20.9
+    accurate_predict: 79.1
     female_response_1: 36.2
     female_response_2: 63.8
     male_response_1: 35.2
@@ -4951,7 +4951,7 @@
       spanish: En el mar
   poll_id: 6115
   results:
-    accurate_predict: 33.5
+    accurate_predict: 66.5
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 39.9
@@ -4969,7 +4969,7 @@
       spanish: Un cuadro
   poll_id: 6116
   results:
-    accurate_predict: 45.0
+    accurate_predict: 55.0
     female_response_1: 47.0
     female_response_2: 53.0
     male_response_1: 42.9
@@ -4987,7 +4987,7 @@
       spanish: 'No'
   poll_id: 6117
   results:
-    accurate_predict: 28.3
+    accurate_predict: 71.7
     female_response_1: 33.2
     female_response_2: 66.8
     male_response_1: 38.8
@@ -5041,7 +5041,7 @@
       spanish: Mermelada
   poll_id: 6120
   results:
-    accurate_predict: 12.3
+    accurate_predict: 87.7
     female_response_1: 16.9
     female_response_2: 83.1
     male_response_1: 19.0
@@ -5095,7 +5095,7 @@
       spanish: 'No'
   poll_id: 6123
   results:
-    accurate_predict: 24.9
+    accurate_predict: 75.1
     female_response_1: 24.3
     female_response_2: 75.7
     male_response_1: 23.0
@@ -5113,7 +5113,7 @@
       spanish: Pintadas
   poll_id: 6124
   results:
-    accurate_predict: 11.0
+    accurate_predict: 89.0
     female_response_1: 11.8
     female_response_2: 88.2
     male_response_1: 10.4
@@ -5167,7 +5167,7 @@
       spanish: 'No'
   poll_id: 6127
   results:
-    accurate_predict: 37.2
+    accurate_predict: 62.8
     female_response_1: 40.2
     female_response_2: 59.8
     male_response_1: 25.8
@@ -5185,7 +5185,7 @@
       spanish: Videojuegos
   poll_id: 6128
   results:
-    accurate_predict: 10.8
+    accurate_predict: 89.2
     female_response_1: 36.6
     female_response_2: 63.4
     male_response_1: 17.0
@@ -5221,7 +5221,7 @@
       spanish: Arte moderno
   poll_id: 6130
   results:
-    accurate_predict: 44.3
+    accurate_predict: 55.7
     female_response_1: 46.1
     female_response_2: 53.9
     male_response_1: 45.3
@@ -5257,7 +5257,7 @@
       spanish: Las avispas
   poll_id: 6402
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 30.4
     female_response_2: 69.6
     male_response_1: 28.7
@@ -5293,7 +5293,7 @@
       spanish: "El k\xE9tchup"
   poll_id: 6404
   results:
-    accurate_predict: 21.5
+    accurate_predict: 78.5
     female_response_1: 43.2
     female_response_2: 56.8
     male_response_1: 35.3
@@ -5347,7 +5347,7 @@
       spanish: "\xA1Ni hablar!"
   poll_id: 6407
   results:
-    accurate_predict: 23.8
+    accurate_predict: 76.2
     female_response_1: 43.8
     female_response_2: 56.2
     male_response_1: 41.4
@@ -5383,7 +5383,7 @@
       spanish: 'No'
   poll_id: 6409
   results:
-    accurate_predict: 71.2
+    accurate_predict: 28.8
     female_response_1: 49.9
     female_response_2: 50.1
     male_response_1: 47.0
@@ -5419,7 +5419,7 @@
       spanish: 'No'
   poll_id: 6411
   results:
-    accurate_predict: 16.1
+    accurate_predict: 83.9
     female_response_1: 18.1
     female_response_2: 81.9
     male_response_1: 14.7
@@ -5437,7 +5437,7 @@
       spanish: Por la noche
   poll_id: 6412
   results:
-    accurate_predict: 51.6
+    accurate_predict: 48.4
     female_response_1: 37.1
     female_response_2: 62.9
     male_response_1: 34.2
@@ -5455,7 +5455,7 @@
       spanish: 'No'
   poll_id: 6413
   results:
-    accurate_predict: 35.8
+    accurate_predict: 64.2
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 27.7
@@ -5491,7 +5491,7 @@
       spanish: 'No'
   poll_id: 6415
   results:
-    accurate_predict: 10.3
+    accurate_predict: 89.7
     female_response_1: 11.9
     female_response_2: 88.1
     male_response_1: 10.3
@@ -5563,7 +5563,7 @@
       spanish: Prestar
   poll_id: 6419
   results:
-    accurate_predict: 54.9
+    accurate_predict: 45.1
     female_response_1: 36.5
     female_response_2: 63.5
     male_response_1: 37.6
@@ -5617,7 +5617,7 @@
       spanish: El bollo
   poll_id: 6422
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 46.4
     female_response_2: 53.6
     male_response_1: 42.3
@@ -5653,7 +5653,7 @@
       spanish: "En otro pa\xEDs"
   poll_id: 6424
   results:
-    accurate_predict: 23.9
+    accurate_predict: 76.1
     female_response_1: 30.1
     female_response_2: 69.9
     male_response_1: 35.5
@@ -5779,7 +5779,7 @@
       spanish: 'No'
   poll_id: 6431
   results:
-    accurate_predict: 51.9
+    accurate_predict: 48.1
     female_response_1: 34.9
     female_response_2: 65.1
     male_response_1: 32.0
@@ -5797,7 +5797,7 @@
       spanish: "\xA1Dan mala suerte!"
   poll_id: 6432
   results:
-    accurate_predict: 17.2
+    accurate_predict: 82.8
     female_response_1: 38.3
     female_response_2: 61.7
     male_response_1: 32.7
@@ -5815,7 +5815,7 @@
       spanish: Ser jugador
   poll_id: 6433
   results:
-    accurate_predict: 28.0
+    accurate_predict: 72.0
     female_response_1: 49.1
     female_response_2: 50.9
     male_response_1: 27.0
@@ -5833,7 +5833,7 @@
       spanish: 'No'
   poll_id: 6434
   results:
-    accurate_predict: 47.1
+    accurate_predict: 52.9
     female_response_1: 49.3
     female_response_2: 50.7
     male_response_1: 43.8
@@ -5851,7 +5851,7 @@
       spanish: "\xA1No lo soporto!"
   poll_id: 6435
   results:
-    accurate_predict: 35.6
+    accurate_predict: 64.4
     female_response_1: 33.1
     female_response_2: 66.9
     male_response_1: 36.2
@@ -5905,7 +5905,7 @@
       spanish: Hacia la derecha
   poll_id: 6438
   results:
-    accurate_predict: 34.0
+    accurate_predict: 66.0
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 40.7
@@ -5923,7 +5923,7 @@
       spanish: 'No'
   poll_id: 6439
   results:
-    accurate_predict: 14.4
+    accurate_predict: 85.6
     female_response_1: 15.5
     female_response_2: 84.5
     male_response_1: 13.5
@@ -5941,7 +5941,7 @@
       spanish: De chocolate
   poll_id: 6440
   results:
-    accurate_predict: 10.5
+    accurate_predict: 89.5
     female_response_1: 15.4
     female_response_2: 84.6
     male_response_1: 16.1
@@ -5959,7 +5959,7 @@
       spanish: 'No'
   poll_id: 6441
   results:
-    accurate_predict: 20.7
+    accurate_predict: 79.3
     female_response_1: 17.7
     female_response_2: 82.3
     male_response_1: 19.8
@@ -5996,7 +5996,7 @@
       spanish: 'No'
   poll_id: 6443
   results:
-    accurate_predict: 42.8
+    accurate_predict: 57.2
     female_response_1: 39.2
     female_response_2: 60.8
     male_response_1: 45.7
@@ -6014,7 +6014,7 @@
       spanish: 'No'
   poll_id: 6444
   results:
-    accurate_predict: 44.4
+    accurate_predict: 55.6
     female_response_1: 33.1
     female_response_2: 66.9
     male_response_1: 36.4
@@ -6032,7 +6032,7 @@
       spanish: En vaso
   poll_id: 6445
   results:
-    accurate_predict: 14.9
+    accurate_predict: 85.1
     female_response_1: 19.1
     female_response_2: 80.9
     male_response_1: 14.5
@@ -6068,7 +6068,7 @@
       spanish: Pop
   poll_id: 6919
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 29.1
     female_response_2: 70.9
     male_response_1: 54.2
@@ -6194,7 +6194,7 @@
       spanish: 'No'
   poll_id: 6926
   results:
-    accurate_predict: 30.4
+    accurate_predict: 69.6
     female_response_1: 37.7
     female_response_2: 62.3
     male_response_1: 30.6
@@ -6248,7 +6248,7 @@
       spanish: Playas
   poll_id: 6929
   results:
-    accurate_predict: 6.5
+    accurate_predict: 93.5
     female_response_1: 13.0
     female_response_2: 87.0
     male_response_1: 14.1
@@ -6266,7 +6266,7 @@
       spanish: 'No'
   poll_id: 6930
   results:
-    accurate_predict: 11.9
+    accurate_predict: 88.1
     female_response_1: 13.5
     female_response_2: 86.5
     male_response_1: 14.3
@@ -6302,7 +6302,7 @@
       spanish: 'No'
   poll_id: 6932
   results:
-    accurate_predict: 44.6
+    accurate_predict: 55.4
     female_response_1: 30.1
     female_response_2: 69.9
     male_response_1: 31.3
@@ -6374,7 +6374,7 @@
       spanish: 'No'
   poll_id: 6936
   results:
-    accurate_predict: 52.2
+    accurate_predict: 47.8
     female_response_1: 28.6
     female_response_2: 71.4
     male_response_1: 35.6
@@ -6392,7 +6392,7 @@
       spanish: Tostado
   poll_id: 6937
   results:
-    accurate_predict: 35.5
+    accurate_predict: 64.5
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 36.1
@@ -6410,7 +6410,7 @@
       spanish: 'No'
   poll_id: 6938
   results:
-    accurate_predict: 39.6
+    accurate_predict: 60.4
     female_response_1: 31.0
     female_response_2: 69.0
     male_response_1: 37.3
@@ -6464,7 +6464,7 @@
       spanish: 'No'
   poll_id: 6941
   results:
-    accurate_predict: 50.7
+    accurate_predict: 49.3
     female_response_1: 41.8
     female_response_2: 58.2
     male_response_1: 45.1
@@ -6482,7 +6482,7 @@
       spanish: 'No'
   poll_id: 6942
   results:
-    accurate_predict: 20.5
+    accurate_predict: 79.5
     female_response_1: 15.4
     female_response_2: 84.6
     male_response_1: 21.3
@@ -6500,7 +6500,7 @@
       spanish: "Samur\xE1i"
   poll_id: 6943
   results:
-    accurate_predict: 36.4
+    accurate_predict: 63.6
     female_response_1: 41.3
     female_response_2: 58.7
     male_response_1: 36.6
@@ -6536,7 +6536,7 @@
       spanish: 'No'
   poll_id: 6945
   results:
-    accurate_predict: 10.8
+    accurate_predict: 89.2
     female_response_1: 9.8
     female_response_2: 90.2
     male_response_1: 13.9
@@ -6608,7 +6608,7 @@
       spanish: Verdes
   poll_id: 6949
   results:
-    accurate_predict: 25.7
+    accurate_predict: 74.3
     female_response_1: 28.1
     female_response_2: 71.9
     male_response_1: 28.4
@@ -6680,7 +6680,7 @@
       spanish: "Cine polic\xEDaco"
   poll_id: 6953
   results:
-    accurate_predict: 29.8
+    accurate_predict: 70.2
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 41.5
@@ -6734,7 +6734,7 @@
       spanish: Tengo hermanos
   poll_id: 6956
   results:
-    accurate_predict: 12.2
+    accurate_predict: 87.8
     female_response_1: 16.2
     female_response_2: 83.8
     male_response_1: 16.4
@@ -6770,7 +6770,7 @@
       spanish: 'No'
   poll_id: 6958
   results:
-    accurate_predict: 39.6
+    accurate_predict: 60.4
     female_response_1: 37.0
     female_response_2: 63.0
     male_response_1: 51.0
@@ -6824,7 +6824,7 @@
       spanish: Alquilo
   poll_id: 6961
   results:
-    accurate_predict: 39.4
+    accurate_predict: 60.6
     female_response_1: 47.7
     female_response_2: 52.3
     male_response_1: 48.8
@@ -6842,7 +6842,7 @@
       spanish: 'No'
   poll_id: 6962
   results:
-    accurate_predict: 19.6
+    accurate_predict: 80.4
     female_response_1: 22.8
     female_response_2: 77.2
     male_response_1: 19.4
@@ -6878,7 +6878,7 @@
       spanish: 'No'
   poll_id: 6964
   results:
-    accurate_predict: 38.5
+    accurate_predict: 61.5
     female_response_1: 37.6
     female_response_2: 62.4
     male_response_1: 37.2
@@ -7004,7 +7004,7 @@
       spanish: De safari
   poll_id: 8115
   results:
-    accurate_predict: 38.1
+    accurate_predict: 61.9
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 36.8
@@ -7040,7 +7040,7 @@
       spanish: Guisantes
   poll_id: 8117
   results:
-    accurate_predict: 31.7
+    accurate_predict: 68.3
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 36.7
@@ -7076,7 +7076,7 @@
       spanish: 'No'
   poll_id: 8119
   results:
-    accurate_predict: 13.4
+    accurate_predict: 86.6
     female_response_1: 21.3
     female_response_2: 78.7
     male_response_1: 16.8
@@ -7094,7 +7094,7 @@
       spanish: 'No'
   poll_id: 8120
   results:
-    accurate_predict: 41.1
+    accurate_predict: 58.9
     female_response_1: 39.4
     female_response_2: 60.6
     male_response_1: 44.6
@@ -7112,7 +7112,7 @@
       spanish: 'No'
   poll_id: 8121
   results:
-    accurate_predict: 61.2
+    accurate_predict: 38.8
     female_response_1: 55.0
     female_response_2: 45.0
     male_response_1: 44.1
@@ -7130,7 +7130,7 @@
       spanish: 'No'
   poll_id: 8122
   results:
-    accurate_predict: 14.3
+    accurate_predict: 85.7
     female_response_1: 14.0
     female_response_2: 86.0
     male_response_1: 15.5
@@ -7166,7 +7166,7 @@
       spanish: "El t\xE9 helado"
   poll_id: 8124
   results:
-    accurate_predict: 51.9
+    accurate_predict: 48.1
     female_response_1: 47.8
     female_response_2: 52.2
     male_response_1: 45.3
@@ -7184,7 +7184,7 @@
       spanish: 'No'
   poll_id: 8125
   results:
-    accurate_predict: 16.8
+    accurate_predict: 83.2
     female_response_1: 18.2
     female_response_2: 81.8
     male_response_1: 20.9
@@ -7202,7 +7202,7 @@
       spanish: Verde
   poll_id: 8126
   results:
-    accurate_predict: 33.4
+    accurate_predict: 66.6
     female_response_1: 36.3
     female_response_2: 63.7
     male_response_1: 29.3
@@ -7220,7 +7220,7 @@
       spanish: 'No'
   poll_id: 8127
   results:
-    accurate_predict: 44.7
+    accurate_predict: 55.3
     female_response_1: 33.7
     female_response_2: 66.3
     male_response_1: 34.2
@@ -7238,7 +7238,7 @@
       spanish: 'No'
   poll_id: 8128
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 18.1
     female_response_2: 81.9
     male_response_1: 20.9
@@ -7274,7 +7274,7 @@
       spanish: De madera
   poll_id: 8130
   results:
-    accurate_predict: 33.6
+    accurate_predict: 66.4
     female_response_1: 30.0
     female_response_2: 70.0
     male_response_1: 33.2
@@ -7292,7 +7292,7 @@
       spanish: 'No'
   poll_id: 8131
   results:
-    accurate_predict: 55.6
+    accurate_predict: 44.4
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 47.4
@@ -7364,7 +7364,7 @@
       spanish: 'No'
   poll_id: 8135
   results:
-    accurate_predict: 40.8
+    accurate_predict: 59.2
     female_response_1: 32.8
     female_response_2: 67.2
     male_response_1: 22.1
@@ -7418,7 +7418,7 @@
       spanish: 'No'
   poll_id: 8138
   results:
-    accurate_predict: 54.9
+    accurate_predict: 45.1
     female_response_1: 41.9
     female_response_2: 58.1
     male_response_1: 47.1
@@ -7454,7 +7454,7 @@
       spanish: 'No'
   poll_id: 8140
   results:
-    accurate_predict: 39.7
+    accurate_predict: 60.3
     female_response_1: 48.3
     female_response_2: 51.7
     male_response_1: 43.2
@@ -7472,7 +7472,7 @@
       spanish: 'No'
   poll_id: 8141
   results:
-    accurate_predict: 20.2
+    accurate_predict: 79.8
     female_response_1: 19.7
     female_response_2: 80.3
     male_response_1: 29.3
@@ -7490,7 +7490,7 @@
       spanish: "L\xEDquido"
   poll_id: 8142
   results:
-    accurate_predict: 17.0
+    accurate_predict: 83.0
     female_response_1: 15.4
     female_response_2: 84.6
     male_response_1: 16.9
@@ -7526,7 +7526,7 @@
       spanish: Los viernes
   poll_id: 8144
   results:
-    accurate_predict: 5.8
+    accurate_predict: 94.2
     female_response_1: 9.1
     female_response_2: 90.9
     male_response_1: 7.1
@@ -7634,7 +7634,7 @@
       spanish: De tapa corredera
   poll_id: 8150
   results:
-    accurate_predict: 37.1
+    accurate_predict: 62.9
     female_response_1: 40.8
     female_response_2: 59.2
     male_response_1: 35.8
@@ -7688,7 +7688,7 @@
       spanish: Los delfines
   poll_id: 8153
   results:
-    accurate_predict: 12.4
+    accurate_predict: 87.6
     female_response_1: 13.3
     female_response_2: 86.7
     male_response_1: 22.3
@@ -7724,7 +7724,7 @@
       spanish: "\xA1Qu\xE9 va!"
   poll_id: 8155
   results:
-    accurate_predict: 17.3
+    accurate_predict: 82.7
     female_response_1: 22.6
     female_response_2: 77.4
     male_response_1: 14.6
@@ -7778,7 +7778,7 @@
       spanish: 'No'
   poll_id: 8158
   results:
-    accurate_predict: 50.4
+    accurate_predict: 49.6
     female_response_1: 49.1
     female_response_2: 50.9
     male_response_1: 21.7
@@ -7886,7 +7886,7 @@
       spanish: 'No'
   poll_id: 9128
   results:
-    accurate_predict: 32.2
+    accurate_predict: 67.8
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 36.4
@@ -7922,7 +7922,7 @@
       spanish: Vocear
   poll_id: 9130
   results:
-    accurate_predict: 53.1
+    accurate_predict: 46.9
     female_response_1: 41.1
     female_response_2: 58.9
     male_response_1: 52.4
@@ -7958,7 +7958,7 @@
       spanish: "\xA1El ninja!"
   poll_id: 9132
   results:
-    accurate_predict: 19.2
+    accurate_predict: 80.8
     female_response_1: 25.0
     female_response_2: 75.0
     male_response_1: 18.7
@@ -7976,7 +7976,7 @@
       spanish: 'No'
   poll_id: 9133
   results:
-    accurate_predict: 26.9
+    accurate_predict: 73.1
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 20.4
@@ -7994,7 +7994,7 @@
       spanish: Tiro con arco
   poll_id: 9134
   results:
-    accurate_predict: 37.5
+    accurate_predict: 62.5
     female_response_1: 36.9
     female_response_2: 63.1
     male_response_1: 37.9
@@ -8012,7 +8012,7 @@
       spanish: 'No'
   poll_id: 9135
   results:
-    accurate_predict: 32.9
+    accurate_predict: 67.1
     female_response_1: 24.0
     female_response_2: 76.0
     male_response_1: 24.9
@@ -8030,7 +8030,7 @@
       spanish: "H\xE1mster"
   poll_id: 9136
   results:
-    accurate_predict: 39.5
+    accurate_predict: 60.5
     female_response_1: 53.0
     female_response_2: 47.0
     male_response_1: 39.7
@@ -8066,7 +8066,7 @@
       spanish: Tu propia comida
   poll_id: 9138
   results:
-    accurate_predict: 56.7
+    accurate_predict: 43.3
     female_response_1: 50.7
     female_response_2: 49.3
     male_response_1: 48.3
@@ -8102,7 +8102,7 @@
       spanish: 'No'
   poll_id: 9140
   results:
-    accurate_predict: 23.8
+    accurate_predict: 76.2
     female_response_1: 10.6
     female_response_2: 89.4
     male_response_1: 12.7
@@ -8139,7 +8139,7 @@
       spanish: 'No'
   poll_id: 9142
   results:
-    accurate_predict: 54.6
+    accurate_predict: 45.4
     female_response_1: 45.4
     female_response_2: 54.6
     male_response_1: 51.4
@@ -8175,7 +8175,7 @@
       spanish: Nieve
   poll_id: 9144
   results:
-    accurate_predict: 38.6
+    accurate_predict: 61.4
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 30.5
@@ -8193,7 +8193,7 @@
       spanish: 'No'
   poll_id: 9145
   results:
-    accurate_predict: 33.1
+    accurate_predict: 66.9
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 33.7
@@ -8211,7 +8211,7 @@
       spanish: 'No'
   poll_id: 9146
   results:
-    accurate_predict: 27.2
+    accurate_predict: 72.8
     female_response_1: 21.3
     female_response_2: 78.7
     male_response_1: 27.9
@@ -8265,7 +8265,7 @@
       spanish: 'No'
   poll_id: 9149
   results:
-    accurate_predict: 19.2
+    accurate_predict: 80.8
     female_response_1: 16.4
     female_response_2: 83.6
     male_response_1: 14.9
@@ -8337,7 +8337,7 @@
       spanish: Hip-hop
   poll_id: 9153
   results:
-    accurate_predict: 21.7
+    accurate_predict: 78.3
     female_response_1: 34.3
     female_response_2: 65.7
     male_response_1: 35.1
@@ -8373,7 +8373,7 @@
       spanish: 'No'
   poll_id: 9155
   results:
-    accurate_predict: 60.8
+    accurate_predict: 39.2
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 42.2
@@ -8391,7 +8391,7 @@
       spanish: 'No'
   poll_id: 9156
   results:
-    accurate_predict: 42.7
+    accurate_predict: 57.3
     female_response_1: 41.2
     female_response_2: 58.8
     male_response_1: 41.6
@@ -8445,7 +8445,7 @@
       spanish: 'No'
   poll_id: 9159
   results:
-    accurate_predict: 30.8
+    accurate_predict: 69.2
     female_response_1: 27.1
     female_response_2: 72.9
     male_response_1: 30.8
@@ -8481,7 +8481,7 @@
       spanish: 'No'
   poll_id: 9161
   results:
-    accurate_predict: 32.1
+    accurate_predict: 67.9
     female_response_1: 37.3
     female_response_2: 62.7
     male_response_1: 32.1
@@ -8499,7 +8499,7 @@
       spanish: 'No'
   poll_id: 9162
   results:
-    accurate_predict: 65.5
+    accurate_predict: 34.5
     female_response_1: 62.2
     female_response_2: 37.8
     male_response_1: 28.0
@@ -8517,7 +8517,7 @@
       spanish: 'No'
   poll_id: 9163
   results:
-    accurate_predict: 29.8
+    accurate_predict: 70.2
     female_response_1: 23.0
     female_response_2: 77.0
     male_response_1: 24.1
@@ -8590,7 +8590,7 @@
       spanish: 'No'
   poll_id: 9167
   results:
-    accurate_predict: 17.0
+    accurate_predict: 83.0
     female_response_1: 15.1
     female_response_2: 84.9
     male_response_1: 17.8
@@ -8626,7 +8626,7 @@
       spanish: 'No'
   poll_id: 9169
   results:
-    accurate_predict: 37.2
+    accurate_predict: 62.8
     female_response_1: 38.2
     female_response_2: 61.8
     male_response_1: 37.4
@@ -8644,7 +8644,7 @@
       spanish: 'No'
   poll_id: 9170
   results:
-    accurate_predict: 54.7
+    accurate_predict: 45.3
     female_response_1: 47.3
     female_response_2: 52.7
     male_response_1: 30.1
@@ -8662,7 +8662,7 @@
       spanish: 'No'
   poll_id: 9171
   results:
-    accurate_predict: 26.5
+    accurate_predict: 73.5
     female_response_1: 23.8
     female_response_2: 76.2
     male_response_1: 26.4
@@ -8716,7 +8716,7 @@
       spanish: Todo bien separado
   poll_id: 9174
   results:
-    accurate_predict: 35.4
+    accurate_predict: 64.6
     female_response_1: 31.1
     female_response_2: 68.9
     male_response_1: 34.3
@@ -8770,7 +8770,7 @@
       spanish: El conductor
   poll_id: 9177
   results:
-    accurate_predict: 46.3
+    accurate_predict: 53.7
     female_response_1: 42.6
     female_response_2: 57.4
     male_response_1: 46.7
@@ -8806,7 +8806,7 @@
       spanish: 'No'
   poll_id: 9179
   results:
-    accurate_predict: 40.1
+    accurate_predict: 59.9
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 41.6
@@ -8861,7 +8861,7 @@
       spanish: 'No'
   poll_id: 9182
   results:
-    accurate_predict: 59.3
+    accurate_predict: 40.7
     female_response_1: 48.4
     female_response_2: 51.6
     male_response_1: 43.1
@@ -8879,7 +8879,7 @@
       spanish: Invisibilidad
   poll_id: 10546
   results:
-    accurate_predict: 37.7
+    accurate_predict: 62.3
     female_response_1: 16.9
     female_response_2: 83.1
     male_response_1: 37.2
@@ -8897,7 +8897,7 @@
       spanish: 'No'
   poll_id: 10547
   results:
-    accurate_predict: 57.1
+    accurate_predict: 42.9
     female_response_1: 37.6
     female_response_2: 62.4
     male_response_1: 41.8
@@ -8915,7 +8915,7 @@
       spanish: 'No'
   poll_id: 10548
   results:
-    accurate_predict: 44.6
+    accurate_predict: 55.4
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 42.4
@@ -8969,7 +8969,7 @@
       spanish: 'No'
   poll_id: 10551
   results:
-    accurate_predict: 35.4
+    accurate_predict: 64.6
     female_response_1: 59.2
     female_response_2: 40.8
     male_response_1: 29.8
@@ -8987,7 +8987,7 @@
       spanish: Lo que necesito
   poll_id: 10552
   results:
-    accurate_predict: 45.6
+    accurate_predict: 54.4
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 23.6
@@ -9041,7 +9041,7 @@
       spanish: 'No'
   poll_id: 10555
   results:
-    accurate_predict: 35.2
+    accurate_predict: 64.8
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 35.9
@@ -9059,7 +9059,7 @@
       spanish: Creativa
   poll_id: 10556
   results:
-    accurate_predict: 43.4
+    accurate_predict: 56.6
     female_response_1: 41.7
     female_response_2: 58.3
     male_response_1: 51.3
@@ -9113,7 +9113,7 @@
       spanish: Internet
   poll_id: 10559
   results:
-    accurate_predict: 27.9
+    accurate_predict: 72.1
     female_response_1: 37.0
     female_response_2: 63.0
     male_response_1: 29.2
@@ -9131,7 +9131,7 @@
       spanish: Por la noche
   poll_id: 10560
   results:
-    accurate_predict: 42.9
+    accurate_predict: 57.1
     female_response_1: 32.7
     female_response_2: 67.3
     male_response_1: 29.9
@@ -9149,7 +9149,7 @@
       spanish: Con amigos
   poll_id: 10561
   results:
-    accurate_predict: 8.0
+    accurate_predict: 92.0
     female_response_1: 12.4
     female_response_2: 87.6
     male_response_1: 14.1
@@ -9167,7 +9167,7 @@
       spanish: Tenedor
   poll_id: 10562
   results:
-    accurate_predict: 35.3
+    accurate_predict: 64.7
     female_response_1: 31.1
     female_response_2: 68.9
     male_response_1: 32.5
@@ -9185,7 +9185,7 @@
       spanish: Nieve
   poll_id: 10563
   results:
-    accurate_predict: 14.8
+    accurate_predict: 85.2
     female_response_1: 21.2
     female_response_2: 78.8
     male_response_1: 19.3
@@ -9221,7 +9221,7 @@
       spanish: 'No'
   poll_id: 10565
   results:
-    accurate_predict: 52.4
+    accurate_predict: 47.6
     female_response_1: 44.9
     female_response_2: 55.1
     male_response_1: 41.7
@@ -9275,7 +9275,7 @@
       spanish: 'No'
   poll_id: 10568
   results:
-    accurate_predict: 14.3
+    accurate_predict: 85.7
     female_response_1: 20.6
     female_response_2: 79.4
     male_response_1: 17.2
@@ -9293,7 +9293,7 @@
       spanish: Cena
   poll_id: 10569
   results:
-    accurate_predict: 43.5
+    accurate_predict: 56.5
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 40.6
@@ -9329,7 +9329,7 @@
       spanish: Dinero
   poll_id: 10571
   results:
-    accurate_predict: 30.1
+    accurate_predict: 69.9
     female_response_1: 35.2
     female_response_2: 64.8
     male_response_1: 27.0
@@ -9419,7 +9419,7 @@
       spanish: 'No'
   poll_id: 10576
   results:
-    accurate_predict: 36.4
+    accurate_predict: 63.6
     female_response_1: 40.5
     female_response_2: 59.5
     male_response_1: 41.9
@@ -9491,7 +9491,7 @@
       spanish: "Con m\xE1s gente"
   poll_id: 10580
   results:
-    accurate_predict: 8.1
+    accurate_predict: 91.9
     female_response_1: 5.9
     female_response_2: 94.1
     male_response_1: 7.7
@@ -9509,7 +9509,7 @@
       spanish: 'No'
   poll_id: 10581
   results:
-    accurate_predict: 42.1
+    accurate_predict: 57.9
     female_response_1: 25.9
     female_response_2: 74.1
     male_response_1: 23.7
@@ -9527,7 +9527,7 @@
       spanish: 'No'
   poll_id: 10582
   results:
-    accurate_predict: 18.4
+    accurate_predict: 81.6
     female_response_1: 29.8
     female_response_2: 70.2
     male_response_1: 23.0
@@ -9545,7 +9545,7 @@
       spanish: 'No'
   poll_id: 10583
   results:
-    accurate_predict: 17.8
+    accurate_predict: 82.2
     female_response_1: 19.4
     female_response_2: 80.6
     male_response_1: 21.5
@@ -9653,7 +9653,7 @@
       spanish: 'No'
   poll_id: 10589
   results:
-    accurate_predict: 38.6
+    accurate_predict: 61.4
     female_response_1: 22.4
     female_response_2: 77.6
     male_response_1: 46.0
@@ -9671,7 +9671,7 @@
       spanish: 'No'
   poll_id: 10590
   results:
-    accurate_predict: 53.6
+    accurate_predict: 46.4
     female_response_1: 40.5
     female_response_2: 59.5
     male_response_1: 44.5
@@ -9689,7 +9689,7 @@
       spanish: 'No'
   poll_id: 10591
   results:
-    accurate_predict: 56.1
+    accurate_predict: 43.9
     female_response_1: 42.4
     female_response_2: 57.6
     male_response_1: 36.1
@@ -9815,7 +9815,7 @@
       spanish: "Caf\xE9"
   poll_id: 10598
   results:
-    accurate_predict: 17.3
+    accurate_predict: 82.7
     female_response_1: 24.2
     female_response_2: 75.8
     male_response_1: 22.6
@@ -9833,7 +9833,7 @@
       spanish: 'No'
   poll_id: 10599
   results:
-    accurate_predict: 49.0
+    accurate_predict: 51.0
     female_response_1: 44.1
     female_response_2: 55.9
     male_response_1: 44.1
@@ -9851,7 +9851,7 @@
       spanish: 'No'
   poll_id: 10600
   results:
-    accurate_predict: 17.1
+    accurate_predict: 82.9
     female_response_1: 14.7
     female_response_2: 85.3
     male_response_1: 18.0
@@ -9869,7 +9869,7 @@
       spanish: 'No'
   poll_id: 10601
   results:
-    accurate_predict: 45.1
+    accurate_predict: 54.9
     female_response_1: 43.5
     female_response_2: 56.5
     male_response_1: 53.4
@@ -9887,7 +9887,7 @@
       spanish: 'No'
   poll_id: 10602
   results:
-    accurate_predict: 31.8
+    accurate_predict: 68.2
     female_response_1: 26.9
     female_response_2: 73.1
     male_response_1: 25.1
@@ -9923,7 +9923,7 @@
       spanish: 'No'
   poll_id: 10604
   results:
-    accurate_predict: 15.9
+    accurate_predict: 84.1
     female_response_1: 22.3
     female_response_2: 77.7
     male_response_1: 25.0
@@ -9959,7 +9959,7 @@
       spanish: 'No'
   poll_id: 10606
   results:
-    accurate_predict: 40.5
+    accurate_predict: 59.5
     female_response_1: 32.0
     female_response_2: 68.0
     male_response_1: 34.1
@@ -9977,7 +9977,7 @@
       spanish: Casera
   poll_id: 10607
   results:
-    accurate_predict: 36.8
+    accurate_predict: 63.2
     female_response_1: 29.5
     female_response_2: 70.5
     male_response_1: 31.8
@@ -9995,7 +9995,7 @@
       spanish: 'No'
   poll_id: 10608
   results:
-    accurate_predict: 47.3
+    accurate_predict: 52.7
     female_response_1: 43.1
     female_response_2: 56.9
     male_response_1: 42.1
@@ -10049,7 +10049,7 @@
       spanish: De exterior
   poll_id: 10611
   results:
-    accurate_predict: 19.6
+    accurate_predict: 80.4
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 24.3
@@ -10067,7 +10067,7 @@
       spanish: 'No'
   poll_id: 10612
   results:
-    accurate_predict: 29.1
+    accurate_predict: 70.9
     female_response_1: 27.0
     female_response_2: 73.0
     male_response_1: 28.8
@@ -10121,7 +10121,7 @@
       spanish: De humor chorra
   poll_id: 11402
   results:
-    accurate_predict: 27.0
+    accurate_predict: 73.0
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 32.1
@@ -10175,7 +10175,7 @@
       spanish: 'No'
   poll_id: 11405
   results:
-    accurate_predict: 46.5
+    accurate_predict: 53.5
     female_response_1: 29.7
     female_response_2: 70.3
     male_response_1: 35.2
@@ -10193,7 +10193,7 @@
       spanish: 'No'
   poll_id: 11406
   results:
-    accurate_predict: 48.0
+    accurate_predict: 52.0
     female_response_1: 52.9
     female_response_2: 47.1
     male_response_1: 41.0
@@ -10301,7 +10301,7 @@
       spanish: 'No'
   poll_id: 11412
   results:
-    accurate_predict: 55.0
+    accurate_predict: 45.0
     female_response_1: 46.5
     female_response_2: 53.5
     male_response_1: 36.9
@@ -10337,7 +10337,7 @@
       spanish: 'No'
   poll_id: 11414
   results:
-    accurate_predict: 31.2
+    accurate_predict: 68.8
     female_response_1: 30.7
     female_response_2: 69.3
     male_response_1: 32.1
@@ -10373,7 +10373,7 @@
       spanish: 'No'
   poll_id: 11416
   results:
-    accurate_predict: 52.4
+    accurate_predict: 47.6
     female_response_1: 54.3
     female_response_2: 45.7
     male_response_1: 45.7
@@ -10445,7 +10445,7 @@
       spanish: 'No'
   poll_id: 11420
   results:
-    accurate_predict: 43.0
+    accurate_predict: 57.0
     female_response_1: 45.1
     female_response_2: 54.9
     male_response_1: 40.4
@@ -10499,7 +10499,7 @@
       spanish: 'No'
   poll_id: 11423
   results:
-    accurate_predict: 28.3
+    accurate_predict: 71.7
     female_response_1: 26.4
     female_response_2: 73.6
     male_response_1: 27.6
@@ -10517,7 +10517,7 @@
       spanish: Con amigos
   poll_id: 11424
   results:
-    accurate_predict: 19.7
+    accurate_predict: 80.3
     female_response_1: 28.5
     female_response_2: 71.5
     male_response_1: 33.1
@@ -10535,7 +10535,7 @@
       spanish: "Con agua fr\xEDa"
   poll_id: 11425
   results:
-    accurate_predict: 32.5
+    accurate_predict: 67.5
     female_response_1: 28.5
     female_response_2: 71.5
     male_response_1: 24.9
@@ -10607,7 +10607,7 @@
       spanish: A nadar
   poll_id: 11429
   results:
-    accurate_predict: 50.9
+    accurate_predict: 49.1
     female_response_1: 38.0
     female_response_2: 62.0
     male_response_1: 45.0
@@ -10625,7 +10625,7 @@
       spanish: 'No'
   poll_id: 11430
   results:
-    accurate_predict: 19.6
+    accurate_predict: 80.4
     female_response_1: 22.1
     female_response_2: 77.9
     male_response_1: 21.1
@@ -10643,7 +10643,7 @@
       spanish: 'No'
   poll_id: 11431
   results:
-    accurate_predict: 34.6
+    accurate_predict: 65.4
     female_response_1: 20.1
     female_response_2: 79.9
     male_response_1: 21.3
@@ -10661,7 +10661,7 @@
       spanish: 'No'
   poll_id: 11432
   results:
-    accurate_predict: 30.6
+    accurate_predict: 69.4
     female_response_1: 22.4
     female_response_2: 77.6
     male_response_1: 36.9
@@ -10679,7 +10679,7 @@
       spanish: La de los 00
   poll_id: 11433
   results:
-    accurate_predict: 45.2
+    accurate_predict: 54.8
     female_response_1: 45.6
     female_response_2: 54.4
     male_response_1: 48.0
@@ -10715,7 +10715,7 @@
       spanish: 'No'
   poll_id: 11435
   results:
-    accurate_predict: 33.7
+    accurate_predict: 66.3
     female_response_1: 36.2
     female_response_2: 63.8
     male_response_1: 27.7
@@ -10751,7 +10751,7 @@
       spanish: 'No'
   poll_id: 11437
   results:
-    accurate_predict: 25.0
+    accurate_predict: 75.0
     female_response_1: 21.3
     female_response_2: 78.7
     male_response_1: 22.3
@@ -10859,7 +10859,7 @@
       spanish: 'No'
   poll_id: 11443
   results:
-    accurate_predict: 48.7
+    accurate_predict: 51.3
     female_response_1: 41.6
     female_response_2: 58.4
     male_response_1: 41.9
@@ -11021,7 +11021,7 @@
       spanish: 'No'
   poll_id: 11452
   results:
-    accurate_predict: 11.9
+    accurate_predict: 88.1
     female_response_1: 5.4
     female_response_2: 94.6
     male_response_1: 7.1
@@ -11057,7 +11057,7 @@
       spanish: 'No'
   poll_id: 11454
   results:
-    accurate_predict: 61.5
+    accurate_predict: 38.5
     female_response_1: 50.5
     female_response_2: 49.5
     male_response_1: 49.3
@@ -11111,7 +11111,7 @@
       spanish: 'No'
   poll_id: 11457
   results:
-    accurate_predict: 12.0
+    accurate_predict: 88.0
     female_response_1: 13.7
     female_response_2: 86.3
     male_response_1: 16.8
@@ -11147,7 +11147,7 @@
       spanish: 'No'
   poll_id: 11459
   results:
-    accurate_predict: 46.8
+    accurate_predict: 53.2
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 38.1
@@ -11165,7 +11165,7 @@
       spanish: 'No'
   poll_id: 11460
   results:
-    accurate_predict: 54.8
+    accurate_predict: 45.2
     female_response_1: 42.8
     female_response_2: 57.2
     male_response_1: 52.9
@@ -11219,7 +11219,7 @@
       spanish: 'No'
   poll_id: 11463
   results:
-    accurate_predict: 38.4
+    accurate_predict: 61.6
     female_response_1: 29.8
     female_response_2: 70.2
     male_response_1: 28.0
@@ -11237,7 +11237,7 @@
       spanish: En taza grande
   poll_id: 11464
   results:
-    accurate_predict: 52.1
+    accurate_predict: 47.9
     female_response_1: 52.2
     female_response_2: 47.8
     male_response_1: 43.7
@@ -11291,7 +11291,7 @@
       spanish: 'No'
   poll_id: 11467
   results:
-    accurate_predict: 55.9
+    accurate_predict: 44.1
     female_response_1: 44.7
     female_response_2: 55.3
     male_response_1: 41.1
@@ -11327,7 +11327,7 @@
       spanish: 'No'
   poll_id: 11469
   results:
-    accurate_predict: 12.1
+    accurate_predict: 87.9
     female_response_1: 12.0
     female_response_2: 88.0
     male_response_1: 12.4
@@ -11345,7 +11345,7 @@
       spanish: La pasta
   poll_id: 11470
   results:
-    accurate_predict: 28.2
+    accurate_predict: 71.8
     female_response_1: 31.2
     female_response_2: 68.8
     male_response_1: 33.4
@@ -11363,7 +11363,7 @@
       spanish: 'No'
   poll_id: 11471
   results:
-    accurate_predict: 9.9
+    accurate_predict: 90.1
     female_response_1: 8.0
     female_response_2: 92.0
     male_response_1: 9.3
@@ -11381,7 +11381,7 @@
       spanish: 'No'
   poll_id: 11472
   results:
-    accurate_predict: 48.8
+    accurate_predict: 51.2
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 41.9
@@ -11417,7 +11417,7 @@
       spanish: 'No'
   poll_id: 11474
   results:
-    accurate_predict: 27.4
+    accurate_predict: 72.6
     female_response_1: 27.6
     female_response_2: 72.4
     male_response_1: 26.4
@@ -11435,7 +11435,7 @@
       spanish: El sabor
   poll_id: 11475
   results:
-    accurate_predict: 23.8
+    accurate_predict: 76.2
     female_response_1: 24.8
     female_response_2: 75.2
     male_response_1: 19.6
@@ -11507,7 +11507,7 @@
       spanish: 'No'
   poll_id: 11479
   results:
-    accurate_predict: 60.9
+    accurate_predict: 39.1
     female_response_1: 39.4
     female_response_2: 60.6
     male_response_1: 39.9
@@ -11525,7 +11525,7 @@
       spanish: 'No'
   poll_id: 11480
   results:
-    accurate_predict: 22.7
+    accurate_predict: 77.3
     female_response_1: 19.6
     female_response_2: 80.4
     male_response_1: 18.2
@@ -11561,7 +11561,7 @@
       spanish: 'No'
   poll_id: 11482
   results:
-    accurate_predict: 23.3
+    accurate_predict: 76.7
     female_response_1: 25.3
     female_response_2: 74.7
     male_response_1: 32.0
@@ -11579,7 +11579,7 @@
       spanish: De chocolate
   poll_id: 11483
   results:
-    accurate_predict: 21.2
+    accurate_predict: 78.8
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 31.0
@@ -11597,7 +11597,7 @@
       spanish: 'No'
   poll_id: 11484
   results:
-    accurate_predict: 52.3
+    accurate_predict: 47.7
     female_response_1: 33.5
     female_response_2: 66.5
     male_response_1: 39.5
@@ -11615,7 +11615,7 @@
       spanish: Cerrada
   poll_id: 11485
   results:
-    accurate_predict: 23.6
+    accurate_predict: 76.4
     female_response_1: 20.3
     female_response_2: 79.7
     male_response_1: 20.7
@@ -11633,7 +11633,7 @@
       spanish: Mejor sin burbujas
   poll_id: 13310
   results:
-    accurate_predict: 46.1
+    accurate_predict: 53.9
     female_response_1: 35.1
     female_response_2: 64.9
     male_response_1: 38.7
@@ -11687,7 +11687,7 @@
       spanish: "\xA1Lanzar bolas de nieve!"
   poll_id: 13313
   results:
-    accurate_predict: 39.1
+    accurate_predict: 60.9
     female_response_1: 44.9
     female_response_2: 55.1
     male_response_1: 37.9
@@ -11723,7 +11723,7 @@
       spanish: En el valle
   poll_id: 13315
   results:
-    accurate_predict: 41.2
+    accurate_predict: 58.8
     female_response_1: 36.7
     female_response_2: 63.3
     male_response_1: 42.8
@@ -11777,7 +11777,7 @@
       spanish: El postre
   poll_id: 13318
   results:
-    accurate_predict: 36.9
+    accurate_predict: 63.1
     female_response_1: 46.0
     female_response_2: 54.0
     male_response_1: 52.9
@@ -11813,7 +11813,7 @@
       spanish: Chocolate
   poll_id: 13320
   results:
-    accurate_predict: 27.5
+    accurate_predict: 72.5
     female_response_1: 27.6
     female_response_2: 72.4
     male_response_1: 27.1
@@ -11831,7 +11831,7 @@
       spanish: 'No'
   poll_id: 13321
   results:
-    accurate_predict: 25.1
+    accurate_predict: 74.9
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 30.9
@@ -11867,7 +11867,7 @@
       spanish: Roma
   poll_id: 13323
   results:
-    accurate_predict: 43.4
+    accurate_predict: 56.6
     female_response_1: 47.8
     female_response_2: 52.2
     male_response_1: 39.3
@@ -11885,7 +11885,7 @@
       spanish: 'No'
   poll_id: 13324
   results:
-    accurate_predict: 41.2
+    accurate_predict: 58.8
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 33.7
@@ -11903,7 +11903,7 @@
       spanish: 'No'
   poll_id: 13325
   results:
-    accurate_predict: 11.3
+    accurate_predict: 88.7
     female_response_1: 7.2
     female_response_2: 92.8
     male_response_1: 9.1
@@ -11921,7 +11921,7 @@
       spanish: 'No'
   poll_id: 13326
   results:
-    accurate_predict: 37.9
+    accurate_predict: 62.1
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 35.7
@@ -11993,7 +11993,7 @@
       spanish: 'No'
   poll_id: 13330
   results:
-    accurate_predict: 25.5
+    accurate_predict: 74.5
     female_response_1: 11.2
     female_response_2: 88.8
     male_response_1: 15.6
@@ -12011,7 +12011,7 @@
       spanish: 'No'
   poll_id: 13331
   results:
-    accurate_predict: 37.5
+    accurate_predict: 62.5
     female_response_1: 25.0
     female_response_2: 75.0
     male_response_1: 22.9
@@ -12029,7 +12029,7 @@
       spanish: Mascota
   poll_id: 13332
   results:
-    accurate_predict: 49.3
+    accurate_predict: 50.7
     female_response_1: 41.4
     female_response_2: 58.6
     male_response_1: 52.8
@@ -12047,7 +12047,7 @@
       spanish: Actor
   poll_id: 13333
   results:
-    accurate_predict: 15.9
+    accurate_predict: 84.1
     female_response_1: 23.7
     female_response_2: 76.3
     male_response_1: 28.4
@@ -12137,7 +12137,7 @@
       spanish: "1000 a\xF1os"
   poll_id: 13338
   results:
-    accurate_predict: 30.5
+    accurate_predict: 69.5
     female_response_1: 42.5
     female_response_2: 57.5
     male_response_1: 31.4
@@ -12155,7 +12155,7 @@
       spanish: 'No'
   poll_id: 13339
   results:
-    accurate_predict: 39.7
+    accurate_predict: 60.3
     female_response_1: 37.0
     female_response_2: 63.0
     male_response_1: 36.2
@@ -12209,7 +12209,7 @@
       spanish: 'No'
   poll_id: 13342
   results:
-    accurate_predict: 50.9
+    accurate_predict: 49.1
     female_response_1: 44.0
     female_response_2: 56.0
     male_response_1: 42.4
@@ -12263,7 +12263,7 @@
       spanish: 'No'
   poll_id: 13345
   results:
-    accurate_predict: 37.5
+    accurate_predict: 62.5
     female_response_1: 43.7
     female_response_2: 56.3
     male_response_1: 43.8
@@ -12281,7 +12281,7 @@
       spanish: 'No'
   poll_id: 13346
   results:
-    accurate_predict: 39.9
+    accurate_predict: 60.1
     female_response_1: 43.5
     female_response_2: 56.5
     male_response_1: 43.3
@@ -12299,7 +12299,7 @@
       spanish: "\xA1Qu\xE9 asco!"
   poll_id: 13347
   results:
-    accurate_predict: 20.7
+    accurate_predict: 79.3
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 28.6
@@ -12317,7 +12317,7 @@
       spanish: Jugar
   poll_id: 13348
   results:
-    accurate_predict: 30.9
+    accurate_predict: 69.1
     female_response_1: 51.1
     female_response_2: 48.9
     male_response_1: 27.9
@@ -12335,7 +12335,7 @@
       spanish: Pulpo
   poll_id: 13349
   results:
-    accurate_predict: 31.7
+    accurate_predict: 68.3
     female_response_1: 36.4
     female_response_2: 63.6
     male_response_1: 31.0
@@ -12371,7 +12371,7 @@
       spanish: Apagadas
   poll_id: 13351
   results:
-    accurate_predict: 19.5
+    accurate_predict: 80.5
     female_response_1: 20.5
     female_response_2: 79.5
     male_response_1: 21.2
@@ -12389,7 +12389,7 @@
       spanish: No, gracias...
   poll_id: 13352
   results:
-    accurate_predict: 52.5
+    accurate_predict: 47.5
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 52.9
@@ -12407,7 +12407,7 @@
       spanish: El dinero
   poll_id: 13353
   results:
-    accurate_predict: 37.4
+    accurate_predict: 62.6
     female_response_1: 51.5
     female_response_2: 48.5
     male_response_1: 47.8
@@ -12443,7 +12443,7 @@
       spanish: 'No'
   poll_id: 13355
   results:
-    accurate_predict: 23.2
+    accurate_predict: 76.8
     female_response_1: 18.6
     female_response_2: 81.4
     male_response_1: 24.6
@@ -12479,7 +12479,7 @@
       spanish: Una horterada
   poll_id: 13357
   results:
-    accurate_predict: 46.9
+    accurate_predict: 53.1
     female_response_1: 48.7
     female_response_2: 51.3
     male_response_1: 40.0
@@ -12497,7 +12497,7 @@
       spanish: 'No'
   poll_id: 13358
   results:
-    accurate_predict: 56.2
+    accurate_predict: 43.8
     female_response_1: 49.2
     female_response_2: 50.8
     male_response_1: 44.1
@@ -12515,7 +12515,7 @@
       spanish: 'No'
   poll_id: 13359
   results:
-    accurate_predict: 26.3
+    accurate_predict: 73.7
     female_response_1: 24.8
     female_response_2: 75.2
     male_response_1: 22.0
@@ -12533,7 +12533,7 @@
       spanish: "Reci\xE9n molido"
   poll_id: 13360
   results:
-    accurate_predict: 36.1
+    accurate_predict: 63.9
     female_response_1: 41.9
     female_response_2: 58.1
     male_response_1: 40.1
@@ -12551,7 +12551,7 @@
       spanish: Te aburren...
   poll_id: 13361
   results:
-    accurate_predict: 54.5
+    accurate_predict: 45.5
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 41.9
@@ -12569,7 +12569,7 @@
       spanish: 'No'
   poll_id: 13362
   results:
-    accurate_predict: 35.0
+    accurate_predict: 65.0
     female_response_1: 37.6
     female_response_2: 62.4
     male_response_1: 35.2
@@ -12605,7 +12605,7 @@
       spanish: "\xA1No! \xA1Ayuda!"
   poll_id: 13364
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 42.1
     female_response_2: 57.9
     male_response_1: 46.9
@@ -12623,7 +12623,7 @@
       spanish: "Es pura fantas\xEDa"
   poll_id: 13365
   results:
-    accurate_predict: 28.3
+    accurate_predict: 71.7
     female_response_1: 31.5
     female_response_2: 68.5
     male_response_1: 37.8
@@ -12641,7 +12641,7 @@
       spanish: 'No'
   poll_id: 13366
   results:
-    accurate_predict: 30.5
+    accurate_predict: 69.5
     female_response_1: 24.1
     female_response_2: 75.9
     male_response_1: 25.1
@@ -12659,7 +12659,7 @@
       spanish: Blanquilla
   poll_id: 13367
   results:
-    accurate_predict: 20.2
+    accurate_predict: 79.8
     female_response_1: 25.7
     female_response_2: 74.3
     male_response_1: 23.3
@@ -12695,7 +12695,7 @@
       spanish: Sin hueso
   poll_id: 13369
   results:
-    accurate_predict: 29.4
+    accurate_predict: 70.6
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 34.5
@@ -12713,7 +12713,7 @@
       spanish: Pues no...
   poll_id: 13370
   results:
-    accurate_predict: 30.5
+    accurate_predict: 69.5
     female_response_1: 32.5
     female_response_2: 67.5
     male_response_1: 35.8
@@ -12749,7 +12749,7 @@
       spanish: "\xA1Voy a investigar!"
   poll_id: 13372
   results:
-    accurate_predict: 36.2
+    accurate_predict: 63.8
     female_response_1: 44.0
     female_response_2: 56.0
     male_response_1: 29.7
@@ -12785,7 +12785,7 @@
       spanish: "\xA1Asustar\xEDa a la gente!"
   poll_id: 13374
   results:
-    accurate_predict: 34.9
+    accurate_predict: 65.1
     female_response_1: 52.2
     female_response_2: 47.8
     male_response_1: 39.1
@@ -12821,7 +12821,7 @@
       spanish: "\xBFQu\xE9 espejo?"
   poll_id: 13376
   results:
-    accurate_predict: 53.8
+    accurate_predict: 46.2
     female_response_1: 62.4
     female_response_2: 37.6
     male_response_1: 29.4
@@ -12839,7 +12839,7 @@
       spanish: "De acci\xF3n"
   poll_id: 13377
   results:
-    accurate_predict: 35.4
+    accurate_predict: 64.6
     female_response_1: 38.2
     female_response_2: 61.8
     male_response_1: 28.8
@@ -12875,7 +12875,7 @@
       spanish: 'No'
   poll_id: 13379
   results:
-    accurate_predict: 18.0
+    accurate_predict: 82.0
     female_response_1: 18.6
     female_response_2: 81.4
     male_response_1: 18.5
@@ -12893,7 +12893,7 @@
       spanish: 'No'
   poll_id: 13380
   results:
-    accurate_predict: 39.8
+    accurate_predict: 60.2
     female_response_1: 37.4
     female_response_2: 62.6
     male_response_1: 32.8
@@ -12911,7 +12911,7 @@
       spanish: "\xA1Volar por el aire!"
   poll_id: 13381
   results:
-    accurate_predict: 25.6
+    accurate_predict: 74.4
     female_response_1: 33.0
     female_response_2: 67.0
     male_response_1: 27.7
@@ -12929,7 +12929,7 @@
       spanish: Un plato principal
   poll_id: 13382
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 31.1
     female_response_2: 68.9
     male_response_1: 33.0
@@ -12947,7 +12947,7 @@
       spanish: "Guardar\xEDa el secreto"
   poll_id: 13383
   results:
-    accurate_predict: 30.1
+    accurate_predict: 69.9
     female_response_1: 24.4
     female_response_2: 75.6
     male_response_1: 25.8
@@ -13019,7 +13019,7 @@
       spanish: 'No'
   poll_id: 13387
   results:
-    accurate_predict: 34.6
+    accurate_predict: 65.4
     female_response_1: 27.5
     female_response_2: 72.5
     male_response_1: 22.7
@@ -13037,7 +13037,7 @@
       spanish: 'No'
   poll_id: 13388
   results:
-    accurate_predict: 48.2
+    accurate_predict: 51.8
     female_response_1: 43.3
     female_response_2: 56.7
     male_response_1: 40.7
@@ -13109,7 +13109,7 @@
       spanish: 'No'
   poll_id: 13392
   results:
-    accurate_predict: 35.5
+    accurate_predict: 64.5
     female_response_1: 38.7
     female_response_2: 61.3
     male_response_1: 36.0
@@ -13145,7 +13145,7 @@
       spanish: 'No'
   poll_id: 13394
   results:
-    accurate_predict: 32.3
+    accurate_predict: 67.7
     female_response_1: 35.9
     female_response_2: 64.1
     male_response_1: 36.1
@@ -13163,7 +13163,7 @@
       spanish: Fingir que lo hace bien
   poll_id: 13395
   results:
-    accurate_predict: 40.5
+    accurate_predict: 59.5
     female_response_1: 44.7
     female_response_2: 55.3
     male_response_1: 48.2
@@ -13181,7 +13181,7 @@
       spanish: Uno de dos pisos
   poll_id: 13396
   results:
-    accurate_predict: 9.0
+    accurate_predict: 91.0
     female_response_1: 10.4
     female_response_2: 89.6
     male_response_1: 9.1
@@ -13199,7 +13199,7 @@
       spanish: Una persona sabia
   poll_id: 13397
   results:
-    accurate_predict: 18.5
+    accurate_predict: 81.5
     female_response_1: 18.0
     female_response_2: 82.0
     male_response_1: 17.4
@@ -13217,7 +13217,7 @@
       spanish: 'No'
   poll_id: 15251
   results:
-    accurate_predict: 36.3
+    accurate_predict: 63.7
     female_response_1: 36.5
     female_response_2: 63.5
     male_response_1: 40.1
@@ -13235,7 +13235,7 @@
       spanish: Postre
   poll_id: 15252
   results:
-    accurate_predict: 23.5
+    accurate_predict: 76.5
     female_response_1: 32.4
     female_response_2: 67.6
     male_response_1: 35.0
@@ -13325,7 +13325,7 @@
       spanish: 'No'
   poll_id: 15257
   results:
-    accurate_predict: 52.8
+    accurate_predict: 47.2
     female_response_1: 41.9
     female_response_2: 58.1
     male_response_1: 56.1
@@ -13343,7 +13343,7 @@
       spanish: 'No'
   poll_id: 15258
   results:
-    accurate_predict: 49.0
+    accurate_predict: 51.0
     female_response_1: 42.9
     female_response_2: 57.1
     male_response_1: 45.5
@@ -13397,7 +13397,7 @@
       spanish: 'No'
   poll_id: 15261
   results:
-    accurate_predict: 12.7
+    accurate_predict: 87.3
     female_response_1: 11.2
     female_response_2: 88.8
     male_response_1: 10.0
@@ -13433,7 +13433,7 @@
       spanish: 'No'
   poll_id: 15263
   results:
-    accurate_predict: 21.8
+    accurate_predict: 78.2
     female_response_1: 21.9
     female_response_2: 78.1
     male_response_1: 21.7
@@ -13451,7 +13451,7 @@
       spanish: 'No'
   poll_id: 15264
   results:
-    accurate_predict: 49.7
+    accurate_predict: 50.3
     female_response_1: 43.8
     female_response_2: 56.2
     male_response_1: 41.1
@@ -13488,7 +13488,7 @@
       spanish: 'No'
   poll_id: 15266
   results:
-    accurate_predict: 37.1
+    accurate_predict: 62.9
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 41.4
@@ -13506,7 +13506,7 @@
       spanish: En absoluto
   poll_id: 15267
   results:
-    accurate_predict: 34.8
+    accurate_predict: 65.2
     female_response_1: 37.3
     female_response_2: 62.7
     male_response_1: 31.4
@@ -13542,7 +13542,7 @@
       spanish: "Todav\xEDa no..."
   poll_id: 15269
   results:
-    accurate_predict: 14.8
+    accurate_predict: 85.2
     female_response_1: 21.8
     female_response_2: 78.2
     male_response_1: 17.7
@@ -13560,7 +13560,7 @@
       spanish: 'No'
   poll_id: 15270
   results:
-    accurate_predict: 20.2
+    accurate_predict: 79.8
     female_response_1: 15.5
     female_response_2: 84.5
     male_response_1: 16.1
@@ -13578,7 +13578,7 @@
       spanish: Agua
   poll_id: 15271
   results:
-    accurate_predict: 37.0
+    accurate_predict: 63.0
     female_response_1: 27.5
     female_response_2: 72.5
     male_response_1: 39.8
@@ -13596,7 +13596,7 @@
       spanish: Nunca
   poll_id: 15272
   results:
-    accurate_predict: 31.8
+    accurate_predict: 68.2
     female_response_1: 26.6
     female_response_2: 73.4
     male_response_1: 20.7
@@ -13686,7 +13686,7 @@
       spanish: what?
   poll_id: 15277
   results:
-    accurate_predict: 24.0
+    accurate_predict: 76.0
     female_response_1: 28.0
     female_response_2: 72.0
     male_response_1: 30.5
@@ -13741,7 +13741,7 @@
       spanish: "La televisi\xF3n"
   poll_id: 15280
   results:
-    accurate_predict: 53.8
+    accurate_predict: 46.2
     female_response_1: 49.5
     female_response_2: 50.5
     male_response_1: 35.7
@@ -13759,7 +13759,7 @@
       spanish: 'No'
   poll_id: 15281
   results:
-    accurate_predict: 52.3
+    accurate_predict: 47.7
     female_response_1: 47.0
     female_response_2: 53.0
     male_response_1: 50.2
@@ -13795,7 +13795,7 @@
       spanish: 'No'
   poll_id: 15283
   results:
-    accurate_predict: 39.6
+    accurate_predict: 60.4
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 45.2
@@ -13813,7 +13813,7 @@
       spanish: 'No'
   poll_id: 15284
   results:
-    accurate_predict: 44.8
+    accurate_predict: 55.2
     female_response_1: 38.0
     female_response_2: 62.0
     male_response_1: 41.7
@@ -13831,7 +13831,7 @@
       spanish: "\xA1Mejillones!"
   poll_id: 15285
   results:
-    accurate_predict: 33.6
+    accurate_predict: 66.4
     female_response_1: 33.5
     female_response_2: 66.5
     male_response_1: 32.1
@@ -13849,7 +13849,7 @@
       spanish: "\xA1Qu\xE9 va!"
   poll_id: 15286
   results:
-    accurate_predict: 11.8
+    accurate_predict: 88.2
     female_response_1: 9.5
     female_response_2: 90.5
     male_response_1: 10.7
@@ -13867,7 +13867,7 @@
       spanish: Con consonante
   poll_id: 15287
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 28.0
     female_response_2: 72.0
     male_response_1: 24.2
@@ -13939,7 +13939,7 @@
       spanish: 'No'
   poll_id: 15291
   results:
-    accurate_predict: 53.4
+    accurate_predict: 46.6
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 36.2
@@ -13957,7 +13957,7 @@
       spanish: 'No'
   poll_id: 15292
   results:
-    accurate_predict: 45.0
+    accurate_predict: 55.0
     female_response_1: 49.7
     female_response_2: 50.3
     male_response_1: 29.4
@@ -14029,7 +14029,7 @@
       spanish: "\xA1No hay presupuesto!"
   poll_id: 15296
   results:
-    accurate_predict: 31.7
+    accurate_predict: 68.3
     female_response_1: 42.3
     female_response_2: 57.7
     male_response_1: 40.4
@@ -14065,7 +14065,7 @@
       spanish: "Una mansi\xF3n"
   poll_id: 15298
   results:
-    accurate_predict: 34.2
+    accurate_predict: 65.8
     female_response_1: 42.1
     female_response_2: 57.9
     male_response_1: 44.6
@@ -14083,7 +14083,7 @@
       spanish: "El pantal\xF3n"
   poll_id: 15299
   results:
-    accurate_predict: 46.0
+    accurate_predict: 54.0
     female_response_1: 47.8
     female_response_2: 52.2
     male_response_1: 45.0
@@ -14101,7 +14101,7 @@
       spanish: 'No'
   poll_id: 15300
   results:
-    accurate_predict: 39.2
+    accurate_predict: 60.8
     female_response_1: 34.2
     female_response_2: 65.8
     male_response_1: 34.2
@@ -14119,7 +14119,7 @@
       spanish: Carne
   poll_id: 15301
   results:
-    accurate_predict: 17.9
+    accurate_predict: 82.1
     female_response_1: 26.2
     female_response_2: 73.8
     male_response_1: 22.1
@@ -14245,7 +14245,7 @@
       spanish: La familia y los amigos
   poll_id: 15308
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 24.4
     female_response_2: 75.6
     male_response_1: 28.1
@@ -14263,7 +14263,7 @@
       spanish: 'No'
   poll_id: 15309
   results:
-    accurate_predict: 18.9
+    accurate_predict: 81.1
     female_response_1: 12.7
     female_response_2: 87.3
     male_response_1: 14.6
@@ -14299,7 +14299,7 @@
       spanish: 'No'
   poll_id: 15311
   results:
-    accurate_predict: 58.2
+    accurate_predict: 41.8
     female_response_1: 49.6
     female_response_2: 50.4
     male_response_1: 43.7
@@ -14335,7 +14335,7 @@
       spanish: Alta cocina
   poll_id: 15313
   results:
-    accurate_predict: 53.9
+    accurate_predict: 46.1
     female_response_1: 49.3
     female_response_2: 50.7
     male_response_1: 50.1
@@ -14353,7 +14353,7 @@
       spanish: 'No'
   poll_id: 15314
   results:
-    accurate_predict: 27.0
+    accurate_predict: 73.0
     female_response_1: 21.9
     female_response_2: 78.1
     male_response_1: 24.3
@@ -14407,7 +14407,7 @@
       spanish: "Le\xF3n"
   poll_id: 15317
   results:
-    accurate_predict: 17.5
+    accurate_predict: 82.5
     female_response_1: 24.6
     female_response_2: 75.4
     male_response_1: 20.6
@@ -14425,7 +14425,7 @@
       spanish: La amistad
   poll_id: 15318
   results:
-    accurate_predict: 41.4
+    accurate_predict: 58.6
     female_response_1: 40.2
     female_response_2: 59.8
     male_response_1: 40.8
@@ -14443,7 +14443,7 @@
       spanish: Lo abandonas
   poll_id: 15319
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 34.0
@@ -14479,7 +14479,7 @@
       spanish: 'No'
   poll_id: 15321
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 23.3
     female_response_2: 76.7
     male_response_1: 20.6
@@ -14497,7 +14497,7 @@
       spanish: 'No'
   poll_id: 15322
   results:
-    accurate_predict: 46.0
+    accurate_predict: 54.0
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 38.5
@@ -14605,7 +14605,7 @@
       spanish: Liso
   poll_id: 15328
   results:
-    accurate_predict: 23.7
+    accurate_predict: 76.3
     female_response_1: 32.6
     female_response_2: 67.4
     male_response_1: 20.6
@@ -14623,7 +14623,7 @@
       spanish: Devolver el saludo
   poll_id: 15329
   results:
-    accurate_predict: 30.9
+    accurate_predict: 69.1
     female_response_1: 29.4
     female_response_2: 70.6
     male_response_1: 28.7
@@ -14641,7 +14641,7 @@
       spanish: 'No'
   poll_id: 15330
   results:
-    accurate_predict: 39.7
+    accurate_predict: 60.3
     female_response_1: 26.4
     female_response_2: 73.6
     male_response_1: 33.7
@@ -14677,7 +14677,7 @@
       spanish: 'No'
   poll_id: 15332
   results:
-    accurate_predict: 40.5
+    accurate_predict: 59.5
     female_response_1: 34.3
     female_response_2: 65.7
     male_response_1: 31.8
@@ -14713,7 +14713,7 @@
       spanish: 'No'
   poll_id: 15334
   results:
-    accurate_predict: 22.8
+    accurate_predict: 77.2
     female_response_1: 25.8
     female_response_2: 74.2
     male_response_1: 24.7
@@ -14767,7 +14767,7 @@
       spanish: 'No'
   poll_id: 15337
   results:
-    accurate_predict: 31.8
+    accurate_predict: 68.2
     female_response_1: 26.1
     female_response_2: 73.9
     male_response_1: 27.8
@@ -14785,7 +14785,7 @@
       spanish: 'No'
   poll_id: 15338
   results:
-    accurate_predict: 15.6
+    accurate_predict: 84.4
     female_response_1: 17.6
     female_response_2: 82.4
     male_response_1: 15.6
@@ -14803,7 +14803,7 @@
       spanish: 'No'
   poll_id: 15339
   results:
-    accurate_predict: 32.0
+    accurate_predict: 68.0
     female_response_1: 36.6
     female_response_2: 63.4
     male_response_1: 35.1
@@ -14857,7 +14857,7 @@
       spanish: 'No'
   poll_id: 15342
   results:
-    accurate_predict: 43.6
+    accurate_predict: 56.4
     female_response_1: 43.1
     female_response_2: 56.9
     male_response_1: 47.0
@@ -14875,7 +14875,7 @@
       spanish: Cantante de rock
   poll_id: 15343
   results:
-    accurate_predict: 11.6
+    accurate_predict: 88.4
     female_response_1: 20.0
     female_response_2: 80.0
     male_response_1: 14.5
@@ -14893,7 +14893,7 @@
       spanish: Sin calcetines
   poll_id: 15344
   results:
-    accurate_predict: 8.9
+    accurate_predict: 91.1
     female_response_1: 6.2
     female_response_2: 93.8
     male_response_1: 11.6
@@ -14947,7 +14947,7 @@
       spanish: "Llevarla a la polic\xEDa"
   poll_id: 15347
   results:
-    accurate_predict: 48.1
+    accurate_predict: 51.9
     female_response_1: 42.6
     female_response_2: 57.4
     male_response_1: 49.8
@@ -14965,7 +14965,7 @@
       spanish: Un cocodrilo
   poll_id: 15348
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 49.7
     female_response_2: 50.3
     male_response_1: 26.3
@@ -15019,7 +15019,7 @@
       spanish: 'No'
   poll_id: 15351
   results:
-    accurate_predict: 23.0
+    accurate_predict: 77.0
     female_response_1: 22.2
     female_response_2: 77.8
     male_response_1: 25.8
@@ -15055,7 +15055,7 @@
       spanish: Afortunadamente, no
   poll_id: 15353
   results:
-    accurate_predict: 52.4
+    accurate_predict: 47.6
     female_response_1: 48.3
     female_response_2: 51.7
     male_response_1: 40.3
@@ -15073,7 +15073,7 @@
       spanish: Escrito
   poll_id: 15354
   results:
-    accurate_predict: 46.0
+    accurate_predict: 54.0
     female_response_1: 38.4
     female_response_2: 61.6
     male_response_1: 44.8
@@ -15091,7 +15091,7 @@
       spanish: Pegaso
   poll_id: 15355
   results:
-    accurate_predict: 36.5
+    accurate_predict: 63.5
     female_response_1: 25.4
     female_response_2: 74.6
     male_response_1: 53.2
@@ -15109,7 +15109,7 @@
       spanish: 'No'
   poll_id: 15356
   results:
-    accurate_predict: 32.4
+    accurate_predict: 67.6
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 36.0
@@ -15127,7 +15127,7 @@
       spanish: "Despu\xE9s"
   poll_id: 15357
   results:
-    accurate_predict: 40.0
+    accurate_predict: 60.0
     female_response_1: 35.3
     female_response_2: 64.7
     male_response_1: 39.9
@@ -15145,7 +15145,7 @@
       spanish: Un aburrimiento
   poll_id: 15358
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 24.3
     female_response_2: 75.7
     male_response_1: 25.1
@@ -15163,7 +15163,7 @@
       spanish: Verde
   poll_id: 15359
   results:
-    accurate_predict: 38.6
+    accurate_predict: 61.4
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 28.1
@@ -15181,7 +15181,7 @@
       spanish: 'No'
   poll_id: 15360
   results:
-    accurate_predict: 12.1
+    accurate_predict: 87.9
     female_response_1: 8.9
     female_response_2: 91.1
     male_response_1: 12.8
@@ -15199,7 +15199,7 @@
       spanish: 'No'
   poll_id: 15361
   results:
-    accurate_predict: 28.5
+    accurate_predict: 71.5
     female_response_1: 33.0
     female_response_2: 67.0
     male_response_1: 24.4
@@ -15235,7 +15235,7 @@
       spanish: 'No'
   poll_id: 15363
   results:
-    accurate_predict: 23.4
+    accurate_predict: 76.6
     female_response_1: 21.1
     female_response_2: 78.9
     male_response_1: 19.6
@@ -15253,7 +15253,7 @@
       spanish: Rotuladores
   poll_id: 15364
   results:
-    accurate_predict: 39.1
+    accurate_predict: 60.9
     female_response_1: 45.6
     female_response_2: 54.4
     male_response_1: 43.7
@@ -15271,7 +15271,7 @@
       spanish: 'No'
   poll_id: 15365
   results:
-    accurate_predict: 31.4
+    accurate_predict: 68.6
     female_response_1: 37.1
     female_response_2: 62.9
     male_response_1: 29.6
@@ -15289,7 +15289,7 @@
       spanish: 'No'
   poll_id: 15366
   results:
-    accurate_predict: 50.1
+    accurate_predict: 49.9
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 37.4
@@ -15307,7 +15307,7 @@
       spanish: "Un drag\xF3n de fuego"
   poll_id: 15367
   results:
-    accurate_predict: 24.9
+    accurate_predict: 75.1
     female_response_1: 25.1
     female_response_2: 74.9
     male_response_1: 28.9
@@ -15325,7 +15325,7 @@
       spanish: Un guepardo
   poll_id: 15368
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 27.0
     female_response_2: 73.0
     male_response_1: 33.0
@@ -15361,7 +15361,7 @@
       spanish: 'No'
   poll_id: 17940
   results:
-    accurate_predict: 38.7
+    accurate_predict: 61.3
     female_response_1: 45.2
     female_response_2: 54.8
     male_response_1: 39.0
@@ -15379,7 +15379,7 @@
       spanish: Los perros
   poll_id: 17941
   results:
-    accurate_predict: 30.2
+    accurate_predict: 69.8
     female_response_1: 34.1
     female_response_2: 65.9
     male_response_1: 35.3
@@ -15397,7 +15397,7 @@
       spanish: "S\xED"
   poll_id: 17942
   results:
-    accurate_predict: 20.2
+    accurate_predict: 79.8
     female_response_1: 31.7
     female_response_2: 68.3
     male_response_1: 19.4
@@ -15415,7 +15415,7 @@
       spanish: 'No'
   poll_id: 17943
   results:
-    accurate_predict: 27.5
+    accurate_predict: 72.5
     female_response_1: 17.2
     female_response_2: 82.8
     male_response_1: 25.0
@@ -15433,7 +15433,7 @@
       spanish: "Las mu\xF1ecas antiguas"
   poll_id: 17944
   results:
-    accurate_predict: 33.5
+    accurate_predict: 66.5
     female_response_1: 28.8
     female_response_2: 71.2
     male_response_1: 26.3
@@ -15523,7 +15523,7 @@
       spanish: La primavera
   poll_id: 17949
   results:
-    accurate_predict: 18.9
+    accurate_predict: 81.1
     female_response_1: 26.4
     female_response_2: 73.6
     male_response_1: 28.8
@@ -15615,7 +15615,7 @@
       spanish: "Intentar\xEDa arreglarla"
   poll_id: 17954
   results:
-    accurate_predict: 51.4
+    accurate_predict: 48.6
     female_response_1: 53.3
     female_response_2: 46.7
     male_response_1: 42.5
@@ -15633,7 +15633,7 @@
       spanish: "Despu\xE9s"
   poll_id: 17955
   results:
-    accurate_predict: 14.2
+    accurate_predict: 85.8
     female_response_1: 14.5
     female_response_2: 85.5
     male_response_1: 14.6
@@ -15652,7 +15652,7 @@
       spanish: 'No'
   poll_id: 17956
   results:
-    accurate_predict: 49.4
+    accurate_predict: 50.6
     female_response_1: 42.7
     female_response_2: 57.3
     male_response_1: 38.0
@@ -15688,7 +15688,7 @@
       spanish: No, nunca.
   poll_id: 17958
   results:
-    accurate_predict: 26.4
+    accurate_predict: 73.6
     female_response_1: 32.3
     female_response_2: 67.7
     male_response_1: 22.1
@@ -15706,7 +15706,7 @@
       spanish: Lavar los platos
   poll_id: 17959
   results:
-    accurate_predict: 50.3
+    accurate_predict: 49.7
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 48.3
@@ -15762,7 +15762,7 @@
       spanish: Los fantasmas
   poll_id: 17962
   results:
-    accurate_predict: 51.2
+    accurate_predict: 48.8
     female_response_1: 35.1
     female_response_2: 64.9
     male_response_1: 49.0
@@ -15780,7 +15780,7 @@
       spanish: Extrovertida
   poll_id: 17963
   results:
-    accurate_predict: 31.3
+    accurate_predict: 68.7
     female_response_1: 40.4
     female_response_2: 59.6
     male_response_1: 40.0
@@ -15798,7 +15798,7 @@
       spanish: 'No'
   poll_id: 17964
   results:
-    accurate_predict: 17.5
+    accurate_predict: 82.5
     female_response_1: 13.8
     female_response_2: 86.2
     male_response_1: 13.2
@@ -15834,7 +15834,7 @@
       spanish: Intento no mirar
   poll_id: 17966
   results:
-    accurate_predict: 23.3
+    accurate_predict: 76.7
     female_response_1: 23.8
     female_response_2: 76.2
     male_response_1: 22.0
@@ -15852,7 +15852,7 @@
       spanish: 'No'
   poll_id: 17967
   results:
-    accurate_predict: 26.4
+    accurate_predict: 73.6
     female_response_1: 27.8
     female_response_2: 72.2
     male_response_1: 30.4
@@ -15942,7 +15942,7 @@
       spanish: En Nepal
   poll_id: 17972
   results:
-    accurate_predict: 18.5
+    accurate_predict: 81.5
     female_response_1: 21.1
     female_response_2: 78.9
     male_response_1: 19.4
@@ -15978,7 +15978,7 @@
       spanish: 'No'
   poll_id: 17974
   results:
-    accurate_predict: 42.6
+    accurate_predict: 57.4
     female_response_1: 30.7
     female_response_2: 69.3
     male_response_1: 36.7
@@ -15996,7 +15996,7 @@
       spanish: Al fondo
   poll_id: 17975
   results:
-    accurate_predict: 39.8
+    accurate_predict: 60.2
     female_response_1: 49.2
     female_response_2: 50.8
     male_response_1: 48.8
@@ -16050,7 +16050,7 @@
       spanish: El Sol
   poll_id: 17978
   results:
-    accurate_predict: 14.3
+    accurate_predict: 85.7
     female_response_1: 14.6
     female_response_2: 85.4
     male_response_1: 15.3
@@ -16086,7 +16086,7 @@
       spanish: 'No'
   poll_id: 17980
   results:
-    accurate_predict: 56.8
+    accurate_predict: 43.2
     female_response_1: 59.2
     female_response_2: 40.8
     male_response_1: 34.3
@@ -16104,7 +16104,7 @@
       spanish: 'No'
   poll_id: 17981
   results:
-    accurate_predict: 59.4
+    accurate_predict: 40.6
     female_response_1: 46.1
     female_response_2: 53.9
     male_response_1: 44.4
@@ -16122,7 +16122,7 @@
       spanish: "Un tibur\xF3n"
   poll_id: 17982
   results:
-    accurate_predict: 41.0
+    accurate_predict: 59.0
     female_response_1: 84.4
     female_response_2: 15.6
     male_response_1: 13.8
@@ -16140,7 +16140,7 @@
       spanish: 'No'
   poll_id: 17983
   results:
-    accurate_predict: 40.3
+    accurate_predict: 59.7
     female_response_1: 46.4
     female_response_2: 53.6
     male_response_1: 44.2
@@ -16176,7 +16176,7 @@
       spanish: 'No'
   poll_id: 17985
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 38.5
     female_response_2: 61.5
     male_response_1: 32.1
@@ -16194,7 +16194,7 @@
       spanish: 'No'
   poll_id: 17986
   results:
-    accurate_predict: 43.3
+    accurate_predict: 56.7
     female_response_1: 35.4
     female_response_2: 64.6
     male_response_1: 37.5
@@ -16212,7 +16212,7 @@
       spanish: 'No'
   poll_id: 17987
   results:
-    accurate_predict: 11.4
+    accurate_predict: 88.6
     female_response_1: 11.9
     female_response_2: 88.1
     male_response_1: 11.2
@@ -16284,7 +16284,7 @@
       spanish: "Se lo dir\xEDa a mis amigos"
   poll_id: 17991
   results:
-    accurate_predict: 32.3
+    accurate_predict: 67.7
     female_response_1: 35.4
     female_response_2: 64.6
     male_response_1: 35.6
@@ -16320,7 +16320,7 @@
       spanish: 'No'
   poll_id: 17993
   results:
-    accurate_predict: 50.1
+    accurate_predict: 49.9
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 39.5
@@ -16338,7 +16338,7 @@
       spanish: "Las fr\xEDas"
   poll_id: 17994
   results:
-    accurate_predict: 22.5
+    accurate_predict: 77.5
     female_response_1: 27.0
     female_response_2: 73.0
     male_response_1: 20.3
@@ -16356,7 +16356,7 @@
       spanish: 'No'
   poll_id: 17995
   results:
-    accurate_predict: 57.5
+    accurate_predict: 42.5
     female_response_1: 47.7
     female_response_2: 52.3
     male_response_1: 39.7
@@ -16484,7 +16484,7 @@
       spanish: "Saltar en paraca\xEDdas"
   poll_id: 18002
   results:
-    accurate_predict: 29.2
+    accurate_predict: 70.8
     female_response_1: 27.6
     female_response_2: 72.4
     male_response_1: 26.1
@@ -16574,7 +16574,7 @@
       spanish: Las blancas
   poll_id: 18007
   results:
-    accurate_predict: 32.7
+    accurate_predict: 67.3
     female_response_1: 35.3
     female_response_2: 64.7
     male_response_1: 40.3
@@ -16610,7 +16610,7 @@
       spanish: 'No'
   poll_id: 18009
   results:
-    accurate_predict: 36.0
+    accurate_predict: 64.0
     female_response_1: 35.6
     female_response_2: 64.4
     male_response_1: 34.7
@@ -16628,7 +16628,7 @@
       spanish: Chocolate
   poll_id: 18010
   results:
-    accurate_predict: 20.4
+    accurate_predict: 79.6
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 33.2
@@ -16664,7 +16664,7 @@
       spanish: El ascensor
   poll_id: 18012
   results:
-    accurate_predict: 29.9
+    accurate_predict: 70.1
     female_response_1: 44.2
     female_response_2: 55.8
     male_response_1: 44.9
@@ -16682,7 +16682,7 @@
       spanish: 'No'
   poll_id: 18013
   results:
-    accurate_predict: 32.8
+    accurate_predict: 67.2
     female_response_1: 39.5
     female_response_2: 60.5
     male_response_1: 41.2
@@ -16700,7 +16700,7 @@
       spanish: El blanco
   poll_id: 18014
   results:
-    accurate_predict: 28.8
+    accurate_predict: 71.2
     female_response_1: 28.1
     female_response_2: 71.9
     male_response_1: 31.2
@@ -16718,7 +16718,7 @@
       spanish: 'No'
   poll_id: 18015
   results:
-    accurate_predict: 20.6
+    accurate_predict: 79.4
     female_response_1: 17.1
     female_response_2: 82.9
     male_response_1: 30.1
@@ -16736,7 +16736,7 @@
       spanish: 'No'
   poll_id: 18016
   results:
-    accurate_predict: 66.1
+    accurate_predict: 33.9
     female_response_1: 47.7
     female_response_2: 52.3
     male_response_1: 50.2
@@ -16772,7 +16772,7 @@
       spanish: 'No'
   poll_id: 18018
   results:
-    accurate_predict: 43.1
+    accurate_predict: 56.9
     female_response_1: 30.8
     female_response_2: 69.2
     male_response_1: 27.9
@@ -16790,7 +16790,7 @@
       spanish: 'No'
   poll_id: 18019
   results:
-    accurate_predict: 31.0
+    accurate_predict: 69.0
     female_response_1: 28.5
     female_response_2: 71.5
     male_response_1: 34.9
@@ -16808,7 +16808,7 @@
       spanish: 'No'
   poll_id: 18020
   results:
-    accurate_predict: 29.8
+    accurate_predict: 70.2
     female_response_1: 29.2
     female_response_2: 70.8
     male_response_1: 32.6
@@ -16826,7 +16826,7 @@
       spanish: 'No'
   poll_id: 18021
   results:
-    accurate_predict: 14.7
+    accurate_predict: 85.3
     female_response_1: 10.8
     female_response_2: 89.2
     male_response_1: 12.1
@@ -16880,7 +16880,7 @@
       spanish: Cortas
   poll_id: 18024
   results:
-    accurate_predict: 35.9
+    accurate_predict: 64.1
     female_response_1: 54.4
     female_response_2: 45.6
     male_response_1: 21.8
@@ -16916,7 +16916,7 @@
       spanish: Las rosas
   poll_id: 18026
   results:
-    accurate_predict: 19.5
+    accurate_predict: 80.5
     female_response_1: 20.7
     female_response_2: 79.3
     male_response_1: 29.7
@@ -16934,7 +16934,7 @@
       spanish: Imposible
   poll_id: 18027
   results:
-    accurate_predict: 21.0
+    accurate_predict: 79.0
     female_response_1: 27.5
     female_response_2: 72.5
     male_response_1: 24.3
@@ -16970,7 +16970,7 @@
       spanish: 'No'
   poll_id: 18029
   results:
-    accurate_predict: 46.2
+    accurate_predict: 53.8
     female_response_1: 45.4
     female_response_2: 54.6
     male_response_1: 45.9
@@ -17008,7 +17008,7 @@
       spanish: "A\xFAn no"
   poll_id: 18031
   results:
-    accurate_predict: 38.2
+    accurate_predict: 61.8
     female_response_1: 38.1
     female_response_2: 61.9
     male_response_1: 34.6
@@ -17044,7 +17044,7 @@
       spanish: 'No'
   poll_id: 18033
   results:
-    accurate_predict: 35.1
+    accurate_predict: 64.9
     female_response_1: 28.6
     female_response_2: 71.4
     male_response_1: 36.4
@@ -17062,7 +17062,7 @@
       spanish: 'No'
   poll_id: 18034
   results:
-    accurate_predict: 31.3
+    accurate_predict: 68.7
     female_response_1: 23.0
     female_response_2: 77.0
     male_response_1: 23.7
@@ -17080,7 +17080,7 @@
       spanish: El refresco de cola
   poll_id: 18035
   results:
-    accurate_predict: 19.2
+    accurate_predict: 80.8
     female_response_1: 31.6
     female_response_2: 68.4
     male_response_1: 30.8
@@ -17098,7 +17098,7 @@
       spanish: Nunca/casi nunca
   poll_id: 18036
   results:
-    accurate_predict: 32.1
+    accurate_predict: 67.9
     female_response_1: 36.3
     female_response_2: 63.7
     male_response_1: 35.8
@@ -17152,7 +17152,7 @@
       spanish: No, no puedo.
   poll_id: 18039
   results:
-    accurate_predict: 25.5
+    accurate_predict: 74.5
     female_response_1: 29.9
     female_response_2: 70.1
     male_response_1: 20.6
@@ -17188,7 +17188,7 @@
       spanish: Las tostadas
   poll_id: 18041
   results:
-    accurate_predict: 51.9
+    accurate_predict: 48.1
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 50.0
@@ -17278,7 +17278,7 @@
       spanish: 'No'
   poll_id: 18046
   results:
-    accurate_predict: 13.3
+    accurate_predict: 86.7
     female_response_1: 8.9
     female_response_2: 91.1
     male_response_1: 13.6
@@ -17332,7 +17332,7 @@
       spanish: Nada en particular
   poll_id: 18049
   results:
-    accurate_predict: 21.3
+    accurate_predict: 78.7
     female_response_1: 22.1
     female_response_2: 77.9
     male_response_1: 21.7
@@ -17350,7 +17350,7 @@
       spanish: "No se lo dir\xEDa a nadie"
   poll_id: 18050
   results:
-    accurate_predict: 55.9
+    accurate_predict: 44.1
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 43.6
@@ -17368,7 +17368,7 @@
       spanish: 'No'
   poll_id: 18051
   results:
-    accurate_predict: 43.7
+    accurate_predict: 56.3
     female_response_1: 30.8
     female_response_2: 69.2
     male_response_1: 43.0
@@ -17404,7 +17404,7 @@
       spanish: Las caras
   poll_id: 18053
   results:
-    accurate_predict: 39.2
+    accurate_predict: 60.8
     female_response_1: 40.4
     female_response_2: 59.6
     male_response_1: 42.6
@@ -17422,7 +17422,7 @@
       spanish: "\xA1El viernes!"
   poll_id: 18054
   results:
-    accurate_predict: 47.1
+    accurate_predict: 52.9
     female_response_1: 49.9
     female_response_2: 50.1
     male_response_1: 48.3
@@ -17550,7 +17550,7 @@
       spanish: 'No'
   poll_id: 18061
   results:
-    accurate_predict: 44.4
+    accurate_predict: 55.6
     female_response_1: 44.3
     female_response_2: 55.7
     male_response_1: 40.8
@@ -17568,7 +17568,7 @@
       spanish: Las gafas de sol
   poll_id: 18062
   results:
-    accurate_predict: 20.2
+    accurate_predict: 79.8
     female_response_1: 21.2
     female_response_2: 78.8
     male_response_1: 24.2
@@ -17586,7 +17586,7 @@
       spanish: "La el\xE9ctrica"
   poll_id: 18063
   results:
-    accurate_predict: 33.4
+    accurate_predict: 66.6
     female_response_1: 54.4
     female_response_2: 45.6
     male_response_1: 32.3
@@ -17604,7 +17604,7 @@
       spanish: Soy incapaz
   poll_id: 18064
   results:
-    accurate_predict: 22.2
+    accurate_predict: 77.8
     female_response_1: 24.5
     female_response_2: 75.5
     male_response_1: 30.7
@@ -17622,7 +17622,7 @@
       spanish: Comer en un restaurante
   poll_id: 18065
   results:
-    accurate_predict: 27.6
+    accurate_predict: 72.4
     female_response_1: 27.0
     female_response_2: 73.0
     male_response_1: 30.0
@@ -17640,7 +17640,7 @@
       spanish: Ni de broma
   poll_id: 18066
   results:
-    accurate_predict: 35.0
+    accurate_predict: 65.0
     female_response_1: 31.7
     female_response_2: 68.3
     male_response_1: 42.8
@@ -17676,7 +17676,7 @@
       spanish: 'No'
   poll_id: 18068
   results:
-    accurate_predict: 52.9
+    accurate_predict: 47.1
     female_response_1: 48.9
     female_response_2: 51.1
     male_response_1: 41.9
@@ -17694,7 +17694,7 @@
       spanish: Los videojuegos
   poll_id: 18069
   results:
-    accurate_predict: 30.4
+    accurate_predict: 69.6
     female_response_1: 53.7
     female_response_2: 46.3
     male_response_1: 33.8
@@ -17731,7 +17731,7 @@
       spanish: Los truenos
   poll_id: 18071
   results:
-    accurate_predict: 49.8
+    accurate_predict: 50.2
     female_response_1: 50.0
     female_response_2: 50.0
     male_response_1: 48.5
@@ -17858,7 +17858,7 @@
       spanish: Los blandos
   poll_id: 18078
   results:
-    accurate_predict: 47.4
+    accurate_predict: 52.6
     female_response_1: 42.7
     female_response_2: 57.3
     male_response_1: 41.0
@@ -17894,7 +17894,7 @@
       spanish: 'No'
   poll_id: 18080
   results:
-    accurate_predict: 19.7
+    accurate_predict: 80.3
     female_response_1: 12.9
     female_response_2: 87.1
     male_response_1: 15.6

@@ -9,7 +9,7 @@
       english: Fried
   poll_id: 664
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 45.8
     female_response_2: 54.2
     male_response_1: 30.4
@@ -45,7 +45,7 @@
       english: Stay home and relax
   poll_id: 666
   results:
-    accurate_predict: 56.6
+    accurate_predict: 43.4
     female_response_1: 23.6
     female_response_2: 76.4
     male_response_1: 20.6
@@ -81,7 +81,7 @@
       english: Flight
   poll_id: 668
   results:
-    accurate_predict: 23.4
+    accurate_predict: 76.6
     female_response_1: 16.6
     female_response_2: 83.4
     male_response_1: 17.7
@@ -117,7 +117,7 @@
       english: Coffee
   poll_id: 670
   results:
-    accurate_predict: 19.8
+    accurate_predict: 80.2
     female_response_1: 47.0
     female_response_2: 53.0
     male_response_1: 44.0
@@ -171,7 +171,7 @@
       english: Letter
   poll_id: 673
   results:
-    accurate_predict: 42.2
+    accurate_predict: 57.8
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 41.4
@@ -189,7 +189,7 @@
       english: 'No'
   poll_id: 674
   results:
-    accurate_predict: 20.4
+    accurate_predict: 79.6
     female_response_1: 20.0
     female_response_2: 80.0
     male_response_1: 20.1
@@ -207,7 +207,7 @@
       english: Plane
   poll_id: 675
   results:
-    accurate_predict: 19.1
+    accurate_predict: 80.9
     female_response_1: 54.5
     female_response_2: 45.5
     male_response_1: 45.1
@@ -225,7 +225,7 @@
       english: Personal happiness
   poll_id: 676
   results:
-    accurate_predict: 66.2
+    accurate_predict: 33.8
     female_response_1: 47.6
     female_response_2: 52.4
     male_response_1: 46.9
@@ -243,7 +243,7 @@
       english: Night owl
   poll_id: 677
   results:
-    accurate_predict: 17.0
+    accurate_predict: 83.0
     female_response_1: 38.2
     female_response_2: 61.8
     male_response_1: 27.6
@@ -261,7 +261,7 @@
       english: Tiger
   poll_id: 678
   results:
-    accurate_predict: 57.6
+    accurate_predict: 42.4
     female_response_1: 29.9
     female_response_2: 70.1
     male_response_1: 37.5
@@ -279,7 +279,7 @@
       english: Guitarist
   poll_id: 679
   results:
-    accurate_predict: 10.9
+    accurate_predict: 89.1
     female_response_1: 53.8
     female_response_2: 46.2
     male_response_1: 33.9
@@ -297,7 +297,7 @@
       english: Restaurant
   poll_id: 680
   results:
-    accurate_predict: 26.2
+    accurate_predict: 73.8
     female_response_1: 42.0
     female_response_2: 58.0
     male_response_1: 39.6
@@ -335,7 +335,7 @@
       english: 'No'
   poll_id: 682
   results:
-    accurate_predict: 55.3
+    accurate_predict: 44.7
     female_response_1: 57.6
     female_response_2: 42.4
     male_response_1: 38.3
@@ -407,7 +407,7 @@
       english: 'No'
   poll_id: 686
   results:
-    accurate_predict: 35.8
+    accurate_predict: 64.2
     female_response_1: 37.5
     female_response_2: 62.5
     male_response_1: 26.2
@@ -425,7 +425,7 @@
       english: Science
   poll_id: 687
   results:
-    accurate_predict: 58.7
+    accurate_predict: 41.3
     female_response_1: 65.4
     female_response_2: 34.6
     male_response_1: 40.8
@@ -445,7 +445,7 @@
       english: Think about it
   poll_id: 688
   results:
-    accurate_predict: 46.8
+    accurate_predict: 53.2
     female_response_1: 35.1
     female_response_2: 64.9
     male_response_1: 37.9
@@ -463,7 +463,7 @@
       english: Blue
   poll_id: 689
   results:
-    accurate_predict: 28.7
+    accurate_predict: 71.3
     female_response_1: 41.2
     female_response_2: 58.8
     male_response_1: 28.7
@@ -474,14 +474,14 @@
   date: April 09, 2007
   poll:
     question:
-      english: "You have to give a speech to a room full of people..."
+      english: You have to give a speech to a room full of people...
     response_1:
       english: I love it!
     response_2:
       english: I hate it!
   poll_id: 690
   results:
-    accurate_predict: 6.4
+    accurate_predict: 93.6
     female_response_1: 23.6
     female_response_2: 76.4
     male_response_1: 31.3
@@ -499,7 +499,7 @@
       english: Comedy
   poll_id: 691
   results:
-    accurate_predict: 40.3
+    accurate_predict: 59.7
     female_response_1: 25.0
     female_response_2: 75.0
     male_response_1: 42.5
@@ -553,7 +553,7 @@
       english: The egg
   poll_id: 694
   results:
-    accurate_predict: 49.5
+    accurate_predict: 50.5
     female_response_1: 49.3
     female_response_2: 50.7
     male_response_1: 49.3
@@ -589,7 +589,7 @@
       english: 'No'
   poll_id: 696
   results:
-    accurate_predict: 62.1
+    accurate_predict: 37.9
     female_response_1: 37.8
     female_response_2: 62.2
     male_response_1: 48.5
@@ -625,7 +625,7 @@
       english: Rocker
   poll_id: 698
   results:
-    accurate_predict: 24.6
+    accurate_predict: 75.4
     female_response_1: 28.3
     female_response_2: 71.7
     male_response_1: 26.2
@@ -643,7 +643,7 @@
       english: City
   poll_id: 699
   results:
-    accurate_predict: 12.0
+    accurate_predict: 88.0
     female_response_1: 32.7
     female_response_2: 67.3
     male_response_1: 27.1
@@ -679,7 +679,7 @@
       english: Modern
   poll_id: 701
   results:
-    accurate_predict: 3.4
+    accurate_predict: 96.6
     female_response_1: 15.9
     female_response_2: 84.1
     male_response_1: 12.9
@@ -697,7 +697,7 @@
       english: The future
   poll_id: 702
   results:
-    accurate_predict: 17.7
+    accurate_predict: 82.3
     female_response_1: 51.6
     female_response_2: 48.4
     male_response_1: 33.2
@@ -753,7 +753,7 @@
       english: Second half
   poll_id: 1780
   results:
-    accurate_predict: 34.6
+    accurate_predict: 65.4
     female_response_1: 44.1
     female_response_2: 55.9
     male_response_1: 46.8
@@ -789,7 +789,7 @@
       english: Dark
   poll_id: 1782
   results:
-    accurate_predict: 24.4
+    accurate_predict: 75.6
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 38.0
@@ -807,7 +807,7 @@
       english: 'No'
   poll_id: 1783
   results:
-    accurate_predict: 11.1
+    accurate_predict: 88.9
     female_response_1: 5.8
     female_response_2: 94.2
     male_response_1: 11.6
@@ -861,7 +861,7 @@
       english: 'No'
   poll_id: 1786
   results:
-    accurate_predict: 62.3
+    accurate_predict: 37.7
     female_response_1: 50.3
     female_response_2: 49.7
     male_response_1: 38.7
@@ -897,7 +897,7 @@
       english: Receive
   poll_id: 1788
   results:
-    accurate_predict: 27.5
+    accurate_predict: 72.5
     female_response_1: 54.0
     female_response_2: 46.0
     male_response_1: 44.3
@@ -915,7 +915,7 @@
       english: Poor & happy
   poll_id: 1789
   results:
-    accurate_predict: 28.0
+    accurate_predict: 72.0
     female_response_1: 24.4
     female_response_2: 75.6
     male_response_1: 25.6
@@ -933,7 +933,7 @@
       english: E-mail
   poll_id: 1790
   results:
-    accurate_predict: 74.4
+    accurate_predict: 25.6
     female_response_1: 54.6
     female_response_2: 45.4
     male_response_1: 43.1
@@ -951,7 +951,7 @@
       english: Italian
   poll_id: 1791
   results:
-    accurate_predict: 57.8
+    accurate_predict: 42.2
     female_response_1: 44.3
     female_response_2: 55.7
     male_response_1: 46.5
@@ -969,7 +969,7 @@
       english: Spend
   poll_id: 1792
   results:
-    accurate_predict: 20.9
+    accurate_predict: 79.1
     female_response_1: 45.3
     female_response_2: 54.7
     male_response_1: 48.2
@@ -1005,7 +1005,7 @@
       english: 'No'
   poll_id: 1794
   results:
-    accurate_predict: 27.7
+    accurate_predict: 72.3
     female_response_1: 47.5
     female_response_2: 52.5
     male_response_1: 33.4
@@ -1041,7 +1041,7 @@
       english: Personality
   poll_id: 1796
   results:
-    accurate_predict: 23.3
+    accurate_predict: 76.7
     female_response_1: 7.1
     female_response_2: 92.9
     male_response_1: 17.9
@@ -1059,7 +1059,7 @@
       english: Snowboarding
   poll_id: 1797
   results:
-    accurate_predict: 39.0
+    accurate_predict: 61.0
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 24.7
@@ -1077,7 +1077,7 @@
       english: 'No'
   poll_id: 1798
   results:
-    accurate_predict: 22.9
+    accurate_predict: 77.1
     female_response_1: 25.6
     female_response_2: 74.4
     male_response_1: 19.4
@@ -1095,7 +1095,7 @@
       english: 'No'
   poll_id: 1799
   results:
-    accurate_predict: 48.3
+    accurate_predict: 51.7
     female_response_1: 54.3
     female_response_2: 45.7
     male_response_1: 44.8
@@ -1113,7 +1113,7 @@
       english: Brunette
   poll_id: 1800
   results:
-    accurate_predict: 59.3
+    accurate_predict: 40.7
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 31.8
@@ -1149,7 +1149,7 @@
       english: Digital
   poll_id: 1802
   results:
-    accurate_predict: 24.8
+    accurate_predict: 75.2
     female_response_1: 54.4
     female_response_2: 45.6
     male_response_1: 42.4
@@ -1167,7 +1167,7 @@
       english: Quiet
   poll_id: 1803
   results:
-    accurate_predict: 57.4
+    accurate_predict: 42.6
     female_response_1: 50.7
     female_response_2: 49.3
     male_response_1: 40.1
@@ -1185,7 +1185,7 @@
       english: Pool
   poll_id: 1804
   results:
-    accurate_predict: 10.4
+    accurate_predict: 89.6
     female_response_1: 15.1
     female_response_2: 84.9
     male_response_1: 24.0
@@ -1203,7 +1203,7 @@
       english: Right arm
   poll_id: 2084
   results:
-    accurate_predict: 44.6
+    accurate_predict: 55.4
     female_response_1: 59.7
     female_response_2: 40.3
     male_response_1: 45.4
@@ -1221,7 +1221,7 @@
       english: Go back to sleep
   poll_id: 2085
   results:
-    accurate_predict: 7.7
+    accurate_predict: 92.3
     female_response_1: 23.4
     female_response_2: 76.6
     male_response_1: 23.5
@@ -1257,7 +1257,7 @@
       english: Half full
   poll_id: 2087
   results:
-    accurate_predict: 21.1
+    accurate_predict: 78.9
     female_response_1: 22.2
     female_response_2: 77.8
     male_response_1: 29.5
@@ -1275,7 +1275,7 @@
       english: Eat 'em
   poll_id: 2088
   results:
-    accurate_predict: 20.0
+    accurate_predict: 80.0
     female_response_1: 24.2
     female_response_2: 75.8
     male_response_1: 14.8
@@ -1293,7 +1293,7 @@
       english: 'No'
   poll_id: 2089
   results:
-    accurate_predict: 55.8
+    accurate_predict: 44.2
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 35.7
@@ -1311,7 +1311,7 @@
       english: Send a text
   poll_id: 2090
   results:
-    accurate_predict: 17.5
+    accurate_predict: 82.5
     female_response_1: 37.2
     female_response_2: 62.8
     male_response_1: 42.9
@@ -1347,7 +1347,7 @@
       english: Risk it
   poll_id: 2092
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 32.6
     female_response_2: 67.4
     male_response_1: 19.8
@@ -1365,7 +1365,7 @@
       english: Junk food
   poll_id: 2093
   results:
-    accurate_predict: 13.4
+    accurate_predict: 86.6
     female_response_1: 39.3
     female_response_2: 60.7
     male_response_1: 26.5
@@ -1383,7 +1383,7 @@
       english: Put it off
   poll_id: 2094
   results:
-    accurate_predict: 21.8
+    accurate_predict: 78.2
     female_response_1: 46.6
     female_response_2: 53.4
     male_response_1: 31.6
@@ -1419,7 +1419,7 @@
       english: I messed up!
   poll_id: 2096
   results:
-    accurate_predict: 18.5
+    accurate_predict: 81.5
     female_response_1: 27.5
     female_response_2: 72.5
     male_response_1: 26.5
@@ -1437,7 +1437,7 @@
       english: I don't mind it
   poll_id: 2097
   results:
-    accurate_predict: 39.9
+    accurate_predict: 60.1
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 32.1
@@ -1473,7 +1473,7 @@
       english: CD
   poll_id: 2099
   results:
-    accurate_predict: 57.6
+    accurate_predict: 42.4
     female_response_1: 31.2
     female_response_2: 68.8
     male_response_1: 46.7
@@ -1581,7 +1581,7 @@
       english: 'No'
   poll_id: 3039
   results:
-    accurate_predict: 26.0
+    accurate_predict: 74.0
     female_response_1: 38.2
     female_response_2: 61.8
     male_response_1: 23.5
@@ -1619,7 +1619,7 @@
       english: Almost never
   poll_id: 3041
   results:
-    accurate_predict: 29.8
+    accurate_predict: 70.2
     female_response_1: 39.6
     female_response_2: 60.4
     male_response_1: 48.4
@@ -1673,7 +1673,7 @@
       english: 'No'
   poll_id: 3044
   results:
-    accurate_predict: 36.1
+    accurate_predict: 63.9
     female_response_1: 24.4
     female_response_2: 75.6
     male_response_1: 18.1
@@ -1691,7 +1691,7 @@
       english: Realist
   poll_id: 3045
   results:
-    accurate_predict: 58.8
+    accurate_predict: 41.2
     female_response_1: 49.2
     female_response_2: 50.8
     male_response_1: 47.9
@@ -1763,7 +1763,7 @@
       english: Outer space
   poll_id: 3049
   results:
-    accurate_predict: 26.4
+    accurate_predict: 73.6
     female_response_1: 54.0
     female_response_2: 46.0
     male_response_1: 36.0
@@ -1799,7 +1799,7 @@
       english: At the back
   poll_id: 3051
   results:
-    accurate_predict: 13.0
+    accurate_predict: 87.0
     female_response_1: 12.9
     female_response_2: 87.1
     male_response_1: 15.7
@@ -1817,7 +1817,7 @@
       english: 'No'
   poll_id: 3052
   results:
-    accurate_predict: 56.4
+    accurate_predict: 43.6
     female_response_1: 49.0
     female_response_2: 51.0
     male_response_1: 40.9
@@ -1835,7 +1835,7 @@
       english: Sunset
   poll_id: 3053
   results:
-    accurate_predict: 18.7
+    accurate_predict: 81.3
     female_response_1: 27.2
     female_response_2: 72.8
     male_response_1: 26.4
@@ -1846,7 +1846,7 @@
   date: October 03, 2007
   poll:
     question:
-      english: "What do you do with the rest of the milk in the cereal bowl?"
+      english: What do you do with the rest of the milk in the cereal bowl?
     response_1:
       english: Drink it
     response_2:
@@ -1891,7 +1891,7 @@
       english: 'No'
   poll_id: 3056
   results:
-    accurate_predict: 20.7
+    accurate_predict: 79.3
     female_response_1: 26.6
     female_response_2: 73.4
     male_response_1: 34.8
@@ -1902,14 +1902,14 @@
   date: October 10, 2007
   poll:
     question:
-      english: "When you shop for something, what do you think about more?"
+      english: When you shop for something, what do you think about more?
     response_1:
       english: The brand
     response_2:
       english: The price
   poll_id: 3057
   results:
-    accurate_predict: 29.9
+    accurate_predict: 70.1
     female_response_1: 23.6
     female_response_2: 76.4
     male_response_1: 26.5
@@ -1963,7 +1963,7 @@
       english: A big guard dog
   poll_id: 3060
   results:
-    accurate_predict: 48.0
+    accurate_predict: 52.0
     female_response_1: 64.4
     female_response_2: 35.6
     male_response_1: 42.9
@@ -1981,7 +1981,7 @@
       english: Watch them
   poll_id: 3061
   results:
-    accurate_predict: 57.6
+    accurate_predict: 42.4
     female_response_1: 47.2
     female_response_2: 52.8
     male_response_1: 47.8
@@ -1999,7 +1999,7 @@
       english: Playing it by ear
   poll_id: 3062
   results:
-    accurate_predict: 43.9
+    accurate_predict: 56.1
     female_response_1: 47.2
     female_response_2: 52.8
     male_response_1: 43.2
@@ -2053,7 +2053,7 @@
       english: 'No'
   poll_id: 3065
   results:
-    accurate_predict: 18.0
+    accurate_predict: 82.0
     female_response_1: 32.8
     female_response_2: 67.2
     male_response_1: 32.8
@@ -2071,7 +2071,7 @@
       english: 'No'
   poll_id: 3066
   results:
-    accurate_predict: 26.3
+    accurate_predict: 73.7
     female_response_1: 24.0
     female_response_2: 76.0
     male_response_1: 35.0
@@ -2107,7 +2107,7 @@
       english: 'No'
   poll_id: 3068
   results:
-    accurate_predict: 22.7
+    accurate_predict: 77.3
     female_response_1: 28.3
     female_response_2: 71.7
     male_response_1: 8.3
@@ -2163,7 +2163,7 @@
       english: 'No'
   poll_id: 3071
   results:
-    accurate_predict: 29.3
+    accurate_predict: 70.7
     female_response_1: 36.9
     female_response_2: 63.1
     male_response_1: 24.5
@@ -2201,7 +2201,7 @@
       english: 'No'
   poll_id: 3073
   results:
-    accurate_predict: 40.9
+    accurate_predict: 59.1
     female_response_1: 37.1
     female_response_2: 62.9
     male_response_1: 33.6
@@ -2219,7 +2219,7 @@
       english: Colour
   poll_id: 3074
   results:
-    accurate_predict: 9.7
+    accurate_predict: 90.3
     female_response_1: 29.7
     female_response_2: 70.3
     male_response_1: 19.0
@@ -2255,7 +2255,7 @@
       english: Electricity
   poll_id: 3076
   results:
-    accurate_predict: 35.2
+    accurate_predict: 64.8
     female_response_1: 41.8
     female_response_2: 58.2
     male_response_1: 45.0
@@ -2293,7 +2293,7 @@
       english: Modern
   poll_id: 3078
   results:
-    accurate_predict: 10.6
+    accurate_predict: 89.4
     female_response_1: 36.6
     female_response_2: 63.4
     male_response_1: 24.9
@@ -2311,7 +2311,7 @@
       english: 'No'
   poll_id: 3079
   results:
-    accurate_predict: 39.1
+    accurate_predict: 60.9
     female_response_1: 51.0
     female_response_2: 49.0
     male_response_1: 29.8
@@ -2329,7 +2329,7 @@
       english: Subtitled
   poll_id: 3080
   results:
-    accurate_predict: 50.1
+    accurate_predict: 49.9
     female_response_1: 28.1
     female_response_2: 71.9
     male_response_1: 30.5
@@ -2349,7 +2349,7 @@
       english: 'No'
   poll_id: 3081
   results:
-    accurate_predict: 20.7
+    accurate_predict: 79.3
     female_response_1: 23.7
     female_response_2: 76.3
     male_response_1: 19.2
@@ -2367,7 +2367,7 @@
       english: 'No'
   poll_id: 3082
   results:
-    accurate_predict: 44.8
+    accurate_predict: 55.2
     female_response_1: 44.8
     female_response_2: 55.2
     male_response_1: 42.2
@@ -2439,7 +2439,7 @@
       english: An alien
   poll_id: 3086
   results:
-    accurate_predict: 19.0
+    accurate_predict: 81.0
     female_response_1: 38.2
     female_response_2: 61.8
     male_response_1: 21.8
@@ -2529,7 +2529,7 @@
       english: Shoulder bags
   poll_id: 3091
   results:
-    accurate_predict: 46.3
+    accurate_predict: 53.7
     female_response_1: 42.6
     female_response_2: 57.4
     male_response_1: 49.6
@@ -2565,7 +2565,7 @@
       english: A cooking program
   poll_id: 3093
   results:
-    accurate_predict: 77.7
+    accurate_predict: 22.3
     female_response_1: 30.6
     female_response_2: 69.4
     male_response_1: 52.1
@@ -2621,7 +2621,7 @@
       english: Rectangles
   poll_id: 3096
   results:
-    accurate_predict: 48.5
+    accurate_predict: 51.5
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 33.0
@@ -2688,7 +2688,7 @@
   date: January 18, 2008
   poll:
     question:
-      english: "How much time do you spend trying to get to sleep?"
+      english: How much time do you spend trying to get to sleep?
     response_1:
       english: It takes some time
     response_2:
@@ -2724,7 +2724,7 @@
   date: January 23, 2008
   poll:
     question:
-      english: "The phone rings in the middle of the night. Do you..."
+      english: The phone rings in the middle of the night. Do you...
     response_1:
       english: Answer it
     response_2:
@@ -2749,7 +2749,7 @@
       english: Sleepy
   poll_id: 3103
   results:
-    accurate_predict: 30.8
+    accurate_predict: 69.2
     female_response_1: 42.8
     female_response_2: 57.2
     male_response_1: 43.4
@@ -2767,7 +2767,7 @@
       english: Chocolate
   poll_id: 4068
   results:
-    accurate_predict: 23.8
+    accurate_predict: 76.2
     female_response_1: 30.2
     female_response_2: 69.8
     male_response_1: 34.9
@@ -2803,7 +2803,7 @@
       english: Digital
   poll_id: 4070
   results:
-    accurate_predict: 12.7
+    accurate_predict: 87.3
     female_response_1: 16.4
     female_response_2: 83.6
     male_response_1: 18.8
@@ -2917,7 +2917,7 @@
       english: With a computer
   poll_id: 4076
   results:
-    accurate_predict: 23.8
+    accurate_predict: 76.2
     female_response_1: 55.8
     female_response_2: 44.2
     male_response_1: 30.9
@@ -2935,7 +2935,7 @@
       english: 'No'
   poll_id: 4077
   results:
-    accurate_predict: 7.9
+    accurate_predict: 92.1
     female_response_1: 8.2
     female_response_2: 91.8
     male_response_1: 13.4
@@ -3025,7 +3025,7 @@
       english: Beeping
   poll_id: 4082
   results:
-    accurate_predict: 45.3
+    accurate_predict: 54.7
     female_response_1: 51.9
     female_response_2: 48.1
     male_response_1: 42.3
@@ -3065,7 +3065,7 @@
       english: The bad news
   poll_id: 4084
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 23.9
     female_response_2: 76.1
     male_response_1: 26.6
@@ -3085,7 +3085,7 @@
       english: 'No'
   poll_id: 4085
   results:
-    accurate_predict: 24.3
+    accurate_predict: 75.7
     female_response_1: 29.0
     female_response_2: 71.0
     male_response_1: 26.6
@@ -3121,7 +3121,7 @@
       english: Dry
   poll_id: 4087
   results:
-    accurate_predict: 35.1
+    accurate_predict: 64.9
     female_response_1: 51.3
     female_response_2: 48.7
     male_response_1: 45.6
@@ -3141,7 +3141,7 @@
       english: Beach
   poll_id: 4088
   results:
-    accurate_predict: 8.2
+    accurate_predict: 91.8
     female_response_1: 28.9
     female_response_2: 71.1
     male_response_1: 39.1
@@ -3159,7 +3159,7 @@
       english: Mobile phone
   poll_id: 4089
   results:
-    accurate_predict: 45.2
+    accurate_predict: 54.8
     female_response_1: 50.6
     female_response_2: 49.4
     male_response_1: 42.8
@@ -3177,7 +3177,7 @@
       english: Leave them alone
   poll_id: 4090
   results:
-    accurate_predict: 59.7
+    accurate_predict: 40.3
     female_response_1: 27.2
     female_response_2: 72.8
     male_response_1: 28.6
@@ -3269,7 +3269,7 @@
       english: Cursive
   poll_id: 4095
   results:
-    accurate_predict: 44.4
+    accurate_predict: 55.6
     female_response_1: 36.2
     female_response_2: 63.8
     male_response_1: 49.7
@@ -3305,7 +3305,7 @@
       english: When I'm ready
   poll_id: 4097
   results:
-    accurate_predict: 5.7
+    accurate_predict: 94.3
     female_response_1: 19.7
     female_response_2: 80.3
     male_response_1: 11.6
@@ -3323,7 +3323,7 @@
       english: Dessert
   poll_id: 4098
   results:
-    accurate_predict: 19.7
+    accurate_predict: 80.3
     female_response_1: 37.2
     female_response_2: 62.8
     male_response_1: 39.1
@@ -3341,7 +3341,7 @@
       english: In my head
   poll_id: 4099
   results:
-    accurate_predict: 80.3
+    accurate_predict: 19.7
     female_response_1: 59.1
     female_response_2: 40.9
     male_response_1: 44.2
@@ -3359,7 +3359,7 @@
       english: Back
   poll_id: 4100
   results:
-    accurate_predict: 23.7
+    accurate_predict: 76.3
     female_response_1: 51.3
     female_response_2: 48.7
     male_response_1: 45.3
@@ -3415,7 +3415,7 @@
       english: Sneakers
   poll_id: 4103
   results:
-    accurate_predict: 26.3
+    accurate_predict: 73.7
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 22.7
@@ -3435,7 +3435,7 @@
       english: 'Yes'
   poll_id: 4104
   results:
-    accurate_predict: 50.2
+    accurate_predict: 49.8
     female_response_1: 36.8
     female_response_2: 63.2
     male_response_1: 50.8
@@ -3511,7 +3511,7 @@
       english: Tomorrow
   poll_id: 4108
   results:
-    accurate_predict: 44.8
+    accurate_predict: 55.2
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 41.5
@@ -3639,7 +3639,7 @@
       english: Cute
   poll_id: 4115
   results:
-    accurate_predict: 34.4
+    accurate_predict: 65.6
     female_response_1: 32.2
     female_response_2: 67.8
     male_response_1: 18.4
@@ -3713,7 +3713,7 @@
       english: After getting dressed
   poll_id: 5357
   results:
-    accurate_predict: 37.0
+    accurate_predict: 63.0
     female_response_1: 45.4
     female_response_2: 54.6
     male_response_1: 30.4
@@ -3731,7 +3731,7 @@
       english: No, I don't mind
   poll_id: 5358
   results:
-    accurate_predict: 68.2
+    accurate_predict: 31.8
     female_response_1: 62.1
     female_response_2: 37.9
     male_response_1: 34.4
@@ -3749,7 +3749,7 @@
       english: 'No'
   poll_id: 5359
   results:
-    accurate_predict: 12.2
+    accurate_predict: 87.8
     female_response_1: 22.1
     female_response_2: 77.9
     male_response_1: 14.9
@@ -3769,7 +3769,7 @@
       english: Not a chance
   poll_id: 5360
   results:
-    accurate_predict: 33.7
+    accurate_predict: 66.3
     female_response_1: 52.3
     female_response_2: 47.7
     male_response_1: 45.0
@@ -3787,7 +3787,7 @@
       english: Odd
   poll_id: 5361
   results:
-    accurate_predict: 48.4
+    accurate_predict: 51.6
     female_response_1: 45.1
     female_response_2: 54.9
     male_response_1: 44.7
@@ -3805,7 +3805,7 @@
       english: Crummy!
   poll_id: 5362
   results:
-    accurate_predict: 20.1
+    accurate_predict: 79.9
     female_response_1: 37.3
     female_response_2: 62.7
     male_response_1: 42.7
@@ -3843,7 +3843,7 @@
       english: Right
   poll_id: 5364
   results:
-    accurate_predict: 33.4
+    accurate_predict: 66.6
     female_response_1: 43.8
     female_response_2: 56.2
     male_response_1: 45.8
@@ -3971,7 +3971,7 @@
       english: Right
   poll_id: 5371
   results:
-    accurate_predict: 30.4
+    accurate_predict: 69.6
     female_response_1: 32.9
     female_response_2: 67.1
     male_response_1: 43.3
@@ -4025,7 +4025,7 @@
       english: Good use of time
   poll_id: 5374
   results:
-    accurate_predict: 32.9
+    accurate_predict: 67.1
     female_response_1: 16.6
     female_response_2: 83.4
     male_response_1: 32.8
@@ -4043,7 +4043,7 @@
       english: 'No'
   poll_id: 5375
   results:
-    accurate_predict: 17.6
+    accurate_predict: 82.4
     female_response_1: 21.6
     female_response_2: 78.4
     male_response_1: 17.1
@@ -4063,7 +4063,7 @@
       english: Many small cakes
   poll_id: 5376
   results:
-    accurate_predict: 46.2
+    accurate_predict: 53.8
     female_response_1: 32.5
     female_response_2: 67.5
     male_response_1: 40.6
@@ -4155,7 +4155,7 @@
       english: 'No'
   poll_id: 5381
   results:
-    accurate_predict: 27.1
+    accurate_predict: 72.9
     female_response_1: 37.0
     female_response_2: 63.0
     male_response_1: 37.8
@@ -4173,7 +4173,7 @@
       english: Manual
   poll_id: 5382
   results:
-    accurate_predict: 18.2
+    accurate_predict: 81.8
     female_response_1: 25.6
     female_response_2: 74.4
     male_response_1: 29.6
@@ -4193,7 +4193,7 @@
       english: Wait, they'll call again
   poll_id: 5383
   results:
-    accurate_predict: 67.0
+    accurate_predict: 33.0
     female_response_1: 47.9
     female_response_2: 52.1
     male_response_1: 45.0
@@ -4211,7 +4211,7 @@
       english: 'No'
   poll_id: 5384
   results:
-    accurate_predict: 62.4
+    accurate_predict: 37.6
     female_response_1: 55.6
     female_response_2: 44.4
     male_response_1: 45.7
@@ -4265,7 +4265,7 @@
       english: 'No'
   poll_id: 5387
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 26.2
     female_response_2: 73.8
     male_response_1: 31.1
@@ -4283,7 +4283,7 @@
       english: Pick it up
   poll_id: 5388
   results:
-    accurate_predict: 27.1
+    accurate_predict: 72.9
     female_response_1: 22.5
     female_response_2: 77.5
     male_response_1: 37.4
@@ -4301,7 +4301,7 @@
       english: Just relax!
   poll_id: 5389
   results:
-    accurate_predict: 36.9
+    accurate_predict: 63.1
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 41.5
@@ -4409,7 +4409,7 @@
       english: Family
   poll_id: 5395
   results:
-    accurate_predict: 21.4
+    accurate_predict: 78.6
     female_response_1: 27.0
     female_response_2: 73.0
     male_response_1: 22.7
@@ -4499,7 +4499,7 @@
       english: Older than me
   poll_id: 5400
   results:
-    accurate_predict: 41.1
+    accurate_predict: 58.9
     female_response_1: 39.7
     female_response_2: 60.3
     male_response_1: 40.9
@@ -4683,7 +4683,7 @@
       english: 'No'
   poll_id: 5410
   results:
-    accurate_predict: 53.0
+    accurate_predict: 47.0
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 42.1
@@ -4703,7 +4703,7 @@
       english: 'No'
   poll_id: 5411
   results:
-    accurate_predict: 58.9
+    accurate_predict: 41.1
     female_response_1: 31.1
     female_response_2: 68.9
     male_response_1: 40.9
@@ -4721,7 +4721,7 @@
       english: 'No'
   poll_id: 5412
   results:
-    accurate_predict: 38.0
+    accurate_predict: 62.0
     female_response_1: 35.7
     female_response_2: 64.3
     male_response_1: 37.3
@@ -4739,7 +4739,7 @@
       english: USA
   poll_id: 5413
   results:
-    accurate_predict: 28.2
+    accurate_predict: 71.8
     female_response_1: 41.8
     female_response_2: 58.2
     male_response_1: 52.1
@@ -4759,7 +4759,7 @@
       english: 'No'
   poll_id: 5414
   results:
-    accurate_predict: 48.4
+    accurate_predict: 51.6
     female_response_1: 25.1
     female_response_2: 74.9
     male_response_1: 33.8
@@ -4887,7 +4887,7 @@
       english: No way!
   poll_id: 5421
   results:
-    accurate_predict: 30.2
+    accurate_predict: 69.8
     female_response_1: 32.6
     female_response_2: 67.4
     male_response_1: 32.7
@@ -4905,7 +4905,7 @@
       english: Science
   poll_id: 5422
   results:
-    accurate_predict: 55.1
+    accurate_predict: 44.9
     female_response_1: 60.5
     female_response_2: 39.5
     male_response_1: 33.8
@@ -4983,7 +4983,7 @@
       english: Use the snooze function
   poll_id: 6203
   results:
-    accurate_predict: 23.9
+    accurate_predict: 76.1
     female_response_1: 40.8
     female_response_2: 59.2
     male_response_1: 38.5
@@ -5039,7 +5039,7 @@
       english: Painting
   poll_id: 6206
   results:
-    accurate_predict: 32.3
+    accurate_predict: 67.7
     female_response_1: 35.4
     female_response_2: 64.6
     male_response_1: 35.1
@@ -5147,7 +5147,7 @@
       english: On TV
   poll_id: 6212
   results:
-    accurate_predict: 75.5
+    accurate_predict: 24.5
     female_response_1: 37.1
     female_response_2: 62.9
     male_response_1: 49.7
@@ -5165,7 +5165,7 @@
       english: 'No'
   poll_id: 6213
   results:
-    accurate_predict: 37.1
+    accurate_predict: 62.9
     female_response_1: 30.6
     female_response_2: 69.4
     male_response_1: 32.0
@@ -5183,7 +5183,7 @@
       english: Paint
   poll_id: 6214
   results:
-    accurate_predict: 30.3
+    accurate_predict: 69.7
     female_response_1: 24.7
     female_response_2: 75.3
     male_response_1: 26.0
@@ -5239,7 +5239,7 @@
       english: 'No'
   poll_id: 6217
   results:
-    accurate_predict: 32.4
+    accurate_predict: 67.6
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 30.0
@@ -5257,7 +5257,7 @@
       english: Video games
   poll_id: 6218
   results:
-    accurate_predict: 6.3
+    accurate_predict: 93.7
     female_response_1: 34.4
     female_response_2: 65.6
     male_response_1: 13.8
@@ -5329,7 +5329,7 @@
       english: Wasps
   poll_id: 6627
   results:
-    accurate_predict: 16.5
+    accurate_predict: 83.5
     female_response_1: 12.6
     female_response_2: 87.4
     male_response_1: 12.2
@@ -5365,7 +5365,7 @@
       english: Tomato Sauce
   poll_id: 6629
   results:
-    accurate_predict: 20.4
+    accurate_predict: 79.6
     female_response_1: 34.1
     female_response_2: 65.9
     male_response_1: 25.9
@@ -5401,7 +5401,7 @@
       english: 'No'
   poll_id: 6631
   results:
-    accurate_predict: 65.4
+    accurate_predict: 34.6
     female_response_1: 54.6
     female_response_2: 45.4
     male_response_1: 39.9
@@ -5455,7 +5455,7 @@
       english: 'No'
   poll_id: 6634
   results:
-    accurate_predict: 64.5
+    accurate_predict: 35.5
     female_response_1: 47.4
     female_response_2: 52.6
     male_response_1: 27.0
@@ -5495,7 +5495,7 @@
       english: 'No'
   poll_id: 6636
   results:
-    accurate_predict: 18.6
+    accurate_predict: 81.4
     female_response_1: 30.4
     female_response_2: 69.6
     male_response_1: 22.2
@@ -5531,7 +5531,7 @@
       english: 'No'
   poll_id: 6638
   results:
-    accurate_predict: 42.2
+    accurate_predict: 57.8
     female_response_1: 56.7
     female_response_2: 43.3
     male_response_1: 43.9
@@ -5567,7 +5567,7 @@
       english: 'No'
   poll_id: 6640
   results:
-    accurate_predict: 7.9
+    accurate_predict: 92.1
     female_response_1: 15.5
     female_response_2: 84.5
     male_response_1: 14.4
@@ -5621,7 +5621,7 @@
       english: Mashed
   poll_id: 6643
   results:
-    accurate_predict: 40.3
+    accurate_predict: 59.7
     female_response_1: 37.5
     female_response_2: 62.5
     male_response_1: 35.4
@@ -5639,7 +5639,7 @@
       english: Lender
   poll_id: 6644
   results:
-    accurate_predict: 63.1
+    accurate_predict: 36.9
     female_response_1: 39.2
     female_response_2: 60.8
     male_response_1: 47.5
@@ -5659,7 +5659,7 @@
       english: Too cold
   poll_id: 6645
   results:
-    accurate_predict: 55.1
+    accurate_predict: 44.9
     female_response_1: 43.4
     female_response_2: 56.6
     male_response_1: 39.2
@@ -5695,7 +5695,7 @@
       english: Cake
   poll_id: 6647
   results:
-    accurate_predict: 23.0
+    accurate_predict: 77.0
     female_response_1: 35.4
     female_response_2: 64.6
     male_response_1: 32.1
@@ -5731,7 +5731,7 @@
       english: Abroad
   poll_id: 6649
   results:
-    accurate_predict: 11.7
+    accurate_predict: 88.3
     female_response_1: 25.0
     female_response_2: 75.0
     male_response_1: 24.5
@@ -5769,7 +5769,7 @@
       english: Thick sliced
   poll_id: 6651
   results:
-    accurate_predict: 45.0
+    accurate_predict: 55.0
     female_response_1: 43.3
     female_response_2: 56.7
     male_response_1: 41.2
@@ -5805,7 +5805,7 @@
       english: A big present
   poll_id: 6653
   results:
-    accurate_predict: 43.8
+    accurate_predict: 56.2
     female_response_1: 30.4
     female_response_2: 69.6
     male_response_1: 34.0
@@ -5861,7 +5861,7 @@
       english: 'No'
   poll_id: 6656
   results:
-    accurate_predict: 63.7
+    accurate_predict: 36.3
     female_response_1: 31.6
     female_response_2: 68.4
     male_response_1: 40.0
@@ -5897,7 +5897,7 @@
       english: Playing
   poll_id: 6658
   results:
-    accurate_predict: 32.0
+    accurate_predict: 68.0
     female_response_1: 36.3
     female_response_2: 63.7
     male_response_1: 36.0
@@ -5915,7 +5915,7 @@
       english: 'No'
   poll_id: 6659
   results:
-    accurate_predict: 39.0
+    accurate_predict: 61.0
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 38.3
@@ -5933,7 +5933,7 @@
       english: Yuk!
   poll_id: 6660
   results:
-    accurate_predict: 48.0
+    accurate_predict: 52.0
     female_response_1: 44.0
     female_response_2: 56.0
     male_response_1: 48.8
@@ -5989,7 +5989,7 @@
       english: Right
   poll_id: 6663
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 35.1
     female_response_2: 64.9
     male_response_1: 41.4
@@ -6007,7 +6007,7 @@
       english: 'No'
   poll_id: 6664
   results:
-    accurate_predict: 19.5
+    accurate_predict: 80.5
     female_response_1: 24.1
     female_response_2: 75.9
     male_response_1: 16.6
@@ -6025,7 +6025,7 @@
       english: Chocolate
   poll_id: 6665
   results:
-    accurate_predict: 24.3
+    accurate_predict: 75.7
     female_response_1: 33.6
     female_response_2: 66.4
     male_response_1: 33.8
@@ -6043,7 +6043,7 @@
       english: 'No'
   poll_id: 6666
   results:
-    accurate_predict: 35.9
+    accurate_predict: 64.1
     female_response_1: 33.3
     female_response_2: 66.7
     male_response_1: 40.2
@@ -6079,7 +6079,7 @@
       english: 'No'
   poll_id: 6668
   results:
-    accurate_predict: 25.9
+    accurate_predict: 74.1
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 36.7
@@ -6097,7 +6097,7 @@
       english: 'No'
   poll_id: 6669
   results:
-    accurate_predict: 40.9
+    accurate_predict: 59.1
     female_response_1: 37.1
     female_response_2: 62.9
     male_response_1: 45.0
@@ -6115,7 +6115,7 @@
       english: Glass
   poll_id: 6670
   results:
-    accurate_predict: 19.6
+    accurate_predict: 80.4
     female_response_1: 28.4
     female_response_2: 71.6
     male_response_1: 21.3
@@ -6169,7 +6169,7 @@
       english: 'No'
   poll_id: 7175
   results:
-    accurate_predict: 44.4
+    accurate_predict: 55.6
     female_response_1: 48.2
     female_response_2: 51.8
     male_response_1: 49.7
@@ -6223,7 +6223,7 @@
       english: Cheesecake
   poll_id: 7178
   results:
-    accurate_predict: 42.5
+    accurate_predict: 57.5
     female_response_1: 39.3
     female_response_2: 60.7
     male_response_1: 51.3
@@ -6277,7 +6277,7 @@
       english: 'No'
   poll_id: 7181
   results:
-    accurate_predict: 34.3
+    accurate_predict: 65.7
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 36.2
@@ -6295,7 +6295,7 @@
       english: Be invited
   poll_id: 7182
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 37.4
     female_response_2: 62.6
     male_response_1: 38.7
@@ -6331,7 +6331,7 @@
       english: Kick the footy
   poll_id: 7184
   results:
-    accurate_predict: 26.6
+    accurate_predict: 73.4
     female_response_1: 37.2
     female_response_2: 62.8
     male_response_1: 32.8
@@ -6349,7 +6349,7 @@
       english: 'No'
   poll_id: 7185
   results:
-    accurate_predict: 13.3
+    accurate_predict: 86.7
     female_response_1: 19.0
     female_response_2: 81.0
     male_response_1: 16.9
@@ -6367,7 +6367,7 @@
       english: Flat White
   poll_id: 7186
   results:
-    accurate_predict: 55.0
+    accurate_predict: 45.0
     female_response_1: 53.9
     female_response_2: 46.1
     male_response_1: 45.5
@@ -6387,7 +6387,7 @@
       english: 'No'
   poll_id: 7187
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 26.0
     female_response_2: 74.0
     male_response_1: 22.2
@@ -6423,7 +6423,7 @@
       english: 'No'
   poll_id: 7189
   results:
-    accurate_predict: 57.7
+    accurate_predict: 42.3
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 49.3
@@ -6459,7 +6459,7 @@
       english: 'No'
   poll_id: 7191
   results:
-    accurate_predict: 60.9
+    accurate_predict: 39.1
     female_response_1: 29.4
     female_response_2: 70.6
     male_response_1: 41.7
@@ -6477,7 +6477,7 @@
       english: Toast
   poll_id: 7192
   results:
-    accurate_predict: 40.1
+    accurate_predict: 59.9
     female_response_1: 31.0
     female_response_2: 69.0
     male_response_1: 42.1
@@ -6495,7 +6495,7 @@
       english: 'No'
   poll_id: 7193
   results:
-    accurate_predict: 39.0
+    accurate_predict: 61.0
     female_response_1: 27.8
     female_response_2: 72.2
     male_response_1: 36.5
@@ -6549,7 +6549,7 @@
       english: 'No'
   poll_id: 7196
   results:
-    accurate_predict: 41.9
+    accurate_predict: 58.1
     female_response_1: 42.4
     female_response_2: 57.6
     male_response_1: 42.6
@@ -6567,7 +6567,7 @@
       english: 'No'
   poll_id: 7197
   results:
-    accurate_predict: 26.8
+    accurate_predict: 73.2
     female_response_1: 20.0
     female_response_2: 80.0
     male_response_1: 19.3
@@ -6585,7 +6585,7 @@
       english: Samurai
   poll_id: 7198
   results:
-    accurate_predict: 23.5
+    accurate_predict: 76.5
     female_response_1: 27.8
     female_response_2: 72.2
     male_response_1: 31.9
@@ -6605,7 +6605,7 @@
       english: Fly
   poll_id: 7199
   results:
-    accurate_predict: 17.3
+    accurate_predict: 82.7
     female_response_1: 21.1
     female_response_2: 78.9
     male_response_1: 17.5
@@ -6677,7 +6677,7 @@
       english: Plane
   poll_id: 7203
   results:
-    accurate_predict: 30.6
+    accurate_predict: 69.4
     female_response_1: 43.2
     female_response_2: 56.8
     male_response_1: 37.1
@@ -6713,7 +6713,7 @@
       english: Pool
   poll_id: 7205
   results:
-    accurate_predict: 33.4
+    accurate_predict: 66.6
     female_response_1: 29.6
     female_response_2: 70.4
     male_response_1: 33.9
@@ -6731,7 +6731,7 @@
       english: 'No'
   poll_id: 7206
   results:
-    accurate_predict: 65.7
+    accurate_predict: 34.3
     female_response_1: 33.3
     female_response_2: 66.7
     male_response_1: 55.5
@@ -6749,7 +6749,7 @@
       english: 'No'
   poll_id: 7207
   results:
-    accurate_predict: 56.6
+    accurate_predict: 43.4
     female_response_1: 55.0
     female_response_2: 45.0
     male_response_1: 46.7
@@ -6785,7 +6785,7 @@
       english: Crime
   poll_id: 7209
   results:
-    accurate_predict: 28.2
+    accurate_predict: 71.8
     female_response_1: 50.6
     female_response_2: 49.4
     male_response_1: 36.6
@@ -6839,7 +6839,7 @@
       english: Brothers or sisters
   poll_id: 7212
   results:
-    accurate_predict: 8.7
+    accurate_predict: 91.3
     female_response_1: 11.6
     female_response_2: 88.4
     male_response_1: 16.7
@@ -6875,7 +6875,7 @@
       english: 'No'
   poll_id: 7214
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 27.8
     female_response_2: 72.2
     male_response_1: 48.9
@@ -6947,7 +6947,7 @@
       english: 'No'
   poll_id: 7218
   results:
-    accurate_predict: 22.5
+    accurate_predict: 77.5
     female_response_1: 44.8
     female_response_2: 55.2
     male_response_1: 30.1
@@ -7021,7 +7021,7 @@
       english: 'No'
   poll_id: 7222
   results:
-    accurate_predict: 52.6
+    accurate_predict: 47.4
     female_response_1: 49.2
     female_response_2: 50.8
     male_response_1: 38.3
@@ -7057,7 +7057,7 @@
       english: 'No'
   poll_id: 8343
   results:
-    accurate_predict: 28.4
+    accurate_predict: 71.6
     female_response_1: 29.8
     female_response_2: 70.2
     male_response_1: 45.5
@@ -7129,7 +7129,7 @@
       english: 'No'
   poll_id: 8347
   results:
-    accurate_predict: 43.7
+    accurate_predict: 56.3
     female_response_1: 42.0
     female_response_2: 58.0
     male_response_1: 36.4
@@ -7165,7 +7165,7 @@
       english: 'No'
   poll_id: 8349
   results:
-    accurate_predict: 59.2
+    accurate_predict: 40.8
     female_response_1: 57.6
     female_response_2: 42.4
     male_response_1: 45.1
@@ -7183,7 +7183,7 @@
       english: 'No'
   poll_id: 8350
   results:
-    accurate_predict: 28.6
+    accurate_predict: 71.4
     female_response_1: 25.6
     female_response_2: 74.4
     male_response_1: 20.6
@@ -7237,7 +7237,7 @@
       english: 'No'
   poll_id: 8353
   results:
-    accurate_predict: 26.4
+    accurate_predict: 73.6
     female_response_1: 36.4
     female_response_2: 63.6
     male_response_1: 34.8
@@ -7255,7 +7255,7 @@
       english: Green
   poll_id: 8354
   results:
-    accurate_predict: 40.1
+    accurate_predict: 59.9
     female_response_1: 50.6
     female_response_2: 49.4
     male_response_1: 35.9
@@ -7273,7 +7273,7 @@
       english: Hockey
   poll_id: 8355
   results:
-    accurate_predict: 51.6
+    accurate_predict: 48.4
     female_response_1: 66.0
     female_response_2: 34.0
     male_response_1: 26.9
@@ -7291,7 +7291,7 @@
       english: 'No'
   poll_id: 8356
   results:
-    accurate_predict: 62.0
+    accurate_predict: 38.0
     female_response_1: 49.4
     female_response_2: 50.6
     male_response_1: 49.2
@@ -7309,7 +7309,7 @@
       english: 'No'
   poll_id: 8357
   results:
-    accurate_predict: 50.5
+    accurate_predict: 49.5
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 49.8
@@ -7327,7 +7327,7 @@
       english: Play games
   poll_id: 8358
   results:
-    accurate_predict: 55.3
+    accurate_predict: 44.7
     female_response_1: 51.6
     female_response_2: 48.4
     male_response_1: 40.7
@@ -7381,7 +7381,7 @@
       english: Full words
   poll_id: 8361
   results:
-    accurate_predict: 84.6
+    accurate_predict: 15.4
     female_response_1: 51.2
     female_response_2: 48.8
     male_response_1: 44.5
@@ -7417,7 +7417,7 @@
       english: Peas
   poll_id: 8363
   results:
-    accurate_predict: 50.8
+    accurate_predict: 49.2
     female_response_1: 47.1
     female_response_2: 52.9
     male_response_1: 42.2
@@ -7453,7 +7453,7 @@
       english: 'No'
   poll_id: 8365
   results:
-    accurate_predict: 51.3
+    accurate_predict: 48.7
     female_response_1: 46.9
     female_response_2: 53.1
     male_response_1: 36.1
@@ -7507,7 +7507,7 @@
       english: 'No'
   poll_id: 8368
   results:
-    accurate_predict: 29.4
+    accurate_predict: 70.6
     female_response_1: 12.6
     female_response_2: 87.4
     male_response_1: 17.1
@@ -7545,7 +7545,7 @@
       english: 'No'
   poll_id: 8370
   results:
-    accurate_predict: 18.5
+    accurate_predict: 81.5
     female_response_1: 23.4
     female_response_2: 76.6
     male_response_1: 29.5
@@ -7563,7 +7563,7 @@
       english: 'No'
   poll_id: 8371
   results:
-    accurate_predict: 58.7
+    accurate_predict: 41.3
     female_response_1: 45.7
     female_response_2: 54.3
     male_response_1: 42.1
@@ -7655,7 +7655,7 @@
       english: Toothpaste
   poll_id: 8376
   results:
-    accurate_predict: 46.1
+    accurate_predict: 53.9
     female_response_1: 41.7
     female_response_2: 58.3
     male_response_1: 44.3
@@ -7673,7 +7673,7 @@
       english: Bigfoot
   poll_id: 8377
   results:
-    accurate_predict: 27.0
+    accurate_predict: 73.0
     female_response_1: 37.8
     female_response_2: 62.2
     male_response_1: 26.3
@@ -7765,7 +7765,7 @@
       english: Embarrassing
   poll_id: 8382
   results:
-    accurate_predict: 22.8
+    accurate_predict: 77.2
     female_response_1: 25.7
     female_response_2: 74.3
     male_response_1: 28.7
@@ -7819,7 +7819,7 @@
       english: Dolphins
   poll_id: 8385
   results:
-    accurate_predict: 15.7
+    accurate_predict: 84.3
     female_response_1: 20.9
     female_response_2: 79.1
     male_response_1: 38.1
@@ -7837,7 +7837,7 @@
       english: Liquid
   poll_id: 8386
   results:
-    accurate_predict: 44.1
+    accurate_predict: 55.9
     female_response_1: 26.0
     female_response_2: 74.0
     male_response_1: 39.0
@@ -7855,7 +7855,7 @@
       english: What's cow-tipping!?
   poll_id: 8387
   results:
-    accurate_predict: 39.5
+    accurate_predict: 60.5
     female_response_1: 41.6
     female_response_2: 58.4
     male_response_1: 41.5
@@ -7873,7 +7873,7 @@
       english: No way!
   poll_id: 8388
   results:
-    accurate_predict: 25.5
+    accurate_predict: 74.5
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 20.1
@@ -7981,7 +7981,7 @@
       english: 'No'
   poll_id: 9428
   results:
-    accurate_predict: 30.1
+    accurate_predict: 69.9
     female_response_1: 43.6
     female_response_2: 56.4
     male_response_1: 49.3
@@ -8053,7 +8053,7 @@
       english: Ninja!
   poll_id: 9432
   results:
-    accurate_predict: 22.4
+    accurate_predict: 77.6
     female_response_1: 26.3
     female_response_2: 73.7
     male_response_1: 23.6
@@ -8071,7 +8071,7 @@
       english: 'No'
   poll_id: 9433
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 45.4
     female_response_2: 54.6
     male_response_1: 28.5
@@ -8089,7 +8089,7 @@
       english: Archery
   poll_id: 9434
   results:
-    accurate_predict: 28.8
+    accurate_predict: 71.2
     female_response_1: 24.4
     female_response_2: 75.6
     male_response_1: 34.8
@@ -8107,7 +8107,7 @@
       english: 'No'
   poll_id: 9435
   results:
-    accurate_predict: 31.1
+    accurate_predict: 68.9
     female_response_1: 22.8
     female_response_2: 77.2
     male_response_1: 33.1
@@ -8143,7 +8143,7 @@
       english: 'No'
   poll_id: 9437
   results:
-    accurate_predict: 58.5
+    accurate_predict: 41.5
     female_response_1: 20.0
     female_response_2: 80.0
     male_response_1: 40.1
@@ -8161,7 +8161,7 @@
       english: Bring your own
   poll_id: 9438
   results:
-    accurate_predict: 30.1
+    accurate_predict: 69.9
     female_response_1: 25.8
     female_response_2: 74.2
     male_response_1: 31.5
@@ -8197,7 +8197,7 @@
       english: 'No'
   poll_id: 9440
   results:
-    accurate_predict: 16.5
+    accurate_predict: 83.5
     female_response_1: 9.8
     female_response_2: 90.2
     male_response_1: 13.3
@@ -8215,7 +8215,7 @@
       english: 'No'
   poll_id: 9441
   results:
-    accurate_predict: 49.2
+    accurate_predict: 50.8
     female_response_1: 36.9
     female_response_2: 63.1
     male_response_1: 25.2
@@ -8233,7 +8233,7 @@
       english: 'No'
   poll_id: 9442
   results:
-    accurate_predict: 43.6
+    accurate_predict: 56.4
     female_response_1: 36.6
     female_response_2: 63.4
     male_response_1: 43.5
@@ -8269,7 +8269,7 @@
       english: Snow
   poll_id: 9444
   results:
-    accurate_predict: 48.2
+    accurate_predict: 51.8
     female_response_1: 50.6
     female_response_2: 49.4
     male_response_1: 34.9
@@ -8287,7 +8287,7 @@
       english: 'No'
   poll_id: 9445
   results:
-    accurate_predict: 35.2
+    accurate_predict: 64.8
     female_response_1: 33.7
     female_response_2: 66.3
     male_response_1: 34.7
@@ -8305,7 +8305,7 @@
       english: 'No'
   poll_id: 9446
   results:
-    accurate_predict: 30.9
+    accurate_predict: 69.1
     female_response_1: 21.4
     female_response_2: 78.6
     male_response_1: 27.2
@@ -8341,7 +8341,7 @@
       english: 'No'
   poll_id: 9448
   results:
-    accurate_predict: 59.0
+    accurate_predict: 41.0
     female_response_1: 51.2
     female_response_2: 48.8
     male_response_1: 48.2
@@ -8359,7 +8359,7 @@
       english: 'No'
   poll_id: 9449
   results:
-    accurate_predict: 29.0
+    accurate_predict: 71.0
     female_response_1: 24.1
     female_response_2: 75.9
     male_response_1: 21.7
@@ -8395,7 +8395,7 @@
       english: Right before
   poll_id: 9451
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 54.6
     female_response_2: 45.4
     male_response_1: 45.8
@@ -8431,7 +8431,7 @@
       english: Hip-hop
   poll_id: 9453
   results:
-    accurate_predict: 23.9
+    accurate_predict: 76.1
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 35.6
@@ -8467,7 +8467,7 @@
       english: 'No'
   poll_id: 9455
   results:
-    accurate_predict: 41.6
+    accurate_predict: 58.4
     female_response_1: 31.6
     female_response_2: 68.4
     male_response_1: 27.7
@@ -8485,7 +8485,7 @@
       english: 'No'
   poll_id: 9456
   results:
-    accurate_predict: 37.7
+    accurate_predict: 62.3
     female_response_1: 33.4
     female_response_2: 66.6
     male_response_1: 28.6
@@ -8539,7 +8539,7 @@
       english: 'No'
   poll_id: 9459
   results:
-    accurate_predict: 22.1
+    accurate_predict: 77.9
     female_response_1: 20.2
     female_response_2: 79.8
     male_response_1: 19.3
@@ -8557,7 +8557,7 @@
       english: 'No'
   poll_id: 9460
   results:
-    accurate_predict: 49.4
+    accurate_predict: 50.6
     female_response_1: 47.1
     female_response_2: 52.9
     male_response_1: 46.4
@@ -8575,7 +8575,7 @@
       english: 'No'
   poll_id: 9461
   results:
-    accurate_predict: 43.2
+    accurate_predict: 56.8
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 40.8
@@ -8593,7 +8593,7 @@
       english: 'No'
   poll_id: 9462
   results:
-    accurate_predict: 57.9
+    accurate_predict: 42.1
     female_response_1: 53.7
     female_response_2: 46.3
     male_response_1: 23.2
@@ -8611,7 +8611,7 @@
       english: 'No'
   poll_id: 9463
   results:
-    accurate_predict: 32.6
+    accurate_predict: 67.4
     female_response_1: 13.4
     female_response_2: 86.6
     male_response_1: 19.8
@@ -8683,7 +8683,7 @@
       english: 'No'
   poll_id: 9467
   results:
-    accurate_predict: 16.1
+    accurate_predict: 83.9
     female_response_1: 17.8
     female_response_2: 82.2
     male_response_1: 17.8
@@ -8719,7 +8719,7 @@
       english: 'No'
   poll_id: 9469
   results:
-    accurate_predict: 35.5
+    accurate_predict: 64.5
     female_response_1: 44.3
     female_response_2: 55.7
     male_response_1: 38.0
@@ -8737,7 +8737,7 @@
       english: 'No'
   poll_id: 9470
   results:
-    accurate_predict: 43.6
+    accurate_predict: 56.4
     female_response_1: 43.6
     female_response_2: 56.4
     male_response_1: 23.0
@@ -8755,7 +8755,7 @@
       english: 'No'
   poll_id: 9471
   results:
-    accurate_predict: 14.1
+    accurate_predict: 85.9
     female_response_1: 16.1
     female_response_2: 83.9
     male_response_1: 15.8
@@ -8809,7 +8809,7 @@
       english: Keep it separate!
   poll_id: 9474
   results:
-    accurate_predict: 38.7
+    accurate_predict: 61.3
     female_response_1: 42.4
     female_response_2: 57.6
     male_response_1: 31.3
@@ -8863,7 +8863,7 @@
       english: The driver
   poll_id: 9477
   results:
-    accurate_predict: 35.2
+    accurate_predict: 64.8
     female_response_1: 34.4
     female_response_2: 65.6
     male_response_1: 31.2
@@ -8899,7 +8899,7 @@
       english: 'No'
   poll_id: 9479
   results:
-    accurate_predict: 16.7
+    accurate_predict: 83.3
     female_response_1: 20.5
     female_response_2: 79.5
     male_response_1: 19.0
@@ -8953,7 +8953,7 @@
       english: 'No'
   poll_id: 9482
   results:
-    accurate_predict: 39.9
+    accurate_predict: 60.1
     female_response_1: 33.3
     female_response_2: 66.7
     male_response_1: 26.9
@@ -8971,7 +8971,7 @@
       english: Invisibility
   poll_id: 10891
   results:
-    accurate_predict: 37.9
+    accurate_predict: 62.1
     female_response_1: 25.7
     female_response_2: 74.3
     male_response_1: 39.0
@@ -8989,7 +8989,7 @@
       english: 'No'
   poll_id: 10892
   results:
-    accurate_predict: 61.8
+    accurate_predict: 38.2
     female_response_1: 47.5
     female_response_2: 52.5
     male_response_1: 49.6
@@ -9061,7 +9061,7 @@
       english: 'No'
   poll_id: 10896
   results:
-    accurate_predict: 23.8
+    accurate_predict: 76.2
     female_response_1: 52.7
     female_response_2: 47.3
     male_response_1: 28.2
@@ -9079,7 +9079,7 @@
       english: What you need
   poll_id: 10897
   results:
-    accurate_predict: 32.9
+    accurate_predict: 67.1
     female_response_1: 33.7
     female_response_2: 66.3
     male_response_1: 25.3
@@ -9115,7 +9115,7 @@
       english: 'No'
   poll_id: 10899
   results:
-    accurate_predict: 39.1
+    accurate_predict: 60.9
     female_response_1: 52.8
     female_response_2: 47.2
     male_response_1: 42.2
@@ -9133,7 +9133,7 @@
       english: 'No'
   poll_id: 10900
   results:
-    accurate_predict: 27.7
+    accurate_predict: 72.3
     female_response_1: 36.1
     female_response_2: 63.9
     male_response_1: 29.8
@@ -9151,7 +9151,7 @@
       english: Creative
   poll_id: 10901
   results:
-    accurate_predict: 33.4
+    accurate_predict: 66.6
     female_response_1: 29.1
     female_response_2: 70.9
     male_response_1: 42.7
@@ -9169,7 +9169,7 @@
       english: LCD
   poll_id: 10902
   results:
-    accurate_predict: 42.4
+    accurate_predict: 57.6
     female_response_1: 43.9
     female_response_2: 56.1
     male_response_1: 43.2
@@ -9187,7 +9187,7 @@
       english: Short
   poll_id: 10903
   results:
-    accurate_predict: 31.9
+    accurate_predict: 68.1
     female_response_1: 69.4
     female_response_2: 30.6
     male_response_1: 27.6
@@ -9205,7 +9205,7 @@
       english: Internet
   poll_id: 10904
   results:
-    accurate_predict: 36.3
+    accurate_predict: 63.7
     female_response_1: 40.2
     female_response_2: 59.8
     male_response_1: 33.0
@@ -9223,7 +9223,7 @@
       english: Night
   poll_id: 10905
   results:
-    accurate_predict: 58.7
+    accurate_predict: 41.3
     female_response_1: 45.0
     female_response_2: 55.0
     male_response_1: 44.4
@@ -9241,7 +9241,7 @@
       english: With friends
   poll_id: 10906
   results:
-    accurate_predict: 14.7
+    accurate_predict: 85.3
     female_response_1: 15.3
     female_response_2: 84.7
     male_response_1: 24.5
@@ -9259,7 +9259,7 @@
       english: Fork
   poll_id: 10907
   results:
-    accurate_predict: 41.3
+    accurate_predict: 58.7
     female_response_1: 44.2
     female_response_2: 55.8
     male_response_1: 49.7
@@ -9277,7 +9277,7 @@
       english: Snow
   poll_id: 10908
   results:
-    accurate_predict: 20.9
+    accurate_predict: 79.1
     female_response_1: 19.5
     female_response_2: 80.5
     male_response_1: 24.1
@@ -9313,7 +9313,7 @@
       english: 'No'
   poll_id: 10910
   results:
-    accurate_predict: 47.4
+    accurate_predict: 52.6
     female_response_1: 49.3
     female_response_2: 50.7
     male_response_1: 40.2
@@ -9367,7 +9367,7 @@
       english: 'No'
   poll_id: 10913
   results:
-    accurate_predict: 17.1
+    accurate_predict: 82.9
     female_response_1: 25.7
     female_response_2: 74.3
     male_response_1: 24.0
@@ -9385,7 +9385,7 @@
       english: Dinner
   poll_id: 10914
   results:
-    accurate_predict: 24.4
+    accurate_predict: 75.6
     female_response_1: 29.6
     female_response_2: 70.4
     male_response_1: 31.8
@@ -9421,7 +9421,7 @@
       english: Fortune
   poll_id: 10916
   results:
-    accurate_predict: 37.2
+    accurate_predict: 62.8
     female_response_1: 27.4
     female_response_2: 72.6
     male_response_1: 22.6
@@ -9511,7 +9511,7 @@
       english: 'No'
   poll_id: 10921
   results:
-    accurate_predict: 39.8
+    accurate_predict: 60.2
     female_response_1: 40.3
     female_response_2: 59.7
     male_response_1: 47.3
@@ -9529,7 +9529,7 @@
       english: Relaxed
   poll_id: 10922
   results:
-    accurate_predict: 50.2
+    accurate_predict: 49.8
     female_response_1: 52.6
     female_response_2: 47.4
     male_response_1: 44.6
@@ -9583,7 +9583,7 @@
       english: With other people
   poll_id: 10925
   results:
-    accurate_predict: 6.1
+    accurate_predict: 93.9
     female_response_1: 4.1
     female_response_2: 95.9
     male_response_1: 7.7
@@ -9601,7 +9601,7 @@
       english: 'No'
   poll_id: 10926
   results:
-    accurate_predict: 25.0
+    accurate_predict: 75.0
     female_response_1: 18.9
     female_response_2: 81.1
     male_response_1: 24.7
@@ -9619,7 +9619,7 @@
       english: 'No'
   poll_id: 10927
   results:
-    accurate_predict: 10.1
+    accurate_predict: 89.9
     female_response_1: 25.5
     female_response_2: 74.5
     male_response_1: 29.6
@@ -9637,7 +9637,7 @@
       english: 'No'
   poll_id: 10928
   results:
-    accurate_predict: 27.8
+    accurate_predict: 72.2
     female_response_1: 23.1
     female_response_2: 76.9
     male_response_1: 20.7
@@ -9745,7 +9745,7 @@
       english: 'No'
   poll_id: 10934
   results:
-    accurate_predict: 40.3
+    accurate_predict: 59.7
     female_response_1: 21.1
     female_response_2: 78.9
     male_response_1: 45.1
@@ -9835,7 +9835,7 @@
       english: Creamy
   poll_id: 10939
   results:
-    accurate_predict: 40.3
+    accurate_predict: 59.7
     female_response_1: 32.0
     female_response_2: 68.0
     male_response_1: 45.5
@@ -9889,7 +9889,7 @@
       english: 'No'
   poll_id: 10942
   results:
-    accurate_predict: 49.3
+    accurate_predict: 50.7
     female_response_1: 31.0
     female_response_2: 69.0
     male_response_1: 38.6
@@ -9907,7 +9907,7 @@
       english: Coffee
   poll_id: 10943
   results:
-    accurate_predict: 32.1
+    accurate_predict: 67.9
     female_response_1: 46.4
     female_response_2: 53.6
     male_response_1: 44.4
@@ -9943,7 +9943,7 @@
       english: 'No'
   poll_id: 10945
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 36.2
@@ -9961,7 +9961,7 @@
       english: 'No'
   poll_id: 10946
   results:
-    accurate_predict: 48.8
+    accurate_predict: 51.2
     female_response_1: 43.4
     female_response_2: 56.6
     male_response_1: 47.4
@@ -9979,7 +9979,7 @@
       english: 'No'
   poll_id: 10947
   results:
-    accurate_predict: 41.3
+    accurate_predict: 58.7
     female_response_1: 43.4
     female_response_2: 56.6
     male_response_1: 49.7
@@ -9997,7 +9997,7 @@
       english: South Pole
   poll_id: 10948
   results:
-    accurate_predict: 53.1
+    accurate_predict: 46.9
     female_response_1: 49.6
     female_response_2: 50.4
     male_response_1: 47.7
@@ -10015,7 +10015,7 @@
       english: 'No'
   poll_id: 10949
   results:
-    accurate_predict: 21.4
+    accurate_predict: 78.6
     female_response_1: 33.1
     female_response_2: 66.9
     male_response_1: 33.3
@@ -10051,7 +10051,7 @@
       english: 'No'
   poll_id: 10951
   results:
-    accurate_predict: 33.9
+    accurate_predict: 66.1
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 27.3
@@ -10069,7 +10069,7 @@
       english: Home cooking
   poll_id: 10952
   results:
-    accurate_predict: 57.6
+    accurate_predict: 42.4
     female_response_1: 32.5
     female_response_2: 67.5
     male_response_1: 41.4
@@ -10141,7 +10141,7 @@
       english: Outdoor
   poll_id: 10956
   results:
-    accurate_predict: 16.9
+    accurate_predict: 83.1
     female_response_1: 43.2
     female_response_2: 56.8
     male_response_1: 27.0
@@ -10159,7 +10159,7 @@
       english: 'No'
   poll_id: 10957
   results:
-    accurate_predict: 35.3
+    accurate_predict: 64.7
     female_response_1: 43.3
     female_response_2: 56.7
     male_response_1: 38.4
@@ -10213,7 +10213,7 @@
       english: Cheesy
   poll_id: 11822
   results:
-    accurate_predict: 37.6
+    accurate_predict: 62.4
     female_response_1: 35.8
     female_response_2: 64.2
     male_response_1: 43.3
@@ -10267,7 +10267,7 @@
       english: 'No'
   poll_id: 11825
   results:
-    accurate_predict: 35.4
+    accurate_predict: 64.6
     female_response_1: 26.0
     female_response_2: 74.0
     male_response_1: 33.9
@@ -10285,7 +10285,7 @@
       english: 'No'
   poll_id: 11826
   results:
-    accurate_predict: 35.6
+    accurate_predict: 64.4
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 29.4
@@ -10393,7 +10393,7 @@
       english: 'No'
   poll_id: 11832
   results:
-    accurate_predict: 56.5
+    accurate_predict: 43.5
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 34.8
@@ -10429,7 +10429,7 @@
       english: 'No'
   poll_id: 11834
   results:
-    accurate_predict: 43.3
+    accurate_predict: 56.7
     female_response_1: 35.2
     female_response_2: 64.8
     male_response_1: 36.2
@@ -10465,7 +10465,7 @@
       english: 'No'
   poll_id: 11836
   results:
-    accurate_predict: 28.9
+    accurate_predict: 71.1
     female_response_1: 26.7
     female_response_2: 73.3
     male_response_1: 20.5
@@ -10537,7 +10537,7 @@
       english: 'No'
   poll_id: 11840
   results:
-    accurate_predict: 33.3
+    accurate_predict: 66.7
     female_response_1: 30.5
     female_response_2: 69.5
     male_response_1: 26.5
@@ -10591,7 +10591,7 @@
       english: 'No'
   poll_id: 11843
   results:
-    accurate_predict: 33.8
+    accurate_predict: 66.2
     female_response_1: 37.9
     female_response_2: 62.1
     male_response_1: 31.8
@@ -10609,7 +10609,7 @@
       english: With friends
   poll_id: 11844
   results:
-    accurate_predict: 18.5
+    accurate_predict: 81.5
     female_response_1: 21.8
     female_response_2: 78.2
     male_response_1: 25.4
@@ -10627,7 +10627,7 @@
       english: Cold water
   poll_id: 11845
   results:
-    accurate_predict: 50.7
+    accurate_predict: 49.3
     female_response_1: 43.5
     female_response_2: 56.5
     male_response_1: 41.5
@@ -10717,7 +10717,7 @@
       english: 'No'
   poll_id: 11850
   results:
-    accurate_predict: 44.4
+    accurate_predict: 55.6
     female_response_1: 52.6
     female_response_2: 47.4
     male_response_1: 46.0
@@ -10735,7 +10735,7 @@
       english: 'No'
   poll_id: 11851
   results:
-    accurate_predict: 32.3
+    accurate_predict: 67.7
     female_response_1: 31.2
     female_response_2: 68.8
     male_response_1: 21.6
@@ -10753,7 +10753,7 @@
       english: 'No'
   poll_id: 11852
   results:
-    accurate_predict: 49.8
+    accurate_predict: 50.2
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 51.5
@@ -10771,7 +10771,7 @@
       english: 00s
   poll_id: 11853
   results:
-    accurate_predict: 33.7
+    accurate_predict: 66.3
     female_response_1: 37.8
     female_response_2: 62.2
     male_response_1: 44.3
@@ -10807,7 +10807,7 @@
       english: 'No'
   poll_id: 11855
   results:
-    accurate_predict: 31.8
+    accurate_predict: 68.2
     female_response_1: 31.5
     female_response_2: 68.5
     male_response_1: 24.4
@@ -10843,7 +10843,7 @@
       english: 'No'
   poll_id: 11857
   results:
-    accurate_predict: 25.6
+    accurate_predict: 74.4
     female_response_1: 22.1
     female_response_2: 77.9
     male_response_1: 26.9
@@ -10897,7 +10897,7 @@
       english: 'No'
   poll_id: 11860
   results:
-    accurate_predict: 56.8
+    accurate_predict: 43.2
     female_response_1: 40.9
     female_response_2: 59.1
     male_response_1: 40.4
@@ -11059,7 +11059,7 @@
       english: Play an instrument
   poll_id: 11869
   results:
-    accurate_predict: 51.1
+    accurate_predict: 48.9
     female_response_1: 61.7
     female_response_2: 38.3
     male_response_1: 33.6
@@ -11077,7 +11077,7 @@
       english: 'No'
   poll_id: 11870
   results:
-    accurate_predict: 44.1
+    accurate_predict: 55.9
     female_response_1: 42.4
     female_response_2: 57.6
     male_response_1: 42.4
@@ -11113,7 +11113,7 @@
       english: 'No'
   poll_id: 11872
   results:
-    accurate_predict: 12.8
+    accurate_predict: 87.2
     female_response_1: 7.3
     female_response_2: 92.7
     male_response_1: 5.4
@@ -11203,7 +11203,7 @@
       english: 'No'
   poll_id: 11877
   results:
-    accurate_predict: 23.5
+    accurate_predict: 76.5
     female_response_1: 33.1
     female_response_2: 66.9
     male_response_1: 25.7
@@ -11239,7 +11239,7 @@
       english: 'No'
   poll_id: 11879
   results:
-    accurate_predict: 58.7
+    accurate_predict: 41.3
     female_response_1: 48.0
     female_response_2: 52.0
     male_response_1: 32.8
@@ -11311,7 +11311,7 @@
       english: 'No'
   poll_id: 11883
   results:
-    accurate_predict: 43.8
+    accurate_predict: 56.2
     female_response_1: 35.2
     female_response_2: 64.8
     male_response_1: 32.4
@@ -11329,7 +11329,7 @@
       english: Mug
   poll_id: 11884
   results:
-    accurate_predict: 40.7
+    accurate_predict: 59.3
     female_response_1: 41.5
     female_response_2: 58.5
     male_response_1: 50.3
@@ -11347,7 +11347,7 @@
       english: 'No'
   poll_id: 11885
   results:
-    accurate_predict: 44.7
+    accurate_predict: 55.3
     female_response_1: 10.0
     female_response_2: 90.0
     male_response_1: 26.5
@@ -11365,7 +11365,7 @@
       english: 'No'
   poll_id: 11886
   results:
-    accurate_predict: 30.5
+    accurate_predict: 69.5
     female_response_1: 38.1
     female_response_2: 61.9
     male_response_1: 48.4
@@ -11383,7 +11383,7 @@
       english: 'No'
   poll_id: 11887
   results:
-    accurate_predict: 41.9
+    accurate_predict: 58.1
     female_response_1: 38.2
     female_response_2: 61.8
     male_response_1: 32.8
@@ -11419,7 +11419,7 @@
       english: 'No'
   poll_id: 11889
   results:
-    accurate_predict: 21.9
+    accurate_predict: 78.1
     female_response_1: 10.5
     female_response_2: 89.5
     male_response_1: 17.9
@@ -11437,7 +11437,7 @@
       english: Pasta
   poll_id: 11890
   results:
-    accurate_predict: 47.1
+    accurate_predict: 52.9
     female_response_1: 39.1
     female_response_2: 60.9
     male_response_1: 47.2
@@ -11455,7 +11455,7 @@
       english: 'No'
   poll_id: 11891
   results:
-    accurate_predict: 10.7
+    accurate_predict: 89.3
     female_response_1: 8.8
     female_response_2: 91.2
     male_response_1: 5.9
@@ -11509,7 +11509,7 @@
       english: 'No'
   poll_id: 11894
   results:
-    accurate_predict: 25.3
+    accurate_predict: 74.7
     female_response_1: 24.1
     female_response_2: 75.9
     male_response_1: 31.1
@@ -11527,7 +11527,7 @@
       english: Taste
   poll_id: 11895
   results:
-    accurate_predict: 43.3
+    accurate_predict: 56.7
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 39.6
@@ -11545,7 +11545,7 @@
       english: Frog
   poll_id: 11896
   results:
-    accurate_predict: 46.1
+    accurate_predict: 53.9
     female_response_1: 52.2
     female_response_2: 47.8
     male_response_1: 44.4
@@ -11581,7 +11581,7 @@
       english: Chest of drawers
   poll_id: 11898
   results:
-    accurate_predict: 53.0
+    accurate_predict: 47.0
     female_response_1: 45.1
     female_response_2: 54.9
     male_response_1: 37.2
@@ -11599,7 +11599,7 @@
       english: 'No'
   poll_id: 11899
   results:
-    accurate_predict: 53.8
+    accurate_predict: 46.2
     female_response_1: 57.6
     female_response_2: 42.4
     male_response_1: 43.0
@@ -11617,7 +11617,7 @@
       english: 'No'
   poll_id: 11900
   results:
-    accurate_predict: 24.0
+    accurate_predict: 76.0
     female_response_1: 20.5
     female_response_2: 79.5
     male_response_1: 19.0
@@ -11653,7 +11653,7 @@
       english: 'No'
   poll_id: 11902
   results:
-    accurate_predict: 24.5
+    accurate_predict: 75.5
     female_response_1: 22.5
     female_response_2: 77.5
     male_response_1: 28.5
@@ -11671,7 +11671,7 @@
       english: Chocolate
   poll_id: 11903
   results:
-    accurate_predict: 29.8
+    accurate_predict: 70.2
     female_response_1: 41.9
     female_response_2: 58.1
     male_response_1: 36.0
@@ -11689,7 +11689,7 @@
       english: 'No'
   poll_id: 11904
   results:
-    accurate_predict: 47.6
+    accurate_predict: 52.4
     female_response_1: 26.9
     female_response_2: 73.1
     male_response_1: 32.5
@@ -11707,7 +11707,7 @@
       english: Shut
   poll_id: 11905
   results:
-    accurate_predict: 34.2
+    accurate_predict: 65.8
     female_response_1: 32.4
     female_response_2: 67.6
     male_response_1: 32.8
@@ -11725,7 +11725,7 @@
       english: Still drinks
   poll_id: 13750
   results:
-    accurate_predict: 40.8
+    accurate_predict: 59.2
     female_response_1: 42.1
     female_response_2: 57.9
     male_response_1: 39.4
@@ -11761,7 +11761,7 @@
       english: 'No'
   poll_id: 13752
   results:
-    accurate_predict: 36.9
+    accurate_predict: 63.1
     female_response_1: 43.4
     female_response_2: 56.6
     male_response_1: 48.9
@@ -11779,7 +11779,7 @@
       english: Snowball fight
   poll_id: 13753
   results:
-    accurate_predict: 24.8
+    accurate_predict: 75.2
     female_response_1: 23.5
     female_response_2: 76.5
     male_response_1: 28.9
@@ -11871,7 +11871,7 @@
       english: Dessert
   poll_id: 13758
   results:
-    accurate_predict: 25.6
+    accurate_predict: 74.4
     female_response_1: 40.1
     female_response_2: 59.9
     male_response_1: 40.9
@@ -11889,7 +11889,7 @@
       english: Brush it
   poll_id: 13759
   results:
-    accurate_predict: 34.1
+    accurate_predict: 65.9
     female_response_1: 19.1
     female_response_2: 80.9
     male_response_1: 56.2
@@ -11907,7 +11907,7 @@
       english: Chocolate
   poll_id: 13760
   results:
-    accurate_predict: 16.9
+    accurate_predict: 83.1
     female_response_1: 17.2
     female_response_2: 82.8
     male_response_1: 14.5
@@ -11925,7 +11925,7 @@
       english: 'No'
   poll_id: 13761
   results:
-    accurate_predict: 21.8
+    accurate_predict: 78.2
     female_response_1: 21.8
     female_response_2: 78.2
     male_response_1: 30.0
@@ -11961,7 +11961,7 @@
       english: Roman
   poll_id: 13763
   results:
-    accurate_predict: 46.4
+    accurate_predict: 53.6
     female_response_1: 45.2
     female_response_2: 54.8
     male_response_1: 42.7
@@ -11979,7 +11979,7 @@
       english: 'No'
   poll_id: 13764
   results:
-    accurate_predict: 17.9
+    accurate_predict: 82.1
     female_response_1: 12.7
     female_response_2: 87.3
     male_response_1: 18.9
@@ -11997,7 +11997,7 @@
       english: 'No'
   poll_id: 13765
   results:
-    accurate_predict: 17.1
+    accurate_predict: 82.9
     female_response_1: 16.2
     female_response_2: 83.8
     male_response_1: 21.4
@@ -12015,7 +12015,7 @@
       english: 'No'
   poll_id: 13766
   results:
-    accurate_predict: 54.0
+    accurate_predict: 46.0
     female_response_1: 46.9
     female_response_2: 53.1
     male_response_1: 46.5
@@ -12035,7 +12035,7 @@
       english: Avoid spoilers
   poll_id: 13767
   results:
-    accurate_predict: 47.1
+    accurate_predict: 52.9
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 48.8
@@ -12071,7 +12071,7 @@
       english: 'No'
   poll_id: 13769
   results:
-    accurate_predict: 51.7
+    accurate_predict: 48.3
     female_response_1: 53.0
     female_response_2: 47.0
     male_response_1: 47.4
@@ -12089,7 +12089,7 @@
       english: 'No'
   poll_id: 13770
   results:
-    accurate_predict: 43.2
+    accurate_predict: 56.8
     female_response_1: 25.8
     female_response_2: 74.2
     male_response_1: 39.6
@@ -12107,7 +12107,7 @@
       english: 'No'
   poll_id: 13771
   results:
-    accurate_predict: 25.0
+    accurate_predict: 75.0
     female_response_1: 26.8
     female_response_2: 73.2
     male_response_1: 27.3
@@ -12127,7 +12127,7 @@
       english: Pet
   poll_id: 13772
   results:
-    accurate_predict: 44.1
+    accurate_predict: 55.9
     female_response_1: 42.8
     female_response_2: 57.2
     male_response_1: 48.4
@@ -12147,7 +12147,7 @@
       english: Actor
   poll_id: 13773
   results:
-    accurate_predict: 19.7
+    accurate_predict: 80.3
     female_response_1: 42.6
     female_response_2: 57.4
     male_response_1: 29.4
@@ -12241,7 +12241,7 @@
       english: 1000 years
   poll_id: 13778
   results:
-    accurate_predict: 38.4
+    accurate_predict: 61.6
     female_response_1: 45.3
     female_response_2: 54.7
     male_response_1: 41.3
@@ -12259,7 +12259,7 @@
       english: 'No'
   poll_id: 13779
   results:
-    accurate_predict: 49.8
+    accurate_predict: 50.2
     female_response_1: 48.0
     female_response_2: 52.0
     male_response_1: 40.5
@@ -12297,7 +12297,7 @@
       english: Without cream
   poll_id: 13781
   results:
-    accurate_predict: 59.4
+    accurate_predict: 40.6
     female_response_1: 49.0
     female_response_2: 51.0
     male_response_1: 47.6
@@ -12317,7 +12317,7 @@
       english: 'No'
   poll_id: 13782
   results:
-    accurate_predict: 30.6
+    accurate_predict: 69.4
     female_response_1: 25.1
     female_response_2: 74.9
     male_response_1: 25.0
@@ -12335,7 +12335,7 @@
       english: 'No'
   poll_id: 13783
   results:
-    accurate_predict: 35.4
+    accurate_predict: 64.6
     female_response_1: 38.4
     female_response_2: 61.6
     male_response_1: 43.8
@@ -12371,7 +12371,7 @@
       english: 'No'
   poll_id: 13785
   results:
-    accurate_predict: 33.6
+    accurate_predict: 66.4
     female_response_1: 35.8
     female_response_2: 64.2
     male_response_1: 41.0
@@ -12389,7 +12389,7 @@
       english: 'No'
   poll_id: 13786
   results:
-    accurate_predict: 39.3
+    accurate_predict: 60.7
     female_response_1: 36.5
     female_response_2: 63.5
     male_response_1: 38.3
@@ -12445,7 +12445,7 @@
       english: Octopus
   poll_id: 13789
   results:
-    accurate_predict: 33.3
+    accurate_predict: 66.7
     female_response_1: 27.5
     female_response_2: 72.5
     male_response_1: 31.4
@@ -12481,7 +12481,7 @@
       english: 'Off'
   poll_id: 13791
   results:
-    accurate_predict: 49.6
+    accurate_predict: 50.4
     female_response_1: 42.3
     female_response_2: 57.7
     male_response_1: 46.5
@@ -12499,7 +12499,7 @@
       english: No thanks...
   poll_id: 13792
   results:
-    accurate_predict: 43.4
+    accurate_predict: 56.6
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 48.3
@@ -12517,7 +12517,7 @@
       english: Money
   poll_id: 13793
   results:
-    accurate_predict: 26.2
+    accurate_predict: 73.8
     female_response_1: 48.3
     female_response_2: 51.7
     male_response_1: 48.4
@@ -12555,7 +12555,7 @@
       english: 'No'
   poll_id: 13795
   results:
-    accurate_predict: 33.8
+    accurate_predict: 66.2
     female_response_1: 19.2
     female_response_2: 80.8
     male_response_1: 40.9
@@ -12591,7 +12591,7 @@
       english: Not cool
   poll_id: 13797
   results:
-    accurate_predict: 36.8
+    accurate_predict: 63.2
     female_response_1: 18.2
     female_response_2: 81.8
     male_response_1: 38.8
@@ -12627,7 +12627,7 @@
       english: 'No'
   poll_id: 13799
   results:
-    accurate_predict: 37.5
+    accurate_predict: 62.5
     female_response_1: 36.6
     female_response_2: 63.4
     male_response_1: 35.9
@@ -12645,7 +12645,7 @@
       english: Freshly ground
   poll_id: 13800
   results:
-    accurate_predict: 43.6
+    accurate_predict: 56.4
     female_response_1: 45.8
     female_response_2: 54.2
     male_response_1: 42.4
@@ -12663,7 +12663,7 @@
       english: Bored. Yawn.
   poll_id: 13801
   results:
-    accurate_predict: 59.0
+    accurate_predict: 41.0
     female_response_1: 35.8
     female_response_2: 64.2
     male_response_1: 44.4
@@ -12737,7 +12737,7 @@
       english: It's all fantasy.
   poll_id: 13805
   results:
-    accurate_predict: 36.2
+    accurate_predict: 63.8
     female_response_1: 48.6
     female_response_2: 51.4
     male_response_1: 42.1
@@ -12757,7 +12757,7 @@
       english: 'No'
   poll_id: 13806
   results:
-    accurate_predict: 48.2
+    accurate_predict: 51.8
     female_response_1: 47.4
     female_response_2: 52.6
     male_response_1: 49.2
@@ -12775,7 +12775,7 @@
       english: White
   poll_id: 13807
   results:
-    accurate_predict: 28.7
+    accurate_predict: 71.3
     female_response_1: 44.6
     female_response_2: 55.4
     male_response_1: 41.1
@@ -12813,7 +12813,7 @@
       english: Off the bone
   poll_id: 13809
   results:
-    accurate_predict: 46.2
+    accurate_predict: 53.8
     female_response_1: 31.0
     female_response_2: 69.0
     male_response_1: 45.4
@@ -12833,7 +12833,7 @@
       english: I don't...
   poll_id: 13810
   results:
-    accurate_predict: 26.5
+    accurate_predict: 73.5
     female_response_1: 20.8
     female_response_2: 79.2
     male_response_1: 23.6
@@ -12871,7 +12871,7 @@
       english: Investigate!
   poll_id: 13812
   results:
-    accurate_predict: 40.8
+    accurate_predict: 59.2
     female_response_1: 54.4
     female_response_2: 45.6
     male_response_1: 40.2
@@ -12943,7 +12943,7 @@
       english: What mirror?
   poll_id: 13816
   results:
-    accurate_predict: 52.0
+    accurate_predict: 48.0
     female_response_1: 57.0
     female_response_2: 43.0
     male_response_1: 29.7
@@ -12961,7 +12961,7 @@
       english: Action films
   poll_id: 13817
   results:
-    accurate_predict: 32.3
+    accurate_predict: 67.7
     female_response_1: 24.8
     female_response_2: 75.2
     male_response_1: 31.6
@@ -12979,7 +12979,7 @@
       english: Spot
   poll_id: 13818
   results:
-    accurate_predict: 22.2
+    accurate_predict: 77.8
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 28.2
@@ -12997,7 +12997,7 @@
       english: 'No'
   poll_id: 13819
   results:
-    accurate_predict: 17.7
+    accurate_predict: 82.3
     female_response_1: 19.8
     female_response_2: 80.2
     male_response_1: 20.4
@@ -13015,7 +13015,7 @@
       english: 'No'
   poll_id: 13820
   results:
-    accurate_predict: 51.2
+    accurate_predict: 48.8
     female_response_1: 56.2
     female_response_2: 43.8
     male_response_1: 42.8
@@ -13033,7 +13033,7 @@
       english: Fly in the sky!
   poll_id: 13821
   results:
-    accurate_predict: 20.7
+    accurate_predict: 79.3
     female_response_1: 36.4
     female_response_2: 63.6
     male_response_1: 23.4
@@ -13071,7 +13071,7 @@
       english: Keep it quiet
   poll_id: 13823
   results:
-    accurate_predict: 32.4
+    accurate_predict: 67.6
     female_response_1: 19.2
     female_response_2: 80.8
     male_response_1: 22.9
@@ -13125,7 +13125,7 @@
       english: Garlic
   poll_id: 13826
   results:
-    accurate_predict: 51.9
+    accurate_predict: 48.1
     female_response_1: 47.1
     female_response_2: 52.9
     male_response_1: 39.7
@@ -13143,7 +13143,7 @@
       english: 'No'
   poll_id: 13827
   results:
-    accurate_predict: 37.0
+    accurate_predict: 63.0
     female_response_1: 29.0
     female_response_2: 71.0
     male_response_1: 23.5
@@ -13179,7 +13179,7 @@
       english: Kiwis
   poll_id: 13829
   results:
-    accurate_predict: 50.9
+    accurate_predict: 49.1
     female_response_1: 39.3
     female_response_2: 60.7
     male_response_1: 39.9
@@ -13215,7 +13215,7 @@
       english: All year round!
   poll_id: 13831
   results:
-    accurate_predict: 18.7
+    accurate_predict: 81.3
     female_response_1: 18.3
     female_response_2: 81.7
     male_response_1: 22.6
@@ -13269,7 +13269,7 @@
       english: 'No'
   poll_id: 13834
   results:
-    accurate_predict: 38.9
+    accurate_predict: 61.1
     female_response_1: 41.4
     female_response_2: 58.6
     male_response_1: 46.1
@@ -13289,7 +13289,7 @@
       english: Pretend they're good
   poll_id: 13835
   results:
-    accurate_predict: 33.6
+    accurate_predict: 66.4
     female_response_1: 42.6
     female_response_2: 57.4
     male_response_1: 42.3
@@ -13307,7 +13307,7 @@
       english: Double-decker
   poll_id: 13836
   results:
-    accurate_predict: 20.7
+    accurate_predict: 79.3
     female_response_1: 25.7
     female_response_2: 74.3
     male_response_1: 24.0
@@ -13343,7 +13343,7 @@
       english: 'No'
   poll_id: 15846
   results:
-    accurate_predict: 32.4
+    accurate_predict: 67.6
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 44.3
@@ -13361,7 +13361,7 @@
       english: Dessert
   poll_id: 15847
   results:
-    accurate_predict: 22.0
+    accurate_predict: 78.0
     female_response_1: 32.7
     female_response_2: 67.3
     male_response_1: 26.2
@@ -13433,7 +13433,7 @@
       english: 'No'
   poll_id: 15851
   results:
-    accurate_predict: 49.3
+    accurate_predict: 50.7
     female_response_1: 46.4
     female_response_2: 53.6
     male_response_1: 50.8
@@ -13507,7 +13507,7 @@
       english: 'No'
   poll_id: 15855
   results:
-    accurate_predict: 52.1
+    accurate_predict: 47.9
     female_response_1: 51.6
     female_response_2: 48.4
     male_response_1: 48.0
@@ -13527,7 +13527,7 @@
       english: No!
   poll_id: 15856
   results:
-    accurate_predict: 14.2
+    accurate_predict: 85.8
     female_response_1: 10.8
     female_response_2: 89.2
     male_response_1: 8.1
@@ -13545,7 +13545,7 @@
       english: Omelette
   poll_id: 15857
   results:
-    accurate_predict: 42.8
+    accurate_predict: 57.2
     female_response_1: 37.9
     female_response_2: 62.1
     male_response_1: 44.4
@@ -13563,7 +13563,7 @@
       english: 'No'
   poll_id: 15858
   results:
-    accurate_predict: 29.5
+    accurate_predict: 70.5
     female_response_1: 29.7
     female_response_2: 70.3
     male_response_1: 23.2
@@ -13581,7 +13581,7 @@
       english: Nope
   poll_id: 15859
   results:
-    accurate_predict: 48.3
+    accurate_predict: 51.7
     female_response_1: 28.5
     female_response_2: 71.5
     male_response_1: 36.6
@@ -13637,7 +13637,7 @@
       english: Not at all
   poll_id: 15862
   results:
-    accurate_predict: 37.0
+    accurate_predict: 63.0
     female_response_1: 32.0
     female_response_2: 68.0
     male_response_1: 23.5
@@ -13673,7 +13673,7 @@
       english: Not yet...
   poll_id: 15864
   results:
-    accurate_predict: 29.9
+    accurate_predict: 70.1
     female_response_1: 34.3
     female_response_2: 65.7
     male_response_1: 30.5
@@ -13691,7 +13691,7 @@
       english: 'No'
   poll_id: 15865
   results:
-    accurate_predict: 36.4
+    accurate_predict: 63.6
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 28.9
@@ -13709,7 +13709,7 @@
       english: Water
   poll_id: 15866
   results:
-    accurate_predict: 45.4
+    accurate_predict: 54.6
     female_response_1: 24.6
     female_response_2: 75.4
     male_response_1: 51.1
@@ -13729,7 +13729,7 @@
       english: Never
   poll_id: 15867
   results:
-    accurate_predict: 30.4
+    accurate_predict: 69.6
     female_response_1: 15.2
     female_response_2: 84.8
     male_response_1: 18.5
@@ -13769,7 +13769,7 @@
       english: Scruffy warrior
   poll_id: 15869
   results:
-    accurate_predict: 42.5
+    accurate_predict: 57.5
     female_response_1: 52.4
     female_response_2: 47.6
     male_response_1: 44.2
@@ -13823,7 +13823,7 @@
       english: what?
   poll_id: 15872
   results:
-    accurate_predict: 29.3
+    accurate_predict: 70.7
     female_response_1: 27.0
     female_response_2: 73.0
     male_response_1: 37.3
@@ -13935,7 +13935,7 @@
       english: 'No'
   poll_id: 15878
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 49.5
@@ -13955,7 +13955,7 @@
       english: 'No'
   poll_id: 15879
   results:
-    accurate_predict: 47.6
+    accurate_predict: 52.4
     female_response_1: 32.3
     female_response_2: 67.7
     male_response_1: 36.0
@@ -13973,7 +13973,7 @@
       english: Mussels!
   poll_id: 15880
   results:
-    accurate_predict: 44.4
+    accurate_predict: 55.6
     female_response_1: 43.7
     female_response_2: 56.3
     male_response_1: 38.2
@@ -13991,7 +13991,7 @@
       english: No way!
   poll_id: 15881
   results:
-    accurate_predict: 15.9
+    accurate_predict: 84.1
     female_response_1: 9.3
     female_response_2: 90.7
     male_response_1: 8.2
@@ -14009,7 +14009,7 @@
       english: Consonant
   poll_id: 15882
   results:
-    accurate_predict: 16.0
+    accurate_predict: 84.0
     female_response_1: 23.2
     female_response_2: 76.8
     male_response_1: 14.1
@@ -14027,7 +14027,7 @@
       english: 'No'
   poll_id: 15883
   results:
-    accurate_predict: 39.0
+    accurate_predict: 61.0
     female_response_1: 33.3
     female_response_2: 66.7
     male_response_1: 41.6
@@ -14083,7 +14083,7 @@
       english: 'No'
   poll_id: 15886
   results:
-    accurate_predict: 45.1
+    accurate_predict: 54.9
     female_response_1: 47.6
     female_response_2: 52.4
     male_response_1: 30.2
@@ -14101,7 +14101,7 @@
       english: 'No'
   poll_id: 15887
   results:
-    accurate_predict: 38.1
+    accurate_predict: 61.9
     female_response_1: 45.1
     female_response_2: 54.9
     male_response_1: 27.7
@@ -14173,7 +14173,7 @@
       english: Too expensive!
   poll_id: 15891
   results:
-    accurate_predict: 24.0
+    accurate_predict: 76.0
     female_response_1: 36.6
     female_response_2: 63.4
     male_response_1: 39.5
@@ -14209,7 +14209,7 @@
       english: Massive mansion
   poll_id: 15893
   results:
-    accurate_predict: 22.1
+    accurate_predict: 77.9
     female_response_1: 30.4
     female_response_2: 69.6
     male_response_1: 30.8
@@ -14227,7 +14227,7 @@
       english: Trousers
   poll_id: 15894
   results:
-    accurate_predict: 26.0
+    accurate_predict: 74.0
     female_response_1: 27.6
     female_response_2: 72.4
     male_response_1: 27.9
@@ -14263,7 +14263,7 @@
       english: Meat
   poll_id: 15896
   results:
-    accurate_predict: 22.5
+    accurate_predict: 77.5
     female_response_1: 32.6
     female_response_2: 67.4
     male_response_1: 23.0
@@ -14335,7 +14335,7 @@
       english: 'No'
   poll_id: 15900
   results:
-    accurate_predict: 22.3
+    accurate_predict: 77.7
     female_response_1: 31.7
     female_response_2: 68.3
     male_response_1: 29.1
@@ -14389,7 +14389,7 @@
       english: Family and friends!
   poll_id: 15903
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 43.8
@@ -14407,7 +14407,7 @@
       english: 'No'
   poll_id: 15904
   results:
-    accurate_predict: 15.5
+    accurate_predict: 84.5
     female_response_1: 12.9
     female_response_2: 87.1
     male_response_1: 13.7
@@ -14497,7 +14497,7 @@
       english: 'No'
   poll_id: 15909
   results:
-    accurate_predict: 33.8
+    accurate_predict: 66.2
     female_response_1: 45.3
     female_response_2: 54.7
     male_response_1: 28.5
@@ -14551,7 +14551,7 @@
       english: Lion
   poll_id: 15912
   results:
-    accurate_predict: 19.2
+    accurate_predict: 80.8
     female_response_1: 37.2
     female_response_2: 62.8
     male_response_1: 25.3
@@ -14587,7 +14587,7 @@
       english: You stop reading
   poll_id: 15914
   results:
-    accurate_predict: 27.5
+    accurate_predict: 72.5
     female_response_1: 31.7
     female_response_2: 68.3
     male_response_1: 30.2
@@ -14605,7 +14605,7 @@
       english: Barefoot
   poll_id: 15915
   results:
-    accurate_predict: 27.8
+    accurate_predict: 72.2
     female_response_1: 29.4
     female_response_2: 70.6
     male_response_1: 24.1
@@ -14623,7 +14623,7 @@
       english: 'No'
   poll_id: 15916
   results:
-    accurate_predict: 39.0
+    accurate_predict: 61.0
     female_response_1: 34.5
     female_response_2: 65.5
     male_response_1: 31.8
@@ -14677,7 +14677,7 @@
       english: 'No'
   poll_id: 15919
   results:
-    accurate_predict: 49.4
+    accurate_predict: 50.6
     female_response_1: 34.6
     female_response_2: 65.4
     male_response_1: 50.9
@@ -14749,7 +14749,7 @@
       english: Straight hair
   poll_id: 15923
   results:
-    accurate_predict: 23.8
+    accurate_predict: 76.2
     female_response_1: 31.0
     female_response_2: 69.0
     male_response_1: 19.3
@@ -14767,7 +14767,7 @@
       english: Say hello
   poll_id: 15924
   results:
-    accurate_predict: 31.5
+    accurate_predict: 68.5
     female_response_1: 26.5
     female_response_2: 73.5
     male_response_1: 34.3
@@ -14785,7 +14785,7 @@
       english: 'No'
   poll_id: 15925
   results:
-    accurate_predict: 47.6
+    accurate_predict: 52.4
     female_response_1: 23.4
     female_response_2: 76.6
     male_response_1: 36.6
@@ -14821,7 +14821,7 @@
       english: 'No'
   poll_id: 15927
   results:
-    accurate_predict: 43.5
+    accurate_predict: 56.5
     female_response_1: 41.0
     female_response_2: 59.0
     male_response_1: 39.7
@@ -14857,7 +14857,7 @@
       english: 'No'
   poll_id: 15929
   results:
-    accurate_predict: 30.6
+    accurate_predict: 69.4
     female_response_1: 35.6
     female_response_2: 64.4
     male_response_1: 29.8
@@ -14911,7 +14911,7 @@
       english: 'No'
   poll_id: 15932
   results:
-    accurate_predict: 30.5
+    accurate_predict: 69.5
     female_response_1: 31.8
     female_response_2: 68.2
     male_response_1: 39.1
@@ -14929,7 +14929,7 @@
       english: 'No'
   poll_id: 15933
   results:
-    accurate_predict: 15.9
+    accurate_predict: 84.1
     female_response_1: 27.5
     female_response_2: 72.5
     male_response_1: 18.4
@@ -14940,14 +14940,14 @@
   date: May 07, 2012
   poll:
     question:
-      english: "Have you ever had hiccups for more than 30 minutes?"
+      english: Have you ever had hiccups for more than 30 minutes?
     response_1:
       english: 'Yes'
     response_2:
       english: 'No'
   poll_id: 15934
   results:
-    accurate_predict: 28.8
+    accurate_predict: 71.2
     female_response_1: 43.0
     female_response_2: 57.0
     male_response_1: 33.7
@@ -15001,7 +15001,7 @@
       english: 'No'
   poll_id: 15937
   results:
-    accurate_predict: 29.8
+    accurate_predict: 70.2
     female_response_1: 34.8
     female_response_2: 65.2
     male_response_1: 37.2
@@ -15019,7 +15019,7 @@
       english: A rock singer
   poll_id: 15938
   results:
-    accurate_predict: 16.7
+    accurate_predict: 83.3
     female_response_1: 40.8
     female_response_2: 59.2
     male_response_1: 19.5
@@ -15037,7 +15037,7 @@
       english: Without socks
   poll_id: 15939
   results:
-    accurate_predict: 14.9
+    accurate_predict: 85.1
     female_response_1: 16.6
     female_response_2: 83.4
     male_response_1: 15.5
@@ -15091,7 +15091,7 @@
       english: Bring it to police
   poll_id: 15942
   results:
-    accurate_predict: 33.0
+    accurate_predict: 67.0
     female_response_1: 18.5
     female_response_2: 81.5
     male_response_1: 33.3
@@ -15109,7 +15109,7 @@
       english: Crocodile!
   poll_id: 15943
   results:
-    accurate_predict: 29.7
+    accurate_predict: 70.3
     female_response_1: 51.8
     female_response_2: 48.2
     male_response_1: 25.3
@@ -15145,7 +15145,7 @@
       english: Chocolate
   poll_id: 15945
   results:
-    accurate_predict: 25.0
+    accurate_predict: 75.0
     female_response_1: 30.5
     female_response_2: 69.5
     male_response_1: 28.9
@@ -15163,7 +15163,7 @@
       english: 'No'
   poll_id: 15946
   results:
-    accurate_predict: 42.1
+    accurate_predict: 57.9
     female_response_1: 47.5
     female_response_2: 52.5
     male_response_1: 50.5
@@ -15217,7 +15217,7 @@
       english: Written
   poll_id: 15949
   results:
-    accurate_predict: 44.0
+    accurate_predict: 56.0
     female_response_1: 34.3
     female_response_2: 65.7
     male_response_1: 43.4
@@ -15235,7 +15235,7 @@
       english: Pegasus
   poll_id: 15950
   results:
-    accurate_predict: 40.7
+    accurate_predict: 59.3
     female_response_1: 27.9
     female_response_2: 72.1
     male_response_1: 43.1
@@ -15289,7 +15289,7 @@
       english: Annoying
   poll_id: 15953
   results:
-    accurate_predict: 16.7
+    accurate_predict: 83.3
     female_response_1: 20.1
     female_response_2: 79.9
     male_response_1: 24.1
@@ -15307,7 +15307,7 @@
       english: Green
   poll_id: 15954
   results:
-    accurate_predict: 43.7
+    accurate_predict: 56.3
     female_response_1: 58.2
     female_response_2: 41.8
     male_response_1: 36.1
@@ -15325,7 +15325,7 @@
       english: 'No'
   poll_id: 15955
   results:
-    accurate_predict: 24.4
+    accurate_predict: 75.6
     female_response_1: 28.8
     female_response_2: 71.2
     male_response_1: 30.6
@@ -15343,7 +15343,7 @@
       english: 'No'
   poll_id: 15956
   results:
-    accurate_predict: 43.5
+    accurate_predict: 56.5
     female_response_1: 40.9
     female_response_2: 59.1
     male_response_1: 36.5
@@ -15361,7 +15361,7 @@
       english: 'No'
   poll_id: 15957
   results:
-    accurate_predict: 39.0
+    accurate_predict: 61.0
     female_response_1: 39.8
     female_response_2: 60.2
     male_response_1: 40.9
@@ -15379,7 +15379,7 @@
       english: 'No'
   poll_id: 15958
   results:
-    accurate_predict: 34.3
+    accurate_predict: 65.7
     female_response_1: 43.5
     female_response_2: 56.5
     male_response_1: 31.9
@@ -15415,7 +15415,7 @@
       english: 'No'
   poll_id: 15960
   results:
-    accurate_predict: 31.2
+    accurate_predict: 68.8
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 30.7
@@ -15433,7 +15433,7 @@
       english: 'No'
   poll_id: 15961
   results:
-    accurate_predict: 41.0
+    accurate_predict: 59.0
     female_response_1: 29.7
     female_response_2: 70.3
     male_response_1: 25.1
@@ -15451,7 +15451,7 @@
       english: Fire dragon
   poll_id: 15962
   results:
-    accurate_predict: 26.0
+    accurate_predict: 74.0
     female_response_1: 20.9
     female_response_2: 79.1
     male_response_1: 33.2
@@ -15469,7 +15469,7 @@
       english: Cheetah
   poll_id: 15963
   results:
-    accurate_predict: 18.3
+    accurate_predict: 81.7
     female_response_1: 20.4
     female_response_2: 79.6
     male_response_1: 31.3
@@ -15507,7 +15507,7 @@
       english: 'No'
   poll_id: 18865
   results:
-    accurate_predict: 35.5
+    accurate_predict: 64.5
     female_response_1: 29.0
     female_response_2: 71.0
     male_response_1: 31.6
@@ -15525,7 +15525,7 @@
       english: Dogs
   poll_id: 18866
   results:
-    accurate_predict: 41.9
+    accurate_predict: 58.1
     female_response_1: 61.5
     female_response_2: 38.5
     male_response_1: 38.0
@@ -15543,7 +15543,7 @@
       english: 'Yes'
   poll_id: 18867
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 57.7
     female_response_2: 42.3
     male_response_1: 31.2
@@ -15561,7 +15561,7 @@
       english: 'No'
   poll_id: 18868
   results:
-    accurate_predict: 40.1
+    accurate_predict: 59.9
     female_response_1: 25.6
     female_response_2: 74.4
     male_response_1: 30.6
@@ -15579,7 +15579,7 @@
       english: Old dolls
   poll_id: 18869
   results:
-    accurate_predict: 51.3
+    accurate_predict: 48.7
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 41.6
@@ -15615,7 +15615,7 @@
       english: 'No'
   poll_id: 18871
   results:
-    accurate_predict: 52.5
+    accurate_predict: 47.5
     female_response_1: 48.8
     female_response_2: 51.2
     male_response_1: 47.6
@@ -15671,7 +15671,7 @@
       english: Spring
   poll_id: 18874
   results:
-    accurate_predict: 20.4
+    accurate_predict: 79.6
     female_response_1: 35.0
     female_response_2: 65.0
     male_response_1: 30.4
@@ -15727,7 +15727,7 @@
       english: Southern hemisphere
   poll_id: 18877
   results:
-    accurate_predict: 58.9
+    accurate_predict: 41.1
     female_response_1: 23.4
     female_response_2: 76.6
     male_response_1: 22.4
@@ -15747,7 +15747,7 @@
       english: 'No'
   poll_id: 18878
   results:
-    accurate_predict: 49.4
+    accurate_predict: 50.6
     female_response_1: 33.8
     female_response_2: 66.2
     male_response_1: 48.8
@@ -15767,7 +15767,7 @@
       english: Try to fix it yourself
   poll_id: 18879
   results:
-    accurate_predict: 56.7
+    accurate_predict: 43.3
     female_response_1: 57.3
     female_response_2: 42.7
     male_response_1: 38.5
@@ -15785,7 +15785,7 @@
       english: After
   poll_id: 18880
   results:
-    accurate_predict: 15.9
+    accurate_predict: 84.1
     female_response_1: 20.3
     female_response_2: 79.7
     male_response_1: 18.0
@@ -15803,7 +15803,7 @@
       english: 'No'
   poll_id: 18881
   results:
-    accurate_predict: 54.6
+    accurate_predict: 45.4
     female_response_1: 41.0
     female_response_2: 59.0
     male_response_1: 44.9
@@ -15839,7 +15839,7 @@
       english: No, never
   poll_id: 18883
   results:
-    accurate_predict: 21.7
+    accurate_predict: 78.3
     female_response_1: 35.5
     female_response_2: 64.5
     male_response_1: 22.0
@@ -15859,7 +15859,7 @@
       english: Washing the dishes
   poll_id: 18884
   results:
-    accurate_predict: 54.0
+    accurate_predict: 46.0
     female_response_1: 43.6
     female_response_2: 56.4
     male_response_1: 46.9
@@ -15899,7 +15899,7 @@
       english: Sometime later
   poll_id: 18886
   results:
-    accurate_predict: 27.1
+    accurate_predict: 72.9
     female_response_1: 60.0
     female_response_2: 40.0
     male_response_1: 35.4
@@ -15917,7 +15917,7 @@
       english: Ghosts
   poll_id: 18887
   results:
-    accurate_predict: 59.8
+    accurate_predict: 40.2
     female_response_1: 35.9
     female_response_2: 64.1
     male_response_1: 53.1
@@ -15971,7 +15971,7 @@
       english: 'No'
   poll_id: 18890
   results:
-    accurate_predict: 49.2
+    accurate_predict: 50.8
     female_response_1: 56.8
     female_response_2: 43.2
     male_response_1: 43.8
@@ -15989,7 +15989,7 @@
       english: Try not to look.
   poll_id: 18891
   results:
-    accurate_predict: 20.3
+    accurate_predict: 79.7
     female_response_1: 29.7
     female_response_2: 70.3
     male_response_1: 22.7
@@ -16007,7 +16007,7 @@
       english: 'No'
   poll_id: 18892
   results:
-    accurate_predict: 26.8
+    accurate_predict: 73.2
     female_response_1: 18.3
     female_response_2: 81.7
     male_response_1: 27.2
@@ -16043,7 +16043,7 @@
       english: Short
   poll_id: 18894
   results:
-    accurate_predict: 54.4
+    accurate_predict: 45.6
     female_response_1: 77.4
     female_response_2: 22.6
     male_response_1: 27.3
@@ -16063,7 +16063,7 @@
       english: Make up an answer
   poll_id: 18895
   results:
-    accurate_predict: 51.7
+    accurate_predict: 48.3
     female_response_1: 56.2
     female_response_2: 43.8
     male_response_1: 42.3
@@ -16099,7 +16099,7 @@
       english: Nepal
   poll_id: 18897
   results:
-    accurate_predict: 19.0
+    accurate_predict: 81.0
     female_response_1: 20.8
     female_response_2: 79.2
     male_response_1: 23.5
@@ -16135,7 +16135,7 @@
       english: 'No'
   poll_id: 18899
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 20.5
     female_response_2: 79.5
     male_response_1: 33.1
@@ -16153,7 +16153,7 @@
       english: To sit at the back
   poll_id: 18900
   results:
-    accurate_predict: 38.3
+    accurate_predict: 61.7
     female_response_1: 52.3
     female_response_2: 47.7
     male_response_1: 39.3
@@ -16207,7 +16207,7 @@
       english: The Sun
   poll_id: 18903
   results:
-    accurate_predict: 23.1
+    accurate_predict: 76.9
     female_response_1: 24.5
     female_response_2: 75.5
     male_response_1: 17.9
@@ -16227,7 +16227,7 @@
       english: 'No'
   poll_id: 18904
   results:
-    accurate_predict: 46.0
+    accurate_predict: 54.0
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 47.6
@@ -16245,7 +16245,7 @@
       english: 'No'
   poll_id: 18905
   results:
-    accurate_predict: 54.2
+    accurate_predict: 45.8
     female_response_1: 60.1
     female_response_2: 39.9
     male_response_1: 33.7
@@ -16281,7 +16281,7 @@
       english: Shark
   poll_id: 18907
   results:
-    accurate_predict: 36.1
+    accurate_predict: 63.9
     female_response_1: 85.0
     female_response_2: 15.0
     male_response_1: 23.5
@@ -16299,7 +16299,7 @@
       english: 'No'
   poll_id: 18908
   results:
-    accurate_predict: 34.7
+    accurate_predict: 65.3
     female_response_1: 36.7
     female_response_2: 63.3
     male_response_1: 42.8
@@ -16335,7 +16335,7 @@
       english: 'No'
   poll_id: 18910
   results:
-    accurate_predict: 32.7
+    accurate_predict: 67.3
     female_response_1: 42.2
     female_response_2: 57.8
     male_response_1: 43.9
@@ -16353,7 +16353,7 @@
       english: 'No'
   poll_id: 18911
   results:
-    accurate_predict: 46.3
+    accurate_predict: 53.7
     female_response_1: 31.4
     female_response_2: 68.6
     male_response_1: 36.7
@@ -16371,7 +16371,7 @@
       english: 'No'
   poll_id: 18912
   results:
-    accurate_predict: 18.6
+    accurate_predict: 81.4
     female_response_1: 18.4
     female_response_2: 81.6
     male_response_1: 21.7
@@ -16425,7 +16425,7 @@
       english: 'No'
   poll_id: 18915
   results:
-    accurate_predict: 62.5
+    accurate_predict: 37.5
     female_response_1: 36.3
     female_response_2: 63.7
     male_response_1: 38.7
@@ -16443,7 +16443,7 @@
       english: Tell your friends
   poll_id: 18916
   results:
-    accurate_predict: 40.2
+    accurate_predict: 59.8
     female_response_1: 38.9
     female_response_2: 61.1
     male_response_1: 39.2
@@ -16461,7 +16461,7 @@
       english: 'No'
   poll_id: 18917
   results:
-    accurate_predict: 53.2
+    accurate_predict: 46.8
     female_response_1: 47.4
     female_response_2: 52.6
     male_response_1: 47.8
@@ -16479,7 +16479,7 @@
       english: 'No'
   poll_id: 18918
   results:
-    accurate_predict: 55.8
+    accurate_predict: 44.2
     female_response_1: 51.0
     female_response_2: 49.0
     male_response_1: 48.2
@@ -16497,7 +16497,7 @@
       english: Cold
   poll_id: 18919
   results:
-    accurate_predict: 41.6
+    accurate_predict: 58.4
     female_response_1: 39.0
     female_response_2: 61.0
     male_response_1: 29.4
@@ -16515,7 +16515,7 @@
       english: 'No'
   poll_id: 18920
   results:
-    accurate_predict: 57.3
+    accurate_predict: 42.7
     female_response_1: 36.2
     female_response_2: 63.8
     male_response_1: 29.5
@@ -16571,7 +16571,7 @@
       english: Salt and vinegar
   poll_id: 18923
   results:
-    accurate_predict: 37.9
+    accurate_predict: 62.1
     female_response_1: 32.2
     female_response_2: 67.8
     male_response_1: 45.6
@@ -16607,7 +16607,7 @@
       english: White ones
   poll_id: 18925
   results:
-    accurate_predict: 58.0
+    accurate_predict: 42.0
     female_response_1: 52.0
     female_response_2: 48.0
     male_response_1: 44.7
@@ -16645,7 +16645,7 @@
       english: Parachute jump
   poll_id: 18927
   results:
-    accurate_predict: 48.5
+    accurate_predict: 51.5
     female_response_1: 55.1
     female_response_2: 44.9
     male_response_1: 36.6
@@ -16735,7 +16735,7 @@
       english: White
   poll_id: 18932
   results:
-    accurate_predict: 40.8
+    accurate_predict: 59.2
     female_response_1: 41.3
     female_response_2: 58.7
     male_response_1: 42.0
@@ -16771,7 +16771,7 @@
       english: 'No'
   poll_id: 18934
   results:
-    accurate_predict: 28.1
+    accurate_predict: 71.9
     female_response_1: 30.3
     female_response_2: 69.7
     male_response_1: 31.9
@@ -16789,7 +16789,7 @@
       english: Chocolate
   poll_id: 18935
   results:
-    accurate_predict: 31.1
+    accurate_predict: 68.9
     female_response_1: 43.1
     female_response_2: 56.9
     male_response_1: 36.3
@@ -16825,7 +16825,7 @@
       english: Lift
   poll_id: 18937
   results:
-    accurate_predict: 25.0
+    accurate_predict: 75.0
     female_response_1: 44.4
     female_response_2: 55.6
     male_response_1: 37.8
@@ -16861,7 +16861,7 @@
       english: White
   poll_id: 18939
   results:
-    accurate_predict: 23.2
+    accurate_predict: 76.8
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 36.8
@@ -16879,7 +16879,7 @@
       english: 'No'
   poll_id: 18940
   results:
-    accurate_predict: 18.8
+    accurate_predict: 81.2
     female_response_1: 13.0
     female_response_2: 87.0
     male_response_1: 26.9
@@ -16897,7 +16897,7 @@
       english: 'No'
   poll_id: 18941
   results:
-    accurate_predict: 46.6
+    accurate_predict: 53.4
     female_response_1: 42.7
     female_response_2: 57.3
     male_response_1: 45.6
@@ -16933,7 +16933,7 @@
       english: 'No'
   poll_id: 18943
   results:
-    accurate_predict: 53.7
+    accurate_predict: 46.3
     female_response_1: 41.3
     female_response_2: 58.7
     male_response_1: 41.3
@@ -16987,7 +16987,7 @@
       english: 'No'
   poll_id: 18946
   results:
-    accurate_predict: 24.3
+    accurate_predict: 75.7
     female_response_1: 16.8
     female_response_2: 83.2
     male_response_1: 25.1
@@ -17025,7 +17025,7 @@
       english: 'No'
   poll_id: 18948
   results:
-    accurate_predict: 52.7
+    accurate_predict: 47.3
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 47.1
@@ -17043,7 +17043,7 @@
       english: Short
   poll_id: 18949
   results:
-    accurate_predict: 38.8
+    accurate_predict: 61.2
     female_response_1: 45.7
     female_response_2: 54.3
     male_response_1: 18.7
@@ -17079,7 +17079,7 @@
       english: Rose
   poll_id: 18951
   results:
-    accurate_predict: 25.1
+    accurate_predict: 74.9
     female_response_1: 26.3
     female_response_2: 73.7
     male_response_1: 36.3
@@ -17097,7 +17097,7 @@
       english: Impossible
   poll_id: 18952
   results:
-    accurate_predict: 26.3
+    accurate_predict: 73.7
     female_response_1: 28.3
     female_response_2: 71.7
     male_response_1: 34.3
@@ -17209,7 +17209,7 @@
       english: 'No'
   poll_id: 18958
   results:
-    accurate_predict: 41.7
+    accurate_predict: 58.3
     female_response_1: 37.5
     female_response_2: 62.5
     male_response_1: 48.0
@@ -17227,7 +17227,7 @@
       english: 'No'
   poll_id: 18959
   results:
-    accurate_predict: 36.3
+    accurate_predict: 63.7
     female_response_1: 23.9
     female_response_2: 76.1
     male_response_1: 25.4
@@ -17245,7 +17245,7 @@
       english: Cola
   poll_id: 18960
   results:
-    accurate_predict: 26.9
+    accurate_predict: 73.1
     female_response_1: 47.4
     female_response_2: 52.6
     male_response_1: 40.1
@@ -17263,7 +17263,7 @@
       english: Never/almost never
   poll_id: 18961
   results:
-    accurate_predict: 45.5
+    accurate_predict: 54.5
     female_response_1: 57.3
     female_response_2: 42.7
     male_response_1: 38.7
@@ -17317,7 +17317,7 @@
       english: No, I can't
   poll_id: 18964
   results:
-    accurate_predict: 24.0
+    accurate_predict: 76.0
     female_response_1: 27.6
     female_response_2: 72.4
     male_response_1: 21.8
@@ -17353,7 +17353,7 @@
       english: Toast
   poll_id: 18966
   results:
-    accurate_predict: 51.7
+    accurate_predict: 48.3
     female_response_1: 42.8
     female_response_2: 57.2
     male_response_1: 51.7
@@ -17443,7 +17443,7 @@
       english: 'No'
   poll_id: 18971
   results:
-    accurate_predict: 38.2
+    accurate_predict: 61.8
     female_response_1: 44.0
     female_response_2: 56.0
     male_response_1: 26.7
@@ -17499,7 +17499,7 @@
       english: Nothing special
   poll_id: 18974
   results:
-    accurate_predict: 37.2
+    accurate_predict: 62.8
     female_response_1: 39.4
     female_response_2: 60.6
     male_response_1: 42.1
@@ -17517,7 +17517,7 @@
       english: Wouldn't tell anybody
   poll_id: 18975
   results:
-    accurate_predict: 64.5
+    accurate_predict: 35.5
     female_response_1: 45.4
     female_response_2: 54.6
     male_response_1: 48.3
@@ -17571,7 +17571,7 @@
       english: Faces
   poll_id: 18978
   results:
-    accurate_predict: 35.8
+    accurate_predict: 64.2
     female_response_1: 38.8
     female_response_2: 61.2
     male_response_1: 49.0
@@ -17589,7 +17589,7 @@
       english: Friday!
   poll_id: 18979
   results:
-    accurate_predict: 38.8
+    accurate_predict: 61.2
     female_response_1: 46.2
     female_response_2: 53.8
     male_response_1: 46.2
@@ -17609,7 +17609,7 @@
       english: No/Maybe
   poll_id: 18980
   results:
-    accurate_predict: 53.5
+    accurate_predict: 46.5
     female_response_1: 44.5
     female_response_2: 55.5
     male_response_1: 41.1
@@ -17665,7 +17665,7 @@
       english: 'No'
   poll_id: 18983
   results:
-    accurate_predict: 47.5
+    accurate_predict: 52.5
     female_response_1: 44.1
     female_response_2: 55.9
     male_response_1: 40.6
@@ -17685,7 +17685,7 @@
       english: 1st March
   poll_id: 18984
   results:
-    accurate_predict: 57.9
+    accurate_predict: 42.1
     female_response_1: 49.2
     female_response_2: 50.8
     male_response_1: 47.4
@@ -17723,7 +17723,7 @@
       english: 'No'
   poll_id: 18986
   results:
-    accurate_predict: 29.6
+    accurate_predict: 70.4
     female_response_1: 17.0
     female_response_2: 83.0
     male_response_1: 26.8
@@ -17741,7 +17741,7 @@
       english: Sunglasses
   poll_id: 18987
   results:
-    accurate_predict: 33.4
+    accurate_predict: 66.6
     female_response_1: 32.7
     female_response_2: 67.3
     male_response_1: 43.8
@@ -17779,7 +17779,7 @@
       english: Not at all
   poll_id: 18989
   results:
-    accurate_predict: 19.5
+    accurate_predict: 80.5
     female_response_1: 11.2
     female_response_2: 88.8
     male_response_1: 21.9
@@ -17797,7 +17797,7 @@
       english: Resturants
   poll_id: 18990
   results:
-    accurate_predict: 47.9
+    accurate_predict: 52.1
     female_response_1: 47.8
     female_response_2: 52.2
     male_response_1: 39.6
@@ -17815,7 +17815,7 @@
       english: Not a chance
   poll_id: 18991
   results:
-    accurate_predict: 28.5
+    accurate_predict: 71.5
     female_response_1: 21.5
     female_response_2: 78.5
     male_response_1: 30.1
@@ -17873,7 +17873,7 @@
       english: Video games
   poll_id: 18994
   results:
-    accurate_predict: 24.2
+    accurate_predict: 75.8
     female_response_1: 40.0
     female_response_2: 60.0
     male_response_1: 19.5
@@ -17893,7 +17893,7 @@
       english: 'No'
   poll_id: 18995
   results:
-    accurate_predict: 41.5
+    accurate_predict: 58.5
     female_response_1: 27.1
     female_response_2: 72.9
     male_response_1: 34.0
@@ -17911,7 +17911,7 @@
       english: Thunder
   poll_id: 18996
   results:
-    accurate_predict: 55.7
+    accurate_predict: 44.3
     female_response_1: 37.7
     female_response_2: 62.3
     male_response_1: 47.3
@@ -17947,7 +17947,7 @@
       english: On a ski lift
   poll_id: 18998
   results:
-    accurate_predict: 38.7
+    accurate_predict: 61.3
     female_response_1: 29.8
     female_response_2: 70.2
     male_response_1: 44.4
@@ -17967,7 +17967,7 @@
       english: It's awful!
   poll_id: 18999
   results:
-    accurate_predict: 54.6
+    accurate_predict: 45.4
     female_response_1: 44.7
     female_response_2: 55.3
     male_response_1: 43.5
@@ -18039,7 +18039,7 @@
       english: Soft
   poll_id: 19003
   results:
-    accurate_predict: 31.6
+    accurate_predict: 68.4
     female_response_1: 36.0
     female_response_2: 64.0
     male_response_1: 31.0
@@ -18059,7 +18059,7 @@
       english: With someone
   poll_id: 19004
   results:
-    accurate_predict: 48.1
+    accurate_predict: 51.9
     female_response_1: 38.6
     female_response_2: 61.4
     male_response_1: 43.5
@@ -18077,7 +18077,7 @@
       english: 'No'
   poll_id: 19005
   results:
-    accurate_predict: 24.3
+    accurate_predict: 75.7
     female_response_1: 13.6
     female_response_2: 86.4
     male_response_1: 20.8
