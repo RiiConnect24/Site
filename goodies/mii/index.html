@@ -18,11 +18,17 @@ title: Mii Editor
 				<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 				<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.min.js"></script>
 				<script type="text/javascript" src="utils.js"></script>
-				<script type="text/javascript">
-				//<![CDATA[
-				swfobject.embedSWF("myavatareditor.swf", "editorSWFContainer", "640", "500", "10.0.0", null, getQueryObj());
-				//]]>
-				</script>
+				<object width="640" height="500">
+					<param name="movie" value="myavatareditor.swf"></param>
+					<param name="allowscriptaccess" value="always"></param>
+					<embed
+						type="application/x-shockwave-flash"
+						src="myavatareditor.swf"
+						width="640"
+						height="500"
+						allowscriptaccess="always">
+					</embed>
+				</object>
 				<div id="editor-wrapper">
 					<div id="editorSWFContainer">
 						<h4>Flash Player 10 is required for My Avatar Editor &trade;</h4>
