@@ -15,14 +15,13 @@ title: Everybody Votes Channel - Peru French Results
 		<div class="container">
 			<h3 class="center">Results</h3>
 
-		  {% for poll in site.data.votes.042_results %}
+		  {% for poll in site.data.votes.results_042 %}
 			<h5>{{ poll.date }}:</h5>
 			<br>
 			<p>{{ poll.poll.question.french_canada }}</p>
 			<br>
 			<font color="#FD5AFC">{{ poll.poll.response_1.french_canada }}</font>: {{ poll.results.total_response_1 }}%<br>
-			<font color="#2DE155">{{ poll.poll.response_2.french_canada
-			 }}</font>: {{ poll.results.total_response_2 }}%<br>
+			<font color="#2DE155">{{ poll.poll.response_2.french_canada}}</font>: {{ poll.results.total_response_2 }}%<br>
 			<br>
 			Detailed Results:<br>
 			<br>
