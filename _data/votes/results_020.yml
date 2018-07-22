@@ -152,9 +152,9 @@
   poll:
     question:
       english: Which droid would you like to help with your chores?
-      french_canada: "De quel dro\xEFde voudriez-vous l'aide\\ndans vos t\xE2ches\
+      french_canada: "De quel dro\xEFde voudriez-vous l'aidedans vos t\xE2ches\
         \ journali\xE8res?"
-      spanish: "\xBFQu\xE9 robot te gustar\xEDa que\\nte ayudara con tus labores?"
+      spanish: "\xBFQu\xE9 robot te gustar\xEDa quete ayudara con tus labores?"
     response_1:
       english: R2-D2
       french_canada: R2-D2
@@ -204,7 +204,7 @@
         basis?
       french_canada: "Combien de boutons sur la t\xE9l\xE9commande du t\xE9l\xE9viseur\
         \ utilisez-vous r\xE9guli\xE8rement?"
-      spanish: "\xBFCu\xE1ntos botones de tu control remoto\\nusas con frecuencia?"
+      spanish: "\xBFCu\xE1ntos botones de tu control remotousas con frecuencia?"
     response_1:
       english: Very few of them
       french_canada: "Tr\xE8s peu"
@@ -278,7 +278,7 @@
   poll:
     question:
       english: Do you feel you're smarter now or when you were younger?
-      french_canada: "Avez-vous l'impression d'\xEAtre plus intelligent(e)\\nmaintenant\
+      french_canada: "Avez-vous l'impression d'\xEAtre plus intelligent(e)maintenant\
         \ ou quand vous \xE9tiez plus jeune?"
       spanish: "\xBFTe consideras m\xE1s listo ahora, o cuando eras m\xE1s joven?"
     response_1:
@@ -451,7 +451,7 @@
       english: What part of a team-sports season best defines their success that year?
       french_canada: "Quelle partie de la saison d'une \xE9quipe sportive est le meilleur\
         \ gage de leur succ\xE8s?"
-      spanish: "\xBFQu\xE9 parte de la temporada define el\\n\xE9xito de un equipo\
+      spanish: "\xBFQu\xE9 parte de la temporada define el\xE9xito de un equipo\
         \ deportivo?"
     response_1:
       english: The regular season
@@ -477,7 +477,7 @@
       english: If you drank a liter of soda and weighed yourself, would you . . .
       french_canada: "Si vous vous pesiez apr\xE8s avoir bu un litre de boisson gazeuse,\
         \ vous p\xE8seriez..."
-      spanish: "\xBFCu\xE1nto pesar\xEDas si bebes un litro de una\\nbebida gaseosa?"
+      spanish: "\xBFCu\xE1nto pesar\xEDas si bebes un litro de unabebida gaseosa?"
     response_1:
       english: Weigh the same
       french_canada: "La m\xEAme chose"
@@ -651,7 +651,7 @@
       english: Who does most of your household chores (cleaning, cooking, yard work)?
       french_canada: "Qui dans votre maison s'occupe des t\xE2ches m\xE9nag\xE8res\
         \ (m\xE9nage, cuisine, entretien ext\xE9rieur)?"
-      spanish: "\xBFQui\xE9n realiza la mayor parte de las\\ntareas dom\xE9sticas\
+      spanish: "\xBFQui\xE9n realiza la mayor parte de lastareas dom\xE9sticas\
         \ en tu hogar?"
     response_1:
       english: Myself
@@ -749,7 +749,7 @@
       english: You've taken notes at a meeting/class. How likely are you to reread
         them?
       french_canada: Relisez-vous vos notes lorsque vous en\nprenez en classe?
-      spanish: "Si tomas apuntes durante una clase o\\nreuni\xF3n, \xBFlos leer\xE1\
+      spanish: "Si tomas apuntes durante una clase oreuni\xF3n, \xBFlos leer\xE1\
         s en alg\xFAn momento?"
     response_1:
       english: Not likely
@@ -773,9 +773,9 @@
   poll:
     question:
       english: Which one of these makes a more casual fashion statement?
-      french_canada: "Lequel de ces v\xEAtements vous donne un air\\nplus d\xE9contract\xE9\
+      french_canada: "Lequel de ces v\xEAtements vous donne un airplus d\xE9contract\xE9\
         ?"
-      spanish: "\xBFQu\xE9 tipo de vestimenta crees que\\ndenota un estilo m\xE1s\
+      spanish: "\xBFQu\xE9 tipo de vestimenta crees quedenota un estilo m\xE1s\
         \ casual?"
     response_1:
       english: Wearing a baseball hat
@@ -799,7 +799,7 @@
   poll:
     question:
       english: Are you more likely to hang out with your friends at . . .
-      french_canada: "O\xF9 pr\xE9f\xE9rez-vous passer du temps avec\\nun ou une ami(e)?"
+      french_canada: "O\xF9 pr\xE9f\xE9rez-vous passer du temps avecun ou une ami(e)?"
       spanish: "\xBFD\xF3nde pasas m\xE1s tiempo con tus amigos?"
     response_1:
       english: Your house
@@ -847,8 +847,8 @@
   poll:
     question:
       english: Which of these senses best evokes an image of a carnival?
-      french_canada: "Qu'est-ce qui vous fait le plus penser \xE0\\nune f\xEAte foraine?"
-      spanish: "\xBFQu\xE9 recuerdo te evoca m\xE1s la imagen\\nde una feria o carnaval?"
+      french_canada: "Qu'est-ce qui vous fait le plus penser \xE0une f\xEAte foraine?"
+      spanish: "\xBFQu\xE9 recuerdo te evoca m\xE1s la imagende una feria o carnaval?"
     response_1:
       english: Smell of cotton candy
       french_canada: "barbe \xE0 papa"
@@ -871,9 +871,9 @@
   poll:
     question:
       english: Both zucchinis and tomatoes are often mistaken for . . .
-      french_canada: "Les zucchinis et les tomates sont souvent\\npris \xE0 tort pour\
+      french_canada: "Les zucchinis et les tomates sont souventpris \xE0 tort pour\
         \ des..."
-      spanish: "El calabac\xEDn y los tomates a menudo\\nse clasifican err\xF3neamente\
+      spanish: "El calabac\xEDn y los tomates a menudose clasifican err\xF3neamente\
         \ como. . ."
     response_1:
       english: Fruits
@@ -921,9 +921,9 @@
   poll:
     question:
       english: If you were left alone on a desert island, which skill is more important?
-      french_canada: "Vous \xEAtes naufrag\xE9(e) sur une \xEEle d\xE9serte.\\nQuelle\
+      french_canada: "Vous \xEAtes naufrag\xE9(e) sur une \xEEle d\xE9serte.Quelle\
         \ comp\xE9tence est la plus importante?"
-      spanish: "Si te encontraras abandonado en una isla\\ndesierta, \xBFqu\xE9 habilidad\
+      spanish: "Si te encontraras abandonado en una isladesierta, \xBFqu\xE9 habilidad\
         \ resultar\xEDa m\xE1s \xFAtil?"
     response_1:
       english: Fire-building skills
@@ -947,7 +947,7 @@
   poll:
     question:
       english: Who do you spend more of your free time with?
-      french_canada: "Avec qui passez-vous la majorit\xE9 de votre\\ntemps libre?"
+      french_canada: "Avec qui passez-vous la majorit\xE9 de votretemps libre?"
       spanish: "\xBFCon qui\xE9n pasas la mayor\xEDa de tu tiempo libre?"
     response_1:
       english: Friends
@@ -973,7 +973,7 @@
       english: How long do you think you could hold your breath underwater?
       french_canada: Combien de temps pensez-vous pouvoir\nretenir votre souffle sous
         l'eau?
-      spanish: "\xBFDurante cu\xE1nto tiempo puedes aguantar\\nla respiraci\xF3n bajo\
+      spanish: "\xBFDurante cu\xE1nto tiempo puedes aguantarla respiraci\xF3n bajo\
         \ el agua?"
     response_1:
       english: Less than a minute
@@ -1021,7 +1021,7 @@
   poll:
     question:
       english: If both had the same flavor, which would you pick up first?
-      french_canada: "Si ces deux gommes avaient le m\xEAme go\xFBt,\\nlaquelle prendriez-vous?"
+      french_canada: "Si ces deux gommes avaient le m\xEAme go\xFBt,laquelle prendriez-vous?"
       spanish: "Si ambos tuvieran el mismo sabor, \xBFqu\xE9 prefieres?"
     response_1:
       english: Gum ball
@@ -1093,9 +1093,9 @@
   poll:
     question:
       english: When ordering food at a restaurant, are you fussy with your order?
-      french_canada: "\xCAtes-vous difficile lorsque vous commandez\\nde la nourriture\
+      french_canada: "\xCAtes-vous difficile lorsque vous commandezde la nourriture\
         \ au restaurant?"
-      spanish: "Cuando vas a un restaurante, \xBFeres\\nexigente con tu comida?"
+      spanish: "Cuando vas a un restaurante, \xBFeresexigente con tu comida?"
     response_1:
       english: Sometimes
       french_canada: Parfois
@@ -1118,8 +1118,8 @@
   poll:
     question:
       english: Are there any embarrassing photos of you posted online?
-      french_canada: "Y a-t-il des photos g\xEAnantes de vous\\npubli\xE9es sur Internet?"
-      spanish: "\xBFHay fotos tuyas rondando por internet\\nde las que te puedas avergonzar?"
+      french_canada: "Y a-t-il des photos g\xEAnantes de vouspubli\xE9es sur Internet?"
+      spanish: "\xBFHay fotos tuyas rondando por internetde las que te puedas avergonzar?"
     response_1:
       english: Probably
       french_canada: Probablement
@@ -1166,7 +1166,7 @@
   poll:
     question:
       english: What do you think there are more of on the planet?
-      french_canada: "Laquelle de ces formes de vie est en plus\\ngrande quantit\xE9\
+      french_canada: "Laquelle de ces formes de vie est en plusgrande quantit\xE9\
         \ sur la plan\xE8te?"
       spanish: "\xBFQu\xE9 crees que es m\xE1s abundante en el planeta?"
     response_1:
@@ -1191,9 +1191,9 @@
   poll:
     question:
       english: Does your alarm clock wake you by using the . . .
-      french_canada: "Quelle fonction de votre r\xE9veille-matin\\nutilisez-vous pour\
+      french_canada: "Quelle fonction de votre r\xE9veille-matinutilisez-vous pour\
         \ vous r\xE9veiller?"
-      spanish: "\xBFQu\xE9 sonido usas en tu despertador\\npara despertarte por las\
+      spanish: "\xBFQu\xE9 sonido usas en tu despertadorpara despertarte por las\
         \ ma\xF1anas?"
     response_1:
       english: Radio
@@ -1218,9 +1218,9 @@
     question:
       english: How many of your friends' and family's phone numbers can you recite
         by memory?
-      french_canada: "Combien de num\xE9ros de t\xE9l\xE9phone\\nconnaissez-vous par\
+      french_canada: "Combien de num\xE9ros de t\xE9l\xE9phoneconnaissez-vous par\
         \ c\u0153ur?"
-      spanish: "\xBFCu\xE1ntos n\xFAmeros de tel\xE9fono de\\nfamiliares o amigos\
+      spanish: "\xBFCu\xE1ntos n\xFAmeros de tel\xE9fono defamiliares o amigos\
         \ te sabes de memoria?"
     response_1:
       english: Less than ten
@@ -1244,7 +1244,7 @@
   poll:
     question:
       english: If you were granted a wish, would you make your wish for . . .
-      french_canada: "Si on vous offrait de r\xE9aliser un seul v\u0153u,\\nsouhaiteriez-vous\
+      french_canada: "Si on vous offrait de r\xE9aliser un seul v\u0153u,souhaiteriez-vous\
         \ quelque chose pour..."
       spanish: "Si pudieras pedir un deseo, \xBFlo pedir\xEDas. . .?"
     response_1:
@@ -1272,7 +1272,7 @@
         Do you . . .
       french_canada: Quelque chose dont vous n'avez pas besoin\nest en super solde.
         L'achetez-vous?
-      spanish: "Has encontrado una oferta magn\xEDfica\\nen un objeto que no necesitas.\
+      spanish: "Has encontrado una oferta magn\xEDficaen un objeto que no necesitas.\
         \ . ."
     response_1:
       english: Buy it anyway
@@ -1296,9 +1296,9 @@
   poll:
     question:
       english: When you answer "in a minute," what do you really mean?
-      french_canada: "Lorsque vous dites \xAB Donne-moi une\\nminute \xBB, vous serez\
+      french_canada: "Lorsque vous dites \xAB Donne-moi uneminute \xBB, vous serez\
         \ pr\xEAt(e)..."
-      spanish: "Cuando contestas: \"\xA1En un minuto!\",\\nen realidad quieres decir.\
+      spanish: "Cuando contestas: \"\xA1En un minuto!\",en realidad quieres decir.\
         \ . ."
     response_1:
       english: In sixty seconds
@@ -1323,7 +1323,7 @@
     question:
       english: Can you identify more than one constellation in the night sky?
       french_canada: Pouvez-vous identifier plus d'une\nconstellation dans le ciel?
-      spanish: "\xBFCu\xE1ntas constelaciones puedes\\nidentificar a simple vista?"
+      spanish: "\xBFCu\xE1ntas constelaciones puedesidentificar a simple vista?"
     response_1:
       english: Only the Big Dipper
       french_canada: Juste la Grande Ourse
@@ -1347,7 +1347,7 @@
     question:
       english: When friends describe you to others, are they likely to lead with .
         . .
-      french_canada: "Lorsque vos amis vous d\xE9crivent aux\\nautres, ils parlent\
+      french_canada: "Lorsque vos amis vous d\xE9crivent auxautres, ils parlent\
         \ le plus souvent..."
       spanish: "\xBFQu\xE9 destacar\xEDan tus amigos al describirte?"
     response_1:
@@ -1372,7 +1372,7 @@
   poll:
     question:
       english: Which of these two items was invented first?
-      french_canada: "Lequel de ces objets a \xE9t\xE9 invent\xE9 le\\npremier?"
+      french_canada: "Lequel de ces objets a \xE9t\xE9 invent\xE9 lepremier?"
       spanish: "\xBFCu\xE1l de estos dos objetos se invent\xF3 primero?"
     response_1:
       english: Shampoo
@@ -1397,9 +1397,9 @@
     question:
       english: A friend is late meeting you at the mall and their cell phone is turned
         off. Do you . . .
-      french_canada: "Votre ami(e) est en retard \xE0 votre rendez-\\nvous et son\
+      french_canada: "Votre ami(e) est en retard \xE0 votre rendez-vous et son\
         \ cellulaire est ferm\xE9. Vous..."
-      spanish: "Has quedado con un amigo y no aparece\\na la hora prevista, \xBFqu\xE9\
+      spanish: "Has quedado con un amigo y no aparecea la hora prevista, \xBFqu\xE9\
         \ har\xEDas?"
     response_1:
       english: Wait until they arrive
@@ -1424,7 +1424,7 @@
     question:
       english: If the color of the sky weren't blue, which of these colors do you
         wish it could be?
-      french_canada: "Si le ciel n'\xE9tait pas bleu, de quelle couleur\\nvoudriez-vous\
+      french_canada: "Si le ciel n'\xE9tait pas bleu, de quelle couleurvoudriez-vous\
         \ qu'il soit?"
       spanish: "Si el cielo no fuera azul \xBFte gustar\xEDa que fuera?"
     response_1:
@@ -1498,8 +1498,8 @@
     question:
       english: If a person you're calling doesn't answer the phone, are you more likely
         to . . .
-      french_canada: "Si la personne que vous appelez ne r\xE9pond\\npas, vous..."
-      spanish: "Si la persona a la que est\xE1s llamando\\nno contesta el tel\xE9\
+      french_canada: "Si la personne que vous appelez ne r\xE9pondpas, vous..."
+      spanish: "Si la persona a la que est\xE1s llamandono contesta el tel\xE9\
         fono, \xBFqu\xE9 haces?"
     response_1:
       english: Hang up/call later
@@ -1523,7 +1523,7 @@
   poll:
     question:
       english: Given the choice, which would make you feel more uncomfortable?
-      french_canada: "Laquelle de ces situations vous sentiriez-\\nvous le plus g\xEA\
+      french_canada: "Laquelle de ces situations vous sentiriez-vous le plus g\xEA\
         n\xE9(e) de faire seul(e)?"
       spanish: "\xBFQu\xE9 situaci\xF3n te har\xEDa sentirte m\xE1s inc\xF3modo?"
     response_1:
@@ -1548,7 +1548,7 @@
   poll:
     question:
       english: From which part of the tube do you squeeze toothpaste?
-      french_canada: "\xC0 quel endroit du tube appuyez-vous pour\\nfaire sortir de\
+      french_canada: "\xC0 quel endroit du tube appuyez-vous pourfaire sortir de\
         \ la p\xE2te \xE0 dent?"
       spanish: "\xBFPor d\xF3nde aprietas el tubo de pasta de dientes?"
     response_1:
@@ -1573,9 +1573,9 @@
   poll:
     question:
       english: On a typical day, how many steps do you think you take?
-      french_canada: "Durant une journ\xE9e normale, combien de\\npas estimez-vous\
+      french_canada: "Durant une journ\xE9e normale, combien depas estimez-vous\
         \ faire?"
-      spanish: "\xBFCu\xE1ntos pasos crees que das\\nen un d\xEDa cualquiera?"
+      spanish: "\xBFCu\xE1ntos pasos crees que dasen un d\xEDa cualquiera?"
     response_1:
       english: 3000 steps or fewer
       french_canada: 3000 ou moins
@@ -1598,7 +1598,7 @@
   poll:
     question:
       english: What's your fashion style?
-      french_canada: "Quel est l'id\xE9e derri\xE8re votre style\\nvestimentaire?"
+      french_canada: "Quel est l'id\xE9e derri\xE8re votre stylevestimentaire?"
       spanish: "\xBFC\xF3mo definir\xEDas tu estilo de moda?"
     response_1:
       english: I want to be noticed
@@ -1622,7 +1622,7 @@
   poll:
     question:
       english: Do you have a close friend that has the same first name as yours?
-      french_canada: "Est-ce qu'un ou une de vos meilleurs\\namis a le m\xEAme nom\
+      french_canada: "Est-ce qu'un ou une de vos meilleursamis a le m\xEAme nom\
         \ que vous?"
       spanish: "\xBFTienes alg\xFAn amigo que se llame igual que t\xFA?"
     response_1:
@@ -1647,7 +1647,7 @@
   poll:
     question:
       english: Which do you prefer to freshen your\nbreath with?
-      french_canada: "Que pr\xE9f\xE9rez-vous utiliser pour rafra\xEEchir\\nvotre\
+      french_canada: "Que pr\xE9f\xE9rez-vous utiliser pour rafra\xEEchirvotre\
         \ haleine?"
       spanish: "\xBFQu\xE9 usas para refrescarte el aliento?"
     response_1:
@@ -1672,9 +1672,9 @@
   poll:
     question:
       english: You have a really big secret to share. Who do you tell first?
-      french_canada: "Vous avez un tr\xE8s gros secret. \xC0 qui le\\nconfiez-vous\
+      french_canada: "Vous avez un tr\xE8s gros secret. \xC0 qui leconfiez-vous\
         \ en premier?"
-      spanish: "Tienes un secreto que quieres compartir,\\n\xBFa qui\xE9n se lo cuentas\
+      spanish: "Tienes un secreto que quieres compartir,\xBFa qui\xE9n se lo cuentas\
         \ primero?"
     response_1:
       english: A family member
@@ -1698,7 +1698,7 @@
   poll:
     question:
       english: How many planets do you believe are in our solar system?
-      french_canada: "Combien de plan\xE8tes pensez-vous qu'il y\\na dans notre syst\xE8\
+      french_canada: "Combien de plan\xE8tes pensez-vous qu'il ya dans notre syst\xE8\
         me solaire?"
       spanish: "\xBFCu\xE1ntos planetas tiene nuestro sistema solar?"
     response_1:
@@ -1723,7 +1723,7 @@
   poll:
     question:
       english: Can elephants walk on their tiptoes?
-      french_canada: "Les \xE9l\xE9phants peuvent-ils marcher sur\\nle bout des pieds?"
+      french_canada: "Les \xE9l\xE9phants peuvent-ils marcher surle bout des pieds?"
       spanish: "\xBFPueden los elefantes caminar de puntillas?"
     response_1:
       english: 'Yes'
@@ -1747,7 +1747,7 @@
   poll:
     question:
       english: Is a T-shirt considered . . .
-      french_canada: "Un T-shirt est consid\xE9r\xE9 comme un\\nv\xEAtement..."
+      french_canada: "Un T-shirt est consid\xE9r\xE9 comme unv\xEAtement..."
       spanish: Una camiseta se considera. . .
     response_1:
       english: Casual wear
@@ -1771,9 +1771,9 @@
   poll:
     question:
       english: Are you ready to give up your home phone line and just use a cell phone?
-      french_canada: "\xCAtes-vous pr\xEAt(e) \xE0 d\xE9connecter votre\\nligne r\xE9\
+      french_canada: "\xCAtes-vous pr\xEAt(e) \xE0 d\xE9connecter votreligne r\xE9\
         sidentielle et utiliser un cellulaire?"
-      spanish: "\xBFEst\xE1s listo para cancelar el tel\xE9fono fijo\\ny usar solamente\
+      spanish: "\xBFEst\xE1s listo para cancelar el tel\xE9fono fijoy usar solamente\
         \ tel\xE9fono m\xF3vil?"
     response_1:
       english: 'Yes'
@@ -1798,7 +1798,7 @@
     question:
       english: How many pens/pencils do you typically have on your desk?
       french_canada: Combien de crayons ou stylos avez-vous\nsur votre bureau habituellement?
-      spanish: "\xBFCu\xE1ntos l\xE1pices o bol\xEDgrafos tienes\\nen tu escritorio?"
+      spanish: "\xBFCu\xE1ntos l\xE1pices o bol\xEDgrafos tienesen tu escritorio?"
     response_1:
       english: Just a few
       french_canada: Quelques-uns
@@ -1821,7 +1821,7 @@
   poll:
     question:
       english: In your home, which do you think you have more of?
-      french_canada: "Lequel de ces objets avez-vous le plus\\n\xE0 la maison?"
+      french_canada: "Lequel de ces objets avez-vous le plus\xE0 la maison?"
       spanish: "\xBFDe qu\xE9 tienes m\xE1s cantidad en tu casa?"
     response_1:
       english: Clocks/Time displays
@@ -1846,9 +1846,9 @@
     question:
       english: How many hours a day do you think a typical person spends surfing the
         Internet?
-      french_canada: "Typiquement, combien d'heures par jour les\\ngens passent-ils\
+      french_canada: "Typiquement, combien d'heures par jour lesgens passent-ils\
         \ \xE0 naviguer sur Internet?"
-      spanish: "\xBFCu\xE1ntas horas crees que pasa un\\nciudadano medio navegando\
+      spanish: "\xBFCu\xE1ntas horas crees que pasa unciudadano medio navegando\
         \ por internet?"
     response_1:
       english: Two hours or less
@@ -1873,7 +1873,7 @@
     question:
       english: It's a Saturday evening. Where are you more likely to be?
       french_canada: Habituellement, le dimanche soir, vous...
-      spanish: "\xBFD\xF3nde es m\xE1s probable que te encuentres\\nun s\xE1bado por\
+      spanish: "\xBFD\xF3nde es m\xE1s probable que te encuentresun s\xE1bado por\
         \ la noche?"
     response_1:
       english: Out with friends
@@ -1898,9 +1898,9 @@
     question:
       english: Once you've read a magazine, how long do you keep it before recycling
         it?
-      french_canada: "Une fois que vous avez termin\xE9 un\\nmagasine, vous le mettez\
+      french_canada: "Une fois que vous avez termin\xE9 unmagasine, vous le mettez\
         \ au recyclage..."
-      spanish: "\xBFDurante cu\xE1nto tiempo te quedas\\nuna revista antes de reciclarla?"
+      spanish: "\xBFDurante cu\xE1nto tiempo te quedasuna revista antes de reciclarla?"
     response_1:
       english: A month or less
       french_canada: "Apr\xE8s moins d'un mois"
@@ -1924,7 +1924,7 @@
     question:
       english: When someone gives you a gift, how do you usually send a thank-you
         note?
-      french_canada: "De quelle fa\xE7on envoyez-vous une carte\\nde remerciement\
+      french_canada: "De quelle fa\xE7on envoyez-vous une cartede remerciement\
         \ pour un cadeau?"
       spanish: "Cuando alguien te hace un regalo, \xBFpor qu\xE9 medio env\xEDas una\
         \ nota de agradecimiento?"
@@ -1975,7 +1975,7 @@
     question:
       english: When meeting a group of people for the first time, is it better to
         be . . .
-      french_canada: "Lors de la premi\xE8re rencontre avec un\\ngroupe, il est plus\
+      french_canada: "Lors de la premi\xE8re rencontre avec ungroupe, il est plus\
         \ sage de..."
       spanish: Al conocer un grupo de gente por\nprimera vez, es mejor ser...
     response_1:
@@ -2026,7 +2026,7 @@
     question:
       english: Which musical era had more songs that can be considered classics?
       french_canada: "Quelle d\xE9cennie a vu na\xEEtre le plus de classiques musicaux?"
-      spanish: "\xBFCu\xE1l era musical tiene m\xE1s temas\\nque pudieran considerarse\
+      spanish: "\xBFCu\xE1l era musical tiene m\xE1s temasque pudieran considerarse\
         \ cl\xE1sicos?"
     response_1:
       english: Music from the 60s
@@ -2052,7 +2052,7 @@
       english: Will electronic books/newspapers ever replace printed books/newspapers?
       french_canada: "Les livres et les journaux \xE9lectroniques remplaceront-ils\
         \ les copies papier?"
-      spanish: "\xBFLos libros y diarios impresos ser\xE1n\\nreemplazados por los\
+      spanish: "\xBFLos libros y diarios impresos ser\xE1nreemplazados por los\
         \ electr\xF3nicos?"
     response_1:
       english: 'Yes'
@@ -2076,9 +2076,9 @@
   poll:
     question:
       english: On a hot day, which would you prefer\n to cool down with?
-      french_canada: "Quel moyen pr\xE9f\xE9rez-vous utiliser pour\\nvous rafra\xEE\
+      french_canada: "Quel moyen pr\xE9f\xE9rez-vous utiliser pourvous rafra\xEE\
         chir quand il fait trop chaud?"
-      spanish: "En un d\xEDa caluroso, \xBFc\xF3mo prefieres\\nrefrescarte?"
+      spanish: "En un d\xEDa caluroso, \xBFc\xF3mo prefieresrefrescarte?"
     response_1:
       english: Air-conditioning
       french_canada: "Air climatis\xE9"
@@ -2101,9 +2101,9 @@
   poll:
     question:
       english: When using a laptop, which is easier to navigate with?
-      french_canada: "Quel type de souris pr\xE9f\xE9rez-vous utiliser\\navec un ordinateur\
+      french_canada: "Quel type de souris pr\xE9f\xE9rez-vous utiliseravec un ordinateur\
         \ portable?"
-      spanish: "\xBFCon qu\xE9 sueles mover el cursor en\\nuna computadora port\xE1\
+      spanish: "\xBFCon qu\xE9 sueles mover el cursor enuna computadora port\xE1\
         til?"
     response_1:
       english: The laptop's trackpad
@@ -2154,7 +2154,7 @@
         more?
       french_canada: Lorsque vous planifiez vos vacances,\nqu'est-ce qui vous attire
         le plus?
-      spanish: "Al planear tus vacaciones... \xBFqu\xE9 factor\\ninfluye m\xE1s al\
+      spanish: "Al planear tus vacaciones... \xBFqu\xE9 factorinfluye m\xE1s al\
         \ elegir el destino?"
     response_1:
       english: An environment
@@ -2178,7 +2178,7 @@
   poll:
     question:
       english: Would you prefer your friends be . . .
-      french_canada: "Quelle qualit\xE9 recherchez-vous chez vos\\namis?"
+      french_canada: "Quelle qualit\xE9 recherchez-vous chez vosamis?"
       spanish: "\xBFQu\xE9 caracter\xEDstica prefieres en tus amigos?"
     response_1:
       english: Entertaining
@@ -2226,8 +2226,8 @@
   poll:
     question:
       english: How long do you own a cell phone before purchasing another?
-      french_canada: "\xC0 quel intervalle changez-vous de\\nt\xE9l\xE9phone cellulaire?"
-      spanish: "\xBFCu\xE1nto tiempo esperas para comprarte\\nun tel\xE9fono celular\
+      french_canada: "\xC0 quel intervalle changez-vous det\xE9l\xE9phone cellulaire?"
+      spanish: "\xBFCu\xE1nto tiempo esperas para comprarteun tel\xE9fono celular\
         \ nuevo?"
     response_1:
       english: A year or less
@@ -2277,7 +2277,7 @@
     question:
       english: What's the first facial feature that you notice?
       french_canada: Quel trait physique remarquez-vous en\npremier chez quelqu'un?
-      spanish: "\xBFQu\xE9 te llama m\xE1s la atenci\xF3n en la cara\\nde una persona?"
+      spanish: "\xBFQu\xE9 te llama m\xE1s la atenci\xF3n en la carade una persona?"
     response_1:
       english: A person's eyes
       french_canada: Ses yeux
@@ -2300,9 +2300,9 @@
   poll:
     question:
       english: Have you achieved a life goal yet?
-      french_canada: "Avez-vous d\xE9j\xE0 atteint un objectif de vie\\nque vous vous\
+      french_canada: "Avez-vous d\xE9j\xE0 atteint un objectif de vieque vous vous\
         \ \xE9tiez fix\xE9?"
-      spanish: "\xBFHas logrado ya alguno de los objetivos\\nque te propusiste en\
+      spanish: "\xBFHas logrado ya alguno de los objetivosque te propusiste en\
         \ la vida?"
     response_1:
       english: 'Yes'
@@ -2326,9 +2326,9 @@
   poll:
     question:
       english: Have you wished for something that occurred in this past year?
-      french_canada: "Un de vos souhaits s'est-il r\xE9alis\xE9 durant\\nl'ann\xE9\
+      french_canada: "Un de vos souhaits s'est-il r\xE9alis\xE9 durantl'ann\xE9\
         e derni\xE8re?"
-      spanish: "\xBFHas deseado algo que se haya hecho\\nrealidad en este \xFAltimo\
+      spanish: "\xBFHas deseado algo que se haya hechorealidad en este \xFAltimo\
         \ a\xF1o?"
     response_1:
       english: 'Yes'
@@ -2353,9 +2353,9 @@
     question:
       english: If you could trade knowledge or a skill you have for something else,
         would you?
-      french_canada: "\xC9changeriez-vous la connaissance ou un\\ntalent que vous\
+      french_canada: "\xC9changeriez-vous la connaissance ou untalent que vous\
         \ avez pour autre chose?"
-      spanish: "\xBFSi pudieras cambiar tus conocimientos o\\nhabilidades por algo\
+      spanish: "\xBFSi pudieras cambiar tus conocimientos ohabilidades por algo\
         \ diferente... \xBFlo har\xEDas?"
     response_1:
       english: 'Yes'
@@ -2379,7 +2379,7 @@
   poll:
     question:
       english: Which skill are you better at?
-      french_canada: "Dans quel domaine \xEAtes-vous le ou la plus\\ndou\xE9(e)?"
+      french_canada: "Dans quel domaine \xEAtes-vous le ou la plusdou\xE9(e)?"
       spanish: "\xBFQu\xE9 habilidad dominas m\xE1s?"
     response_1:
       english: Problem solving
@@ -2427,9 +2427,9 @@
   poll:
     question:
       english: Can you recall five newsworthy events that occurred in your birth year?
-      french_canada: "Connaissez-vous cinq \xE9v\xE9nements qui\\nont marqu\xE9 l'ann\xE9\
+      french_canada: "Connaissez-vous cinq \xE9v\xE9nements quiont marqu\xE9 l'ann\xE9\
         e de votre naissance?"
-      spanish: "\xBFPuedes mencionar cinco grandes noticias\\nque ocurrieron el a\xF1\
+      spanish: "\xBFPuedes mencionar cinco grandes noticiasque ocurrieron el a\xF1\
         o en que naciste?"
     response_1:
       english: 'Yes'
@@ -2479,7 +2479,7 @@
     question:
       english: How long have you known your best friend?
       french_canada: Depuis quand connaissez-vous votre\nmeilleur(e) ami(e)?
-      spanish: "\xBFHace cu\xE1nto tiempo que conoces\\na tu mejor amigo?"
+      spanish: "\xBFHace cu\xE1nto tiempo que conocesa tu mejor amigo?"
     response_1:
       english: Less than ten years
       french_canada: Moins de 10 ans
@@ -2503,9 +2503,9 @@
     question:
       english: At a family/friend get-together, which activity would you suggest for
         fun?
-      french_canada: "Quelle activit\xE9 pr\xE9f\xE9rez-vous faire lorsque\\nvous\
+      french_canada: "Quelle activit\xE9 pr\xE9f\xE9rez-vous faire lorsquevous\
         \ \xEAtes avec vos amis ou votre famille?"
-      spanish: "Cuando te re\xFAnes con tu familia o amigos,\\n\xBFqu\xE9 diversi\xF3\
+      spanish: "Cuando te re\xFAnes con tu familia o amigos,\xBFqu\xE9 diversi\xF3\
         n sugieres?"
     response_1:
       english: Board game or puzzle
@@ -2531,7 +2531,7 @@
       english: When ordering at a restaurant with a\n group of friends, do you usually
         . . .
       french_canada: Lorsque vous mangez au restaurant\navec des amis, vous commandez...
-      spanish: "Cuando est\xE1s en un restaurante con un\\ngrupo de amigos, normalmente\
+      spanish: "Cuando est\xE1s en un restaurante con ungrupo de amigos, normalmente\
         \ ordenas..."
     response_1:
       english: Order first
@@ -2579,9 +2579,9 @@
   poll:
     question:
       english: You have excellent writing skills. Which would you prefer to be?
-      french_canada: "Si vous aviez du talent pour \xE9crire, quel\\nm\xE9tier voudriez-vous\
+      french_canada: "Si vous aviez du talent pour \xE9crire, quelm\xE9tier voudriez-vous\
         \ faire?"
-      spanish: "Si tuvieras la capacidad de escribir\\nperfectamente... \xBFqu\xE9\
+      spanish: "Si tuvieras la capacidad de escribirperfectamente... \xBFqu\xE9\
         \ preferir\xEDas ser?"
     response_1:
       english: A news reporter
@@ -2630,7 +2630,7 @@
     question:
       english: When studying for a test, do you typically . . .
       french_canada: "Lorsque vous \xE9tudiez pour un examen, vous..."
-      spanish: "\xBFC\xF3mo te preparas la noche anterior\\na un examen?"
+      spanish: "\xBFC\xF3mo te preparas la noche anteriora un examen?"
     response_1:
       english: Cram all night
       french_canada: "\xC9tudiez toute la nuit"
@@ -2653,9 +2653,9 @@
   poll:
     question:
       english: Do you feel you have too many activities scheduled each week?
-      french_canada: "Avez-vous l'impression d'avoir trop\\nd'activit\xE9s pr\xE9\
+      french_canada: "Avez-vous l'impression d'avoir tropd'activit\xE9s pr\xE9\
         vues chaque semaine?"
-      spanish: "\xBFCrees que tienes demasiadas actividades\\nplaneadas para cada\
+      spanish: "\xBFCrees que tienes demasiadas actividadesplaneadas para cada\
         \ semana?"
     response_1:
       english: 'Yes'
@@ -2680,7 +2680,7 @@
     question:
       english: You've decided to volunteer for community service. Which group would
         you help?
-      french_canada: "Pour quel groupe d'\xE2ge pr\xE9f\xE9reriez-vous\\nfaire du\
+      french_canada: "Pour quel groupe d'\xE2ge pr\xE9f\xE9reriez-vousfaire du\
         \ b\xE9n\xE9volat?"
       spanish: "Si decides apuntarte como voluntario, \xBFa qu\xE9 grupo de edad te\
         \ gustar\xEDa ayudar?"
@@ -2708,7 +2708,7 @@
       english: When dining out, which are you more likely to choose?
       french_canada: Lorsque vous allez au restaurant, que\nchoisissez-vous le plus
         souvent?
-      spanish: "Cuando sales a cenar... \xBFa qu\xE9 restaurante\\nsueles ir?"
+      spanish: "Cuando sales a cenar... \xBFa qu\xE9 restaurantesueles ir?"
     response_1:
       english: A favorite restaurant
       french_canada: "Restaurant pr\xE9f\xE9r\xE9"
@@ -2731,9 +2731,9 @@
   poll:
     question:
       english: When did you receive your first paycheck (not including allowance)?
-      french_canada: "\xC0 quel \xE2ge avez-vous re\xE7u votre premier\\nch\xE8que\
+      french_canada: "\xC0 quel \xE2ge avez-vous re\xE7u votre premierch\xE8que\
         \ de paie?"
-      spanish: "\xBFCu\xE1ntos a\xF1os ten\xEDas cuando recibiste\\ntu primer sueldo?"
+      spanish: "\xBFCu\xE1ntos a\xF1os ten\xEDas cuando recibistetu primer sueldo?"
     response_1:
       english: Younger than fifteen
       french_canada: Moins de 15 ans
@@ -2781,7 +2781,7 @@
     question:
       english: On a typical weekend, are you more likely to eat . . .
       french_canada: Durant la fin de semaine, que mangez-vous\nle plus souvent?
-      spanish: "En un d\xEDa de fin de semana... \xBFcu\xE1l es\\ntu primera comida?"
+      spanish: "En un d\xEDa de fin de semana... \xBFcu\xE1l estu primera comida?"
     response_1:
       english: Breakfast
       french_canada: "D\xE9jeuner"
@@ -2805,7 +2805,7 @@
     question:
       english: Who has been more of a mentor to you?
       french_canada: Qui a le plus fait office de mentor pour vous?
-      spanish: "\xBFQui\xE9n ha tenido m\xE1s influencia en tu\\nvida como mentor?"
+      spanish: "\xBFQui\xE9n ha tenido m\xE1s influencia en tuvida como mentor?"
     response_1:
       english: Teacher
       french_canada: Professeur
@@ -2829,7 +2829,7 @@
     question:
       english: In your desk, what office supply do you typically have more of than
         you need?
-      french_canada: "Quelle fourniture de bureau avez-vous en\\ntrop grande quantit\xE9\
+      french_canada: "Quelle fourniture de bureau avez-vous entrop grande quantit\xE9\
         ?"
       spanish: "En el escritorio de tu oficina, \xBFtienes m\xE1s...?"
     response_1:
@@ -2854,7 +2854,7 @@
   poll:
     question:
       english: Which of these would be more difficult to maintain?
-      french_canada: "\xC0 votre avis, qu'est-ce qui est le plus\\ndifficile \xE0\
+      french_canada: "\xC0 votre avis, qu'est-ce qui est le plusdifficile \xE0\
         \ maintenir?"
       spanish: "\xBFCu\xE1l es m\xE1s dif\xEDcil de mantener?"
     response_1:
@@ -2879,7 +2879,7 @@
   poll:
     question:
       english: Do you think food products are now . . .
-      french_canada: "\xC0 votre avis, les produits alimentaires\\nd'aujourd'hui sont..."
+      french_canada: "\xC0 votre avis, les produits alimentairesd'aujourd'hui sont..."
       spanish: Los alimentos son ahora...
     response_1:
       english: Safer than before
@@ -2904,9 +2904,9 @@
     question:
       english: Is the type of food you eat more diverse or ethnic than it was five
         years ago?
-      french_canada: "La nourriture que vous mangez est-elle\\nplus diversifi\xE9\
+      french_canada: "La nourriture que vous mangez est-elleplus diversifi\xE9\
         e/exotique qu'il y a cinq ans?"
-      spanish: "\xBFEs el tipo de alimentos que comes ahora\\nm\xE1s diverso y \xE9\
+      spanish: "\xBFEs el tipo de alimentos que comes ahoram\xE1s diverso y \xE9\
         tnico que hace cinco a\xF1os?"
     response_1:
       english: 'Yes'
@@ -2931,7 +2931,7 @@
     question:
       english: Which of these two do you think falls faster?
       french_canada: "\xC0 votre avis, qu'est-ce qui tombe le plus vite?"
-      spanish: "\xBFCu\xE1l de estos dos crees que cae con\\nm\xE1s rapidez?"
+      spanish: "\xBFCu\xE1l de estos dos crees que cae conm\xE1s rapidez?"
     response_1:
       english: A wet leaf
       french_canada: "Feuille mouill\xE9e"
@@ -2955,9 +2955,9 @@
     question:
       english: When storing leftovers, what type of container are you more likely
         to use?
-      french_canada: "Lorsque vous mettez des restes de c\xF4t\xE9,\\nquel type de\
+      french_canada: "Lorsque vous mettez des restes de c\xF4t\xE9,quel type de\
         \ contenant utilisez-vous?"
-      spanish: "Cuando guardas las sobras de comida en tu\\ncasa, \xBFqu\xE9 forma\
+      spanish: "Cuando guardas las sobras de comida en tucasa, \xBFqu\xE9 forma\
         \ tiene el recipiente que usas?"
     response_1:
       english: Square
@@ -2984,7 +2984,7 @@
         first?
       french_canada: Lorsque vous mangez au restaurant avec\nvos amis, qui prend la
         facture le premier?
-      spanish: "Cuando comes con tus amigos fuera de\\ntu casa, \xBFqui\xE9n pide\
+      spanish: "Cuando comes con tus amigos fuera detu casa, \xBFqui\xE9n pide\
         \ la cuenta primero?"
     response_1:
       english: Me
@@ -3009,7 +3009,7 @@
     question:
       english: How often do you see movies in a movie theater?
       french_canada: "Allez-vous souvent au cin\xE9ma?"
-      spanish: "\xBFCon qu\xE9 frecuencia vas al cine a\\nver pel\xEDculas?"
+      spanish: "\xBFCon qu\xE9 frecuencia vas al cine aver pel\xEDculas?"
     response_1:
       english: Rarely
       french_canada: Rarement
@@ -3056,9 +3056,9 @@
   poll:
     question:
       english: Which do you have more of in your house?
-      french_canada: "Quel appareil \xE9lectronique avez-vous\\nen plus grande quantit\xE9\
+      french_canada: "Quel appareil \xE9lectronique avez-vousen plus grande quantit\xE9\
         \ \xE0 la maison?"
-      spanish: "\xBFDe cu\xE1l de estos objetos tienes\\nm\xE1s en tu casa?"
+      spanish: "\xBFDe cu\xE1l de estos objetos tienesm\xE1s en tu casa?"
     response_1:
       english: TVs
       french_canada: "T\xE9l\xE9visions"
@@ -3082,7 +3082,7 @@
     question:
       english: During the weekend, are you more likely to eat dinner . . .
       french_canada: Durant la fin de semaine, vous soupez...
-      spanish: "Comparado con los d\xEDas laborales, durante\\nel fin de semana sueles\
+      spanish: "Comparado con los d\xEDas laborales, duranteel fin de semana sueles\
         \ cenar..."
     response_1:
       english: Earlier/later than usual
@@ -3106,9 +3106,9 @@
   poll:
     question:
       english: Why do dogs stick their heads out of car windows?
-      french_canada: "Pourquoi les chiens sortent-ils leur t\xEAte\\npar la fen\xEA\
+      french_canada: "Pourquoi les chiens sortent-ils leur t\xEAtepar la fen\xEA\
         tre dans l'auto?"
-      spanish: "\xBFPor qu\xE9 crees que a los perros les gusta\\nsacar la cabeza\
+      spanish: "\xBFPor qu\xE9 crees que a los perros les gustasacar la cabeza\
         \ por la ventana del auto?"
     response_1:
       english: For a better view
@@ -3132,8 +3132,8 @@
   poll:
     question:
       english: Which sport do you think is tougher to learn?
-      french_canada: "\xC0 votre avis, quel sport est le plus difficile \xE0\\napprendre?"
-      spanish: "\xBFCu\xE1l deporte consideras m\xE1s dif\xEDcil\\nde aprender?"
+      french_canada: "\xC0 votre avis, quel sport est le plus difficile \xE0apprendre?"
+      spanish: "\xBFCu\xE1l deporte consideras m\xE1s dif\xEDcilde aprender?"
     response_1:
       english: Ice-skating
       french_canada: Patin sur glace
@@ -3156,9 +3156,9 @@
   poll:
     question:
       english: The average American consumes 24 lbs. of pizza per year.
-      french_canada: "L'Am\xE9ricain moyen consomme 24 livres\\n(11 kg) de pizza par\
+      french_canada: "L'Am\xE9ricain moyen consomme 24 livres(11 kg) de pizza par\
         \ ann\xE9e."
-      spanish: "El estadounidense medio consume alrededor\\nde 11 kilos de pizza al\
+      spanish: "El estadounidense medio consume alrededorde 11 kilos de pizza al\
         \ a\xF1o."
     response_1:
       english: 'True'
@@ -3208,7 +3208,7 @@
       english: You've won a prize and have your choice of an airline ticket. Which
         do you choose?
       french_canada: Vous gagnez un voyage et on vous\ndonne le choix entre...
-      spanish: "Si ganaras un premio que te diera a elegir\\nboletos en una aerol\xED\
+      spanish: "Si ganaras un premio que te diera a elegirboletos en una aerol\xED\
         nea, \xBFqu\xE9 elegir\xEDas?"
     response_1:
       english: One first-class ticket
@@ -3232,9 +3232,9 @@
   poll:
     question:
       english: As you're falling asleep, do you prefer to hear . . .
-      french_canada: "Lorsque vous \xEAtes sur le point de vous\\nendormir, que pr\xE9\
+      french_canada: "Lorsque vous \xEAtes sur le point de vousendormir, que pr\xE9\
         f\xE9rez-vous entendre?"
-      spanish: "Cuando te vas a dormir, \xBFqu\xE9 prefieres\\nescuchar?"
+      spanish: "Cuando te vas a dormir, \xBFqu\xE9 prefieresescuchar?"
     response_1:
       english: Rain outside the window
       french_canada: Pluie
@@ -3282,7 +3282,7 @@
     question:
       english: My family would never let me play this instrument . . .
       french_canada: Ma famille ne me laisserait jamais jouer...
-      spanish: "Mi familia nunca permitir\xEDa que tocara\\neste instrumento..."
+      spanish: "Mi familia nunca permitir\xEDa que tocaraeste instrumento..."
     response_1:
       english: Bagpipe
       french_canada: De la cornemuse
@@ -3307,7 +3307,7 @@
       english: What color is a polar bear's skin under their white fur?
       french_canada: Quelle est la couleur de la peau de\nl'ours polaire (sous la
         fourrure)?
-      spanish: "\xBFDe qu\xE9 color es la piel del oso polar\\nbajo su pelaje?"
+      spanish: "\xBFDe qu\xE9 color es la piel del oso polarbajo su pelaje?"
     response_1:
       english: Black
       french_canada: Noire
@@ -3354,9 +3354,9 @@
   poll:
     question:
       english: At an amusement park, what do you typically do first?
-      french_canada: "Que pr\xE9f\xE9rez-vous faire en premier lorsque\\nvous visitez\
+      french_canada: "Que pr\xE9f\xE9rez-vous faire en premier lorsquevous visitez\
         \ un parc d'attractions?"
-      spanish: "Cuando est\xE1s en un parque de atracciones...\\n\xBFa d\xF3nde vas\
+      spanish: "Cuando est\xE1s en un parque de atracciones...\xBFa d\xF3nde vas\
         \ primero?"
     response_1:
       english: Ride a roller coaster
@@ -3381,9 +3381,9 @@
     question:
       english: If you could visit a major city for one day, what would you prefer
         to do?
-      french_canada: "Si vous pouviez visiter une grande\\nm\xE9tropole, que pr\xE9\
+      french_canada: "Si vous pouviez visiter une grandem\xE9tropole, que pr\xE9\
         f\xE9reriez-vous faire?"
-      spanish: "\xBFQu\xE9 prefieres hacer cuando visitas\\nuna gran ciudad?"
+      spanish: "\xBFQu\xE9 prefieres hacer cuando visitasuna gran ciudad?"
     response_1:
       english: Visit a local landmark
       french_canada: Visiter un site historique
@@ -3406,7 +3406,7 @@
   poll:
     question:
       english: Do you get annual flu shots?
-      french_canada: "Vous faites-vous vacciner pour la grippe\\nchaque ann\xE9e?"
+      french_canada: "Vous faites-vous vacciner pour la grippechaque ann\xE9e?"
       spanish: "\xBFTe vacunas contra la gripe cada a\xF1o?"
     response_1:
       english: 'Yes'
@@ -3430,8 +3430,8 @@
   poll:
     question:
       english: At your wedding reception, would you rather have . . .
-      french_canada: "Qui engageriez-vous pour jouer de la\\nmusique \xE0 votre mariage?"
-      spanish: "\xBFQui\xE9n prefieres que se encargue de\\nla m\xFAsica durante una\
+      french_canada: "Qui engageriez-vous pour jouer de lamusique \xE0 votre mariage?"
+      spanish: "\xBFQui\xE9n prefieres que se encargue dela m\xFAsica durante una\
         \ boda?"
     response_1:
       english: A great band
@@ -3455,7 +3455,7 @@
   poll:
     question:
       english: When nervous, are you more likely to . . .
-      french_canada: "Lorsque vous \xEAtes nerveux ou nerveuse,\\nvous..."
+      french_canada: "Lorsque vous \xEAtes nerveux ou nerveuse,vous..."
       spanish: "Cuando est\xE1s nervioso, \xBFqu\xE9 sueles hacer?"
     response_1:
       english: Talk really fast
@@ -3480,7 +3480,7 @@
     question:
       english: If someone had food stuck in their teeth, would you . . .
       french_canada: Si quelqu'un a de la nourriture prise entre les dents, que faites-vous?
-      spanish: "Si ves a alguien con comida entre\\nlos dientes... \xBFse lo dices?"
+      spanish: "Si ves a alguien con comida entrelos dientes... \xBFse lo dices?"
     response_1:
       english: Tell them
       french_canada: Vous lui dites
@@ -3503,7 +3503,7 @@
   poll:
     question:
       english: I think it would be more fun to . . .
-      french_canada: "\xC0 votre avis, quelle activit\xE9 serait la plus\\namusante?"
+      french_canada: "\xC0 votre avis, quelle activit\xE9 serait la plusamusante?"
       spanish: "Creo que ser\xEDa m\xE1s divertido..."
     response_1:
       english: Learn to surf
@@ -3527,7 +3527,7 @@
   poll:
     question:
       english: The best thing about spring is . . .
-      french_canada: "\xC0 votre avis, qu'est-ce qui rend le\\nprintemps si merveilleux?"
+      french_canada: "\xC0 votre avis, qu'est-ce qui rend leprintemps si merveilleux?"
       spanish: Lo mejor de la primavera es que...
     response_1:
       english: No more snow!
@@ -3551,7 +3551,7 @@
   poll:
     question:
       english: When I go to a party, I like to . . .
-      french_canada: "Lorsque vous \xEAtes \xE0 un party,\\nvous pr\xE9f\xE9rez..."
+      french_canada: "Lorsque vous \xEAtes \xE0 un party,vous pr\xE9f\xE9rez..."
       spanish: Cuando voy a una fiesta me gusta...
     response_1:
       english: Dance, dance, dance!
@@ -3623,7 +3623,7 @@
   poll:
     question:
       english: If you have a dog or cat, does it sleep . . .
-      french_canada: "Si vous avez un chat ou un chien, o\xF9\\ndort-il?"
+      french_canada: "Si vous avez un chat ou un chien, o\xF9dort-il?"
       spanish: "Si tienes un perro o gato... \xBFd\xF3nde duerme?"
     response_1:
       english: On your bed
@@ -3647,9 +3647,9 @@
   poll:
     question:
       english: Have you ever carpooled or thought about it?
-      french_canada: "Avez-vous d\xE9j\xE0 fait du covoiturage ou\\npens\xE9 \xE0\
+      french_canada: "Avez-vous d\xE9j\xE0 fait du covoiturage oupens\xE9 \xE0\
         \ en faire?"
-      spanish: "\xBFHas compartido auto para ir a tu lugar\\nde trabajo?"
+      spanish: "\xBFHas compartido auto para ir a tu lugarde trabajo?"
     response_1:
       english: Yes! Go green!
       french_canada: "Oui! Soyons \xE9colos!"
@@ -3672,9 +3672,9 @@
   poll:
     question:
       english: Which type of soap do you prefer using to wash your hands?
-      french_canada: "Quel type de savon pr\xE9f\xE9rez-vous utiliser\\npour vous\
+      french_canada: "Quel type de savon pr\xE9f\xE9rez-vous utiliserpour vous\
         \ laver les mains?"
-      spanish: "\xBFQu\xE9 tipo de jab\xF3n prefieres para lavarte\\nlas manos?"
+      spanish: "\xBFQu\xE9 tipo de jab\xF3n prefieres para lavartelas manos?"
     response_1:
       english: Liquid soap
       french_canada: Savon liquide
@@ -3697,7 +3697,7 @@
   poll:
     question:
       english: What celebratory move do you like better?
-      french_canada: "Quel type de geste pr\xE9f\xE9rez-vous faire\\npour c\xE9l\xE9\
+      french_canada: "Quel type de geste pr\xE9f\xE9rez-vous fairepour c\xE9l\xE9\
         brer quelque chose?"
       spanish: "\xBFQu\xE9 gesto de celebraci\xF3n te gusta m\xE1s?"
     response_1:
@@ -3722,7 +3722,7 @@
   poll:
     question:
       english: How many pillows do you prefer to sleep with?
-      french_canada: "Avec combien d'oreillers pr\xE9f\xE9rez-vous\\ndormir?"
+      french_canada: "Avec combien d'oreillers pr\xE9f\xE9rez-vousdormir?"
       spanish: "\xBFCon cu\xE1ntas almohadas te gusta dormir?"
     response_1:
       english: Just one
@@ -3867,7 +3867,7 @@
   poll:
     question:
       english: Movie then dinner, or dinner then movie?
-      french_canada: "Que pr\xE9f\xE9rez-vous faire en premier : voir\\nun film ou\
+      french_canada: "Que pr\xE9f\xE9rez-vous faire en premier : voirun film ou\
         \ manger au restaurant?"
       spanish: "\xBFC\xF3mo prefieres pasar una velada?"
     response_1:
@@ -3893,9 +3893,9 @@
     question:
       english: If everyone lost five pounds, would it throw the earth off its gravitational
         pull?
-      french_canada: "Si tout le monde perdait cinq livres, la Terre\\nd\xE9vierait-elle\
+      french_canada: "Si tout le monde perdait cinq livres, la Terred\xE9vierait-elle\
         \ de son champ gravitationnel?"
-      spanish: "Si cada persona perdiera 2.25Kg de peso,\\n\xBFafectar\xEDa eso a\
+      spanish: "Si cada persona perdiera 2.25Kg de peso,\xBFafectar\xEDa eso a\
         \ la gravedad de la Tierra?"
     response_1:
       english: 'Yes'
@@ -3992,9 +3992,9 @@
     question:
       english: When serving food, does the color/style of dish make the food look
         better?
-      french_canada: "La couleur et le style des plats\\nrendent-ils la nourriture\
+      french_canada: "La couleur et le style des platsrendent-ils la nourriture\
         \ plus app\xE9tissante?"
-      spanish: "\xBFCrees que el color o el estilo del plato\\nafecta la vistosidad\
+      spanish: "\xBFCrees que el color o el estilo del platoafecta la vistosidad\
         \ de la comida?"
     response_1:
       english: 'Yes'
@@ -4018,7 +4018,7 @@
   poll:
     question:
       english: Which natural phenomenon would you rather see?
-      french_canada: "\xC0 quel ph\xE9nom\xE8ne naturel pr\xE9f\xE9reriez-\\nvous\
+      french_canada: "\xC0 quel ph\xE9nom\xE8ne naturel pr\xE9f\xE9reriez-vous\
         \ assister?"
       spanish: "\xBFQu\xE9 fen\xF3meno natural te gustar\xEDa ver?"
     response_1:
@@ -4092,7 +4092,7 @@
     question:
       english: Are bald men sexier than men with hair?
       french_canada: Les hommes chauves sont-ils plus\nsexy que les hommes chevelus?
-      spanish: "\xBFSon los hombres calvos m\xE1s atractivos\\nque quienes tienen\
+      spanish: "\xBFSon los hombres calvos m\xE1s atractivosque quienes tienen\
         \ pelo?"
     response_1:
       english: 'Yes'
@@ -4116,9 +4116,9 @@
   poll:
     question:
       english: How do you prefer to experience a story first?
-      french_canada: "De quelle mani\xE8re pr\xE9f\xE9rez-vous\\nd\xE9couvrir une\
+      french_canada: "De quelle mani\xE8re pr\xE9f\xE9rez-vousd\xE9couvrir une\
         \ histoire en premier?"
-      spanish: "\xBFC\xF3mo te gusta disfrutar de una buena\\nhistoria?"
+      spanish: "\xBFC\xF3mo te gusta disfrutar de una buenahistoria?"
     response_1:
       english: In book form
       french_canada: Livre
@@ -4141,9 +4141,9 @@
   poll:
     question:
       english: "What\u2019s more important to you in the way you dress?"
-      french_canada: "Quel est l'\xE9l\xE9ment le plus important\\nlorsque vous choisissez\
+      french_canada: "Quel est l'\xE9l\xE9ment le plus importantlorsque vous choisissez\
         \ vos v\xEAtements?"
-      spanish: "\xBFQu\xE9 es lo m\xE1s importante a la hora de\\nvestirte?"
+      spanish: "\xBFQu\xE9 es lo m\xE1s importante a la hora devestirte?"
     response_1:
       english: Comfort
       french_canada: Confort
@@ -4214,8 +4214,8 @@
   poll:
     question:
       english: How do you eat corn on the cob?
-      french_canada: "De quelle mani\xE8re mangez-vous votre\\n\xE9pi de bl\xE9 d'Inde?"
-      spanish: "\xBFDe qu\xE9 forma le hincas el diente a una\\nmazorca de ma\xED\
+      french_canada: "De quelle mani\xE8re mangez-vous votre\xE9pi de bl\xE9 d'Inde?"
+      spanish: "\xBFDe qu\xE9 forma le hincas el diente a unamazorca de ma\xED\
         z?"
     response_1:
       english: In horizontal rows
@@ -4287,9 +4287,9 @@
   poll:
     question:
       english: When food falls on the floor, which rule is in effect?
-      french_canada: "Lorsque de la nourriture tombe sur\\nle sol, quelle r\xE8gle\
+      french_canada: "Lorsque de la nourriture tombe surle sol, quelle r\xE8gle\
         \ suivez-vous?"
-      spanish: "Si se te cae algo de comida al piso, \xBFdespu\xE9s\\nde cu\xE1nto\
+      spanish: "Si se te cae algo de comida al piso, \xBFdespu\xE9sde cu\xE1nto\
         \ tiempo ya no lo recoges?"
     response_1:
       english: Three-second rule
@@ -4313,9 +4313,9 @@
   poll:
     question:
       english: Your significant other is dressed atrociously. Do you . . .
-      french_canada: "Votre douce moiti\xE9 est habill\xE9e de\\nfa\xE7on atroce.\
+      french_canada: "Votre douce moiti\xE9 est habill\xE9e defa\xE7on atroce.\
         \ Vous..."
-      spanish: "Si tu pareja se pone algo de vestir que\\nle queda muy mal, \xBFle\
+      spanish: "Si tu pareja se pone algo de vestir quele queda muy mal, \xBFle\
         \ dices...?"
     response_1:
       english: Tell them the truth
@@ -4339,8 +4339,8 @@
   poll:
     question:
       english: "How do you know the pasta\u2019s done?"
-      french_canada: "Comment faites-vous pour savoir si\\nles p\xE2tes sont cuites?"
-      spanish: "\xBFC\xF3mo sabes si la pasta esta cocida\\nen su punto?"
+      french_canada: "Comment faites-vous pour savoir siles p\xE2tes sont cuites?"
+      spanish: "\xBFC\xF3mo sabes si la pasta esta cocidaen su punto?"
     response_1:
       english: Throw it against a wall
       french_canada: Lancer au mur
@@ -4412,7 +4412,7 @@
     question:
       english: Which is the superior piece of playground equipment?
       french_canada: "Quel jeu de parc est le plus g\xE9nial?"
-      spanish: "\xBFCu\xE1l es el aparato que proporciona mayor\\ndiversi\xF3n en\
+      spanish: "\xBFCu\xE1l es el aparato que proporciona mayordiversi\xF3n en\
         \ un parque infantil?"
     response_1:
       english: Slide
@@ -4436,9 +4436,9 @@
   poll:
     question:
       english: If people wore fruit instead of clothes, how would we wear watermelons?
-      french_canada: "Si les gens portaient des fruits en guise\\nde v\xEAtements,\
+      french_canada: "Si les gens portaient des fruits en guisede v\xEAtements,\
         \ les melons d'eau seraient..."
-      spanish: "Si la gente se pusiera fruta en lugar de\\nropa, \xBFc\xF3mo llevar\xED\
+      spanish: "Si la gente se pusiera fruta en lugar deropa, \xBFc\xF3mo llevar\xED\
         an puestos los melones?"
     response_1:
       english: As hats
@@ -4463,7 +4463,7 @@
     question:
       english: If an item of clothing no longer fits? Do you . . .
       french_canada: "Si un v\xEAtement ne vous fait plus, vous..."
-      spanish: "\xBFQu\xE9 haces si una prenda de ropa se\\nte queda peque\xF1a?"
+      spanish: "\xBFQu\xE9 haces si una prenda de ropa sete queda peque\xF1a?"
     response_1:
       english: Get rid of it
       french_canada: Le jetez/donnez
@@ -4534,7 +4534,7 @@
   poll:
     question:
       english: Do you have any clothing that has more than five colors?
-      french_canada: "Avez-vous des v\xEAtements qui\\nont plus de cinq couleurs?"
+      french_canada: "Avez-vous des v\xEAtements quiont plus de cinq couleurs?"
       spanish: "\xBFTienes ropa que tiene m\xE1s de 5 colores?"
     response_1:
       english: Yes, I am colorful!
@@ -4559,7 +4559,7 @@
     question:
       english: If work or school starts at 9 a.m., is that . . .
       french_canada: "Le travail ou l'\xE9cole commence \xE0 9 h, est-ce. . ."
-      spanish: "Si la escuela o el trabajo empieza\\na las 9 de la ma\xF1ana, eso\
+      spanish: "Si la escuela o el trabajo empiezaa las 9 de la ma\xF1ana, eso\
         \ te parece..."
     response_1:
       english: Too Early
@@ -4607,7 +4607,7 @@
   poll:
     question:
       english: If you woke up in the middle of the night, would you . . .
-      french_canada: "Si vous vous r\xE9veillez au\\nmilieu de la nuit, vous. . ."
+      french_canada: "Si vous vous r\xE9veillez aumilieu de la nuit, vous. . ."
       spanish: Cuando me despierto en mitad\nde la noche, me gusta...
     response_1:
       english: Read or watch TV.
@@ -4703,8 +4703,8 @@
   poll:
     question:
       english: Can people sneeze when sleeping?
-      french_canada: "Est-ce que les gens peuvent\\n\xE9ternuer en dormant?"
-      spanish: "\xBFEs posible estornudar cuando se est\xE1\\ndormido?"
+      french_canada: "Est-ce que les gens peuvent\xE9ternuer en dormant?"
+      spanish: "\xBFEs posible estornudar cuando se est\xE1dormido?"
     response_1:
       english: Not sure, I was asleep.
       french_canada: "\xC9tais-je endormi?"
@@ -4727,9 +4727,9 @@
   poll:
     question:
       english: The price of bottled water compared to soda . . .
-      french_canada: "Une bouteille d'eau compar\xE9e\\n\xE0 une bouteille de boisson\
+      french_canada: "Une bouteille d'eau compar\xE9e\xE0 une bouteille de boisson\
         \ gazeuse . . ."
-      spanish: "Comparadas con los refrescos, las\\nbotellas de agua deber\xEDan costar..."
+      spanish: "Comparadas con los refrescos, lasbotellas de agua deber\xEDan costar..."
     response_1:
       english: Should cost less.
       french_canada: "Co\xFBte moins cher."
@@ -4754,7 +4754,7 @@
       english: You usually buy new socks because of . . .
       french_canada: Habituellement, vous achetez\nde nouveaux bas parce qu'ils .
         . .
-      spanish: "Normalmente compras calcetines nuevos\\nporque est\xE1n..."
+      spanish: "Normalmente compras calcetines nuevosporque est\xE1n..."
     response_1:
       english: MID (Missing in Dryer)
       french_canada: Sont perdus.
@@ -4779,7 +4779,7 @@
       english: Hippos produce this color of fluid to coat their body . . .
       french_canada: Les hippopotames produisent ce fluide\nde couleur pour se couvrir.
         . .
-      spanish: "Los hipop\xF3tamos producen un fluido\\nde este color para cubrir\
+      spanish: "Los hipop\xF3tamos producen un fluidode este color para cubrir\
         \ su cuerpo."
     response_1:
       english: Orange
@@ -4804,7 +4804,7 @@
     question:
       english: What are the plastic parts at the end of your shoelaces called?
       french_canada: Comment nomme-t-on le morceau de\nplastique au bout des lacets?
-      spanish: "\xBFC\xF3mo se llaman las partes de pl\xE1stico\\nal final de los\
+      spanish: "\xBFC\xF3mo se llaman las partes de pl\xE1sticoal final de los\
         \ cordones de tus zapatos?"
     response_1:
       english: Tips
@@ -4855,7 +4855,7 @@
         someone?
       french_canada: "Vous trouvez 20 $ en faisant la queue. Demandez-vous s'il appartient\
         \ \xE0 quelqu'un?"
-      spanish: "Si encuentras $20 mientras esperas en\\nl\xEDnea. \xBFPreguntas si\
+      spanish: "Si encuentras $20 mientras esperas enl\xEDnea. \xBFPreguntas si\
         \ es de alguien?"
     response_1:
       english: Finders, keepers.
@@ -4879,7 +4879,7 @@
   poll:
     question:
       english: Do you listen to music from other countries?
-      french_canada: "\xC9coutez-vous de la musique\\nd'autres pays?"
+      french_canada: "\xC9coutez-vous de la musiqued'autres pays?"
       spanish: "\xBFEscuchas m\xFAsica de otros pa\xEDses?"
     response_1:
       english: Yes, and karaoke too!
@@ -4928,7 +4928,7 @@
     question:
       english: The "AC" in AC/DC of electrical signals means . . .
       french_canada: "AC dans AC/DC des signaux \xE9lectriques signifie. . ."
-      spanish: "El \"CA\" de CA/CD en las se\xF1ales\\nel\xE9ctricas significa..."
+      spanish: "El \"CA\" de CA/CD en las se\xF1alesel\xE9ctricas significa..."
     response_1:
       english: Alternating Current
       french_canada: Courant alternatif
@@ -4951,7 +4951,7 @@
   poll:
     question:
       english: Is a strawberry a fruit or vegetable?
-      french_canada: "Est-ce que la fraise est\\nun fruit ou un l\xE9gume?"
+      french_canada: "Est-ce que la fraise estun fruit ou un l\xE9gume?"
       spanish: "\xBFLas fresas son una fruta o una verdura?"
     response_1:
       english: Fruit
@@ -4976,7 +4976,7 @@
     question:
       english: If you had to wear a T-shirt with a saying on it, what would it say?
       french_canada: "Que ferais-tu \xE9crire sur un t-shirt?"
-      spanish: "Si tuvieras una camiseta con una frase,\\n\xBFqu\xE9 dir\xEDa?"
+      spanish: "Si tuvieras una camiseta con una frase,\xBFqu\xE9 dir\xEDa?"
     response_1:
       english: Nerdy and proud!
       french_canada: Smatte et fier!
@@ -5002,7 +5002,7 @@
         win?
       french_canada: Si vous jouez avec des gens plus\njeunes que vous, les laissez-vous
         gagner?
-      spanish: "Si jugaras contra alguien mucho m\xE1s\\njoven que t\xFA, \xBFle dejar\xED\
+      spanish: "Si jugaras contra alguien mucho m\xE1sjoven que t\xFA, \xBFle dejar\xED\
         as ganar?"
     response_1:
       english: Yes, of course.
@@ -5026,7 +5026,7 @@
   poll:
     question:
       english: If you get lost, do you find yourself wanting to turn . . .
-      french_canada: "Si vous vous perdez, de\\nquel c\xF4t\xE9 irez-vous?"
+      french_canada: "Si vous vous perdez, dequel c\xF4t\xE9 irez-vous?"
       spanish: Si te pierdes, tu primer instinto es\nir hacia...
     response_1:
       english: Left
@@ -5050,7 +5050,7 @@
   poll:
     question:
       english: When you listen to music alone, do you find yourself . . .
-      french_canada: "Lorsque vous \xEAtes seul et \xE9couter de la\\nmusique, est-ce\
+      french_canada: "Lorsque vous \xEAtes seul et \xE9couter de lamusique, est-ce\
         \ que vous..."
       spanish: "Cuando escuchas m\xFAsica solo, te apetece..."
     response_1:
@@ -5099,9 +5099,9 @@
   poll:
     question:
       english: Have you ever had a haircut you'd like to forget?
-      french_canada: "Avez-vous d\xE9j\xE0 eu une coupe de cheveux\\nque vous aimeriez\
+      french_canada: "Avez-vous d\xE9j\xE0 eu une coupe de cheveuxque vous aimeriez\
         \ oublier?"
-      spanish: "\xBFAlguna vez te han hecho un corte\\nde pelo que ser\xEDa mejor\
+      spanish: "\xBFAlguna vez te han hecho un cortede pelo que ser\xEDa mejor\
         \ olvidar?"
     response_1:
       english: Yes, I almost forgot!
@@ -5125,7 +5125,7 @@
   poll:
     question:
       english: The design of your living room is mostly . . .
-      french_canada: "Le style de votre salon est\\nprincipalement compos\xE9 de..."
+      french_canada: "Le style de votre salon estprincipalement compos\xE9 de..."
       spanish: "El dise\xF1o de tu sala tiene, sobre todo..."
     response_1:
       english: Lines
@@ -5223,7 +5223,7 @@
       english: When you first wake up, how long do you stay in bed before starting
         your day?
       french_canada: Combien de temps restez-vous dans\nvotre lit le matin?
-      spanish: "Al despertarte, \xBFcu\xE1nto tiempo te quedas\\nen la cama antes\
+      spanish: "Al despertarte, \xBFcu\xE1nto tiempo te quedasen la cama antes\
         \ de levantarte?"
     response_1:
       english: Ten minutes or less.
@@ -5247,9 +5247,9 @@
   poll:
     question:
       english: When drying your hands, do you prefer a towel or electric air dry?
-      french_canada: "Pour s\xE9cher vos mains, prenez-vous\\nla serviette ou le s\xE9\
+      french_canada: "Pour s\xE9cher vos mains, prenez-vousla serviette ou le s\xE9\
         choir?"
-      spanish: "Cuando te secas las manos, \xBFprefieres\\nuna toalla o un secador\
+      spanish: "Cuando te secas las manos, \xBFprefieresuna toalla o un secador\
         \ de aire?"
     response_1:
       english: Electric air dry!
@@ -5322,7 +5322,7 @@
     question:
       english: If you created a new invention, you'd want it to be an invention that's
         . . .
-      french_canada: "Si vous cr\xE9ez une nouvelle invention,\\nvous aimeriez qu'elle\
+      french_canada: "Si vous cr\xE9ez une nouvelle invention,vous aimeriez qu'elle\
         \ soit . . ."
       spanish: "Si crearas algo, te gustar\xEDa que tu invenci\xF3n fuera..."
     response_1:
@@ -5348,7 +5348,7 @@
     question:
       english: What country's capital city has the longest name?
       french_canada: "Quel pays poss\xE8de le nom de capitale le plus long?"
-      spanish: "\xBFCu\xE1l de estos pa\xEDses tiene la capital\\ncon el nombre m\xE1\
+      spanish: "\xBFCu\xE1l de estos pa\xEDses tiene la capitalcon el nombre m\xE1\
         s largo?"
     response_1:
       english: Thailand
@@ -5372,9 +5372,9 @@
   poll:
     question:
       english: In a day, how often do you look at yourself in the mirror?
-      french_canada: "Combien de fois vous regardez-vous\\ndans le miroir dans une\
+      french_canada: "Combien de fois vous regardez-vousdans le miroir dans une\
         \ journ\xE9e?"
-      spanish: "Durante el d\xEDa, \xBFcu\xE1ntas veces\\nte miras al espejo?"
+      spanish: "Durante el d\xEDa, \xBFcu\xE1ntas veceste miras al espejo?"
     response_1:
       english: Not enough.
       french_canada: Pas assez souvent.
@@ -5397,9 +5397,9 @@
   poll:
     question:
       english: Do you know someone that still has dial-up Internet?
-      french_canada: "Connaissez-vous quelqu'un qui utilise\\nl'acc\xE8s par ligne\
+      french_canada: "Connaissez-vous quelqu'un qui utilisel'acc\xE8s par ligne\
         \ commut\xE9e?"
-      spanish: "\xBFConoces a alguien que todav\xEDa tenga internet\\nv\xEDa m\xF3\
+      spanish: "\xBFConoces a alguien que todav\xEDa tenga internetv\xEDa m\xF3\
         dem de marcado?"
     response_1:
       english: No, what is that?
@@ -5425,7 +5425,7 @@
       english: When boarding a plane, do you like to board first or last?
       french_canada: Lors de l'embarquement d'un avion,\nembarquez-vous en premier
         ou en dernier?
-      spanish: "Cuando subes a un avi\xF3n, \xBFentras\\nel primero o el \xFAltimo?"
+      spanish: "Cuando subes a un avi\xF3n, \xBFentrasel primero o el \xFAltimo?"
     response_1:
       english: First come, first served.
       french_canada: En premier.
@@ -5449,9 +5449,9 @@
     question:
       english: If you had to choose one hobby to try out for a year, which would you
         choose?
-      french_canada: "Si vous deviez choisir un passe-temps\\npour une ann\xE9e, quel\
+      french_canada: "Si vous deviez choisir un passe-tempspour une ann\xE9e, quel\
         \ serait-il?"
-      spanish: "Si tuvieras que elegir una afici\xF3n y\\nseguirla durante un a\xF1\
+      spanish: "Si tuvieras que elegir una afici\xF3n yseguirla durante un a\xF1\
         o, \xBFcu\xE1l elegir\xEDas?"
     response_1:
       english: Crossword Puzzles
@@ -5476,7 +5476,7 @@
     question:
       english: If you find a gift card on the ground, what do you do?
       french_canada: Si vous trouvez une carte-cadeaux\nsur le sol, que faites-vous?
-      spanish: "Si encuentras una tarjeta de regalo,\\n\xBFqu\xE9 haces?"
+      spanish: "Si encuentras una tarjeta de regalo,\xBFqu\xE9 haces?"
     response_1:
       english: Check its value.
       french_canada: Regarder sa valeur.
@@ -5499,8 +5499,8 @@
   poll:
     question:
       english: If someone was wearing a shirt inside out, would you tell them?
-      french_canada: "Si quelqu'un portait un gilet \xE0\\nl'envers, lui diriez-vous?"
-      spanish: "Si vieras a alguien que lleva una camisa\\nal rev\xE9s, \xBFse lo\
+      french_canada: "Si quelqu'un portait un gilet \xE0l'envers, lui diriez-vous?"
+      spanish: "Si vieras a alguien que lleva una camisaal rev\xE9s, \xBFse lo\
         \ dir\xEDas?"
     response_1:
       english: After I took a picture.
@@ -5548,7 +5548,7 @@
   poll:
     question:
       english: Do you use a mobile phone as an alarm clock?
-      french_canada: "Utilisez-vous l'alarme de votre t\xE9l\xE9phone\\ncellulaire\
+      french_canada: "Utilisez-vous l'alarme de votre t\xE9l\xE9phonecellulaire\
         \ comme d'un cadran?"
       spanish: "\xBFUtilizas tu tel\xE9fono m\xF3vil como despertador?"
     response_1:
@@ -5576,7 +5576,7 @@
         to the dentist?
       french_canada: Vous attendez combien de temps avant\nd'aller chez le dentiste
         avec un mal de dents?
-      spanish: "Si te duelen las muelas, \xBFcu\xE1nto esperas\\nantes de ir al dentista?"
+      spanish: "Si te duelen las muelas, \xBFcu\xE1nto esperasantes de ir al dentista?"
     response_1:
       english: I'd go right away.
       french_canada: J'irais tout de suite.
@@ -5600,7 +5600,7 @@
     question:
       english: How many products do you have car chargers for?
       french_canada: Combien de produits recharchez-vous\ndans votre voiture?
-      spanish: "\xBFPara cu\xE1ntos productos tienes\\nun cargador para el auto?"
+      spanish: "\xBFPara cu\xE1ntos productos tienesun cargador para el auto?"
     response_1:
       english: Ten. Is that too many?
       french_canada: Dix. Est-ce trop?
@@ -5647,9 +5647,9 @@
   poll:
     question:
       english: Who is the only US president granted a patent?
-      french_canada: "Quel pr\xE9sident des \xC9tats-Unis\\nposs\xE8de un brevet accord\xE9\
+      french_canada: "Quel pr\xE9sident des \xC9tats-Unisposs\xE8de un brevet accord\xE9\
         ?"
-      spanish: "\xBFQu\xE9 presidente de los EE.UU. fue el \xFAnico\\nal que se le\
+      spanish: "\xBFQu\xE9 presidente de los EE.UU. fue el \xFAnicoal que se le\
         \ concedi\xF3 una patente?"
     response_1:
       english: Abraham Lincoln
@@ -5698,7 +5698,7 @@
     question:
       english: In this country, tipping your waiter is an insult!
       french_canada: Dans ce pays, c'est une insulte\nde renverser de l'eau?
-      spanish: "En este pa\xEDs, dar propinas a un camarero\\nes un insulto."
+      spanish: "En este pa\xEDs, dar propinas a un camareroes un insulto."
     response_1:
       english: Iceland
       french_canada: Islande
@@ -5721,7 +5721,7 @@
   poll:
     question:
       english: If you could take a cruise, would you go to . . .
-      french_canada: "Si vous pouviez aller sur un bateau de\\ncroisi\xE8re, o\xF9\
+      french_canada: "Si vous pouviez aller sur un bateau decroisi\xE8re, o\xF9\
         \ iriez-vous . . ."
       spanish: "Te gustar\xEDa irte de crucero a..."
     response_1:
@@ -5746,7 +5746,7 @@
   poll:
     question:
       english: How many vacation days do you take per year?
-      french_canada: "Combien de jours de vacances\\nprenez-vous par ann\xE9e?"
+      french_canada: "Combien de jours de vacancesprenez-vous par ann\xE9e?"
       spanish: "\xBFCu\xE1ntos d\xEDas de vacaciones tomas cada a\xF1o?"
     response_1:
       english: Less than five.
@@ -5794,7 +5794,7 @@
   poll:
     question:
       english: If the milk's expiration date is past one day, do you . . .
-      french_canada: "Si la date d'expiration du lait \xE9tait\\npass\xE9e d'une journ\xE9\
+      french_canada: "Si la date d'expiration du lait \xE9taitpass\xE9e d'une journ\xE9\
         e, vous . . ."
       spanish: "Si la leche expir\xF3 ayer, \xBFqu\xE9 haces?"
     response_1:
@@ -5819,7 +5819,7 @@
   poll:
     question:
       english: The only city located on two continents is . . .
-      french_canada: "La seule ville situ\xE9e sur\\ndeux continents est . . ."
+      french_canada: "La seule ville situ\xE9e surdeux continents est . . ."
       spanish: "La \xFAnica ciudad ubicada en dos continentes es..."
     response_1:
       english: Istanbul
@@ -5867,7 +5867,7 @@
   poll:
     question:
       english: Windmills always turn counterclockwise, except in . . .
-      french_canada: "Les moulins \xE0 vent tournent dans le\\nsens des aiguilles\
+      french_canada: "Les moulins \xE0 vent tournent dans lesens des aiguilles\
         \ d'une montre sauf en..."
       spanish: Los molinos siempre giran en sentido\ncontrario a las agujas del reloj,
         excepto en...
@@ -5893,7 +5893,7 @@
   poll:
     question:
       english: People in Siberia often buy this frozen on a stick . . .
-      french_canada: "Les Sib\xE9riens ach\xE8tent souvent ceci\\ncongel\xE9 sur un\
+      french_canada: "Les Sib\xE9riens ach\xE8tent souvent cecicongel\xE9 sur un\
         \ b\xE2ton..."
       spanish: La gente de Siberia normalmente lo compra\ncongelado.
     response_1:
@@ -5942,7 +5942,7 @@
   poll:
     question:
       english: When going to the movies with your mobile phone, do you . . .
-      french_canada: "Lorsque vous allez au cin\xE9ma avec\\nvotre t\xE9l\xE9phone\
+      french_canada: "Lorsque vous allez au cin\xE9ma avecvotre t\xE9l\xE9phone\
         \ cellulaire, est-ce que..."
       spanish: "Cuando llevas tu tel\xE9fono m\xF3vil al cine..."
     response_1:
@@ -6018,7 +6018,7 @@
         \ . . ."
       french_canada: Si un homme dit Tout ce que je te dis est un mensonge. Dit-il.
         . .
-      spanish: "Si alguien te dice \"Todo lo que te digo\\nes mentira\", est\xE1..."
+      spanish: "Si alguien te dice \"Todo lo que te digoes mentira\", est\xE1..."
     response_1:
       english: Telling the Truth
       french_canada: "La v\xE9rit\xE9."
@@ -6066,7 +6066,7 @@
     question:
       english: About how many miles do you think you travel on wheels in a week?
       french_canada: Combien de km faites-vous dans une semaine?
-      spanish: "\xBFCu\xE1ntas millas viajas sobre ruedas\\nen una semana?"
+      spanish: "\xBFCu\xE1ntas millas viajas sobre ruedasen una semana?"
     response_1:
       english: Less Than 100
       french_canada: Moins de 100.
@@ -6089,9 +6089,9 @@
   poll:
     question:
       english: After a day, which side of a sock is dirtier?
-      french_canada: "Apr\xE8s une journ\xE9e, quel c\xF4t\xE9 de\\nvos bas est le\
+      french_canada: "Apr\xE8s une journ\xE9e, quel c\xF4t\xE9 devos bas est le\
         \ plus sale?"
-      spanish: "Al final del d\xEDa, \xBFqu\xE9 parte de los\\ncalcetines est\xE1\
+      spanish: "Al final del d\xEDa, \xBFqu\xE9 parte de loscalcetines est\xE1\
         \ m\xE1s sucia?"
     response_1:
       english: Inside
@@ -6139,8 +6139,8 @@
   poll:
     question:
       english: Are most smart and famous people right-handed?
-      french_canada: "Les gens les plus\\nintelligents et c\xE9l\xE8bres sont gauchers?"
-      spanish: "La mayor\xEDa de las personas famosas\\ne inteligentes son diestras."
+      french_canada: "Les gens les plusintelligents et c\xE9l\xE8bres sont gauchers?"
+      spanish: "La mayor\xEDa de las personas famosase inteligentes son diestras."
     response_1:
       english: 'Yes'
       french_canada: Oui
@@ -6212,9 +6212,9 @@
     question:
       english: Does the pitch of a tuning fork change as it "slows down" (i.e., runs
         out of energy)?
-      french_canada: "La fr\xE9quence des sons d'un diapason\\nchange lorsqu'il perd\
+      french_canada: "La fr\xE9quence des sons d'un diapasonchange lorsqu'il perd\
         \ son \xE9nergie?"
-      spanish: "El tono de un diapas\xF3n, \xBFcambia cuando\\nse le acaba la energ\xED\
+      spanish: "El tono de un diapas\xF3n, \xBFcambia cuandose le acaba la energ\xED\
         a?"
     response_1:
       english: 'Yes'
@@ -6241,7 +6241,7 @@
         direction?
       french_canada: Si vous flottez dans l'espace, croyez-vous\nque le mouvement
         vertical existe?
-      spanish: "Si estuvieras flotando en el espacio,\\n\xBFcrees que habr\xEDa un\
+      spanish: "Si estuvieras flotando en el espacio,\xBFcrees que habr\xEDa un\
         \ arriba y un abajo?"
     response_1:
       english: 'Yes'
@@ -6265,9 +6265,9 @@
   poll:
     question:
       english: What's the best way to remind yourself of something important?
-      french_canada: "Quelle est la meilleure fa\xE7on de vous\\nsouvenir de quelque\
+      french_canada: "Quelle est la meilleure fa\xE7on de voussouvenir de quelque\
         \ chose d'important?"
-      spanish: "Para ti, \xBFcu\xE1l es la mejor manera de recordar\\nalgo importante?"
+      spanish: "Para ti, \xBFcu\xE1l es la mejor manera de recordaralgo importante?"
     response_1:
       english: Write a note to yourself.
       french_canada: "\xC9crire une note."
@@ -6290,7 +6290,7 @@
   poll:
     question:
       english: Which annoys you more in a crowded elevator?
-      french_canada: "Qu'est-ce qui vous d\xE9range\\nle plus dans un ascenseur?"
+      french_canada: "Qu'est-ce qui vous d\xE9rangele plus dans un ascenseur?"
       spanish: "\xBFQu\xE9 es m\xE1s molesto en un ascensor lleno?"
     response_1:
       english: Heavy Perfume
@@ -6314,7 +6314,7 @@
   poll:
     question:
       english: Do you feel more comfortable shopping online or at the store?
-      french_canada: "Pr\xE9f\xE9rez-vous magasiner en\\nligne ou dans un magasin?"
+      french_canada: "Pr\xE9f\xE9rez-vous magasiner enligne ou dans un magasin?"
       spanish: "\xBFPrefieres visitar tiendas o hacer compras en l\xEDnea?"
     response_1:
       english: Online
@@ -6363,9 +6363,9 @@
     question:
       english: At an amusement park, what's the longest you've waited in line for
         a ride?
-      french_canada: "Combien d'heures avez-vous\\nd\xE9j\xE0 attendues le plus en\
+      french_canada: "Combien d'heures avez-vousd\xE9j\xE0 attendues le plus en\
         \ ligne?"
-      spanish: "\xBFCu\xE1nto es lo m\xE1s que has esperado en\\nla fila para subirte\
+      spanish: "\xBFCu\xE1nto es lo m\xE1s que has esperado enla fila para subirte\
         \ a un juego?"
     response_1:
       english: Two hours or more.
@@ -6389,9 +6389,9 @@
   poll:
     question:
       english: Do you spend more time texting or talking on the phone?
-      french_canada: "Communiquez-vous le plus souvent\\npar texto ou par t\xE9l\xE9\
+      french_canada: "Communiquez-vous le plus souventpar texto ou par t\xE9l\xE9\
         phone?"
-      spanish: "\xBFPara qu\xE9 usas m\xE1s tu tel\xE9fono celular,\\npara llamadas\
+      spanish: "\xBFPara qu\xE9 usas m\xE1s tu tel\xE9fono celular,para llamadas\
         \ o para mensajes de texto?"
     response_1:
       english: Texting
@@ -6415,9 +6415,9 @@
   poll:
     question:
       english: Do you think your pet understands your moods (e.g., happy, sad)?
-      french_canada: "Pensez-vous que votre animal\\ncomprend vos \xE9tats d'\xE2\
+      french_canada: "Pensez-vous que votre animalcomprend vos \xE9tats d'\xE2\
         me?"
-      spanish: "\xBFCrees que tu mascota puede distinguir\\ntus cambios de humor (triste,\
+      spanish: "\xBFCrees que tu mascota puede distinguirtus cambios de humor (triste,\
         \ alegre)?"
     response_1:
       english: Yes, my pet does.
@@ -6465,8 +6465,8 @@
   poll:
     question:
       english: The next time you listen to music, how many instruments can you identify?
-      french_canada: "Vous \xE9coutez de la musique. Pouvez-\\nvous identifier l'artiste?"
-      spanish: "\xBFCu\xE1ntos instrumentos puedes identificar\\ncuando escuchas una\
+      french_canada: "Vous \xE9coutez de la musique. Pouvez-vous identifier l'artiste?"
+      spanish: "\xBFCu\xE1ntos instrumentos puedes identificarcuando escuchas una\
         \ canci\xF3n?"
     response_1:
       english: Three or less.
@@ -6490,9 +6490,9 @@
   poll:
     question:
       english: What's more important for you to have on a sunny day?
-      french_canada: "Que pr\xE9f\xE9rez-vous avoir lors\\nd'une journ\xE9e ensoleill\xE9\
+      french_canada: "Que pr\xE9f\xE9rez-vous avoir lorsd'une journ\xE9e ensoleill\xE9\
         e?"
-      spanish: "\xBFCu\xE1l accesorio te resulta m\xE1s\\nindispensable en un d\xED\
+      spanish: "\xBFCu\xE1l accesorio te resulta m\xE1sindispensable en un d\xED\
         a soleado?"
     response_1:
       english: Sunglasses
@@ -6540,7 +6540,7 @@
   poll:
     question:
       english: The background on your computer/laptop is a photo of. . .
-      french_canada: "Votre ordinateur ou ordinateur portatif\\na comme fond d'\xE9\
+      french_canada: "Votre ordinateur ou ordinateur portatifa comme fond d'\xE9\
         cran une photo. . ."
       spanish: La imagen de tu fondo de pantalla es de. . .
     response_1:
@@ -6590,7 +6590,7 @@
     question:
       english: The color alizarin is most similar to which of these primary colors?
       french_canada: "Quelle couleur pr\xE9f\xE9rez-vous le plus?"
-      spanish: "A cu\xE1l de estos colores primarios\\nse acerca m\xE1s el alizarina:"
+      spanish: "A cu\xE1l de estos colores primariosse acerca m\xE1s el alizarina:"
     response_1:
       english: Blue
       french_canada: Bleu.
@@ -6613,7 +6613,7 @@
   poll:
     question:
       english: Which of these activities do you prefer doing at home?
-      french_canada: "Quelle activit\xE9 pr\xE9f\xE9rez-vous\\nfaire \xE0 la maison?"
+      french_canada: "Quelle activit\xE9 pr\xE9f\xE9rez-vousfaire \xE0 la maison?"
       spanish: "\xBFCu\xE1l de estas actividades prefieres hacer en casa?"
     response_1:
       english: A boot camp workout.
@@ -6661,9 +6661,9 @@
   poll:
     question:
       english: Are you more likely to get locked out of your house or your car?
-      french_canada: "Avez-vous plus de chance d'oublier vos\\ncl\xE9s dans la maison\
+      french_canada: "Avez-vous plus de chance d'oublier voscl\xE9s dans la maison\
         \ ou dans la voiture?"
-      spanish: "\xBFQu\xE9 es m\xE1s f\xE1cil, que olvides las llaves\\nde tu casa\
+      spanish: "\xBFQu\xE9 es m\xE1s f\xE1cil, que olvides las llavesde tu casa\
         \ o las de tu auto?"
     response_1:
       english: Car
@@ -6761,7 +6761,7 @@
       english: When you get a bad haircut, what are the typical comments?
       french_canada: Quels commentaires vous fait-on quand\nvous avez une nouvelle
         coupe de cheveux?
-      spanish: "\xBFQu\xE9 te dicen tus amigos cuando tienes un\\ncorte de cabello\
+      spanish: "\xBFQu\xE9 te dicen tus amigos cuando tienes uncorte de cabello\
         \ poco favorable?"
     response_1:
       english: Oh, you got a haircut.
@@ -6785,7 +6785,7 @@
   poll:
     question:
       english: Which weighs more, an elephant or blue whale?
-      french_canada: "Qu'est-ce qui p\xE8se le plus? Un\\n\xE9l\xE9phant ou une baleine\
+      french_canada: "Qu'est-ce qui p\xE8se le plus? Un\xE9l\xE9phant ou une baleine\
         \ bleue?"
       spanish: "\xBFCu\xE1l pesa m\xE1s, un elefante o una ballena azul?"
     response_1:
@@ -6812,7 +6812,7 @@
       english: When looking at a stranger, this expression brings a smile to your
         face. . .
       french_canada: Aimez-vous les gens. . .
-      spanish: "Cuando te fijas en alguien que no conoces,\\ncu\xE1l de estas expresiones\
+      spanish: "Cuando te fijas en alguien que no conoces,cu\xE1l de estas expresiones\
         \ te hace sonre\xEDr:"
     response_1:
       english: Warm Smile
@@ -6836,7 +6836,7 @@
   poll:
     question:
       english: What's the best way to forget about a song that's stuck in your head?
-      french_canada: "Quel moyen utilisez-vous pour enlever\\nune chanson de votre\
+      french_canada: "Quel moyen utilisez-vous pour enleverune chanson de votre\
         \ t\xEAte?"
       spanish: "\xBFQu\xE9 haces para sacarte una canci\xF3n de la cabeza?"
     response_1:
@@ -6861,8 +6861,8 @@
   poll:
     question:
       english: How long was the longest timeframe you've been sick?
-      french_canada: "Combien de temps avez-vous\\n\xE9t\xE9 le plus longtemps malade?"
-      spanish: "\xBFCu\xE1nto es lo m\xE1s que te ha durado\\nuna enfermedad?"
+      french_canada: "Combien de temps avez-vous\xE9t\xE9 le plus longtemps malade?"
+      spanish: "\xBFCu\xE1nto es lo m\xE1s que te ha duradouna enfermedad?"
     response_1:
       english: Less than a week.
       french_canada: Moins d'une semaine.
@@ -6886,7 +6886,7 @@
     question:
       english: Someone drops a package while trying to open the door, you help them
         by. . .
-      french_canada: "Quelqu'un ouvre une porte et \xE9chappe\\nun paquet. Vous l'aidez\
+      french_canada: "Quelqu'un ouvre une porte et \xE9chappeun paquet. Vous l'aidez\
         \ en. . ."
       spanish: Si alguien tira un paquete tratando de abrir\nuna puerta, le ayudas.
         . .
@@ -6912,9 +6912,9 @@
   poll:
     question:
       english: When you have to take a test, do you feel more nervous. . .
-      french_canada: "Lorsque vous faites un examen,\\nvous ressentez la nervosit\xE9\
+      french_canada: "Lorsque vous faites un examen,vous ressentez la nervosit\xE9\
         . . ."
-      spanish: "Cuando haces un examen,\\nsientes m\xE1s nervios. . ."
+      spanish: "Cuando haces un examen,sientes m\xE1s nervios. . ."
     response_1:
       english: During the test.
       french_canada: Avant l'examen.
@@ -6937,9 +6937,9 @@
   poll:
     question:
       english: When you first turn on the TV, do you. . .
-      french_canada: "Lorsque vous ouvrez le t\xE9l\xE9viseur\\npour la premi\xE8\
+      french_canada: "Lorsque vous ouvrez le t\xE9l\xE9viseurpour la premi\xE8\
         re fois, vous . . ."
-      spanish: "Cuando prendes la televisi\xF3n,\\nlo primero que haces es. . ."
+      spanish: "Cuando prendes la televisi\xF3n,lo primero que haces es. . ."
     response_1:
       english: Flip through channels.
       french_canada: "Changez la cha\xEEne."
@@ -6963,7 +6963,7 @@
     question:
       english: Which of these has more vitamin C (mg/100 g)?
       french_canada: Quel fruit contient le plus\nde vitamine C (mg/100g)?
-      spanish: "\xBFCu\xE1l de estas frutas contiene m\xE1s\\nvitamina C?"
+      spanish: "\xBFCu\xE1l de estas frutas contiene m\xE1svitamina C?"
     response_1:
       english: Strawberry
       french_canada: Fraise.
@@ -7012,7 +7012,7 @@
       english: Which would be easier, to find ten words that start with. . .
       french_canada: "Est-ce plus facile de trouver dix mots commen\xE7ants par Z\
         \ ou X?"
-      spanish: "Es m\xE1s f\xE1cil encontrar 10 palabras que\\nempiecen con. . ."
+      spanish: "Es m\xE1s f\xE1cil encontrar 10 palabras queempiecen con. . ."
     response_1:
       english: '"Z"'
       french_canada: Z
@@ -7035,9 +7035,9 @@
   poll:
     question:
       english: When you are trying to sleep, this event would annoy you more. . .
-      french_canada: "Quand vous essayez de vous endormir,\\nqu'est-ce qui vous d\xE9\
+      french_canada: "Quand vous essayez de vous endormir,qu'est-ce qui vous d\xE9\
         range le plus?"
-      spanish: "\xBFQu\xE9 te molesta m\xE1s mientras\\ntratas de dormir?"
+      spanish: "\xBFQu\xE9 te molesta m\xE1s mientrastratas de dormir?"
     response_1:
       english: Water Dripping
       french_canada: De l'eau qui coule.
@@ -7084,7 +7084,7 @@
   poll:
     question:
       english: You're at a waiting room. Do you. . .
-      french_canada: "Lorsque vous \xEAtes dans une\\nsalle d'attente, vous. . ."
+      french_canada: "Lorsque vous \xEAtes dans unesalle d'attente, vous. . ."
       spanish: En la sala de espera, pasas el tiempo. . .
     response_1:
       english: Read a magazine.
@@ -7108,9 +7108,9 @@
   poll:
     question:
       english: When you look outside at night, what do you notice first?
-      french_canada: "Que remarquez-vous lorsque vous\\n\xEAtes dehors et qu'il fait\
+      french_canada: "Que remarquez-vous lorsque vous\xEAtes dehors et qu'il fait\
         \ noir?"
-      spanish: "De noche, \xBFqu\xE9 es lo primero que ves al\\nmirar hacia afuera?"
+      spanish: "De noche, \xBFqu\xE9 es lo primero que ves almirar hacia afuera?"
     response_1:
       english: Stars
       french_canada: "Les \xE9toiles."
@@ -7158,9 +7158,9 @@
     question:
       english: When someone asks you to pick a random number, do you usually pick.
         . .
-      french_canada: "Lorsque quelqu'un vous demande de choisir\\nun num\xE9ro. Choisissez-vous\
+      french_canada: "Lorsque quelqu'un vous demande de choisirun num\xE9ro. Choisissez-vous\
         \ un num\xE9ro. . ."
-      spanish: "Si te dicen \"piensa un n\xFAmero\",\\ngeneralmente piensas. . ."
+      spanish: "Si te dicen \"piensa un n\xFAmero\",generalmente piensas. . ."
     response_1:
       english: An odd number.
       french_canada: Pair.
@@ -7207,8 +7207,8 @@
   poll:
     question:
       english: When you are part of a group photo, do you. . .
-      french_canada: "Lorsque la cam\xE9ra est point\xE9e\\nsur vous, vous. . ."
-      spanish: "Cuando vas a salir en una fotograf\xEDa\\nde grupo. . ."
+      french_canada: "Lorsque la cam\xE9ra est point\xE9esur vous, vous. . ."
+      spanish: "Cuando vas a salir en una fotograf\xEDade grupo. . ."
     response_1:
       english: Smile for the camera.
       french_canada: "Souriez \xE0 la cam\xE9ra."
@@ -7231,9 +7231,9 @@
   poll:
     question:
       english: Growing up, were your shoes usually one size too big?
-      french_canada: "Quand vous \xE9tiez petit, vos\\nsouliers \xE9taient toujours\
+      french_canada: "Quand vous \xE9tiez petit, vossouliers \xE9taient toujours\
         \ trop. . ."
-      spanish: "\xBFEn tu infancia, te compraban zapatos una\\ntalla m\xE1s grande?"
+      spanish: "\xBFEn tu infancia, te compraban zapatos unatalla m\xE1s grande?"
     response_1:
       english: Yes, and pants.
       french_canada: Petits.
@@ -7256,9 +7256,9 @@
   poll:
     question:
       english: Do you scan through or just delete your junk e-mail?
-      french_canada: "V\xE9rifiez-vous vos courriers ind\xE9sirables\\nou vous les\
+      french_canada: "V\xE9rifiez-vous vos courriers ind\xE9sirablesou vous les\
         \ supprimez?"
-      spanish: "\xBFLees el correo electr\xF3nico no deseado\\no lo borras sin abrirlo?"
+      spanish: "\xBFLees el correo electr\xF3nico no deseadoo lo borras sin abrirlo?"
     response_1:
       english: Scan through.
       french_canada: "V\xE9rifiez."
@@ -7305,9 +7305,9 @@
   poll:
     question:
       english: Do you think your brain works harder when you are asleep or awake?
-      french_canada: "Votre cerveau travaille-t-il plus lorsque\\nvous \xEAtes \xE9\
+      french_canada: "Votre cerveau travaille-t-il plus lorsquevous \xEAtes \xE9\
         veill\xE9 ou dormez?"
-      spanish: "\xBFCrees que tu cerebro trabaja m\xE1s mientras\\nduermes o cuando\
+      spanish: "\xBFCrees que tu cerebro trabaja m\xE1s mientrasduermes o cuando\
         \ est\xE1s consciente?"
     response_1:
       english: Awake, I think.
@@ -7331,8 +7331,8 @@
   poll:
     question:
       english: Would you say clouds resemble people or animals more?
-      french_canada: "Diriez-vous que les nuages\\nressemblent \xE0 des. . ."
-      spanish: "Para ti, \xBFes m\xE1s com\xFAn que las nubes tomen\\nforma de gente\
+      french_canada: "Diriez-vous que les nuagesressemblent \xE0 des. . ."
+      spanish: "Para ti, \xBFes m\xE1s com\xFAn que las nubes tomenforma de gente\
         \ o de animales?"
     response_1:
       english: People
@@ -7428,7 +7428,7 @@
   poll:
     question:
       english: If you go to an all-you-can-eat restaurant, do you eat for. . .
-      french_canada: "Si vous allez dans un restaurant o\xF9\\nl'on sert un buffet,\
+      french_canada: "Si vous allez dans un restaurant o\xF9l'on sert un buffet,\
         \ mangez-vous. . ."
       spanish: En un bufet consumes el equivalente a. . .
     response_1:
@@ -7453,7 +7453,7 @@
   poll:
     question:
       english: Does music help change your mood?
-      french_canada: "La musique vous aide-t-elle\\n\xE0 changer votre humeur?"
+      french_canada: "La musique vous aide-t-elle\xE0 changer votre humeur?"
       spanish: "\xBFLa m\xFAsica ayuda a ponerte de buen humor?"
     response_1:
       english: Not in the least!
@@ -7477,7 +7477,7 @@
   poll:
     question:
       english: Do you think one size fits all works well for socks?
-      french_canada: "Pensez-vous que les bas de grandeurs\\nuniques font \xE0 tous?"
+      french_canada: "Pensez-vous que les bas de grandeursuniques font \xE0 tous?"
       spanish: "\xBFCrees que los calcetines unitalla funcionan?"
     response_1:
       english: No, not for ankle socks.
@@ -7501,9 +7501,9 @@
   poll:
     question:
       english: How old do you think you'll be when you have enough money to retire?
-      french_canada: "\xC0 quel \xE2ge pensez-vous avoir assez\\nd'argent pour prendre\
+      french_canada: "\xC0 quel \xE2ge pensez-vous avoir assezd'argent pour prendre\
         \ votre retraite?"
-      spanish: "\xBFA qu\xE9 edad crees que tendr\xE1s suficiente\\ndinero ahorrado\
+      spanish: "\xBFA qu\xE9 edad crees que tendr\xE1s suficientedinero ahorrado\
         \ para jubilarte?"
     response_1:
       english: Less than 65 years old.
@@ -7527,9 +7527,9 @@
   poll:
     question:
       english: Have you ever hidden food so that you can eat it all yourself?
-      french_canada: "Avez-vous d\xE9j\xE0 cach\xE9 de la nourriture\\npour la garder\
+      french_canada: "Avez-vous d\xE9j\xE0 cach\xE9 de la nourriturepour la garder\
         \ juste pour vous?"
-      spanish: "\xBFAlguna vez has escondido comida\\npara no tener que compartirla?"
+      spanish: "\xBFAlguna vez has escondido comidapara no tener que compartirla?"
     response_1:
       english: Yes, but it gets found!
       french_canada: "Oui, mais on l'a trouv\xE9."
@@ -7552,8 +7552,8 @@
   poll:
     question:
       english: How often have you canceled commitments this year?
-      french_canada: "Avez-vous bris\xE9 plusieurs\\nengagements cette ann\xE9e?"
-      spanish: "\xBFHas tenido que cancelar algunos de\\ntus compromisos este a\xF1\
+      french_canada: "Avez-vous bris\xE9 plusieursengagements cette ann\xE9e?"
+      spanish: "\xBFHas tenido que cancelar algunos detus compromisos este a\xF1\
         o?"
     response_1:
       english: Too often to count!
@@ -7577,8 +7577,8 @@
   poll:
     question:
       english: Have you ever tried to predict someone's response?
-      french_canada: "Avez-vous d\xE9j\xE0 pr\xE9dit ce\\nque quelqu'un allait dire?"
-      spanish: "\xBFHas intentado adivinar lo que\\nalguien est\xE1 a punto de decir?"
+      french_canada: "Avez-vous d\xE9j\xE0 pr\xE9dit ceque quelqu'un allait dire?"
+      spanish: "\xBFHas intentado adivinar lo quealguien est\xE1 a punto de decir?"
     response_1:
       english: Yes, but I'm rarely right.
       french_canada: Oui.
@@ -7602,8 +7602,8 @@
     question:
       english: When you visit a new area, have you ever gotten lost trying to get
         home?
-      french_canada: "Vous \xEAtes-vous d\xE9j\xE0 perdu\\ndans un nouvel endroit?"
-      spanish: "\xBFTe has perdido tratando de regresar a\\ncasa luego de visitar\
+      french_canada: "Vous \xEAtes-vous d\xE9j\xE0 perdudans un nouvel endroit?"
+      spanish: "\xBFTe has perdido tratando de regresar acasa luego de visitar\
         \ un lugar desconocido?"
     response_1:
       english: Yes, almost too often.
@@ -7627,7 +7627,7 @@
   poll:
     question:
       english: Which side of your face is more photogenic?
-      french_canada: "Quel c\xF4t\xE9 de votre visage\\nest le plus photog\xE9nique?"
+      french_canada: "Quel c\xF4t\xE9 de votre visageest le plus photog\xE9nique?"
       spanish: "\xBFCu\xE1l es tu \xE1ngulo m\xE1s fotog\xE9nico?"
     response_1:
       english: Left or right.
@@ -7651,9 +7651,9 @@
   poll:
     question:
       english: Would you turn on the lights when the sun is shining into the room?
-      french_canada: "Ouvririez-vous la lumi\xE8re dans\\nune pi\xE8ce ensoleill\xE9\
+      french_canada: "Ouvririez-vous la lumi\xE8re dansune pi\xE8ce ensoleill\xE9\
         e?"
-      spanish: "\xBFPrendes la luz a\xFAn cuando el sol\\nilumina la habitaci\xF3\
+      spanish: "\xBFPrendes la luz a\xFAn cuando el solilumina la habitaci\xF3\
         n?"
     response_1:
       english: Yes, need lots of light!
@@ -7678,9 +7678,9 @@
     question:
       english: You went to the drive-thru, and they gave you a wrong order. Do you.
         . .
-      french_canada: "Que faites-vous si on vous donne la\\nmauvaise commande au service\
+      french_canada: "Que faites-vous si on vous donne lamauvaise commande au service\
         \ \xE0 l'auto?"
-      spanish: "En la ventanilla del auto-servicio te\\ndan el pedido equivocado,\
+      spanish: "En la ventanilla del auto-servicio tedan el pedido equivocado,\
         \ t\xFA. . ."
     response_1:
       english: Go back for your order.
@@ -7704,7 +7704,7 @@
   poll:
     question:
       english: Do you have bigger portions of a meal on your birthday or on a holiday?
-      french_canada: "Mangez-vous plus durant le temps\\ndes F\xEAtes ou \xE0 votre\
+      french_canada: "Mangez-vous plus durant le tempsdes F\xEAtes ou \xE0 votre\
         \ propre f\xEAte?"
       spanish: "\xBFComes m\xE1s en tu cumplea\xF1os o en d\xEDas festivos?"
     response_1:
@@ -7778,9 +7778,9 @@
   poll:
     question:
       english: Do you typically ponder about the events for tomorrow?
-      french_canada: "Lors d'un \xE9v\xE9nement important, planifiez-\\nvous la journ\xE9\
+      french_canada: "Lors d'un \xE9v\xE9nement important, planifiez-vous la journ\xE9\
         e d'avant?"
-      spanish: "\xBFTe preocupas por lo que suceder\xE1\\nal d\xEDa siguiente?"
+      spanish: "\xBFTe preocupas por lo que suceder\xE1al d\xEDa siguiente?"
     response_1:
       english: No, I don't like plans.
       french_canada: Oui, pourquoi?
@@ -7827,7 +7827,7 @@
   poll:
     question:
       english: Do you think people find your handwriting difficult to read?
-      french_canada: "Pensez-vous que les gens trouvent\\nvotre \xE9criture difficile\
+      french_canada: "Pensez-vous que les gens trouventvotre \xE9criture difficile\
         \ \xE0 lire?"
       spanish: "\xBFA la gente le cuesta trabajo entender tu letra?"
     response_1:
@@ -7853,7 +7853,7 @@
     question:
       english: When you guesstimate the time of day, are you pretty close to the actual
         time?
-      french_canada: "Sans horloge, sans montre. \xCAtes-vous\\ncapable de deviner\
+      french_canada: "Sans horloge, sans montre. \xCAtes-vouscapable de deviner\
         \ l'heure exacte?"
       spanish: "\xBFAciertas cuando tratas de adivinar la hora?"
     response_1:
@@ -7878,9 +7878,9 @@
   poll:
     question:
       english: Do you transfer photos taken with your cell phone to your computer?
-      french_canada: "Transf\xE9rez-vous les photos prises avec\\nvotre cellulaire\
+      french_canada: "Transf\xE9rez-vous les photos prises avecvotre cellulaire\
         \ \xE0 votre ordinateur?"
-      spanish: "\xBFTransfieres las fotograf\xEDas que tomas\\ncon tu tel\xE9fono\
+      spanish: "\xBFTransfieres las fotograf\xEDas que tomascon tu tel\xE9fono\
         \ a tu computadora?"
     response_1:
       english: No, too much effort.
@@ -7904,7 +7904,7 @@
   poll:
     question:
       english: When you are in an airplane, this event would annoy you more. . .
-      french_canada: "Quand vous \xEAtes en avion, qu'est-ce\\nqui vous d\xE9range\
+      french_canada: "Quand vous \xEAtes en avion, qu'est-cequi vous d\xE9range\
         \ le plus?"
       spanish: "Cuando viajas en avi\xF3n, \xBFqu\xE9 te molesta m\xE1s?"
     response_1:
@@ -7954,7 +7954,7 @@
     question:
       english: When you come up with creative ideas, what do you do with them?
       french_canada: "Que faites-vous avec vos id\xE9es cr\xE9atives?"
-      spanish: "Cuando se te ocurre una idea creativa,\\n\xBFqu\xE9 haces?"
+      spanish: "Cuando se te ocurre una idea creativa,\xBFqu\xE9 haces?"
     response_1:
       english: Try to make it happen.
       french_canada: "Je les ex\xE9cute"
@@ -7978,7 +7978,7 @@
     question:
       english: You're making plans for a group, how many options do you give them?
       french_canada: En planifiant pour un groupe vous offrez. . .
-      spanish: "Est\xE1s planeando algo para un grupo de personas.\\n\xBFCu\xE1ntas\
+      spanish: "Est\xE1s planeando algo para un grupo de personas.\xBFCu\xE1ntas\
         \ opciones les das a la gente?"
     response_1:
       english: One or two.
@@ -8002,8 +8002,8 @@
   poll:
     question:
       english: Do you think life is more simple now or in a previous generation?
-      french_canada: "Diriez-vous que la vie est ou \xE9tait\\nplus simple. . ."
-      spanish: "\xBFCrees que la vida es m\xE1s simple hoy en d\xEDa, o en\\ngeneraciones\
+      french_canada: "Diriez-vous que la vie est ou \xE9taitplus simple. . ."
+      spanish: "\xBFCrees que la vida es m\xE1s simple hoy en d\xEDa, o engeneraciones\
         \ anteriores?"
     response_1:
       english: Now
@@ -8028,7 +8028,7 @@
     question:
       english: When thinking of ideas, the best group effort is found in a group with.
         . .
-      french_canada: "Pour trouver de bonnes id\xE9es, le\\nmeilleur groupe comprend.\
+      french_canada: "Pour trouver de bonnes id\xE9es, lemeilleur groupe comprend.\
         \ . ."
       spanish: En cuanto a la lluvia de ideas, el mejor trabajo\nse hace en grupos
         de. . .
@@ -8057,7 +8057,7 @@
         body or mind?
       french_canada: "Durant les 5 derni\xE8res ann\xE9es, c'est ce qui a chang\xE9\
         \ le plus..."
-      spanish: "\xBFQu\xE9 ha cambiado m\xE1s en los \xFAltimos cinco a\xF1os,\\ntu\
+      spanish: "\xBFQu\xE9 ha cambiado m\xE1s en los \xFAltimos cinco a\xF1os,tu\
         \ cuerpo o tu mente?"
     response_1:
       english: Body
@@ -8082,8 +8082,8 @@
     question:
       english: Do your ideas change with the situation or the situation changes with
         your idea?
-      french_canada: "Vos id\xE9es changent selon la\\nsituation ou vice-versa?"
-      spanish: "\xBFTus ideas cambian seg\xFAn la situaci\xF3n, o\\nla situaci\xF3\
+      french_canada: "Vos id\xE9es changent selon lasituation ou vice-versa?"
+      spanish: "\xBFTus ideas cambian seg\xFAn la situaci\xF3n, ola situaci\xF3\
         n cambia seg\xFAn tus ideas?"
     response_1:
       english: Ideas change
@@ -8108,7 +8108,7 @@
     question:
       english: When you are done with an exam, do you go back and check your answers?
       french_canada: "En terminant un test, v\xE9rifiez-vous vos r\xE9ponses?"
-      spanish: "Cuando terminas un ex\xE1men, \xBFsueles repasar tus\\nrespuestas?"
+      spanish: "Cuando terminas un ex\xE1men, \xBFsueles repasar tusrespuestas?"
     response_1:
       english: Yes.
       french_canada: Oui, toujours.
@@ -8133,7 +8133,7 @@
       english: How many times do you attempt to do something before you ask for help?
       french_canada: Combien de fois essayez-vous quelque\nchose avant de demander
         de l'aide?
-      spanish: "\xBFCu\xE1ntas veces intentas hacer algo antes de\\npedir ayuda?"
+      spanish: "\xBFCu\xE1ntas veces intentas hacer algo antes depedir ayuda?"
     response_1:
       english: A few times.
       french_canada: Quelques fois
@@ -8159,7 +8159,7 @@
         age?
       french_canada: "Avez-vous une liste de choses \xE0 faire avant d'atteindre un\
         \ certain \xE2ge?"
-      spanish: "\xBFTienes una lista de cosas que te gustar\xEDa hacer\\nantes de\
+      spanish: "\xBFTienes una lista de cosas que te gustar\xEDa hacerantes de\
         \ cumplir cierta edad?"
     response_1:
       english: No, never thought of it.
@@ -8183,8 +8183,8 @@
   poll:
     question:
       english: In a typical day, when do you usually feel like having a snack?
-      french_canada: "\xC0 quel moment de la journ\xE9e aimez-vous\\nprendre une collation?"
-      spanish: "En un d\xEDa t\xEDpico, \xBFcu\xE1ndo se te suele antojar\\nun refrigerio?"
+      french_canada: "\xC0 quel moment de la journ\xE9e aimez-vousprendre une collation?"
+      spanish: "En un d\xEDa t\xEDpico, \xBFcu\xE1ndo se te suele antojarun refrigerio?"
     response_1:
       english: Late morning
       french_canada: Tard le matin
@@ -8207,9 +8207,9 @@
   poll:
     question:
       english: The word "Robot" was first introduced by a writer from which country?
-      french_canada: "Le mot \xAB robot \xBB a initialement \xE9t\xE9\\nutilis\xE9\
+      french_canada: "Le mot \xAB robot \xBB a initialement \xE9t\xE9utilis\xE9\
         \ par un auteur de. . ."
-      spanish: "\xBFLa palabra \"robot\" fue inventada por un escritor\\nde qu\xE9\
+      spanish: "\xBFLa palabra \"robot\" fue inventada por un escritorde qu\xE9\
         \ pa\xEDs?"
     response_1:
       english: Czech Republic
@@ -8233,9 +8233,9 @@
   poll:
     question:
       english: Which of these winter activities would be interesting to try?
-      french_canada: "Laquelle de ces activit\xE9s hivernales\\nserait int\xE9ressante\
+      french_canada: "Laquelle de ces activit\xE9s hivernalesserait int\xE9ressante\
         \ \xE0 essayer?"
-      spanish: "\xBFCu\xE1l de estas actividades de invierno te interesa\\nm\xE1s?"
+      spanish: "\xBFCu\xE1l de estas actividades de invierno te interesam\xE1s?"
     response_1:
       english: Skiing
       french_canada: Le ski
@@ -8282,7 +8282,7 @@
   poll:
     question:
       english: What do you think is the most useful resource to have?
-      french_canada: "Selon vous, quelle est la meilleure\\nressource \xE0 avoir?"
+      french_canada: "Selon vous, quelle est la meilleureressource \xE0 avoir?"
       spanish: "\xBFQu\xE9 te parece m\xE1s \xFAtil?"
     response_1:
       english: Cell phone
@@ -8306,9 +8306,9 @@
   poll:
     question:
       english: Are restroom soap dispensers usually on the left- or right-hand side?
-      french_canada: "Les distributeurs de savon dans les\\ntoilettes sont g\xE9n\xE9\
+      french_canada: "Les distributeurs de savon dans lestoilettes sont g\xE9n\xE9\
         ralement..."
-      spanish: "\xBFLos dispensadores de jab\xF3n en los ba\xF1os suelen\\nestar a\
+      spanish: "\xBFLos dispensadores de jab\xF3n en los ba\xF1os suelenestar a\
         \ la izquierda o a la derecha?"
     response_1:
       english: Left-hand side
@@ -8333,7 +8333,7 @@
     question:
       english: When texting, do you use punctuation?
       french_canada: Lorsque vous textez, utilisez-vous\ndes signes de ponctuation?
-      spanish: "Cuando escribes un mensaje de texto, \xBFusas los\\nsignos de puntuaci\xF3\
+      spanish: "Cuando escribes un mensaje de texto, \xBFusas lossignos de puntuaci\xF3\
         n?"
     response_1:
       english: Usually, yes.
@@ -8357,8 +8357,8 @@
   poll:
     question:
       english: You'd rather know how dinosaurs developed or how they became extinct?
-      french_canada: "Vous pr\xE9f\xE9reriez savoir comment\\nles dinosaures se sont..."
-      spanish: "\xBFPreferir\xEDas saber c\xF3mo llegaron a existir\\nlos dinosaurios,\
+      french_canada: "Vous pr\xE9f\xE9reriez savoir commentles dinosaures se sont..."
+      spanish: "\xBFPreferir\xEDas saber c\xF3mo llegaron a existirlos dinosaurios,\
         \ o c\xF3mo se extinguieron?"
     response_1:
       english: Developed
@@ -8382,7 +8382,7 @@
   poll:
     question:
       english: How often do you look at the clock throughout the day?
-      french_canada: "Combien de fois regardez-vous\\nl'heure dans une journ\xE9e?"
+      french_canada: "Combien de fois regardez-vousl'heure dans une journ\xE9e?"
       spanish: "\xBFCu\xE1ntas veces miras el reloj a lo largo del d\xEDa?"
     response_1:
       english: Too often to count.
@@ -8406,8 +8406,8 @@
   poll:
     question:
       english: Are you living in the same city that your parents grew up in?
-      french_canada: "Habitez-vous la ville o\xF9\\nvos parents ont grandi?"
-      spanish: "\xBFVives en la misma ciudad donde crecieron\\ntus padres?"
+      french_canada: "Habitez-vous la ville o\xF9vos parents ont grandi?"
+      spanish: "\xBFVives en la misma ciudad donde crecierontus padres?"
     response_1:
       english: Yes, I like it here.
       french_canada: Oui, j'aime bien ici
@@ -8430,7 +8430,7 @@
   poll:
     question:
       english: Do you have similar hobbies as those in your family?
-      french_canada: "Avez-vous des passe-temps similaires\\n\xE0 ceux des membres\
+      french_canada: "Avez-vous des passe-temps similaires\xE0 ceux des membres\
         \ de votre famille?"
       spanish: "\xBFTus intereses son similares a los de tu familia?"
     response_1:
@@ -8455,9 +8455,9 @@
   poll:
     question:
       english: Does your list of favorite foods change throughout the year?
-      french_canada: "Est-ce que votre liste de nourriture\\npr\xE9f\xE9r\xE9e change\
+      french_canada: "Est-ce que votre liste de nourriturepr\xE9f\xE9r\xE9e change\
         \ pendant l'ann\xE9e?"
-      spanish: "\xBFTu lista de comida favorita cambia a lo largo\\ndel a\xF1o?"
+      spanish: "\xBFTu lista de comida favorita cambia a lo largodel a\xF1o?"
     response_1:
       english: No, it's consistent.
       french_canada: Non, elle est constante
@@ -8480,9 +8480,9 @@
   poll:
     question:
       english: Do you usually yell or make sounds when something scares you?
-      french_canada: "G\xE9n\xE9ralement, est-ce que vous criez\\nlorsque quelque\
+      french_canada: "G\xE9n\xE9ralement, est-ce que vous criezlorsque quelque\
         \ chose vous effraie?"
-      spanish: "\xBFSueles gritar o emitir sonidos cuando algo\\nte asusta?"
+      spanish: "\xBFSueles gritar o emitir sonidos cuando algote asusta?"
     response_1:
       english: No, I just run.
       french_canada: Non, je pars en courant.
@@ -8506,7 +8506,7 @@
     question:
       english: If a hermit crab loses his shell, is it considered unclothed or homeless?
       french_canada: Si un bernard-l'ermite perd sa\ncarapace il est. . .
-      spanish: "Si un cangrejo ermita\xF1o pierde la coraza, \xBFse le\\nconsidera\
+      spanish: "Si un cangrejo ermita\xF1o pierde la coraza, \xBFse leconsidera\
         \ desnudo o sin techo?"
     response_1:
       english: Unclothed
@@ -8530,8 +8530,8 @@
   poll:
     question:
       english: Excluding dinner, which meal of the day do you skip most often?
-      french_canada: "\xC0 part le souper, quels repas\\nsautez-vous le plus souvent?"
-      spanish: "\xBFEs m\xE1s probable que te saltes el desayuno o el\\nalmuerzo?"
+      french_canada: "\xC0 part le souper, quels repassautez-vous le plus souvent?"
+      spanish: "\xBFEs m\xE1s probable que te saltes el desayuno o elalmuerzo?"
     response_1:
       english: Breakfast
       french_canada: "D\xE9jeuner"
@@ -8579,8 +8579,8 @@
   poll:
     question:
       english: For dessert, what's the first image that comes to your mind?
-      french_canada: "Si vous entendez \xAB dessert \xBB,\\nqu'imaginez-vous?"
-      spanish: "Cuando piensas en los postres, \xBFen qu\xE9 piensas\\nprimero?"
+      french_canada: "Si vous entendez \xAB dessert \xBB,qu'imaginez-vous?"
+      spanish: "Cuando piensas en los postres, \xBFen qu\xE9 piensasprimero?"
     response_1:
       english: Ice Cream
       french_canada: "Cr\xE8me glac\xE9e"
@@ -8606,7 +8606,7 @@
         cars?
       french_canada: Le plus souvent, sur la route, vous\nvoyez des voitures aux .
         . .
-      spanish: "\xBFCrees que ves m\xE1s carros de color claro o\\nde color oscuro\
+      spanish: "\xBFCrees que ves m\xE1s carros de color claro ode color oscuro\
         \ en la calle?"
     response_1:
       english: Light-colored cars
@@ -8630,7 +8630,7 @@
   poll:
     question:
       english: Which of the 50 US states is farthest east?
-      french_canada: "Lequel des 50 \xE9tats des \xC9tats-Unis\\nest le plus \xE0\
+      french_canada: "Lequel des 50 \xE9tats des \xC9tats-Unisest le plus \xE0\
         \ l'est?"
       spanish: "\xBFCu\xE1l estado de los Estados Unidos est\xE1 m\xE1s al Este?"
     response_1:
@@ -8679,9 +8679,9 @@
   poll:
     question:
       english: What color scheme is more common with New Year's celebrations?
-      french_canada: "Quelles couleurs sont utilis\xE9es le plus\\nsouvent pour c\xE9\
+      french_canada: "Quelles couleurs sont utilis\xE9es le plussouvent pour c\xE9\
         l\xE9brer le jour de l'an?"
-      spanish: "\xBFQu\xE9 colores se asocian m\xE1s con las celebraciones\\nde A\xF1\
+      spanish: "\xBFQu\xE9 colores se asocian m\xE1s con las celebracionesde A\xF1\
         o Nuevo?"
     response_1:
       english: Gold and Silver
@@ -8705,7 +8705,7 @@
   poll:
     question:
       english: People say you look more like your mom or dad?
-      french_canada: "Les gens trouvent que vous ressemblez\\nplus \xE0 votre..."
+      french_canada: "Les gens trouvent que vous ressemblezplus \xE0 votre..."
       spanish: "\xBFDicen que te pareces m\xE1s a tu mam\xE1 o a tu pap\xE1?"
     response_1:
       english: Mom
@@ -8777,8 +8777,8 @@
   poll:
     question:
       english: Which country has the most cell-phone subscribers?
-      french_canada: "Quel pays a le plus d'utilisateurs\\nde t\xE9l\xE9phones cellulaires?"
-      spanish: "\xBFCu\xE1l pa\xEDs tiene m\xE1s suscriptores de telefon\xEDa\\ncelular?"
+      french_canada: "Quel pays a le plus d'utilisateursde t\xE9l\xE9phones cellulaires?"
+      spanish: "\xBFCu\xE1l pa\xEDs tiene m\xE1s suscriptores de telefon\xEDacelular?"
     response_1:
       english: China
       french_canada: Chine
@@ -8801,9 +8801,9 @@
   poll:
     question:
       english: When you are in a very good mood, do others around you notice?
-      french_canada: "Les gens autour de vous remarquent\\nquand vous \xEAtes de bonne\
+      french_canada: "Les gens autour de vous remarquentquand vous \xEAtes de bonne\
         \ humeur."
-      spanish: "Cuando est\xE1s de buen humor, \xBFlos dem\xE1s\\nlo notan?"
+      spanish: "Cuando est\xE1s de buen humor, \xBFlos dem\xE1slo notan?"
     response_1:
       english: Yes, it's obvious.
       french_canada: "Oui, c'est \xE9vident."
@@ -8828,7 +8828,7 @@
       english: When was the last time you played-hide and-seek?
       french_canada: "Quand avez-vous jou\xE9 \xE0 la cachette pour la derni\xE8re\
         \ fois?"
-      spanish: "\xBFCu\xE1ndo fue la \xFAltima vez que jugaste a\\nlas escondidas?"
+      spanish: "\xBFCu\xE1ndo fue la \xFAltima vez que jugaste alas escondidas?"
     response_1:
       english: Just last week.
       french_canada: "La semaine pass\xE9e"
@@ -8852,7 +8852,7 @@
     question:
       english: Winners of the game Rock, Paper, Scissors usually win because of. .
         .
-      french_canada: "Ceux qui gagnent \xE0 roche-papier-ciseaux\\nsont victorieux\
+      french_canada: "Ceux qui gagnent \xE0 roche-papier-ciseauxsont victorieux\
         \ par. . ."
       spanish: Cuando uno gana "piedra, papel o tijera",\nes por...
     response_1:
@@ -8878,7 +8878,7 @@
     question:
       english: The most difficult item to shop for is. . .
       french_canada: "Ce qui est le plus dur \xE0 magasiner est..."
-      spanish: "Al ir de compras, la prenda m\xE1s dif\xEDcil de\\nencontrar es. .\
+      spanish: "Al ir de compras, la prenda m\xE1s dif\xEDcil deencontrar es. .\
         \ ."
     response_1:
       english: Shoes
@@ -8904,7 +8904,7 @@
       english: If you hear a song that you like, do you try to get it?
       french_canada: Si vous entendez une chanson que vous\naimez, essayez-vous de
         l'acheter?
-      spanish: "Si escuchas una canci\xF3n que te gusta,\\n\xBFintentas comprarla?"
+      spanish: "Si escuchas una canci\xF3n que te gusta,\xBFintentas comprarla?"
     response_1:
       english: No, too much effort.
       french_canada: Non
@@ -8927,8 +8927,8 @@
   poll:
     question:
       english: How often do you check e-mail in a day?
-      french_canada: "Combien de fois par jour v\xE9rifiez-vous\\nvotre courriel?"
-      spanish: "\xBFCu\xE1ntas veces revisas tu correo electr\xF3nico\\nen un d\xED\
+      french_canada: "Combien de fois par jour v\xE9rifiez-vousvotre courriel?"
+      spanish: "\xBFCu\xE1ntas veces revisas tu correo electr\xF3nicoen un d\xED\
         a?"
     response_1:
       english: Rarely
@@ -8976,8 +8976,8 @@
   poll:
     question:
       english: Is your special talent based on brain power or physical ability?
-      french_canada: "Votre talent sp\xE9cial est\\nd\xFB \xE0 votre..."
-      spanish: "\xBFTu mejor talento se basa en la habilidad\\nmental o la habilidad\
+      french_canada: "Votre talent sp\xE9cial estd\xFB \xE0 votre..."
+      spanish: "\xBFTu mejor talento se basa en la habilidadmental o la habilidad\
         \ f\xEDsica?"
     response_1:
       english: Brain Power
@@ -9002,7 +9002,7 @@
     question:
       english: What is more difficult when buying a present. Finding the. . .
       french_canada: En cherchant un cadeau, le plus dur\nest de trouver. . .
-      spanish: "Al comprar un regalo, \xBFqu\xE9 es m\xE1s dif\xEDcil de\\nencontrar?"
+      spanish: "Al comprar un regalo, \xBFqu\xE9 es m\xE1s dif\xEDcil deencontrar?"
     response_1:
       english: Perfect gift
       french_canada: Le cadeau parfait
@@ -9025,9 +9025,9 @@
   poll:
     question:
       english: What is more organized, your desk at work/\nschool or desk at home?
-      french_canada: "Qu'est-ce qui est mieux organis\xE9,\\nvotre bureau au travail\
+      french_canada: "Qu'est-ce qui est mieux organis\xE9,votre bureau au travail\
         \ ou \xE0 la maison?"
-      spanish: "\xBFCu\xE1l esta m\xE1s ordenado, tu escritorio de\\nla escuela/trabajo,\
+      spanish: "\xBFCu\xE1l esta m\xE1s ordenado, tu escritorio dela escuela/trabajo,\
         \ o el de tu casa?"
     response_1:
       english: Desk at work/school
@@ -9075,7 +9075,7 @@
   poll:
     question:
       english: The typical reason you watch TV is because you. . .
-      french_canada: "La raison pour laquelle vous regardez\\nla t\xE9l\xE9vision\
+      french_canada: "La raison pour laquelle vous regardezla t\xE9l\xE9vision\
         \ est que. . ."
       spanish: Cuando veo la tele, es porque. . .
     response_1:
@@ -9148,9 +9148,9 @@
   poll:
     question:
       english: Do you eat your favorite food more than once a week?
-      french_canada: "Mangez-vous votre nourriture pr\xE9f\xE9r\xE9e\\nplus d'une\
+      french_canada: "Mangez-vous votre nourriture pr\xE9f\xE9r\xE9eplus d'une\
         \ fois par semaine?"
-      spanish: "\xBFComes tu comida favorita m\xE1s de una\\nvez a la semana?"
+      spanish: "\xBFComes tu comida favorita m\xE1s de unavez a la semana?"
     response_1:
       english: Yes, as often as I can.
       french_canada: "D\xE8s que je peux"
@@ -9173,7 +9173,7 @@
   poll:
     question:
       english: If you lost something special somebody gave you, do you. . .
-      french_canada: "Si vous perdez quelque chose que\\nquelqu'un de sp\xE9cial vous\
+      french_canada: "Si vous perdez quelque chose quequelqu'un de sp\xE9cial vous\
         \ a donn\xE9..."
       spanish: Si pierdo un regalo especial, a la persona que\nme lo dio. . .
     response_1:
@@ -9199,7 +9199,7 @@
     question:
       english: If you have a lucky charm, how often do you take it with you?
       french_canada: Si vous avez un porte-bonheur, vous l'emportez...
-      spanish: "Si tienes un amuleto de la suerte, \xBFcu\xE1ndo\\nlo usas?"
+      spanish: "Si tienes un amuleto de la suerte, \xBFcu\xE1ndolo usas?"
     response_1:
       english: Rarely so its potent.
       french_canada: Rarement
@@ -9222,7 +9222,7 @@
   poll:
     question:
       english: Corrective glasses should make you look . . .
-      french_canada: "Les lunettes sont cens\xE9es vous\\nfaire para\xEEtre. . ."
+      french_canada: "Les lunettes sont cens\xE9es vousfaire para\xEEtre. . ."
       spanish: Las gafas para la vista deben hacerte parecer. . .
     response_1:
       english: Smart
@@ -9247,7 +9247,7 @@
     question:
       english: Do you typically look at the shape of candy before eating it?
       french_canada: Est-ce que vous regardez la forme\nd'un bonbon avant de le manger?
-      spanish: "\xBFSueles fijarte en la forma de las golosinas\\nantes de com\xE9\
+      spanish: "\xBFSueles fijarte en la forma de las golosinasantes de com\xE9\
         rtelas?"
     response_1:
       english: Yes, doesn't everyone?
@@ -9271,8 +9271,8 @@
   poll:
     question:
       english: If you are eating a big burger, would you cut it up or take a big bite?
-      french_canada: "Si vous mangez un gros burger,\\nvous pr\xE9f\xE9rez. . ."
-      spanish: "Al comer una hamburguesa grande, \xBFla cortar\xEDas,\\no te la comer\xED\
+      french_canada: "Si vous mangez un gros burger,vous pr\xE9f\xE9rez. . ."
+      spanish: "Al comer una hamburguesa grande, \xBFla cortar\xEDas,o te la comer\xED\
         as a mordiscones?"
     response_1:
       english: Cut it up.
@@ -9297,7 +9297,7 @@
     question:
       english: Are your money bills organized or is everything mixed together?
       french_canada: Vos billets d'argent sont. . .
-      spanish: "\xBFTienes las cuentas de pagos bien organizadas,\\no est\xE1n todas\
+      spanish: "\xBFTienes las cuentas de pagos bien organizadas,o est\xE1n todas\
         \ mezcladas?"
     response_1:
       english: Organized
@@ -9322,7 +9322,7 @@
     question:
       english: Most mountain ranges stretch north and south or east and west?
       french_canada: "La plupart des cha\xEEnes de montagnes s'\xE9tirent..."
-      spanish: "\xBFCu\xE1l es la orientaci\xF3n de la mayor\xEDa de las\\ncordilleras\
+      spanish: "\xBFCu\xE1l es la orientaci\xF3n de la mayor\xEDa de lascordilleras\
         \ del mundo?"
     response_1:
       english: North and south.
@@ -9371,7 +9371,7 @@
     question:
       english: Which of these weather sounds is more pleasing to hear?
       french_canada: "Lequel de ces sons naturels pr\xE9f\xE9rez-vous?"
-      spanish: "\xBFCu\xE1l de estos sonidos de la naturaleza\\nte agrada m\xE1s?"
+      spanish: "\xBFCu\xE1l de estos sonidos de la naturalezate agrada m\xE1s?"
     response_1:
       english: Soft patter of rain.
       french_canada: Le son doux de la pluie
@@ -9395,7 +9395,7 @@
     question:
       english: When singing does your tune flow with the music notes?
       french_canada: "Quand vous chantez, suivez-vous la m\xE9lodie?"
-      spanish: "Cuando cantas, \xBFtu entonaci\xF3n coincide con la\\nm\xFAsica?"
+      spanish: "Cuando cantas, \xBFtu entonaci\xF3n coincide con lam\xFAsica?"
     response_1:
       english: Yes, it's very obvious.
       french_canada: "C'est \xE9vident"
@@ -9418,9 +9418,9 @@
   poll:
     question:
       english: When is a good time to tell your family about an impulsive purchase?
-      french_canada: "Quel est le bon moment d'annoncer un\\nachat impulsif \xE0 votre\
+      french_canada: "Quel est le bon moment d'annoncer unachat impulsif \xE0 votre\
         \ famille?"
-      spanish: "\xBFCu\xE1l es el mejor momento para decirle a tu familia\\nque has\
+      spanish: "\xBFCu\xE1l es el mejor momento para decirle a tu familiaque has\
         \ hecho una compra impulsiva?"
     response_1:
       english: After the purchase.
@@ -9492,7 +9492,7 @@
   poll:
     question:
       english: When giving directions, do you identify landmarks or street names?
-      french_canada: "Lorsque vous donnez des directions \xE0\\nquelqu'un, vous mentionnez.\
+      french_canada: "Lorsque vous donnez des directions \xE0quelqu'un, vous mentionnez.\
         \ . ."
       spanish: "Cuando das indicaciones, \xBFqu\xE9 sueles utilizar?"
     response_1:
@@ -9518,7 +9518,7 @@
     question:
       english: With orange juice, do you prefer pulp or no pulp?
       french_canada: "Pr\xE9f\xE9rez-vous votre jus d'orange. . ."
-      spanish: "\xBFTe gusta m\xE1s el jugo de naranja con pulpa o\\nsin pulpa?"
+      spanish: "\xBFTe gusta m\xE1s el jugo de naranja con pulpa osin pulpa?"
     response_1:
       english: Pulp
       french_canada: Avec pulpe
@@ -9565,9 +9565,9 @@
   poll:
     question:
       english: How long does the festive decorations stay up after the holiday?
-      french_canada: "Combien de temps apr\xE8s les f\xEAtes\\ngardez-vous les d\xE9\
+      french_canada: "Combien de temps apr\xE8s les f\xEAtesgardez-vous les d\xE9\
         corations?"
-      spanish: "\xBFCu\xE1nto tiempo se quedan puestas las\\ndecoraciones despu\xE9\
+      spanish: "\xBFCu\xE1nto tiempo se quedan puestas lasdecoraciones despu\xE9\
         s de las fiestas?"
     response_1:
       english: Less than a week.
@@ -9663,7 +9663,7 @@
   poll:
     question:
       english: Do you think there is life on other planets?
-      french_canada: "Croyez-vous qu'il y a de la vie dans\\nd'autres plan\xE8tes?"
+      french_canada: "Croyez-vous qu'il y a de la vie dansd'autres plan\xE8tes?"
       spanish: "\xBFCrees que hay vida en otros planetas?"
     response_1:
       english: Yes, there is!
@@ -9712,9 +9712,9 @@
     question:
       english: If you hear the word chocolate, your reaction is to imagine the. .
         .
-      french_canada: "Si vous entendez le mot chocolat,\\nvotre r\xE9action est d'imaginer.\
+      french_canada: "Si vous entendez le mot chocolat,votre r\xE9action est d'imaginer.\
         \ . ."
-      spanish: "Cuando escuchas la palabra \"caf\xE9\",\\npiensas en. . ."
+      spanish: "Cuando escuchas la palabra \"caf\xE9\",piensas en. . ."
     response_1:
       english: Taste
       french_canada: "Le go\xFBt"
@@ -9738,7 +9738,7 @@
     question:
       english: In your home, which of these condiments is more full?
       french_canada: Lequel de ces condiments est plus\nrempli chez vous?
-      spanish: "En tu casa, \xBFcu\xE1l de estos condimentos est\xE1 m\xE1s\\nlleno?"
+      spanish: "En tu casa, \xBFcu\xE1l de estos condimentos est\xE1 m\xE1slleno?"
     response_1:
       english: Ketchup
       french_canada: Ketchup
@@ -9761,8 +9761,8 @@
   poll:
     question:
       english: After eating cereal, do you drink the milk or throw it away?
-      french_canada: "Apr\xE8s avoir mang\xE9 des c\xE9r\xE9ales,\\nvous. . ."
-      spanish: "Despu\xE9s de comer cereal, \xBFqu\xE9 haces con\\nla leche que sobra?"
+      french_canada: "Apr\xE8s avoir mang\xE9 des c\xE9r\xE9ales,vous. . ."
+      spanish: "Despu\xE9s de comer cereal, \xBFqu\xE9 haces conla leche que sobra?"
     response_1:
       english: Drink the milk.
       french_canada: Buvez le lait.
@@ -9833,9 +9833,9 @@
   poll:
     question:
       english: If someone tells you the ending of a book, would you still read it?
-      french_canada: "Si quelqu'un vous raconte la fin d'un\\nlivre, le lisez-vous\
+      french_canada: "Si quelqu'un vous raconte la fin d'unlivre, le lisez-vous\
         \ quand m\xEAme?"
-      spanish: "Si alguien te cuenta el final de un libro, \xBFlo leer\xEDas\\nde\
+      spanish: "Si alguien te cuenta el final de un libro, \xBFlo leer\xEDasde\
         \ todas formas?"
     response_1:
       english: Yes, of course!
@@ -9908,7 +9908,7 @@
     question:
       english: What do you think employers value more, education or experience?
       french_canada: "Les employeurs donnent plus de valeur \xE0. . ."
-      spanish: "\xBFQu\xE9 crees que les importa m\xE1s a los empleados,\\nla educaci\xF3\
+      spanish: "\xBFQu\xE9 crees que les importa m\xE1s a los empleados,la educaci\xF3\
         n o la experiencia?"
     response_1:
       english: Education
@@ -9933,7 +9933,7 @@
     question:
       english: Dishes gets washed right after use or in a batch?
       french_canada: Quand lavez-vous la vaisselle?
-      spanish: "\xBFLavas los platos al terminar de usar cada\\nuno, o los lavas despu\xE9\
+      spanish: "\xBFLavas los platos al terminar de usar cadauno, o los lavas despu\xE9\
         s, todos juntos?"
     response_1:
       english: Right after use
@@ -9958,9 +9958,9 @@
     question:
       english: When you imagine an exotic island, the first image that comes to mind
         is . . .
-      french_canada: "Lorsque vous imaginez une \xEEle\\nexotique, vous visualisez\
+      french_canada: "Lorsque vous imaginez une \xEEleexotique, vous visualisez\
         \ . . ."
-      spanish: "Cuando te imaginas una isla ex\xF3tica, \xBFen qu\xE9\\npiensas primero?"
+      spanish: "Cuando te imaginas una isla ex\xF3tica, \xBFen qu\xE9piensas primero?"
     response_1:
       english: Blue water
       french_canada: L'eau turquoise
@@ -10007,9 +10007,9 @@
   poll:
     question:
       english: Do you prefer chunky or smooth peanut butter?
-      french_canada: "Pr\xE9f\xE9rez-vous du beurre d'arachide\\ncroquant ou cr\xE9\
+      french_canada: "Pr\xE9f\xE9rez-vous du beurre d'arachidecroquant ou cr\xE9\
         meux?"
-      spanish: "En cuanto a la mantequilla de man\xED,\\n\xBFla prefieres con trocitos\
+      spanish: "En cuanto a la mantequilla de man\xED,\xBFla prefieres con trocitos\
         \ o suave?"
     response_1:
       english: Chunky monkey!
@@ -10033,7 +10033,7 @@
   poll:
     question:
       english: Even when hot, I usually sleep with at least one blanket.
-      french_canada: "M\xEAme si j'ai chaud, je dors avec au\\nmoins une couverte."
+      french_canada: "M\xEAme si j'ai chaud, je dors avec aumoins une couverte."
       spanish: Incluso cuando hace calor, duermo con al menos\nuna manta.
     response_1:
       english: Yes, I do!
@@ -10084,7 +10084,7 @@
       english: I made a slight mess at a public area (restaurant, library, etc.),
         I'd. . .
       french_canada: "Si je fais un d\xE9g\xE2t dans un endroit public, je. . ."
-      spanish: "Si ensuciara alg\xFAn lugar p\xFAblico (restaurante,\\nb\xEDblioteca,\
+      spanish: "Si ensuciara alg\xFAn lugar p\xFAblico (restaurante,b\xEDblioteca,\
         \ etc.). . ."
     response_1:
       english: Clean it up.
@@ -10132,8 +10132,8 @@
   poll:
     question:
       english: What type of biometric recognition would be most popular?
-      french_canada: "Quel type de reconnaissance\\nbiom\xE9trique serait plus populaire?"
-      spanish: "\xBFQu\xE9 tipo de reconocimiento biom\xE9trico\\nser\xEDa el m\xE1\
+      french_canada: "Quel type de reconnaissancebiom\xE9trique serait plus populaire?"
+      spanish: "\xBFQu\xE9 tipo de reconocimiento biom\xE9tricoser\xEDa el m\xE1\
         s popular?"
     response_1:
       english: Fingerprint scan
@@ -10158,7 +10158,7 @@
     question:
       english: When I wear shoes with laces, I slip them off. . .
       french_canada: Pour enlever des souliers avec des lacets. . .
-      spanish: "Si llevo zap\xE1tos con cordones, me\\nlos quito. . ."
+      spanish: "Si llevo zap\xE1tos con cordones, melos quito. . ."
     response_1:
       english: With laces.
       french_canada: "Je ne les d\xE9tache pas"
@@ -10181,7 +10181,7 @@
   poll:
     question:
       english: Chocolate chip cookies tastes better. . .
-      french_canada: "Les biscuits aux p\xE9pites de chocolat\\ngo\xFBtent meilleur.\
+      french_canada: "Les biscuits aux p\xE9pites de chocolatgo\xFBtent meilleur.\
         \ . ."
       spanish: Las galletas de chocolate saben mejor. . .
     response_1:
@@ -10351,7 +10351,7 @@
   poll:
     question:
       english: Have you ever eaten breakfast for dinner?
-      french_canada: "Avez-vous d\xE9j\xE0 mang\xE9 un d\xE9jeuner\\npour le souper?"
+      french_canada: "Avez-vous d\xE9j\xE0 mang\xE9 un d\xE9jeunerpour le souper?"
       spanish: "\xBFAlguna vez cenaste un plato t\xEDpico del desayuno?"
     response_1:
       english: Yes, delicious!
@@ -10471,7 +10471,7 @@
   poll:
     question:
       english: How do you react when people praise you?
-      french_canada: "Comment r\xE9agissez-vous lorsqu'on\\nvous fait des compliments?"
+      french_canada: "Comment r\xE9agissez-vous lorsqu'onvous fait des compliments?"
       spanish: "\xBFC\xF3mo reaccionas cuando te alaban?"
     response_1:
       english: Say thank you!
@@ -10496,7 +10496,7 @@
     question:
       english: You have the day off from work or school, would you rather spend time.
         . .
-      french_canada: "Pendant vos cong\xE9s, vous aimez\\nmieux passer du temps. .\
+      french_canada: "Pendant vos cong\xE9s, vous aimezmieux passer du temps. .\
         \ ."
       spanish: "Cuando tienes un d\xEDa libre, prefieres pasarlo. . ."
     response_1:
@@ -10522,7 +10522,7 @@
     question:
       english: When sick, do you take medicine or let your body heal itself?
       french_canada: "Si vous \xEAtes malade, vous pr\xE9f\xE9rez. . ."
-      spanish: "Cuando te enfermas, \xBFtomas medicina o dejas\\nque tu cuerpo se\
+      spanish: "Cuando te enfermas, \xBFtomas medicina o dejasque tu cuerpo se\
         \ cure solo?"
     response_1:
       english: Self heal!
@@ -10546,9 +10546,9 @@
   poll:
     question:
       english: Do you tell people what you like or let them find out on their own?
-      french_canada: "Dites-vous aux gens ce que vous aimez\\nou vous les laissez\
+      french_canada: "Dites-vous aux gens ce que vous aimezou vous les laissez\
         \ le d\xE9couvrir?"
-      spanish: "\xBFLe cuentas a la gente qu\xE9 cosas te gustan,\\no dejas que lo\
+      spanish: "\xBFLe cuentas a la gente qu\xE9 cosas te gustan,o dejas que lo\
         \ descubran?"
     response_1:
       english: Tell them.
@@ -10622,7 +10622,7 @@
       english: When you first wake up, do you stretch or go under the covers?
       french_canada: "En vous r\xE9veillant, vous vous \xE9tirez ou vous vous cachez\
         \ sous la couverte?"
-      spanish: "Cuando te despiertas, \xBFte estiras o te metes debajo\\nde las s\xE1\
+      spanish: "Cuando te despiertas, \xBFte estiras o te metes debajode las s\xE1\
         banas?"
     response_1:
       english: Stretch.
@@ -10647,7 +10647,7 @@
     question:
       english: When you win an award, do you prefer a metal or a trophy?
       french_canada: "Quand vous gagnez un prix, vous pr\xE9f\xE9rez. . ."
-      spanish: "Cuando te dan un premio, \xBFprefieres una medalla\\no un trofeo?"
+      spanish: "Cuando te dan un premio, \xBFprefieres una medallao un trofeo?"
     response_1:
       english: Metal
       french_canada: "Une m\xE9daille"
@@ -10671,7 +10671,7 @@
     question:
       english: While on vacationing, would you rather ride on an elephant or a camel?
       french_canada: En vacances, aimeriez-vous faire un tour. . .
-      spanish: "Si estuvieras de vacaciones, \xBFpreferir\xEDas montar en\\nel\xE9\
+      spanish: "Si estuvieras de vacaciones, \xBFpreferir\xEDas montar enel\xE9\
         fante o en camello?"
     response_1:
       english: Elephant
@@ -10696,8 +10696,8 @@
     question:
       english: A sequel to a game you've never played before comes out. Which do you
         buy first?
-      french_canada: "La suite d'un jeu que vous n'avez\\njamais jou\xE9 sort. Qu'achetez-vous?"
-      spanish: "Lanzan la secuela de un juego que nunca\\nhas jugado. \xBFCu\xE1l\
+      french_canada: "La suite d'un jeu que vous n'avezjamais jou\xE9 sort. Qu'achetez-vous?"
+      spanish: "Lanzan la secuela de un juego que nuncahas jugado. \xBFCu\xE1l\
         \ compras primero?"
     response_1:
       english: The original
@@ -10721,8 +10721,8 @@
   poll:
     question:
       english: Are elephants really afraid of mice?
-      french_canada: "Les \xE9l\xE9phants ont-ils vraiment\\npeur des souris?"
-      spanish: "\xBFDe verdad los el\xE9fantes les tienen miedo\\na las ratas?"
+      french_canada: "Les \xE9l\xE9phants ont-ils vraimentpeur des souris?"
+      spanish: "\xBFDe verdad los el\xE9fantes les tienen miedoa las ratas?"
     response_1:
       english: Very much so.
       french_canada: Oui, beaucoup
@@ -10746,7 +10746,7 @@
     question:
       english: Do you think animals can be categorized as left handed or right handed?
       french_canada: "Les animaux peuvent-ils \xEAtre gauchers ou droitiers?"
-      spanish: "\xBFCrees que los animales se pueden clasificar\\ncomo diestros y\
+      spanish: "\xBFCrees que los animales se pueden clasificarcomo diestros y\
         \ zurdos?"
     response_1:
       english: Yes.
@@ -10795,9 +10795,9 @@
     question:
       english: When you sneeze, do you typical sneeze once or multiple times in a
         row?
-      french_canada: "\xC9ternuez-vous g\xE9n\xE9ralement une fois\\nou plusieurs\
+      french_canada: "\xC9ternuez-vous g\xE9n\xE9ralement une foisou plusieurs\
         \ fois \xE0 la suite?"
-      spanish: "Cuando estornudas, \xBFsueles hacerlo una sola vez,\\no varias veces\
+      spanish: "Cuando estornudas, \xBFsueles hacerlo una sola vez,o varias veces\
         \ seguidas?"
     response_1:
       english: Sneeze once.
@@ -12699,7 +12699,7 @@
     question:
       english: Do you prefer playing card games or board games?
       french_canada: "Vous pr\xE9f\xE9rez jouer aux . . ."
-      spanish: "\xBFPrefieres los juegos de cartas\\n o los de mesa?"
+      spanish: "\xBFPrefieres los juegos de cartas o los de mesa?"
     response_1:
       english: Card Games
       french_canada: Jeux de cartes
@@ -13059,7 +13059,7 @@
     question:
       english: Have you left the windows of a car open in rain?
       french_canada: Laisser les vitres de voiture ouvertes sous la pluie...
-      spanish: "\xBFHas dejado las ventanas del auto\\n bajas en la lluvia?"
+      spanish: "\xBFHas dejado las ventanas del auto bajas en la lluvia?"
     response_1:
       english: Did that. Ugh!
       french_canada: Je l'ai fait une fois!
@@ -13396,7 +13396,7 @@
     question:
       english: Do people get addicted to getting tattoos?
       french_canada: Devient-on accroc au tatouage?
-      spanish: "\xBFLa gente se vuelve adicta a\\n hacerse tatuajes?"
+      spanish: "\xBFLa gente se vuelve adicta a hacerse tatuajes?"
     response_1:
       english: Yes.
       french_canada: Oui.
@@ -13468,7 +13468,7 @@
     question:
       english: Would you fly a kite on a windy day?
       french_canada: Feriez-vous du cerf-volant par vent fort?
-      spanish: "\xBFRemontar\xEDas una cometa\\n en un d\xEDa ventoso?"
+      spanish: "\xBFRemontar\xEDas una cometa en un d\xEDa ventoso?"
     response_1:
       english: No better time!
       french_canada: "C'est id\xE9al!"
@@ -13684,7 +13684,7 @@
     question:
       english: Did you ever search online for a good joke to tell?
       french_canada: "Avez-vous d\xE9j\xE0 cherch\xE9 une blague en ligne?"
-      spanish: "\xBFAlguna vez buscaste en internet un\\nchiste para contar?"
+      spanish: "\xBFAlguna vez buscaste en internet unchiste para contar?"
     response_1:
       english: I'm not ashamed.
       french_canada: Je ne m'en cache pas.
@@ -13804,7 +13804,7 @@
     question:
       english: When someone corrects your grammar, you . . .
       french_canada: Lorsqu'une personne vous corrige, vous . . .
-      spanish: "Cuando alguien corrige\\n tu gram\xE1tica . . ."
+      spanish: "Cuando alguien corrige tu gram\xE1tica . . ."
     response_1:
       english: Thank them.
       french_canada: La remerciez.
@@ -13996,7 +13996,7 @@
     question:
       english: What type of cell phone do you prefer?
       french_canada: "Quel genre de t\xE9l\xE9phone cellulaire pr\xE9f\xE9rez-vous?"
-      spanish: "\xBFQu\xE9 tipo de tel\xE9fono celular\\nprefieres?"
+      spanish: "\xBFQu\xE9 tipo de tel\xE9fono celularprefieres?"
     response_1:
       english: Simple is better.
       french_canada: Simple, c'est bien.
@@ -14044,7 +14044,7 @@
     question:
       english: Can you name all of your first cousins?
       french_canada: "Connaissez-vous les pr\xE9noms de tous vos cousins directs?"
-      spanish: "\xBFPuedes decir el nombre de todos\\ntus primos?"
+      spanish: "\xBFPuedes decir el nombre de todostus primos?"
     response_1:
       english: Of course!
       french_canada: "Bien s\xFBr!"
@@ -14068,7 +14068,7 @@
     question:
       english: Which do you prefer for breakfast?
       french_canada: "Que pr\xE9f\xE9rez-vous au petit d\xE9jeuner?"
-      spanish: "\xBFQu\xE9 prefieres para el\\ndesayuno?"
+      spanish: "\xBFQu\xE9 prefieres para eldesayuno?"
     response_1:
       english: Waffles
       french_canada: Gaufres
@@ -14092,7 +14092,7 @@
     question:
       english: When it comes to animated film, you prefer . . .
       french_canada: "Les dessins anim\xE9s, vous les pr\xE9f\xE9rez. . ."
-      spanish: "Las pel\xEDculas animadas las\\nprefieres en . . ."
+      spanish: "Las pel\xEDculas animadas lasprefieres en . . ."
     response_1:
       english: Traditional Animation
       french_canada: Traditionnels
@@ -14116,7 +14116,7 @@
     question:
       english: The main entrance to your home is . . .
       french_canada: "L'entr\xE9e principale de votre maison est. . ."
-      spanish: "La entrada principal de tu casa\\nest\xE1 . . ."
+      spanish: "La entrada principal de tu casaest\xE1 . . ."
     response_1:
       english: On the front.
       french_canada: "Sur la fa\xE7ade avant."
@@ -14236,7 +14236,7 @@
     question:
       english: Do you ever wear socks that don't match?
       french_canada: Portez-vous souvent des chaussettes\ninassorties?
-      spanish: "\xBFAlguna vez te pusiste medias\\nque no hacen juego?"
+      spanish: "\xBFAlguna vez te pusiste mediasque no hacen juego?"
     response_1:
       english: Sometimes.
       french_canada: Parfois.
@@ -14308,7 +14308,7 @@
     question:
       english: Which subject is more important to learn?
       french_canada: "Quelle mati\xE8re scolaire est la plus importante?"
-      spanish: "\xBFQu\xE9 materia es m\xE1s importante\\naprender?"
+      spanish: "\xBFQu\xE9 materia es m\xE1s importanteaprender?"
     response_1:
       english: Math
       french_canada: Maths
@@ -14356,7 +14356,7 @@
     question:
       english: Which animal would you rather be in a race?
       french_canada: "Lors d'une course, quel animal aimeriez-vous \xEAtre?"
-      spanish: "\xBFQu\xE9 animal prefieres ser en\\nuna carrera?"
+      spanish: "\xBFQu\xE9 animal prefieres ser enuna carrera?"
     response_1:
       english: Tortoise
       french_canada: Tortue
@@ -14428,7 +14428,7 @@
     question:
       english: When you hear "football," you think . . .
       french_canada: "Si on vous dit \xAB football \xBB, vous pensez \xE0 . . ."
-      spanish: "Cuando escuchas la palabra\\n\"f\xFAtbol\", piensas en . . ."
+      spanish: "Cuando escuchas la palabra\"f\xFAtbol\", piensas en . . ."
     response_1:
       english: World Cup
       french_canada: Coupe du monde
@@ -14452,7 +14452,7 @@
     question:
       english: Does a woodchuck chuck wood?
       french_canada: Est-ce qu'un siffleux siffle?
-      spanish: "\xBFUn p\xE1jaro carpintero hace\\nmuebles?"
+      spanish: "\xBFUn p\xE1jaro carpintero hacemuebles?"
     response_1:
       english: Hence the name.
       french_canada: "D'o\xF9 le nom."
@@ -14572,7 +14572,7 @@
     question:
       english: Have you ever pretended to be sick?
       french_canada: "Avez-vous d\xE9j\xE0 fait semblant d'\xEAtre malade?"
-      spanish: "\xBFAlguna vez te hiciste pasar\\npor enfermo?"
+      spanish: "\xBFAlguna vez te hiciste pasarpor enfermo?"
     response_1:
       english: Sometimes.
       french_canada: Quelquefois.
@@ -14596,7 +14596,7 @@
     question:
       english: Would you prefer one close friend or five pals?
       french_canada: "Pr\xE9f\xE9rez-vous avoir un(e) ami(e) proche ou 5 copains?"
-      spanish: "\xBFPrefieres un amigo cercano o\\ncinco compinches?"
+      spanish: "\xBFPrefieres un amigo cercano ocinco compinches?"
     response_1:
       english: Close Friend
       french_canada: Ami(e) proche
@@ -14620,9 +14620,9 @@
     question:
       english: Final question of the Everybody Votes Channel!\nIn one year, will you
         remember what you did today?
-      french_canada: "Voici l'ultime question de la Cha\xEEne votes!\\nDans un an,\
+      french_canada: "Voici l'ultime question de la Cha\xEEne votes!Dans un an,\
         \ vous rappellerez-vous aujourd'hui?"
-      spanish: "\xA1Esta es la pregunta final del Canal Opiniones!\\nEn un a\xF1o,\
+      spanish: "\xA1Esta es la pregunta final del Canal Opiniones!En un a\xF1o,\
         \ \xBFvas a recordar lo que hiciste hoy?"
     response_1:
       english: Yes!
