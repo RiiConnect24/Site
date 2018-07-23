@@ -515,7 +515,7 @@
       dutch: Bekijk je dit op een breedbeeld-tv?
       english: Is the TV you are watching now a wide screen TV?
       french: "Regardez-vous cette cha\xEEne sur un \xE9cran 16:9?"
-      french_canada: "Est-ce que la t\xE9l\xE9 que vous regardez en ce\nmoment est\
+      french_canada: "Est-ce que la t\xE9l\xE9 que vous regardez en ce moment est\
         \ une t\xE9l\xE9 \xE0 \xE9cran large?"
       german: Liest du dies auf einem Breitbild-Fernseher?
       italian: "Il tuo televisore \xE8 widescreen (16:9)?"
@@ -941,7 +941,7 @@
       english: Do you want to live in a foreign country?
       french: "Envisagez-vous de vivre \xE0 l'\xE9tranger plus tard?"
       french_canada: "Veux-tu vivre dans un pays \xE9tranger?"
-      german: "W\xFCrdest du zuk\xFCnftig gerne einmal im\nAusland leben?"
+      german: "W\xFCrdest du zuk\xFCnftig gerne einmal im Ausland leben?"
       italian: Ti piacerebbe vivere all'estero in futuro?
       japanese: "\u5C06\u6765\u306F\u5916\u56FD\u3067\u66AE\u3089\u3057\u305F\u3044\
         \uFF1F"
@@ -991,7 +991,7 @@
       japanese: "\u91CE\u7403\u3068\u30B5\u30C3\u30AB\u30FC\u3001\u898B\u305F\u3044\
         \u306E\u306F\u3069\u3063\u3061\uFF1F"
       portuguese: O que preferes ver, basebol ou futebol?
-      spanish: "\xBFCu\xE1l preferir\xEDas ver, un partido de b\xE9isbol \no de f\xFA\
+      spanish: "\xBFCu\xE1l preferir\xEDas ver, un partido de b\xE9isbol  o de f\xFA\
         tbol?"
     response_1:
       dutch: Honkbal
@@ -1030,7 +1030,7 @@
       english: If I received a gift of money, I would...
       french: Que feriez-vous si vous aviez beaucoup d'argent?
       french_canada: Si je recevais de l'argent en cadeau, je...
-      german: "Was w\xFCrdest du tun, wenn du eine hohe\nGeldsumme bekommen w\xFC\
+      german: "Was w\xFCrdest du tun, wenn du eine hohe Geldsumme bekommen w\xFC\
         rdest?"
       italian: Cosa faresti se avessi un sacco di soldi?
       japanese: "\u5927\u91D1\u304C\u624B\u306B\u5165\u3063\u305F\u3089\u2026"
@@ -1198,7 +1198,7 @@
   date: April 01, 2008
   poll:
     question:
-      dutch: "Weet je alle verjaardagen van \nje gezinsleden uit je hoofd?"
+      dutch: "Weet je alle verjaardagen van  je gezinsleden uit je hoofd?"
       english: 'Do you know the birthdays of all of your family
 
         members?'
@@ -1295,17 +1295,17 @@
 
         van de aarde (''global warming'')?'
       english: Are you doing anything to counter global warming?
-      french: "Faites-vous quelque chose pour lutter contre le\nr\xE9chauffement climatique?"
-      french_canada: "Fais-tu ta part pour contrer le r\xE9chauffement \nde la plan\xE8\
+      french: "Faites-vous quelque chose pour lutter contre le r\xE9chauffement climatique?"
+      french_canada: "Fais-tu ta part pour contrer le r\xE9chauffement  de la plan\xE8\
         te?"
-      german: "Tr\xE4gst du etwas zum Kampf gegen die globale\nErw\xE4rmung bei?"
+      german: "Tr\xE4gst du etwas zum Kampf gegen die globale Erw\xE4rmung bei?"
       italian: 'Stai facendo qualcosa contro
 
         il riscaldamento globale?'
       japanese: "\u5730\u7403\u6E29\u6696\u5316\u5BFE\u7B56\u3001\u4F55\u304B\u3057\
         \u3066\u308B\uFF1F"
-      portuguese: "Est\xE1s a fazer algo para combater\naquecimento global?"
-      spanish: "\xBFEst\xE1s haciendo algo contra el\ncalentamiento global?"
+      portuguese: "Est\xE1s a fazer algo para combater aquecimento global?"
+      spanish: "\xBFEst\xE1s haciendo algo contra el calentamiento global?"
     response_1:
       dutch: Ja
       english: 'Yes'
@@ -1427,7 +1427,7 @@
     question:
       dutch: Wat is het belangrijkste aan eten?
       english: At mealtime, which are you more particular about?
-      french: "En mati\xE8re de nourriture, qu'est-ce qui est le plus\nimportant?"
+      french: "En mati\xE8re de nourriture, qu'est-ce qui est le plus important?"
       french_canada: Lors des repas, qu'est-ce qui t'importe le plus?
       german: Was ist dir beim Essen wichtiger?
       italian: "Parlando di cibo, cos'\xE8 pi\xF9 importante per te?"
@@ -1597,7 +1597,7 @@
       dutch: Neem je elke dag een voedingssupplement?
       english: Do you take a vitamin supplement every day?
       french: "Prenez-vous un compl\xE9ment de vitamines?"
-      french_canada: "Prenez-vous un suppl\xE9ment de\nvitamines tous les jours?"
+      french_canada: "Prenez-vous un suppl\xE9ment de vitamines tous les jours?"
       german: "Nimmst du jeden Tag Vitaminpr\xE4parate zu dir?"
       italian: Prendi integratori vitaminici tutti i giorni?
       japanese: "\u30B5\u30D7\u30EA\u30E1\u30F3\u30C8\u3092\u6BCE\u65E5\u98F2\u3080\
@@ -1681,7 +1681,7 @@
     question:
       dutch: Hoeveel uur kijk je tv per dag?
       english: How many hours a day do you watch TV?
-      french: "Combien d'heures par jour passez-vous\ndevant la t\xE9l\xE9vision?"
+      french: "Combien d'heures par jour passez-vous devant la t\xE9l\xE9vision?"
       french_canada: "Combien d'heures regardez-vous la t\xE9l\xE9 par jour?"
       german: Wie viele Stunden am Tag siehst du fern?
       italian: Quante ore al giorno passi davanti alla TV?
@@ -1860,7 +1860,7 @@
       french: 'Retirez-vous vos chaussures lorsque
 
         vous rentrez chez vous?'
-      french_canada: "J'enl\xE8ve toujours mes chaussures\nlorsque je rentre chez\
+      french_canada: "J'enl\xE8ve toujours mes chaussures lorsque je rentre chez\
         \ moi."
       german: 'Ziehst du die Schuhe aus, sobald
 
@@ -2285,7 +2285,7 @@
       dutch: Als ik naar buiten ga, draag ik de laatste tijd...
       english: When I've gone out recently, I've worn . . .
       french: "Ces jours-ci, quand vous sortez, vous \xEAtes plut\xF4t..."
-      french_canada: "Lorsque je suis sorti r\xE9cemment,\nj'ai port\xE9 des chandails\
+      french_canada: "Lorsque je suis sorti r\xE9cemment, j'ai port\xE9 des chandails\
         \ \xE0 . . ."
       german: "Was tr\xE4gst du zurzeit drau\xDFen?"
       italian: Ultimamente quando esci, metti le...
@@ -2410,9 +2410,9 @@
   poll:
     question:
       dutch: Kijk je de aftiteling van een film altijd helemaal af?
-      english: "At the end of a movie, do you watch the \ntitle credits to the end?"
-      french: "Regardez-vous le g\xE9n\xE9rique en entier\n\xE0 la fin d'un film?"
-      french_canada: "Regardez-vous le g\xE9n\xE9rique en entier\n\xE0 la fin d'un\
+      english: "At the end of a movie, do you watch the  title credits to the end?"
+      french: "Regardez-vous le g\xE9n\xE9rique en entier \xE0 la fin d'un film?"
+      french_canada: "Regardez-vous le g\xE9n\xE9rique en entier \xE0 la fin d'un\
         \ film?"
       german: 'Schaust du dir bei Filmen auch die Liste
 
@@ -2421,7 +2421,7 @@
       japanese: "\u6620\u753B\u306E\u30A8\u30F3\u30C9\u30ED\u30FC\u30EB\u3001\u6700\
         \u5F8C\u307E\u3067\u898B\u308B\uFF1F"
       portuguese: "No final do filme, voc\xEA l\xEA os cr\xE9ditos at\xE9 o final?"
-      spanish: "\xBFAcostumbras leer los cr\xE9ditos que \naparecen al final de una\
+      spanish: "\xBFAcostumbras leer los cr\xE9ditos que  aparecen al final de una\
         \ pel\xEDcula?"
     response_1:
       dutch: Ja
@@ -2541,9 +2541,9 @@
   poll:
     question:
       dutch: "Heb je de afgelopen maand een caf\xE9 bezocht?"
-      english: "Have you been to a cafe/coffee shop \nin the past month?"
-      french: "Avez-vous bu un verre dans un caf\xE9 ce\nmois-ci?"
-      french_canada: "\xCAtes-vous all\xE9(e) dans un caf\xE9 au cours\ndu mois dernier?"
+      english: "Have you been to a cafe/coffee shop  in the past month?"
+      french: "Avez-vous bu un verre dans un caf\xE9 ce mois-ci?"
+      french_canada: "\xCAtes-vous all\xE9(e) dans un caf\xE9 au cours du mois dernier?"
       german: Warst du letzten Monat in einem Cafe?
       italian: Nell'ultimo mese, hai passato del tempo in un bar?
       japanese: "\u3053\u306E\uFF11\u30F6\u6708\u3001\u55AB\u8336\u5E97\uFF08\u30AB\
@@ -2585,8 +2585,8 @@
     question:
       dutch: Heb je wel eens om een film gehuild?
       english: Have you cried during a movie?
-      french: "Avez-vous d\xE9j\xE0 pleur\xE9 en regardant\nun film?"
-      french_canada: "Avez-vous d\xE9j\xE0 pleur\xE9 en \xE9coutant\nun film?"
+      french: "Avez-vous d\xE9j\xE0 pleur\xE9 en regardant un film?"
+      french_canada: "Avez-vous d\xE9j\xE0 pleur\xE9 en \xE9coutant un film?"
       german: "Hast du jemals w\xE4hrend eines Films geweint?"
       italian: Hai mai pianto guardando un film?
       japanese: "\u6620\u753B\u3092\u89B3\u3066\u6CE3\u3044\u305F\u3053\u3068\u304C\
@@ -2669,18 +2669,18 @@
   poll:
     question:
       dutch: Kun je vijf landen opnoemen die eilanden zijn?
-      english: "Can you name five insular countries (not \nconnected to the big continents)?"
+      english: "Can you name five insular countries (not  connected to the big continents)?"
       french: Pouvez-vous nommer cinq pays insulaires?
-      french_canada: "Pouvez-vous nommer cinq pays insulaires\n(non connect\xE9s \xE0\
+      french_canada: "Pouvez-vous nommer cinq pays insulaires (non connect\xE9s \xE0\
         \ un continent)?"
       german: Kannst du 5 Inselstaaten nennen?
       italian: Sei in grado di nominare cinque paesi insulari?
       japanese: "\u5CF6\u56FD\uFF08\u5927\u9678\u306B\u3064\u306A\u304C\u3063\u3066\
-        \u3044\u306A\u3044\u56FD\uFF09\u306E\n\u540D\u524D\u3092\uFF15\u3064\u4EE5\
+        \u3044\u306A\u3044\u56FD\uFF09\u306E \u540D\u524D\u3092\uFF15\u3064\u4EE5\
         \u4E0A\u8A00\u3048\u308B\uFF1F"
-      portuguese: "Poderia citar 5 pa\xEDses insulares?\n(n\xE3o conectados aos grandes\
+      portuguese: "Poderia citar 5 pa\xEDses insulares? (n\xE3o conectados aos grandes\
         \ continentes)"
-      spanish: "\xBFPuedes nombrar 5 pa\xEDses insulares\n(que no est\xE9n conectados\
+      spanish: "\xBFPuedes nombrar 5 pa\xEDses insulares (que no est\xE9n conectados\
         \ a los continentes)?"
     response_1:
       dutch: Ja
@@ -2759,8 +2759,8 @@
     question:
       dutch: Blijf je op je vrije dag liever thuis of ga je eropuit?
       english: On my day off, I prefer to . . .
-      french: "Durant mes jours de cong\xE9, je\npr\xE9f\xE8re..."
-      french_canada: "Durant mes journ\xE9es de cong\xE9, je\npr\xE9f\xE8re..."
+      french: "Durant mes jours de cong\xE9, je pr\xE9f\xE8re..."
+      french_canada: "Durant mes journ\xE9es de cong\xE9, je pr\xE9f\xE8re..."
       german: An meinem freien Tag...
       italian: Quando hai un giorno libero, cosa preferisci fare?
       japanese: "\u4F11\u65E5\u306F\u2026"
@@ -3018,8 +3018,8 @@
       french: 'Vous lavez-vous les mains quand vous
 
         rentrez chez vous?'
-      french_canada: "Vous lavez-vous les mains quand vous\nrentrez \xE0 la maison?"
-      german: "W\xE4schst du die H\xE4nde, wenn du nach\nHause kommst?"
+      french_canada: "Vous lavez-vous les mains quand vous rentrez \xE0 la maison?"
+      german: "W\xE4schst du die H\xE4nde, wenn du nach Hause kommst?"
       italian: Quando arrivi a casa, ti lavi le mani?
       japanese: "\u5916\u304B\u3089\u5E30\u3063\u305F\u3089\u624B\u3092\u6D17\u3046\
         \uFF1F"
@@ -3447,7 +3447,7 @@
       italian: Conosci una persona con il tuo stesso nome?
       japanese: "\u4E0B\u306E\u540D\u524D\u304C\u81EA\u5206\u3068\u540C\u3058\u4EBA\
         \u3092\u77E5\u3063\u3066\u308B\uFF1F"
-      portuguese: "Voc\xEA conhece algu\xE9m com\no mesmo nome que voc\xEA?"
+      portuguese: "Voc\xEA conhece algu\xE9m com o mesmo nome que voc\xEA?"
       spanish: "\xBFConoces a alguien con el mismo nombre que t\xFA?"
     response_1:
       dutch: Ja
@@ -3701,7 +3701,7 @@
       italian: Indossi spesso i jeans?
       japanese: "\u30B8\u30FC\u30D1\u30F3\u3092\u306F\u304F\uFF1F"
       portuguese: "Com que frequ\xEAncia voc\xEA usa cal\xE7as de ganga?"
-      spanish: "\xBFCon qu\xE9 frecuencia usas pantalones\nde mezclilla?"
+      spanish: "\xBFCon qu\xE9 frecuencia usas pantalones de mezclilla?"
     response_1:
       dutch: Vaak
       english: A lot
@@ -3744,7 +3744,7 @@
       japanese: "\u5916\u51FA\u3059\u308B\u3068\u304D\u3001\u8155\u6642\u8A08\u3092\
         \u2026"
       portuguese: "Quando sai, usa rel\xF3gio de pulso?"
-      spanish: "Cuando sales, \xBFllevas puesto un reloj de\npulsera?"
+      spanish: "Cuando sales, \xBFllevas puesto un reloj de pulsera?"
     response_1:
       dutch: Ja
       english: 'Yes'
@@ -3781,7 +3781,7 @@
       dutch: Heb je de afgelopen maand ijs gegeten?
       english: Have you eaten ice cream in the past month?
       french: "Avez-vous mang\xE9 de la glace le mois dernier?"
-      french_canada: "Avez-vous mang\xE9 de la cr\xE8me glac\xE9e dans \nle mois pr\xE9\
+      french_canada: "Avez-vous mang\xE9 de la cr\xE8me glac\xE9e dans  le mois pr\xE9\
         c\xE9dent?"
       german: Hast du im letzten Monat Eis gegessen?
       italian: Hai mangiato gelati il mese scorso?
@@ -3833,7 +3833,7 @@
       japanese: "\u5927\u304D\u306A\u8239\u306B\u4E57\u3063\u305F\u3053\u3068\u304C\
         \u2026"
       portuguese: Alguma vez esteve num barco grande?
-      spanish: "\xBFAlguna vez has viajado en un barco\nmuy grande?"
+      spanish: "\xBFAlguna vez has viajado en un barco muy grande?"
     response_1:
       dutch: Ja
       english: 'Yes'
@@ -3955,15 +3955,15 @@
   poll:
     question:
       dutch: Je slaapt en eet in...
-      english: "The room you sleep in and the \nroom you eat in are . . ."
+      english: "The room you sleep in and the  room you eat in are . . ."
       french: Vous dormez et mangez dans...
-      french_canada: "La pi\xE8ce dans laquelle vous dormez et celle \ndans laquelle\
+      french_canada: "La pi\xE8ce dans laquelle vous dormez et celle  dans laquelle\
         \ vous mangez sont..."
       german: Ich esse und schlafe...
-      italian: "La stanza in cui dormi \xE8 la stessa\nin cui consumi i pasti?"
+      italian: "La stanza in cui dormi \xE8 la stessa in cui consumi i pasti?"
       japanese: "\u5BDD\u308B\u90E8\u5C4B\u3068\u3054\u306F\u3093\u3092\u98DF\u3079\
         \u308B\u90E8\u5C4B\u306F\u2026"
-      portuguese: "O aposento aonde dorme e o aposento \naonde come . . ."
+      portuguese: "O aposento aonde dorme e o aposento  aonde come . . ."
       spanish: Donde comes y donde duermes son...
     response_1:
       dutch: Dezelfde kamer
@@ -4095,7 +4095,7 @@
       japanese: "\u65C5\u884C\u306E\u304A\u571F\u7523\u3067\u3082\u3089\u3063\u3066\
         \u3046\u308C\u3057\u3044\u306E\u306F\u2026"
       portuguese: Qual souvenir prefere em receber?
-      spanish: "Cuando alguien te trae un recuerdo de un\nviaje, \xBFqu\xE9 prefieres\
+      spanish: "Cuando alguien te trae un recuerdo de un viaje, \xBFqu\xE9 prefieres\
         \ recibir?"
     response_1:
       dutch: Iets eetbaars
@@ -4178,9 +4178,9 @@
       dutch: 'Ben je de afgelopen maand naar
 
         de bioscoop geweest?'
-      english: "Have you been to the movies during \nthe past month?"
+      english: "Have you been to the movies during  the past month?"
       french: "Avez-vous vu un film au cin\xE9ma depuis un mois?"
-      french_canada: "\xCAtes-vous all\xE9 ou all\xE9e au cin\xE9ma dans le \nmois\
+      french_canada: "\xCAtes-vous all\xE9 ou all\xE9e au cin\xE9ma dans le  mois\
         \ pr\xE9c\xE9dent?"
       german: Warst du im letzten Monat einmal im Kino?
       italian: 'Hai visto un film al cinema
@@ -4223,11 +4223,11 @@
   date: March 01, 2011
   poll:
     question:
-      dutch: "Als je \xE9\xE9n ding kon kiezen,\nzou je het liefste..."
+      dutch: "Als je \xE9\xE9n ding kon kiezen, zou je het liefste..."
       english: If you could have a wish come true . . .
-      french: "Lequel de ces deux souhaits voudriez-vous\nvoir se r\xE9aliser?"
-      french_canada: "Lequel de ces deux souhaits voudriez-vous\nvoir se r\xE9aliser?"
-      german: "Wenn ich mir etwas w\xFCnschen k\xF6nnte,\nw\xFCrde ich mehr..."
+      french: "Lequel de ces deux souhaits voudriez-vous voir se r\xE9aliser?"
+      french_canada: "Lequel de ces deux souhaits voudriez-vous voir se r\xE9aliser?"
+      german: "Wenn ich mir etwas w\xFCnschen k\xF6nnte, w\xFCrde ich mehr..."
       italian: "Ti piacerebbe di pi\xF9..."
       japanese: "\u9858\u3044\u304C\u304B\u306A\u3046\u306A\u3089\u2026"
       portuguese: Se pudesse ter um desejo realizado, quereria. . .
@@ -4268,8 +4268,8 @@
     question:
       dutch: Heb je de afgelopen week spaghetti gegeten?
       english: Have you eaten spaghetti during the past week?
-      french: "Avez-vous mang\xE9 des spaghettis la semaine\npass\xE9e?"
-      french_canada: "Avez-vous mang\xE9 du spaghetti dans la \nsemaine pr\xE9c\xE9\
+      french: "Avez-vous mang\xE9 des spaghettis la semaine pass\xE9e?"
+      french_canada: "Avez-vous mang\xE9 du spaghetti dans la  semaine pr\xE9c\xE9\
         dente?"
       german: Hast du in der letzten Woche Spaghetti gegessen?
       italian: 'Hai mangiato degli spaghetti
@@ -4278,7 +4278,7 @@
       japanese: "\u3053\u3053\uFF11\u9031\u9593\u3067\u30B9\u30D1\u30B2\u30C3\u30C6\
         \u30A3\u3092\u98DF\u3079\u305F\uFF1F"
       portuguese: Comeu esparguete na semana passada?
-      spanish: "Durante la \xFAltima semana, \xBFhas comido\nespaguetis?"
+      spanish: "Durante la \xFAltima semana, \xBFhas comido espaguetis?"
     response_1:
       dutch: '43'
       english: 'Yes'
@@ -4360,14 +4360,14 @@
       english: Did you say good morning to someone today?
       french: "Avez-vous dit bonjour \xE0 quelqu'un ce matin?"
       french_canada: "Avez-vous dit bonjour \xE0 quelqu'un aujourd'hui?"
-      german: "Hast du heute jemandem einen\nguten Morgen gew\xFCnscht?"
+      german: "Hast du heute jemandem einen guten Morgen gew\xFCnscht?"
       italian: 'Hai detto "Buon giorno" a qualcuno
 
         oggi?'
       japanese: "\u4ECA\u65E5\u8AB0\u304B\u306B\u300C\u304A\u306F\u3088\u3046\u300D\
         \u3063\u3066\u8A00\u3063\u305F\uFF1F"
       portuguese: "Voc\xEA disse bom dia a algu\xE9m hoje?"
-      spanish: "\xBFLe has dado los buenos d\xEDas a alguien esta\nma\xF1ana?"
+      spanish: "\xBFLe has dado los buenos d\xEDas a alguien esta ma\xF1ana?"
     response_1:
       dutch: Ja
       english: 'Yes'
@@ -4405,15 +4405,15 @@
 
         trendy kleren draagt?'
       english: Are you confident with wearing the latest styles?
-      french: "Osez-vous toujours porter les derniers v\xEAtements\n\xE0 la mode?"
-      french_canada: "Avez-vous assez de confiance pour porter \nles styles les plus\
+      french: "Osez-vous toujours porter les derniers v\xEAtements \xE0 la mode?"
+      french_canada: "Avez-vous assez de confiance pour porter  les styles les plus\
         \ \xE0 la mode?"
       german: Traust du dich, der neuesten Mode zu folgen?
       italian: 'Ti senti a tuo agio nel seguire
 
         le mode del momento?'
       japanese: "\u30AA\u30B7\u30E3\u30EC\u306B\u81EA\u4FE1\u304C\u3042\u308B\uFF1F"
-      portuguese: "Tem confian\xE7a em vestir os estilos \nmais modernos?"
+      portuguese: "Tem confian\xE7a em vestir os estilos  mais modernos?"
       spanish: "\xBFCrees que vas siempre a la moda?"
     response_1:
       dutch: Ja
@@ -4451,10 +4451,10 @@
       dutch: 'Ga je vaak naar het zwembad
 
         of de sportschool?'
-      english: "Do you often go to a swimming pool\n or sports gym?"
-      french: "Allez-vous souvent \xE0 la piscine ou dans une\nsalle de sport?"
-      french_canada: "Allez-vous souvent \xE0 la piscine\n ou au centre d'entrainement?"
-      german: "Gehst du h\xE4ufig ins Schwimmbad\n oder ins Sportstudio?"
+      english: "Do you often go to a swimming pool  or sports gym?"
+      french: "Allez-vous souvent \xE0 la piscine ou dans une salle de sport?"
+      french_canada: "Allez-vous souvent \xE0 la piscine  ou au centre d'entrainement?"
+      german: "Gehst du h\xE4ufig ins Schwimmbad  oder ins Sportstudio?"
       italian: Vai spesso in piscina o in palestra?
       japanese: "\u30B9\u30A4\u30DF\u30F3\u30B0\u30D7\u30FC\u30EB\u3084\u30B9\u30DD\
         \u30FC\u30C4\u30B8\u30E0\u306B\u3088\u304F\u884C\u304F\uFF1F"
@@ -4498,7 +4498,7 @@
       french: Vous utilisez le plus souvent...
       french_canada: Lequel des suivants utilisez-vous le plus souvent?
       german: "Welchen Stift verwendest du h\xE4ufiger?"
-      italian: "Usi pi\xF9 spesso una matita o\nuna penna a sfera?"
+      italian: "Usi pi\xF9 spesso una matita o una penna a sfera?"
       japanese: "\u3075\u3060\u3093\u3088\u304F\u4F7F\u3046\u306E\u306F\u2026"
       portuguese: "O que usa com mais frequ\xEAncia?"
       spanish: "\xBFQu\xE9 usas m\xE1s frecuentemente?"
@@ -4535,18 +4535,18 @@
   date: June 16, 2011
   poll:
     question:
-      dutch: "Doe je minstens \xE9\xE9n keer per week\neen middagdutje?"
+      dutch: "Doe je minstens \xE9\xE9n keer per week een middagdutje?"
       english: Do you nap once or more a week?
       french: 'Faites-vous la sieste au moins une fois
 
         par semaine?'
-      french_canada: "Faites-vous une sieste \nune fois ou plus par semaine?"
-      german: "H\xE4ltst du jede Woche einmal \noder h\xE4ufiger einen Mittagsschlaf?"
+      french_canada: "Faites-vous une sieste  une fois ou plus par semaine?"
+      german: "H\xE4ltst du jede Woche einmal  oder h\xE4ufiger einen Mittagsschlaf?"
       italian: Ti piace fare un sonnellino ogni tanto?
       japanese: "\u9031\u306B\uFF11\u56DE\u4EE5\u4E0A\u3001\u663C\u5BDD\u3092\u3059\
         \u308B\uFF1F"
       portuguese: Tira soneca uma ou mais vezes durante a semana?
-      spanish: "\xBFTe echas la siesta al menos una vez\na la semana?"
+      spanish: "\xBFTe echas la siesta al menos una vez a la semana?"
     response_1:
       dutch: Ja
       english: 'Yes'
@@ -4667,7 +4667,7 @@
       dutch: Ik kijk liever films waar ik bij moet...
       english: I prefer films that make me...
       french: "Je pr\xE9f\xE8re les films qui me font..."
-      french_canada: "Vous pr\xE9f\xE9rez les films qui vous \nfont. . ."
+      french_canada: "Vous pr\xE9f\xE9rez les films qui vous  font. . ."
       german: 'Bevorzugst du Filme, die dich eher zum
 
         Lachen oder eher zum Weinen bringen?'
@@ -4712,7 +4712,7 @@
 
         in de bibliotheek geweest?'
       english: In the past year, have you been to the library?
-      french: "Avez-vous mis les pieds dans une\nbiblioth\xE8que au cours de l'ann\xE9\
+      french: "Avez-vous mis les pieds dans une biblioth\xE8que au cours de l'ann\xE9\
         e pass\xE9e?"
       french_canada: "Depuis un an, \xEAtes-vous all\xE9(e) \xE0 la biblioth\xE8que?"
       german: "Warst du im letzten Jahr in der B\xFCcherei?"
@@ -4756,9 +4756,9 @@
     question:
       dutch: Naar wie luister je vaker?
       english: Which musical artists do you listen to more?
-      french: "Quels artistes musicaux \xE9coutez-vous\nen majorit\xE9?"
-      french_canada: "Quel type d'artistes musicaux \n\xE9coutez-vous le plus souvent?"
-      german: "H\xF6rst du lieber Musik von m\xE4nnlichen oder\nvon weiblichen K\xFC\
+      french: "Quels artistes musicaux \xE9coutez-vous en majorit\xE9?"
+      french_canada: "Quel type d'artistes musicaux  \xE9coutez-vous le plus souvent?"
+      german: "H\xF6rst du lieber Musik von m\xE4nnlichen oder von weiblichen K\xFC\
         nstlern?"
       italian: "Quali cantanti ascolti pi\xF9 spesso?"
       japanese: "\u3069\u3063\u3061\u306E\u97F3\u697D\u3092\u3088\u304F\u8074\u304F\
@@ -4801,9 +4801,9 @@
       dutch: 'Als een digitale klok aangeeft
 
         dat het 12:34 is, voel ik me...'
-      english: "If a digital clock display shows 12:34, \nthis makes me feel..."
-      french: "Si l'\xE9cran d'une horloge num\xE9rique affiche\n12:34, je ressens..."
-      french_canada: "Si une horloge num\xE9rique affiche 12:34, \nvous vous sentez.\
+      english: "If a digital clock display shows 12:34,  this makes me feel..."
+      french: "Si l'\xE9cran d'une horloge num\xE9rique affiche 12:34, je ressens..."
+      french_canada: "Si une horloge num\xE9rique affiche 12:34,  vous vous sentez.\
         \ . ."
       german: Zeigt die Uhr 12:34 an, dann macht mich das...
       italian: 'Se un orologio digitale mostra le 12:34,
@@ -4811,7 +4811,7 @@
         provo...'
       japanese: "\u30C7\u30B8\u30BF\u30EB\u6642\u8A08\u306E\u8868\u793A\u304C\u300E\
         \uFF11\uFF12\uFF1A\uFF13\uFF14\u300F\u3060\u3063\u305F\u3089\u2026"
-      portuguese: "Se um rel\xF3gio digital marcar\n12:54, isso me faz sentir..."
+      portuguese: "Se um rel\xF3gio digital marcar 12:54, isso me faz sentir..."
       spanish: 'Cuando veo que un reloj digital
 
         marca las 12:34...'
@@ -4862,7 +4862,7 @@
       italian: Quando indosso le scarpe, inizio...
       japanese: "\u304F\u3064\u3092\u306F\u304F\u6642\u3001\u3069\u3063\u3061\u306E\
         \u8DB3\u304B\u3089\u306F\u304F\u304B\u2026"
-      portuguese: "Quando coloco meu sapato,\no p\xE9 que come\xE7o \xE9..."
+      portuguese: "Quando coloco meu sapato, o p\xE9 que come\xE7o \xE9..."
       spanish: 'Cuando me pongo los zapatos,
 
         empiezo siempre por...'
@@ -4903,7 +4903,7 @@
       english: You are most often called by your...
       french: On vous appelle le plus souvent par votre...
       french_canada: On vous appelle le plus souvent par. . .
-      german: "Mit welchem Namen wirst du am h\xE4ufigsten\ngerufen?"
+      german: "Mit welchem Namen wirst du am h\xE4ufigsten gerufen?"
       italian: "Ti chiamano di pi\xF9 con il tuo..."
       japanese: "\u3069\u3063\u3061\u3067\u547C\u3070\u308C\u308B\u3053\u3068\u304C\
         \u591A\u3044\uFF1F"
@@ -4989,7 +4989,7 @@
     question:
       dutch: Ben je ooit naar het circus geweest?
       english: Have you ever been to the circus?
-      french: "Avez-vous d\xE9j\xE0 assist\xE9 \xE0 un spectacle\nde cirque?"
+      french: "Avez-vous d\xE9j\xE0 assist\xE9 \xE0 un spectacle de cirque?"
       french_canada: "\xCAtes-vous d\xE9j\xE0 all\xE9(e) au cirque?"
       german: Warst du schon mal im Zirkus?
       italian: Sei mai stato al circo?
@@ -5078,16 +5078,16 @@
       english: 'Have you taken trips that were two nights
 
         or more this year?'
-      french: "Cette ann\xE9e, avez-vous effectu\xE9 un\nvoyage d'une dur\xE9e de\
+      french: "Cette ann\xE9e, avez-vous effectu\xE9 un voyage d'une dur\xE9e de\
         \ deux nuits ou plus?"
       french_canada: "Avez-vous voyag\xE9 deux nuits ou plus cette ann\xE9e?"
-      german: "Hast du dieses Jahr schon Ausfl\xFCge unternommen,\ndie l\xE4nger als\
+      german: "Hast du dieses Jahr schon Ausfl\xFCge unternommen, die l\xE4nger als\
         \ zwei Tage gedauert haben?"
-      italian: "Hai intrapreso viaggi di due o pi\xF9 notti\nquest'anno?"
+      italian: "Hai intrapreso viaggi di due o pi\xF9 notti quest'anno?"
       japanese: "\u4ECA\u5E74\u3001\uFF12\u6CCA\u4EE5\u4E0A\u306E\u65C5\u884C\u306B\
         \u884C\u3063\u305F\uFF1F"
       portuguese: "J\xE1 viajou por duas ou mais noites neste ano?"
-      spanish: "\xBFHas hecho alg\xFAn viaje de dos\nnoches o m\xE1s este a\xF1o?"
+      spanish: "\xBFHas hecho alg\xFAn viaje de dos noches o m\xE1s este a\xF1o?"
     response_1:
       dutch: Ja
       english: 'Yes'
@@ -5127,7 +5127,7 @@
 
         domaine particulier?'
       french_canada: Prenez-vous des cours en ce moment?
-      german: "Nimmst du im Moment gerade f\xFCr etwas\nUnterricht?"
+      german: "Nimmst du im Moment gerade f\xFCr etwas Unterricht?"
       italian: Stai prendendo lezioni di qualcosa?
       japanese: "\u7FD2\u3044\u4E8B\u3092\u3057\u3066\u308B\uFF1F"
       portuguese: "Voc\xEA est\xE1 fazendo algum curso?"
@@ -5302,8 +5302,8 @@
       german: "Was macht dich gl\xFCcklicher? Freundlichkeit..."
       italian: Cosa ti fa sentire meglio? La gentilezza...
       japanese: "\u3069\u3063\u3061\u304C\u6C17\u5206\u304C\u3044\u3044\uFF1F"
-      portuguese: "O que faz voc\xEA se sentir melhor?\nGentileza..."
-      spanish: "\xBFPrefieres ser amable con los dem\xE1s\no que la gente sea amable\
+      portuguese: "O que faz voc\xEA se sentir melhor? Gentileza..."
+      spanish: "\xBFPrefieres ser amable con los dem\xE1s o que la gente sea amable\
         \ contigo?"
     response_1:
       dutch: Van mij naar anderen
@@ -5474,11 +5474,11 @@
       english: Do you want to become a company president?
       french: Avez-vous envie de devenir PDG?
       french_canada: Avez-vous envie de devenir PDG?
-      german: "M\xF6chtest du einmal den Vorsitz\neiner Firma \xFCbernehmen?"
+      german: "M\xF6chtest du einmal den Vorsitz einer Firma \xFCbernehmen?"
       italian: Vuoi diventare il presidente di un'azienda?
       japanese: "\u4F1A\u793E\u306E\u793E\u9577\u306B\u306A\u3063\u3066\u307F\u305F\
         \u3044\uFF1F"
-      portuguese: "Voc\xEA pretende se tornar o presidente \nde uma empresa?"
+      portuguese: "Voc\xEA pretende se tornar o presidente  de uma empresa?"
       spanish: "\xBFTe gustar\xEDa presidir una empresa?"
     response_1:
       dutch: Ja
@@ -5519,11 +5519,11 @@
       english: Arriving at a set meeting time, I'm usually...
       french: "Quand j'ai un rendez-vous, j'arrive en g\xE9n\xE9ral..."
       french_canada: "Quand j'ai un rendez-vous, j'arrive en g\xE9n\xE9ral..."
-      german: "Zu einem vereinbarten Treffen\nerscheine ich f\xFCr gew\xF6hnlich..."
+      german: "Zu einem vereinbarten Treffen erscheine ich f\xFCr gew\xF6hnlich..."
       italian: Quando ho un appuntamento, arrivo sempre...
       japanese: "\u5F85\u3061\u5408\u308F\u305B\u306E\u96C6\u5408\u6642\u9593\u306B\
         \u7740\u304F\u306E\u306F\u3060\u3044\u305F\u3044\u2026"
-      portuguese: "Quando tenho uma reun\xED\xE3o, \nnormalmente..."
+      portuguese: "Quando tenho uma reun\xED\xE3o,  normalmente..."
       spanish: "Cuando tengo una reuni\xF3n, llego..."
     response_1:
       dutch: Tien minuten eerder
@@ -5568,7 +5568,7 @@
       italian: Almeno 20 flessioni consecutive sono...
       japanese: "\u8155\u7ACB\u3066\u4F0F\u305B\u3092\uFF12\uFF10\u56DE\u4EE5\u4E0A\
         \u9023\u7D9A\u3067\u2026"
-      portuguese: "Fazer 20 ou mais flex\xF5es \nconsecutivas \xE9..."
+      portuguese: "Fazer 20 ou mais flex\xF5es  consecutivas \xE9..."
       spanish: "20 o m\xE1s flexiones seguidas..."
     response_1:
       dutch: Een makkie!
@@ -5607,8 +5607,8 @@
 
         getal pi?'
       english: Can you say what comes after "3.14" for pi?
-      french: "Sauriez-vous dire quelles sont les d\xE9cimales\nde pi apr\xE8s 3,14?"
-      french_canada: "Sauriez-vous dire quelles sont les d\xE9cimales\nde pi apr\xE8\
+      french: "Sauriez-vous dire quelles sont les d\xE9cimales de pi apr\xE8s 3,14?"
+      french_canada: "Sauriez-vous dire quelles sont les d\xE9cimales de pi apr\xE8\
         s 3,14?"
       german: 'Kennst du die dritte Stelle nach
 
@@ -5618,7 +5618,7 @@
         del pi greco?'
       japanese: "\u5186\u5468\u7387\u3001\u300C\uFF13\uFF0E\uFF11\uFF14\u300D\u306E\
         \u7D9A\u304D\u3092\u5C11\u3057\u3067\u3082\u8A00\u3048\u308B\uFF1F"
-      portuguese: "Voc\xEA lembra o que vem depois \nde \"3,14\" no pi?"
+      portuguese: "Voc\xEA lembra o que vem depois  de \"3,14\" no pi?"
       spanish: "\xBFC\xF3mo contin\xFAa el n\xFAmero pi \"3,14...\"?"
     response_1:
       dutch: Ja
@@ -5665,7 +5665,7 @@
         quando viaggi?'
       japanese: "\u65C5\u884C\u306B\u30AB\u30E1\u30E9\u3092\u6301\u3063\u3066\u3044\
         \u304F\uFF1F"
-      portuguese: "Voc\xEA leva uma c\xE2mera quando \nvoc\xEA viaja?"
+      portuguese: "Voc\xEA leva uma c\xE2mera quando  voc\xEA viaja?"
       spanish: "\xBFLlevas c\xE1mara cuando viajas?"
     response_1:
       dutch: Altijd
@@ -5789,15 +5789,15 @@
 
         gegeten?'
       english: Have you ever eaten vegetables you grew yourself?
-      french: "Avez-vous d\xE9j\xE0 mang\xE9 des l\xE9gumes que\nvous aviez fait pousser\
+      french: "Avez-vous d\xE9j\xE0 mang\xE9 des l\xE9gumes que vous aviez fait pousser\
         \ vous-m\xEAme?"
-      french_canada: "Avez-vous d\xE9j\xE0 mang\xE9 des l\xE9gumes que\nvous aviez\
+      french_canada: "Avez-vous d\xE9j\xE0 mang\xE9 des l\xE9gumes que vous aviez\
         \ fait pousser vous-m\xEAme?"
-      german: "Hast du schon einmal Gem\xFCse gegessen,\ndas du selbst angebaut hast?"
+      german: "Hast du schon einmal Gem\xFCse gegessen, das du selbst angebaut hast?"
       italian: Hai mai mangiato le verdure del tuo stesso orto?
       japanese: "\u81EA\u5206\u306E\u5BB6\u3067\u80B2\u3066\u305F\u91CE\u83DC\u3092\
         \u98DF\u3079\u305F\u3053\u3068\u304C\u2026"
-      portuguese: "Voc\xEA j\xE1 comeu legumes que voc\xEA \nmesmo plantou?"
+      portuguese: "Voc\xEA j\xE1 comeu legumes que voc\xEA  mesmo plantou?"
       spanish: "\xBFHas comido alguna vez verduras cultivadas por ti?"
     response_1:
       dutch: Ja
@@ -5836,9 +5836,9 @@
 
         verjaardagscadeau gegeven?'
       english: Did you give anyone a birthday present this year?
-      french: "Avez-vous offert un cadeau d'anniversaire\n\xE0 quelqu'un cette ann\xE9\
+      french: "Avez-vous offert un cadeau d'anniversaire \xE0 quelqu'un cette ann\xE9\
         e?"
-      french_canada: "Avez-vous offert un cadeau d'anniversaire\n\xE0 quelqu'un cette\
+      french_canada: "Avez-vous offert un cadeau d'anniversaire \xE0 quelqu'un cette\
         \ ann\xE9e?"
       german: 'Hast du schon jemandem in diesem Jahr
 
@@ -5848,7 +5848,7 @@
         compleanno?'
       japanese: "\u4ECA\u5E74\u3001\u8AB0\u304B\u306B\u8A95\u751F\u65E5\u30D7\u30EC\
         \u30BC\u30F3\u30C8\u3092\u3042\u3052\u305F\uFF1F"
-      portuguese: "Voc\xEA deu um presente de anivers\xE1rio \npara algu\xE9m esse\
+      portuguese: "Voc\xEA deu um presente de anivers\xE1rio  para algu\xE9m esse\
         \ ano?"
       spanish: "\xBFHas hecho alg\xFAn regalo de cumplea\xF1os este a\xF1o?"
     response_1:
@@ -5884,16 +5884,16 @@
   date: September 16, 2012
   poll:
     question:
-      dutch: "Luister je minstens \xE9\xE9n keer per maand\nnaar de radio?"
+      dutch: "Luister je minstens \xE9\xE9n keer per maand naar de radio?"
       english: Do you listen to the radio at least once a month?
-      french: "Est-ce que vous \xE9coutez la radio au moins\nune fois par mois ?"
-      french_canada: "Est-ce que vous \xE9coutez la radio au moins\nune fois par mois\
+      french: "Est-ce que vous \xE9coutez la radio au moins une fois par mois ?"
+      french_canada: "Est-ce que vous \xE9coutez la radio au moins une fois par mois\
         \ ?"
       german: "H\xF6rst du einmal oder h\xE4ufiger im Monat Radio?"
       italian: Ascolti la radio almeno una volta al mese?
       japanese: "\u30E9\u30B8\u30AA\u3092\u8074\u304F\u3053\u3068\u304C\uFF11\u30F6\
         \u6708\u306B\uFF11\u56DE\u4EE5\u4E0A\u2026"
-      portuguese: "Voc\xEA ouve r\xE1dio pelo menos uma \nvez por m\xEAs?"
+      portuguese: "Voc\xEA ouve r\xE1dio pelo menos uma  vez por m\xEAs?"
       spanish: "\xBFOyes la radio al menos una vez al mes?"
     response_1:
       dutch: Ja
@@ -5932,14 +5932,14 @@
 
         videobanden kan afspelen.'
       english: I have a device that can play video tapes at home.
-      french: "J'ai chez moi l'\xE9quipement pour lire\ndes cassettes vid\xE9o."
-      french_canada: "Vous avez chez vous l'\xE9quipement pour lire\ndes cassettes\
+      french: "J'ai chez moi l'\xE9quipement pour lire des cassettes vid\xE9o."
+      french_canada: "Vous avez chez vous l'\xE9quipement pour lire des cassettes\
         \ vid\xE9o."
-      german: "Besitzt du daheim ein Ger\xE4t zum\nAbspielen von Videokassetten?"
+      german: "Besitzt du daheim ein Ger\xE4t zum Abspielen von Videokassetten?"
       italian: A casa ho un videoregistratore a cassette.
       japanese: "\u81EA\u5B85\u306B\u30D3\u30C7\u30AA\u30C6\u30FC\u30D7\u3092\u518D\
         \u751F\u3067\u304D\u308B\u6A5F\u5668\u304C\u2026"
-      portuguese: "Eu tenho um aparelho para assistir \nfitas de v\xEDdeo em casa."
+      portuguese: "Eu tenho um aparelho para assistir  fitas de v\xEDdeo em casa."
       spanish: "\xBFTienes video en casa?"
     response_1:
       dutch: Waar
@@ -6024,7 +6024,7 @@
       german: Hast du jemals Parfum getragen?
       italian: Hai mai usato profumi?
       japanese: "\u9999\u6C34\u3092\u3064\u3051\u305F\u3053\u3068\u304C\u2026"
-      portuguese: "Voc\xEA j\xE1 usou Eau de Toilette \nalguma vez?"
+      portuguese: "Voc\xEA j\xE1 usou Eau de Toilette  alguma vez?"
       spanish: "\xBFHas llevado perfume alguna vez?"
     response_1:
       dutch: Ja
@@ -6063,11 +6063,11 @@
       english: On my birthday, I would prefer to receive a...
       french: "Pour mon anniversaire, je pr\xE9f\xE9rerais recevoir..."
       french_canada: "Pour ma f\xEAte, je pr\xE9f\xE9rerais recevoir..."
-      german: "Welches Geburtstagsgeschenk\nw\xFCrdest du bevorzugen?"
+      german: "Welches Geburtstagsgeschenk w\xFCrdest du bevorzugen?"
       italian: Per il mio compleanno, preferisco ricevere...
       japanese: "\u8A95\u751F\u65E5\u306B\u3082\u3089\u3063\u3066\u3046\u308C\u3057\
         \u3044\u306E\u306F\u2026"
-      portuguese: "No meu anivers\xE1rio, eu iria preferir \nganhar..."
+      portuguese: "No meu anivers\xE1rio, eu iria preferir  ganhar..."
       spanish: "En tu cumplea\xF1os, te gusta recibir..."
     response_1:
       dutch: Een bos bloemen
@@ -6191,7 +6191,7 @@
       english: Speaking in front of a large group of people is...
       french: "Parler devant toute une assembl\xE9e, c'est..."
       french_canada: "Parler devant toute une assembl\xE9e, c'est..."
-      german: "Kannst du vor einer gro\xDFen Gruppe\nvon Leuten reden?"
+      german: "Kannst du vor einer gro\xDFen Gruppe von Leuten reden?"
       italian: "Parlare di fronte a un ampio pubblico \xE8..."
       japanese: "\u5927\u52E2\u306E\u4EBA\u306E\u524D\u3067\u8A71\u3059\u306E\u306F\
         \u2026"
@@ -6285,7 +6285,7 @@
       italian: Usi il treno almeno una volta a settimana?
       japanese: "\u9031\u306B\uFF11\u56DE\u4EE5\u4E0A\u3001\u96FB\u8ECA\u306B\u4E57\
         \u308B\uFF1F"
-      portuguese: "Voc\xEA anda de trem pelo menos uma vez \npor semana?"
+      portuguese: "Voc\xEA anda de trem pelo menos uma vez  por semana?"
       spanish: "\xBFTomas el tren por lo menos una vez a la semana?"
     response_1:
       dutch: Ja
@@ -6418,7 +6418,7 @@
         che tipo di colore sceglieresti?'
       japanese: "\u8ECA\u3092\u6301\u3064\u3068\u3057\u305F\u3089\u3001\u3069\u3093\
         \u306A\u8272\u304C\u3044\u3044\uFF1F"
-      portuguese: "Se voc\xEA fosse comprar um carro, que \ncor escolheria?"
+      portuguese: "Se voc\xEA fosse comprar um carro, que  cor escolheria?"
       spanish: "Si compraras un autom\xF3vil, \xBFqu\xE9 color preferir\xEDas?"
     response_1:
       dutch: Een opvallende kleur
@@ -6583,15 +6583,15 @@
     question:
       dutch: Wat voor iemand vind je dat je zelf bent
       english: Which type do you want to be considered?
-      french: "Quel type de personne pr\xE9f\xE9rez-vous\nque les gens pensent que\
+      french: "Quel type de personne pr\xE9f\xE9rez-vous que les gens pensent que\
         \ vous \xEAtes?"
-      french_canada: "Quel type de personne pr\xE9f\xE9rez-vous\nque les gens pensent\
+      french_canada: "Quel type de personne pr\xE9f\xE9rez-vous que les gens pensent\
         \ que vous \xEAtes?"
       german: Wie sollen dich andere Menschen wahrnehmen?
       italian: Preferisci che ti considerino...
       japanese: "\u3069\u3063\u3061\u306E\u30BF\u30A4\u30D7\u3060\u3068\u601D\u308F\
         \u308C\u305F\u3044\uFF1F"
-      portuguese: "Como voc\xEA gostaria de ser visto? Como \numa pessoa..."
+      portuguese: "Como voc\xEA gostaria de ser visto? Como  uma pessoa..."
       spanish: "\xBFC\xF3mo te gustar\xEDa que te consideraran?"
     response_1:
       dutch: Een aardig iemand
@@ -6632,18 +6632,18 @@
       english: 'This is the final worldwide question!
 
         When you sleep, your room is...'
-      french: "Voici l'ultime question pos\xE9e au monde entier!\nComment pr\xE9f\xE9\
+      french: "Voici l'ultime question pos\xE9e au monde entier! Comment pr\xE9f\xE9\
         rez-vous dormir?"
       french_canada: "Comment pr\xE9f\xE9rez-vous dormir?"
-      german: "Das ist die letzte weltweit gestellte Frage!\nDas Zimmer, in dem du\
+      german: "Das ist die letzte weltweit gestellte Frage! Das Zimmer, in dem du\
         \ schl\xE4fst, ist..."
-      italian: "Questa \xE8 l'ultima domanda a livello internazionale!\nQuando dormi,\
+      italian: "Questa \xE8 l'ultima domanda a livello internazionale! Quando dormi,\
         \ la tua camera \xE8..."
       japanese: "\u6700\u5F8C\u306E\u30EF\u30FC\u30EB\u30C9\u8CEA\u554F\u3067\u3059\
-        \uFF01\n\u5BDD\u308B\u3068\u304D\u3001\u90E8\u5C4B\u306F..."
-      portuguese: "Esta \xE9 a \xFAltima pergunta a n\xEDvel mundial!\nQuando voc\xEA\
+        \uFF01 \u5BDD\u308B\u3068\u304D\u3001\u90E8\u5C4B\u306F..."
+      portuguese: "Esta \xE9 a \xFAltima pergunta a n\xEDvel mundial! Quando voc\xEA\
         \ dorme, seu quarto est\xE1..."
-      spanish: "\xA1Esta es la \xFAltima pregunta a nivel mundial!\nCuando duermes\
+      spanish: "\xA1Esta es la \xFAltima pregunta a nivel mundial! Cuando duermes\
         \ tu cuarto est\xE1..."
     response_1:
       dutch: helemaal donker is

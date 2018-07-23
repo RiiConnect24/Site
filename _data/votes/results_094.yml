@@ -5570,7 +5570,7 @@
   date: January 20, 2009
   poll:
     question:
-      dutch: "Doe \xE9\xE9n oog dicht.\nWelk oog deed je dicht?"
+      dutch: "Doe \xE9\xE9n oog dicht. Welk oog deed je dicht?"
     response_1:
       dutch: Linkeroog
     response_2:
@@ -7738,7 +7738,7 @@
   date: October 24, 2009
   poll:
     question:
-      dutch: "Van welke dro\xEFde zou je graag hulp\nwillen hebben bij je karweitjes?"
+      dutch: "Van welke dro\xEFde zou je graag hulp willen hebben bij je karweitjes?"
     response_1:
       dutch: R2-D2
     response_2:
@@ -18168,7 +18168,7 @@
   date: June 13, 2013
   poll:
     question:
-      dutch: "Dit is de laatste vraag in het enqu\xEAte-\nkanaal! Vond je het kanaal\
+      dutch: "Dit is de laatste vraag in het enqu\xEAte- kanaal! Vond je het kanaal\
         \ leuk?"
     response_1:
       dutch: Ja

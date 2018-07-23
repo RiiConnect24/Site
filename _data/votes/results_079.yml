@@ -440,7 +440,7 @@
       portuguese: 'Alguma vez ofereceu um presente
 
         que lhe tinham oferecido a si?'
-      spanish: "\xBFHas regalado alguna vez un regalo\nque te hab\xEDan hecho a ti?"
+      spanish: "\xBFHas regalado alguna vez un regalo que te hab\xEDan hecho a ti?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -586,7 +586,7 @@
 
         in a shop window. What do you do?'
       portuguese: "V\xEA uma coisa de que gosta numa loja. O que faz?"
-      spanish: "Si ves algo que te encanta en\nun escaparate, \xBFqu\xE9 haces?"
+      spanish: "Si ves algo que te encanta en un escaparate, \xBFqu\xE9 haces?"
     response_1:
       english: Rush in and buy it!
       portuguese: "Corre a compr\xE1-la"
@@ -1475,7 +1475,7 @@
       english: 'Were you born in the first or
 
         second half of the year?'
-      portuguese: "Voc\xEA nasceu na primeira ou\nna segunda metade do ano?"
+      portuguese: "Voc\xEA nasceu na primeira ou na segunda metade do ano?"
       spanish: "\xBFEn qu\xE9 mitad del a\xF1o naciste?"
     response_1:
       english: First half
@@ -1571,7 +1571,7 @@
   poll:
     question:
       english: Say "red lorry, yellow lorry" five times quickly!
-      portuguese: "Diga \"carro vermelho, carro amarelo\"\nr\xE1pido cinco vezes"
+      portuguese: "Diga \"carro vermelho, carro amarelo\" r\xE1pido cinco vezes"
       spanish: Di cinco veces y deprisa "tres tristes tigres".
     response_1:
       english: I did it!
@@ -1620,7 +1620,7 @@
     question:
       english: Do you like to use smileys in your email?
       portuguese: Gosta de utilizar "smileys" nos emails?
-      spanish: "\xBFTe parece bien el uso de smileys\nen el correo electr\xF3nico?"
+      spanish: "\xBFTe parece bien el uso de smileys en el correo electr\xF3nico?"
     response_1:
       english: Yes :-)
       portuguese: Sim :-)
@@ -1718,7 +1718,7 @@
       portuguese: 'Tem duas semanas para entregar
 
         um trabalho. Que faz?'
-      spanish: "Debes terminar una tarea en dos semanas...\n\xBFQu\xE9 haces?"
+      spanish: "Debes terminar una tarea en dos semanas... \xBFQu\xE9 haces?"
     response_1:
       english: Start it now
       portuguese: "Come\xE7a logo"
@@ -2008,7 +2008,7 @@
     question:
       english: There's a 40% chance of rain. Do you...
       portuguese: "Tem 40% de possibilidade de chuva. Voc\xEA..."
-      spanish: "La probabilidad de que llueva es del 40%...\n\xBFQu\xE9 haces t\xFA\
+      spanish: "La probabilidad de que llueva es del 40%... \xBFQu\xE9 haces t\xFA\
         ?"
     response_1:
       english: Take an umbrella
@@ -2033,7 +2033,7 @@
     question:
       english: Which would you rather discover the cure for?
       portuguese: Preferia descobrir a cura para...
-      spanish: "\xBFPara qu\xE9 te parece m\xE1s necesario\nun remedio infalible?"
+      spanish: "\xBFPara qu\xE9 te parece m\xE1s necesario un remedio infalible?"
     response_1:
       english: Hiccups
       portuguese: "Solu\xE7os"
@@ -2467,7 +2467,7 @@
     question:
       english: What do you do with the rest of the milk in the cereal bowl?
       portuguese: "O que fazes com o resto do leite na ta\xE7a dos cereais?"
-      spanish: "\xBFQu\xE9 haces con la leche que queda tras\ncomerte los cereales?"
+      spanish: "\xBFQu\xE9 haces con la leche que queda tras comerte los cereales?"
     response_1:
       english: Drink it
       portuguese: Bebes
@@ -2733,7 +2733,7 @@
     question:
       english: Have you ever found a four-leaf clover?
       portuguese: "J\xE1 encontraste um trevo de 4 folhas?"
-      spanish: "\xBFHas encontrado alguna vez un tr\xE9bol\nde cuatro hojas?"
+      spanish: "\xBFHas encontrado alguna vez un tr\xE9bol de cuatro hojas?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -2831,7 +2831,7 @@
 
         like to see first?'
       portuguese: "Que inven\xE7\xE3o futurista gostarias de ver primeiro?"
-      spanish: "\xBFQu\xE9 invenci\xF3n del futuro te gustar\xEDa\nque llegase antes?"
+      spanish: "\xBFQu\xE9 invenci\xF3n del futuro te gustar\xEDa que llegase antes?"
     response_1:
       english: Flying cars
       portuguese: Carros voadores
@@ -3028,7 +3028,7 @@
       english: 'Do you remember what you had
 
         for lunch two days ago?'
-      portuguese: "Lembras-te do que almo\xE7aste\nh\xE1 dois dias atr\xE1s?"
+      portuguese: "Lembras-te do que almo\xE7aste h\xE1 dois dias atr\xE1s?"
       spanish: "\xBFRecuerdas lo que comiste hace dos d\xEDas?"
     response_1:
       english: 'Yes'
@@ -3126,7 +3126,7 @@
       english: 'Do you look at the end of books
 
         before reading them?'
-      portuguese: "Espreitas a \xFAltima p\xE1gina dos livros\nantes de os leres?"
+      portuguese: "Espreitas a \xFAltima p\xE1gina dos livros antes de os leres?"
       spanish: "\xBFMiras el final de los libros antes de leerlos?"
     response_1:
       english: 'Yes'
@@ -3415,7 +3415,7 @@
     question:
       english: If you could be a TV presenter, would you be on...
       portuguese: "Na televis\xE3o, que programa gostarias de apresentar?"
-      spanish: "Si fueras un presentador de la tele,\n\xBFqu\xE9 te gustar\xEDa presentar?"
+      spanish: "Si fueras un presentador de la tele, \xBFqu\xE9 te gustar\xEDa presentar?"
     response_1:
       english: A sports programme
       portuguese: Desporto
@@ -3489,7 +3489,7 @@
 
         triangles or rectangles?'
       portuguese: "Cortas as tuas sandu\xEDches em tri\xE2ngulos ou rect\xE2ngulos?"
-      spanish: "\xBFCortas los s\xE1ndwiches en tri\xE1ngulos o\nen rect\xE1ngulos?"
+      spanish: "\xBFCortas los s\xE1ndwiches en tri\xE1ngulos o en rect\xE1ngulos?"
     response_1:
       english: Triangles
       portuguese: "Tri\xE2ngulos"
@@ -3541,7 +3541,7 @@
       portuguese: 'Alguma vez sonhaste com alguma coisa
 
         que se tenha realizado mais tarde?'
-      spanish: "\xBFAlguna vez has so\xF1ado con algo que\nse ha hecho realidad despu\xE9\
+      spanish: "\xBFAlguna vez has so\xF1ado con algo que se ha hecho realidad despu\xE9\
         s?"
     response_1:
       english: 'Yes'
@@ -3807,8 +3807,8 @@
       english: 'The bus you''re catching is crowded.
 
         What do you do?'
-      portuguese: "O autocarro que pretendes apanhar est\xE1 cheio.\nO que fazes?"
-      spanish: "El autob\xFAs que quieres coger va hasta\nlos topes. \xBFQu\xE9 har\xED\
+      portuguese: "O autocarro que pretendes apanhar est\xE1 cheio. O que fazes?"
+      spanish: "El autob\xFAs que quieres coger va hasta los topes. \xBFQu\xE9 har\xED\
         as?"
     response_1:
       english: Take it anyway
@@ -3858,8 +3858,8 @@
       english: 'When you lose in a competition, which
 
         most accurately describes you?'
-      portuguese: "Como te descreverias quando perdes\numa competi\xE7\xE3o?"
-      spanish: "Cuando pierdes en una competici\xF3n,\n\xBFc\xF3mo describir\xEDas\
+      portuguese: "Como te descreverias quando perdes uma competi\xE7\xE3o?"
+      spanish: "Cuando pierdes en una competici\xF3n, \xBFc\xF3mo describir\xEDas\
         \ tu actitud?"
     response_1:
       english: Gracious loser
@@ -3885,7 +3885,7 @@
       english: 'Which method of learning do you
 
         find more useful?'
-      portuguese: "Para ti, qual o m\xE9todo de aprendizagem\nmais \xFAtil?"
+      portuguese: "Para ti, qual o m\xE9todo de aprendizagem mais \xFAtil?"
       spanish: "\xBFC\xF3mo estudias mejor?"
     response_1:
       english: With books
@@ -3909,8 +3909,8 @@
   poll:
     question:
       english: Can you say the alphabet backwards quickly?
-      portuguese: "Consegues dizer rapidamente o alfabeto\nde tr\xE1s para a frente?"
-      spanish: "\xBFPuedes recitar el alfabeto\nal rev\xE9s r\xE1pidamente?"
+      portuguese: "Consegues dizer rapidamente o alfabeto de tr\xE1s para a frente?"
+      spanish: "\xBFPuedes recitar el alfabeto al rev\xE9s r\xE1pidamente?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -4058,7 +4058,7 @@
       portuguese: 'Encontras dois caminhos numa montanha.
 
         Preferes o caminho...'
-      spanish: "Hay dos caminos para a subir a\nla monta\xF1a. \xBFCu\xE1l coges?"
+      spanish: "Hay dos caminos para a subir a la monta\xF1a. \xBFCu\xE1l coges?"
     response_1:
       english: Short but steep
       portuguese: "Curto mas \xEDngreme"
@@ -4083,9 +4083,9 @@
       english: 'There''s good news and there''s bad news.
 
         Which do you want to hear first?'
-      portuguese: "H\xE1 boas e m\xE1s not\xEDcias.\nQuais preferes ouvir em primeiro\
+      portuguese: "H\xE1 boas e m\xE1s not\xEDcias. Quais preferes ouvir em primeiro\
         \ lugar?"
-      spanish: "Hay una noticia buena y otra mala.\n\xBFCu\xE1l prefieres o\xEDr primero?"
+      spanish: "Hay una noticia buena y otra mala. \xBFCu\xE1l prefieres o\xEDr primero?"
     response_1:
       english: The good news
       portuguese: "As boas not\xEDcias"
@@ -4110,7 +4110,7 @@
       english: 'Have you ever fallen asleep while watching
 
         a film at the cinema?'
-      portuguese: "J\xE1 adormeceste enquanto vias\num filme no cinema?"
+      portuguese: "J\xE1 adormeceste enquanto vias um filme no cinema?"
       spanish: "\xBFTe has quedado dormido alguna vez en el cine?"
     response_1:
       english: 'Yes'
@@ -4157,8 +4157,8 @@
   date: March 13, 2008
   poll:
     question:
-      english: "It\u2019s your turn to do the dishes.\nWhich would you rather do?"
-      portuguese: "\xC9 a tua vez de lavar a loi\xE7a.\nO que preferes fazer?"
+      english: "It\u2019s your turn to do the dishes. Which would you rather do?"
+      portuguese: "\xC9 a tua vez de lavar a loi\xE7a. O que preferes fazer?"
       spanish: "Te toca ayudar a limpiar. \xBFQu\xE9 prefieres?"
     response_1:
       english: Wash
@@ -4332,8 +4332,8 @@
       english: 'Do you prefer a bit of mystery or do you
 
         like to know all the answers?'
-      portuguese: "Preferes algum mist\xE9rio ou\nsaber todas as respostas?"
-      spanish: "\xBFTe gustan los misterios o prefieres\nsaber todas las respuestas?"
+      portuguese: "Preferes algum mist\xE9rio ou saber todas as respostas?"
+      spanish: "\xBFTe gustan los misterios o prefieres saber todas las respuestas?"
     response_1:
       english: Mystery
       portuguese: "Mist\xE9rio"
@@ -4404,7 +4404,7 @@
   poll:
     question:
       english: When you say "in a minute", what do you mean?
-      portuguese: "Quando dizes \u201Cs\xF3 um minuto\u201D,\no que queres realmente\
+      portuguese: "Quando dizes \u201Cs\xF3 um minuto\u201D, o que queres realmente\
         \ dizer?"
       spanish: "Cuando dices \"en un minuto\", \xBFqu\xE9 quieres decir?"
     response_1:
@@ -4506,7 +4506,7 @@
       portuguese: 'Organizas uma festa e metade dos teus convidados
 
         recusam o convite. O que fazes?'
-      spanish: "\xBFQu\xE9 har\xEDas si organizas una fiesta y\nla mitad de los invitados\
+      spanish: "\xBFQu\xE9 har\xEDas si organizas una fiesta y la mitad de los invitados\
         \ cancela su asistencia?"
     response_1:
       english: Throw the party anyway
@@ -4580,8 +4580,8 @@
       english: 'Have you ever met somebody with the
 
         same birthday as you?'
-      portuguese: "J\xE1 conheceste algu\xE9m que faz\nanos no mesmo dia que tu?"
-      spanish: "\xBFHas conocido alguna vez a alguien\nque haya nacido el mismo d\xED\
+      portuguese: "J\xE1 conheceste algu\xE9m que faz anos no mesmo dia que tu?"
+      spanish: "\xBFHas conocido alguna vez a alguien que haya nacido el mismo d\xED\
         a que t\xFA?"
     response_1:
       english: Not that I know of
@@ -4631,8 +4631,8 @@
       english: 'If you could have a robot, what would
 
         you want it to do?'
-      portuguese: "Se pudesses ter um rob\xF4, que gostarias\nque ele fizesse?"
-      spanish: "Si pudieras tener un robot,\n\xBFqu\xE9 te gustar\xEDa que hiciera?"
+      portuguese: "Se pudesses ter um rob\xF4, que gostarias que ele fizesse?"
+      spanish: "Si pudieras tener un robot, \xBFqu\xE9 te gustar\xEDa que hiciera?"
     response_1:
       english: Clean the house
       portuguese: Que limpasse a casa
@@ -4829,9 +4829,9 @@
       english: 'You have an itch on your left ear. Which hand
 
         do you use to scratch it with?'
-      portuguese: "Tens comich\xE3o na orelha esquerda. Com que m\xE3o\ncostumas co\xE7\
+      portuguese: "Tens comich\xE3o na orelha esquerda. Com que m\xE3o costumas co\xE7\
         \xE1-la?"
-      spanish: "Te pica la oreja izquierda.\n\xBFCon qu\xE9 mano te rascar\xEDas?"
+      spanish: "Te pica la oreja izquierda. \xBFCon qu\xE9 mano te rascar\xEDas?"
     response_1:
       english: Left hand
       portuguese: "A m\xE3o esquerda"
@@ -4880,7 +4880,7 @@
       english: 'There''s only one piece of cake left.
 
         What do you do?'
-      portuguese: "Sobrou uma \xFAnica fatia de bolo.\nO que fazes?"
+      portuguese: "Sobrou uma \xFAnica fatia de bolo. O que fazes?"
       spanish: "Solo queda un pedazo de tarta. \xBFQu\xE9 har\xEDas?"
     response_1:
       english: Eat it
@@ -4907,7 +4907,7 @@
       portuguese: 'Preferes escrever com
 
         uma caneta de tinta azul ou preta?'
-      spanish: "\xBFCon qu\xE9 color te gusta m\xE1s escribir\n negro o azul?"
+      spanish: "\xBFCon qu\xE9 color te gusta m\xE1s escribir  negro o azul?"
     response_1:
       english: Blue
       portuguese: Azul
@@ -5101,7 +5101,7 @@
     question:
       english: Have you ever found an egg with two yolks?
       portuguese: "J\xE1 encontraste um ovo com duas gemas?"
-      spanish: "\xBFAlguna vez has encontrado\nun huevo con dos yemas?"
+      spanish: "\xBFAlguna vez has encontrado un huevo con dos yemas?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -5152,7 +5152,7 @@
       english: 'You''ve just broken an expensive vase!
 
         What do you do?'
-      portuguese: "Acabaste de partir uma jarra car\xEDssima!\nO que fazes?"
+      portuguese: "Acabaste de partir uma jarra car\xEDssima! O que fazes?"
       spanish: "\xA1Has roto un jarr\xF3n muy caro! \xBFQu\xE9 haces?"
     response_1:
       english: Come clean about it
@@ -5419,7 +5419,7 @@
 
         if they both cost the same?'
       portuguese: "O que comprarias se o pre\xE7o fosse o mesmo?"
-      spanish: "\xBFQu\xE9 comprar\xEDas si las dos\nopciones costasen lo mismo?"
+      spanish: "\xBFQu\xE9 comprar\xEDas si las dos opciones costasen lo mismo?"
     response_1:
       english: One big cake
       portuguese: Um bolo grande
@@ -5492,8 +5492,8 @@
       english: 'Do you try to behave ecologically
 
         in your everyday life?'
-      portuguese: "Tentas ter um comportamento ecol\xF3gico\nno teu quotidiano?"
-      spanish: "\xBFIntentas cuidar del medio ambiente\nen el d\xEDa a d\xEDa?"
+      portuguese: "Tentas ter um comportamento ecol\xF3gico no teu quotidiano?"
+      spanish: "\xBFIntentas cuidar del medio ambiente en el d\xEDa a d\xEDa?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -5904,7 +5904,7 @@
   poll:
     question:
       english: What do your friends generally address you with?
-      portuguese: "Como \xE9 que os teus amigos\nte tratam normalmente?"
+      portuguese: "Como \xE9 que os teus amigos te tratam normalmente?"
       spanish: "\xBFC\xF3mo suelen llamarte tus amigos?"
     response_1:
       english: My first name
@@ -6001,7 +6001,7 @@
     question:
       english: How old are most of your friends compared to you?
       portuguese: "Que idade t\xEAm os teus amigos em rela\xE7\xE3o a ti?"
-      spanish: "\xBFCu\xE1l es la diferencia de edad\nentre tus amigos y t\xFA?"
+      spanish: "\xBFCu\xE1l es la diferencia de edad entre tus amigos y t\xFA?"
     response_1:
       english: Younger than me
       portuguese: "S\xE3o mais novos"
@@ -6050,9 +6050,9 @@
       english: 'Has your mind ever wandered to the point where
 
         you''ve bumped into someone on the street?'
-      portuguese: "J\xE1 te distra\xEDste ao ponto de esbarrares\ncontra uma pessoa\
+      portuguese: "J\xE1 te distra\xEDste ao ponto de esbarrares contra uma pessoa\
         \ na rua?"
-      spanish: "\xBFTe has distra\xEDdo hasta el punto\nde chocar con alguien en la\
+      spanish: "\xBFTe has distra\xEDdo hasta el punto de chocar con alguien en la\
         \ calle?"
     response_1:
       english: 'Yes'
@@ -6273,7 +6273,7 @@
 
         you like to eat out every day?'
       portuguese: "Se pudesses faz\xEA-lo, comias em restaurantes todos os dias?"
-      spanish: "Si pudieses permit\xEDrtelo,\n\xBFcomer\xEDas fuera todos los d\xED\
+      spanish: "Si pudieses permit\xEDrtelo, \xBFcomer\xEDas fuera todos los d\xED\
         as?"
     response_1:
       english: 'Yes'
@@ -6347,8 +6347,8 @@
       english: 'Do you keep the water running
 
         while you brush your teeth?'
-      portuguese: "Mant\xE9ns a \xE1gua a correr enquanto\nescovas os dentes?"
-      spanish: "\xBFDejas el agua corriendo\ncuando te lavas los dientes?"
+      portuguese: "Mant\xE9ns a \xE1gua a correr enquanto escovas os dentes?"
+      spanish: "\xBFDejas el agua corriendo cuando te lavas los dientes?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -6424,7 +6424,7 @@
       portuguese: 'Uma velhinha entra no autocarro.
 
         Ofereces o teu lugar?'
-      spanish: "Una se\xF1ora mayor en un autob\xFAs a tope.\n\xBFLe cedes tu sitio?"
+      spanish: "Una se\xF1ora mayor en un autob\xFAs a tope. \xBFLe cedes tu sitio?"
     response_1:
       english: Of course
       portuguese: Claro!
@@ -6471,8 +6471,8 @@
   poll:
     question:
       english: An item is more expensive than you thought...
-      portuguese: "Um objecto \xE9 mais caro do que pensavas,\npor isso tu..."
-      spanish: "Un art\xEDculo resulta ser m\xE1s caro\nde lo que pensabas, as\xED\
+      portuguese: "Um objecto \xE9 mais caro do que pensavas, por isso tu..."
+      spanish: "Un art\xEDculo resulta ser m\xE1s caro de lo que pensabas, as\xED\
         \ que..."
     response_1:
       english: Put it back!
@@ -6620,9 +6620,9 @@
       english: 'Do you think it would be good if everyone
 
         in the world spoke the same language?'
-      portuguese: "Achas que seria bom se todas as pessoas\nfalassem a mesma l\xED\
+      portuguese: "Achas que seria bom se todas as pessoas falassem a mesma l\xED\
         ngua?"
-      spanish: "\xBFCrees que ser\xEDa positivo que todos\nhabl\xE1semos el mismo\
+      spanish: "\xBFCrees que ser\xEDa positivo que todos habl\xE1semos el mismo\
         \ idioma?"
     response_1:
       english: Yes, it'd be so easy!
@@ -6648,7 +6648,7 @@
       english: 'When your alarm clock goes off in the
 
         morning, what do you do?'
-      portuguese: "Quando o despertador toca de\nde manh\xE3, o que fazes?"
+      portuguese: "Quando o despertador toca de de manh\xE3, o que fazes?"
       spanish: "\xBFQu\xE9 haces cuando suena el despertador?"
     response_1:
       english: Get up straight away
@@ -6722,7 +6722,7 @@
       english: 'Your portrait is going to be displayed in a gallery.
 
         Which kind would you prefer?'
-      portuguese: "O teu retrato vai ser exposto numa galeria.\nQue g\xE9nero preferias?"
+      portuguese: "O teu retrato vai ser exposto numa galeria. Que g\xE9nero preferias?"
       spanish: "Tu retrato se va a exponer. \xBFQu\xE9 prefieres?"
     response_1:
       english: Photograph
@@ -7304,7 +7304,7 @@
       english: 'If you''ve had an argument with
 
         your friend, do you generally...'
-      portuguese: "Se tiveres uma discuss\xE3o com\num amigo, costumas..."
+      portuguese: "Se tiveres uma discuss\xE3o com um amigo, costumas..."
       spanish: Si has discutido con un amigo...
     response_1:
       english: Apologise
@@ -7330,8 +7330,8 @@
       english: 'Do you always eat five portions
 
         of fruit and veg a day?'
-      portuguese: "Comes sempre cinco pe\xE7as\nde fruta e legumes por dia?"
-      spanish: "\xBFTomas todos los d\xEDas cinco\nraciones de fruta y verdura?"
+      portuguese: "Comes sempre cinco pe\xE7as de fruta e legumes por dia?"
+      spanish: "\xBFTomas todos los d\xEDas cinco raciones de fruta y verdura?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -7379,7 +7379,7 @@
     question:
       english: Do you visit your local library?
       portuguese: Visitas a tua biblioteca local?
-      spanish: "\xBFUsas la biblioteca de tu lugar\nde residencia?"
+      spanish: "\xBFUsas la biblioteca de tu lugar de residencia?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -7696,7 +7696,7 @@
       english: 'Do you prefer thin sliced bread
 
         or thick sliced bread?'
-      portuguese: "Preferes fatias de p\xE3o\nfinas ou grossas?"
+      portuguese: "Preferes fatias de p\xE3o finas ou grossas?"
       spanish: "\xBFTe gustan las rebanadas finas o gruesas?"
     response_1:
       english: Thin sliced
@@ -7768,7 +7768,7 @@
   poll:
     question:
       english: Do you think honesty is always the best policy?
-      portuguese: "Pensas que a honestidade \xE9\n sempre a melhor pol\xEDtica?"
+      portuguese: "Pensas que a honestidade \xE9  sempre a melhor pol\xEDtica?"
       spanish: "\xBFCrees que lo mejor es decir siempre la verdad?"
     response_1:
       english: 'Yes'
@@ -7869,7 +7869,7 @@
     question:
       english: Do you prefer watching or playing sports?
       portuguese: Preferes assistir ou praticar desportos?
-      spanish: "En los deportes,\n\xBFprefieres ser espectador o jugador?"
+      spanish: "En los deportes, \xBFprefieres ser espectador o jugador?"
     response_1:
       english: Watching
       portuguese: Assistir
@@ -7990,8 +7990,8 @@
       english: 'Look behind you.
 
         Which shoulder did you look over?'
-      portuguese: "Olha para tr\xE1s.\nSobre que ombro olhaste?"
-      spanish: "Mira hacia atr\xE1s.\n\xBFHacia qu\xE9 lado has girado la cabeza?"
+      portuguese: "Olha para tr\xE1s. Sobre que ombro olhaste?"
+      spanish: "Mira hacia atr\xE1s. \xBFHacia qu\xE9 lado has girado la cabeza?"
     response_1:
       english: Left
       portuguese: Esquerdo
@@ -8015,7 +8015,7 @@
     question:
       english: Have you ever fallen asleep on the phone?
       portuguese: Alguma vez adormeceste ao telefone?
-      spanish: "\xBFAlguna vez te has dormido\nhablando por tel\xE9fono?"
+      spanish: "\xBFAlguna vez te has dormido hablando por tel\xE9fono?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -8086,8 +8086,8 @@
   poll:
     question:
       english: Do you think grammar matters in emails?
-      portuguese: "Pensas que a gram\xE1tica \xE9\n importante nas mensagens de e-mail?"
-      spanish: "\xBFCrees que es importante cuidar\nla escritura en el correo electr\xF3\
+      portuguese: "Pensas que a gram\xE1tica \xE9  importante nas mensagens de e-mail?"
+      spanish: "\xBFCrees que es importante cuidar la escritura en el correo electr\xF3\
         nico?"
     response_1:
       english: 'Yes'
@@ -10033,7 +10033,7 @@
       english: 'In what order should everyone watch
 
         the Star Wars franchise?'
-      portuguese: "Em que ordem se deve\nassistir \xE0 saga Guerra das Estrelas?"
+      portuguese: "Em que ordem se deve assistir \xE0 saga Guerra das Estrelas?"
       spanish: "\xBFEn qu\xE9 orden se deber\xEDa ver la franquicia de Star Wars?"
     response_1:
       english: I, II, III, IV, V, VI
@@ -10131,7 +10131,7 @@
       english: 'Have you ever tried to use the Force
 
         like Luke Skywalker?'
-      portuguese: "J\xE1 tentaste usar a For\xE7a como\nLuke Skywalker?"
+      portuguese: "J\xE1 tentaste usar a For\xE7a como Luke Skywalker?"
       spanish: "\xBFHas intentado usar la fuerza como Luke Skywalker?"
     response_1:
       english: I'll never admit it!
@@ -10179,7 +10179,7 @@
   poll:
     question:
       english: 'Where did you first see Star Wars: Episode IV?'
-      portuguese: "Onde viste pela primeira vez\nGuerra das Estrelas: Epis\xF3dio\
+      portuguese: "Onde viste pela primeira vez Guerra das Estrelas: Epis\xF3dio\
         \ IV?"
       spanish: "\xBFD\xF3nde viste por primera vez La Guerra de las Galaxias?"
     response_1:
@@ -10326,7 +10326,7 @@
       english: 'Which droid would you like to help with
 
         your chores?'
-      portuguese: "Qual dr\xF3ide gostarias que\nte desse uma m\xE3ozinha?"
+      portuguese: "Qual dr\xF3ide gostarias que te desse uma m\xE3ozinha?"
       spanish: "\xBFQu\xE9 droide te gustar\xEDa que te ayudara con tus labores?"
     response_1:
       english: R2-D2
@@ -10975,7 +10975,7 @@
     question:
       english: Will electronic books ever replace printed ones?
       portuguese: "Os livros electr\xF3nicos v\xE3o substituir os impressos?"
-      spanish: "\xBFCrees que los libros electr\xF3nicos llegar\xE1n\na sustituir\
+      spanish: "\xBFCrees que los libros electr\xF3nicos llegar\xE1n a sustituir\
         \ a los impresos?"
     response_1:
       english: 'Yes'
@@ -11120,7 +11120,7 @@
     question:
       english: Does your nearest town have a big festival?
       portuguese: A tua cidade tem um grande festival?
-      spanish: "\xBFSe celebra alg\xFAn festival importante cerca\nde donde vives?"
+      spanish: "\xBFSe celebra alg\xFAn festival importante cerca de donde vives?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -11168,7 +11168,7 @@
     question:
       english: Have you ever locked yourself out of your house?
       portuguese: Alguma vez te fechaste fora de casa?
-      spanish: "\xBFAlguna vez te has dejado las llaves\ndentro de casa?"
+      spanish: "\xBFAlguna vez te has dejado las llaves dentro de casa?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -11288,7 +11288,7 @@
     question:
       english: Have you seen your favourite artist or band live?
       portuguese: "J\xE1 viste o teu artista ou grupo favorito ao vivo?"
-      spanish: "\xBFHas visto a tu artista o grupo favorito\nen directo?"
+      spanish: "\xBFHas visto a tu artista o grupo favorito en directo?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -11312,7 +11312,7 @@
     question:
       english: Do you use mouthwash after brushing?
       portuguese: Utilizas elixir depois de escovares os dentes?
-      spanish: "\xBFUsas enjuague bucal despu\xE9s de lavarte\nlos dientes?"
+      spanish: "\xBFUsas enjuague bucal despu\xE9s de lavarte los dientes?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -11360,7 +11360,7 @@
     question:
       english: Do you think it's okay to wear white jeans?
       portuguese: "Achas aceit\xE1vel usar cal\xE7as brancas?"
-      spanish: "\xBFC\xF3mo ves lo de llevar pantalones\nvaqueros blancos?"
+      spanish: "\xBFC\xF3mo ves lo de llevar pantalones vaqueros blancos?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -11432,7 +11432,7 @@
     question:
       english: Are dolphins more intelligent than humans?
       portuguese: "Os golfinhos s\xE3o mais inteligentes do que n\xF3s?"
-      spanish: "\xBFCrees que los delfines son m\xE1s inteligentes\nque los humanos?"
+      spanish: "\xBFCrees que los delfines son m\xE1s inteligentes que los humanos?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -11504,7 +11504,7 @@
     question:
       english: Can you pat your head while rubbing your stomach?
       portuguese: "Palmadas na cabe\xE7a e esfregar a barriga. \xC9s capaz?"
-      spanish: "\xBFPuedes darte palmaditas en la cabeza al tiempo\nque te frotas\
+      spanish: "\xBFPuedes darte palmaditas en la cabeza al tiempo que te frotas\
         \ la barriga?"
     response_1:
       english: 'Yes'
@@ -11865,7 +11865,7 @@
     question:
       english: Have you ever been stuck in a lift?
       portuguese: Alguma vez ficaste preso num elevador?
-      spanish: "\xBFAlguna vez te has quedado encerrado\nen un ascensor?"
+      spanish: "\xBFAlguna vez te has quedado encerrado en un ascensor?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -11913,7 +11913,7 @@
     question:
       english: Have you ever forgot why you entered a room?
       portuguese: "J\xE1 te esqueceste por que entraste num s\xEDtio?"
-      spanish: "\xBFNunca has entrado en una habitaci\xF3n y se te\nha olvidado para\
+      spanish: "\xBFNunca has entrado en una habitaci\xF3n y se te ha olvidado para\
         \ qu\xE9?"
     response_1:
       english: 'Yes'
@@ -16168,7 +16168,7 @@
       english: 'If you were an animal, would you like to live
 
         in the wild, or live as someone''s pet?'
-      portuguese: "Gostarias de ser um animal selvagem\nou um animal de estima\xE7\
+      portuguese: "Gostarias de ser um animal selvagem ou um animal de estima\xE7\
         \xE3o?"
       spanish: "\xBFPreferir\xEDas ser un animal salvaje o una mascota?"
     response_1:
@@ -16962,7 +16962,7 @@
         Do you know what to do?'
       portuguese: "V\xEAs que alguma pessoa est\xE1 a desmaiar! Sabes o que deves\
         \ fazer?"
-      spanish: "\xA1Ves a alguien desmayarse!\n\xBFSabes qu\xE9 hacer?"
+      spanish: "\xA1Ves a alguien desmayarse! \xBFSabes qu\xE9 hacer?"
     response_1:
       english: Yes! Help is here!
       portuguese: Sim! Vou ajuda-la!
@@ -16985,7 +16985,7 @@
   poll:
     question:
       english: 'Time travel: scientific theory or science fiction?'
-      portuguese: "Viajem no tempo: teoria cient\xEDfica\nou fic\xE7\xE3o cient\xED\
+      portuguese: "Viajem no tempo: teoria cient\xEDfica ou fic\xE7\xE3o cient\xED\
         fica?"
       spanish: "Viajar en el tiempo: \xBFposibilidad o ciencia ficci\xF3n?"
     response_1:
@@ -17162,8 +17162,8 @@
       english: '*Bump* You hear a sound in the night!
 
         What do you do?'
-      portuguese: "*Boomp* Ouves um som na noite!\nO que \xE9 que fazes?"
-      spanish: "*\xA1Paf!* \xA1Oyes un ruido por la noche!\n\xBFQu\xE9 haces?"
+      portuguese: "*Boomp* Ouves um som na noite! O que \xE9 que fazes?"
+      spanish: "*\xA1Paf!* \xA1Oyes un ruido por la noche! \xBFQu\xE9 haces?"
     response_1:
       english: Hide under the covers!
       portuguese: Escondo-me!
@@ -18157,8 +18157,8 @@
       english: 'Do you know at least two people with
 
         Z in their names?'
-      portuguese: "Conheces no m\xEDnimo duas pessoas que t\xEAm\num Z no nome delas?"
-      spanish: "\xBFConoces al menos a dos personas\ncuyo nombre contenga la letra\
+      portuguese: "Conheces no m\xEDnimo duas pessoas que t\xEAm um Z no nome delas?"
+      spanish: "\xBFConoces al menos a dos personas cuyo nombre contenga la letra\
         \ zeta?"
     response_1:
       english: 'Yes'
@@ -18305,7 +18305,7 @@
 
         asleep by counting sheep?'
       portuguese: "J\xE1 pegaste no sono contando carneiros?"
-      spanish: "\xBFTe has quedado alguna vez dormido\ncontando ovejas?"
+      spanish: "\xBFTe has quedado alguna vez dormido contando ovejas?"
     response_1:
       english: Yes!
       portuguese: Sim!
@@ -18331,7 +18331,7 @@
 
         under your pillow?'
       portuguese: "Dormes com os teus bra\xE7os/m\xE3os debaixo do travesseiro?"
-      spanish: "\xBFDuermes con las manos o los brazos\nbajo la almohada?"
+      spanish: "\xBFDuermes con las manos o los brazos bajo la almohada?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -18357,7 +18357,7 @@
 
         on your side in a fight?'
       portuguese: Preferirias combater com
-      spanish: "\xBFA qui\xE9n preferir\xEDas tener de tu lado\nen un combate?"
+      spanish: "\xBFA qui\xE9n preferir\xEDas tener de tu lado en un combate?"
     response_1:
       english: Smart psychic
       portuguese: "Um m\xE9dium inteligente"
@@ -18478,9 +18478,9 @@
       english: 'Can you name the planets in order
 
         of distance from the Sun?'
-      portuguese: "Podes nomear as planetas do Sistema solar,\nda mais proxima do\
+      portuguese: "Podes nomear as planetas do Sistema solar, da mais proxima do\
         \ Sol at\xE9 a mais remota?"
-      spanish: "\xBFPodr\xEDas nombrar los planetas\nordenados por su distancia del\
+      spanish: "\xBFPodr\xEDas nombrar los planetas ordenados por su distancia del\
         \ sol?"
     response_1:
       english: 'Yes'
@@ -18556,7 +18556,7 @@
         heel or the teeth touch the table?'
       portuguese: "Quand p\xF5es um Garfo sobre a mesa, \xE9 a ponta ou os dentes\
         \ qui tocam-na?"
-      spanish: "\xBFQu\xE9 parte del tenedor toca\nla mesa cuando lo posas?"
+      spanish: "\xBFQu\xE9 parte del tenedor toca la mesa cuando lo posas?"
     response_1:
       english: Heel
       portuguese: Ponta
@@ -18677,7 +18677,7 @@
   poll:
     question:
       english: Does your name start with a vowel or a consonant?
-      portuguese: "O teu nome come\xE7a com uma vogal\nou uma consoante?"
+      portuguese: "O teu nome come\xE7a com uma vogal ou uma consoante?"
       spanish: "\xBFCon qu\xE9 empieza tu nombre?"
     response_1:
       english: Vowel
@@ -18727,9 +18727,9 @@
       english: 'You''re in a room with someone who
 
         snores horribly - what do you do?'
-      portuguese: "Est\xE1s num quarto com algu\xE9m que ronca muito.\nO que \xE9\
+      portuguese: "Est\xE1s num quarto com algu\xE9m que ronca muito. O que \xE9\
         \ que fazes?"
-      spanish: "Si una persona ronca\nen mi habitaci\xF3n...."
+      spanish: "Si una persona ronca en mi habitaci\xF3n...."
     response_1:
       english: Wake him up
       portuguese: Acordo-o
@@ -18897,7 +18897,7 @@
     question:
       english: Have you ever stayed in a five-star hotel?
       portuguese: "J\xE1 foste num hotel cinco estrelas?"
-      spanish: "\xBFTe has alojado en\nun hotel de 5 estrellas?"
+      spanish: "\xBFTe has alojado en un hotel de 5 estrellas?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -19161,7 +19161,7 @@
     question:
       english: Have you ever slept in a tent?
       portuguese: "J\xE1 dormiste numa barraca?"
-      spanish: "\xBFHas dormido en tienda\nde campa\xF1a?"
+      spanish: "\xBFHas dormido en tienda de campa\xF1a?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -19688,7 +19688,7 @@
   poll:
     question:
       english: A stranger greets you. What do you do?
-      portuguese: "Um estranho cumprimenta-te na rua.\nO que \xE9 que fazes?"
+      portuguese: "Um estranho cumprimenta-te na rua. O que \xE9 que fazes?"
       spanish: "Un desconocido te saluda. \xBFQu\xE9 haces t\xFA?"
     response_1:
       english: Ignore
@@ -19713,7 +19713,7 @@
     question:
       english: Have you ever shaved/permed your hair?
       portuguese: "J\xE1 rapaste/fizeste permanente no teu cabelo?"
-      spanish: "\xBFTe has hecho la permanente\no te has rapado?"
+      spanish: "\xBFTe has hecho la permanente o te has rapado?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -19761,7 +19761,7 @@
     question:
       english: Have you ever got lost in an unknown town?
       portuguese: "J\xE1 perdeste-te numa cidade desconhecida?"
-      spanish: "\xBFTe has perdido en\nuna ciudad desconocida?"
+      spanish: "\xBFTe has perdido en una ciudad desconocida?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -19929,7 +19929,7 @@
     question:
       english: Have you ever had hiccups for more than 30 minutes?
       portuguese: "J\xE1 tiveste sol\xE7o por mais de 30 minutos?"
-      spanish: "\xBFHas tenido hipo durante\nm\xE1s de media hora?"
+      spanish: "\xBFHas tenido hipo durante m\xE1s de media hora?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -19952,8 +19952,8 @@
   poll:
     question:
       english: Can you do 3-digit division without a calculator?
-      portuguese: "Podes fazer uma divis\xE3o com 3 algarismos\nsem calculadora?"
-      spanish: "\xBFPodr\xEDas dividir un n\xFAmero\nde tres cifras sin calculadora?"
+      portuguese: "Podes fazer uma divis\xE3o com 3 algarismos sem calculadora?"
+      spanish: "\xBFPodr\xEDas dividir un n\xFAmero de tres cifras sin calculadora?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -20001,7 +20001,7 @@
     question:
       english: Have you ever found coins in a swimming pool?
       portuguese: "J\xE1 encontraste moeda numa piscina?"
-      spanish: "\xBFHas encontrado monedas\nen una piscina?"
+      spanish: "\xBFHas encontrado monedas en una piscina?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -20602,7 +20602,7 @@
   poll:
     question:
       english: Would you rather be an iron giant or a fire dragon?
-      portuguese: "Preferirias ser um gigante de ferro\nou um drag\xE3o de fogo?"
+      portuguese: "Preferirias ser um gigante de ferro ou um drag\xE3o de fogo?"
       spanish: "\xBFQu\xE9 preferir\xEDas ser?"
     response_1:
       english: Iron giant
@@ -20676,7 +20676,7 @@
       english: 'After school each day, do you start
 
         your homework straight away?'
-      portuguese: "Quando regressas da escola, come\xE7as logo\na fazer os trabalhos\
+      portuguese: "Quando regressas da escola, come\xE7as logo a fazer os trabalhos\
         \ de casa?"
       spanish: "\xBFHaces todos los d\xEDas los deberes nada m\xE1s llegar del colegio?"
     response_1:
@@ -20995,8 +20995,8 @@
       english: 'If you were given a one-way
 
         ticket to space, would you go?'
-      portuguese: "Se te oferecessem um bilhete s\xF3 de ida\npara o espa\xE7o, irias?"
-      spanish: "Si te regalaran un billete de ida\npara viajar al espacio, \xBFte\
+      portuguese: "Se te oferecessem um bilhete s\xF3 de ida para o espa\xE7o, irias?"
+      spanish: "Si te regalaran un billete de ida para viajar al espacio, \xBFte\
         \ ir\xEDas?"
     response_1:
       english: 'Yes'
@@ -21025,7 +21025,7 @@
       portuguese: 'O televisor avariou a meio do teu programa
 
         favorito! Que fazes?'
-      spanish: "\xBFQu\xE9 har\xEDas si se te estropeara la tele\ncuando est\xE1s\
+      spanish: "\xBFQu\xE9 har\xEDas si se te estropeara la tele cuando est\xE1s\
         \ viendo tu programa favorito?"
     response_1:
       english: Call for help
@@ -21049,8 +21049,8 @@
   poll:
     question:
       english: Do you brush your teeth before or after breakfast?
-      portuguese: "Lavas os dentes antes ou depois do\npequeno-almo\xE7o?"
-      spanish: "\xBFCu\xE1ndo te lavas los dientes,\nantes o despu\xE9s del desayuno?"
+      portuguese: "Lavas os dentes antes ou depois do pequeno-almo\xE7o?"
+      spanish: "\xBFCu\xE1ndo te lavas los dientes, antes o despu\xE9s del desayuno?"
     response_1:
       english: Before
       portuguese: Antes
@@ -21073,7 +21073,7 @@
   poll:
     question:
       english: If someone tells a bad joke, do you fake a laugh?
-      portuguese: "Se algu\xE9m contar uma piada sem gra\xE7a,\nfinges que ris?"
+      portuguese: "Se algu\xE9m contar uma piada sem gra\xE7a, finges que ris?"
       spanish: "Si te cuentan un chiste que no te hace gracia, \xBFte r\xEDes por\
         \ compromiso?"
     response_1:
@@ -21149,7 +21149,7 @@
 
         Tidying your room or washing the dishes?'
       portuguese: Qual destes odeias mais?
-      spanish: "\xBFQu\xE9 odias m\xE1s, ordenar tu habitaci\xF3n\no lavar los platos?"
+      spanish: "\xBFQu\xE9 odias m\xE1s, ordenar tu habitaci\xF3n o lavar los platos?"
     response_1:
       english: Tidying my room
       portuguese: Arrumar o quarto
@@ -21177,7 +21177,7 @@
       portuguese: 'Quando fazes um boneco de neve,
 
         usas uma cenoura como nariz?'
-      spanish: "Cuando haces un mu\xF1eco de nieve,\n\xBFle pones una zanahoria a\
+      spanish: "Cuando haces un mu\xF1eco de nieve, \xBFle pones una zanahoria a\
         \ modo de nariz?"
     response_1:
       english: 'Yes'
@@ -21203,8 +21203,8 @@
       english: 'If you received bad grades on your report,
 
         when would you show your parents?'
-      portuguese: "Se tiveres m\xE1s notas, quando \xE9 que as\nmostras aos teus pais?"
-      spanish: "Te han dado las notas y no son buenas,\n\xBFcu\xE1ndo se las ense\xF1\
+      portuguese: "Se tiveres m\xE1s notas, quando \xE9 que as mostras aos teus pais?"
+      spanish: "Te han dado las notas y no son buenas, \xBFcu\xE1ndo se las ense\xF1\
         as a tus padres?"
     response_1:
       english: Immediately
@@ -21253,7 +21253,7 @@
     question:
       english: Are you an introvert or extrovert?
       portuguese: "\xC9s mais introvertido ou extrovertido?"
-      spanish: "\xBFEres una persona introvertida\no extrovertida?"
+      spanish: "\xBFEres una persona introvertida o extrovertida?"
     response_1:
       english: Introvert
       portuguese: Introvertido
@@ -21301,7 +21301,7 @@
     question:
       english: Do you like garden gnomes?
       portuguese: Gostas de gnomos de jardim?
-      spanish: "\xBFTe gustan los gnomos que hay\nen algunos jardines?"
+      spanish: "\xBFTe gustan los gnomos que hay en algunos jardines?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -21424,9 +21424,9 @@
       english: 'You''re in a maths test and get stuck.
 
         What do you do?'
-      portuguese: "Que fazes quando n\xE3o sabes a resposta a\numa pergunta num teste\
+      portuguese: "Que fazes quando n\xE3o sabes a resposta a uma pergunta num teste\
         \ de matem\xE1tica?"
-      spanish: "Si en un examen de matem\xE1ticas\nno sabes c\xF3mo seguir..."
+      spanish: "Si en un examen de matem\xE1ticas no sabes c\xF3mo seguir..."
     response_1:
       english: Leave the question
       portuguese: "Passo \xE0 frente"
@@ -21739,7 +21739,7 @@
   poll:
     question:
       english: Do you know someone who has a reptile as a pet?
-      portuguese: "Conheces algu\xE9m que tenha um r\xE9ptil\ncomo animal de estima\xE7\
+      portuguese: "Conheces algu\xE9m que tenha um r\xE9ptil como animal de estima\xE7\
         \xE3o?"
       spanish: "\xBFConoces a alguien que tenga un reptil en casa?"
     response_1:
@@ -22057,7 +22057,7 @@
       portuguese: 'Preferias ser a pessoa mais alta
 
         ou a mais baixa do mundo?'
-      spanish: "\xBFQu\xE9 es mejor, ser la persona m\xE1s alta\ndel mundo o la m\xE1\
+      spanish: "\xBFQu\xE9 es mejor, ser la persona m\xE1s alta del mundo o la m\xE1\
         s baja?"
     response_1:
       english: Tallest
@@ -22206,7 +22206,7 @@
       portuguese: 'Preferias fazer bungee jumping
 
         ou saltar de paraquedas?'
-      spanish: "\xBFQu\xE9 preferir\xEDas hacer, puenting\no saltar en paraca\xED\
+      spanish: "\xBFQu\xE9 preferir\xEDas hacer, puenting o saltar en paraca\xED\
         das?"
     response_1:
       english: Bungee jump
@@ -22327,7 +22327,7 @@
     question:
       english: Which colour do you always choose in chess?
       portuguese: Quando jogas xadrez, que cor escolhes?
-      spanish: "\xBFQu\xE9 fichas eliges siempre cuando\njuegas al ajedrez?"
+      spanish: "\xBFQu\xE9 fichas eliges siempre cuando juegas al ajedrez?"
     response_1:
       english: Black
       portuguese: Preto
@@ -22375,7 +22375,7 @@
     question:
       english: Have you ever had front row seats at a concert?
       portuguese: "J\xE1 ficaste na primeira fila num concerto?"
-      spanish: "\xBFHas estado alguna vez en primera fila\nen un concierto?"
+      spanish: "\xBFHas estado alguna vez en primera fila en un concierto?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -22712,8 +22712,8 @@
       english: 'Have you ever written a question
 
         for this voting channel?'
-      portuguese: "J\xE1 alguma vez escreveste uma\npergunta neste canal?"
-      spanish: "\xBFHas escrito alguna pregunta\npara este canal de opiniones?"
+      portuguese: "J\xE1 alguma vez escreveste uma pergunta neste canal?"
+      spanish: "\xBFHas escrito alguna pregunta para este canal de opiniones?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -22761,7 +22761,7 @@
     question:
       english: Do you help your parents with the housework?
       portuguese: "Ajudas os teus pais com as tarefas dom\xE9sticas?"
-      spanish: "\xBFEchas una mano a tus padres\nen las tareas de la casa?"
+      spanish: "\xBFEchas una mano a tus padres en las tareas de la casa?"
     response_1:
       english: Yes, of course!
       portuguese: Claro que sim!
@@ -22882,7 +22882,7 @@
       english: 'Someone calls at your door and
 
         you are alone, do you...?'
-      portuguese: "Se algu\xE9m bate \xE0 porta enquanto\nest\xE1s sozinho em casa..."
+      portuguese: "Se algu\xE9m bate \xE0 porta enquanto est\xE1s sozinho em casa..."
       spanish: 'Si alguien llama a la puerta
 
         y no hay nadie contigo...'
@@ -22909,7 +22909,7 @@
     question:
       english: Have you ever received postcards from abroad?
       portuguese: "J\xE1 recebeste algum postal do estrangeiro?"
-      spanish: "\xBFHas recibido una postal del extranjero\nalguna vez?"
+      spanish: "\xBFHas recibido una postal del extranjero alguna vez?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -22959,7 +22959,7 @@
     question:
       english: Have you ever tried to beat a world record?
       portuguese: "J\xE1 tentaste bater algum recorde mundial?"
-      spanish: "\xBFHas intentado batir alg\xFAn r\xE9cord mundial\nalguna vez?"
+      spanish: "\xBFHas intentado batir alg\xFAn r\xE9cord mundial alguna vez?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -23295,7 +23295,7 @@
     question:
       english: You must defuse a bomb. Which wire will you cut?
       portuguese: Tens de desativar a bomba! Que fio cortas?
-      spanish: "Tienes que desactivar una bomba.\n\xBFQu\xE9 cable cortas?"
+      spanish: "Tienes que desactivar una bomba. \xBFQu\xE9 cable cortas?"
     response_1:
       english: Red
       portuguese: Vermelho
@@ -23344,8 +23344,8 @@
       english: 'If your digital clock says that
 
         it''s 12:34, how do you feel?'
-      portuguese: "Como te sentes quando o rel\xF3gio digital\nmarca 12:34?"
-      spanish: "Si en tu reloj pone que son las 12:34,\n\xBFqu\xE9 sientes?"
+      portuguese: "Como te sentes quando o rel\xF3gio digital marca 12:34?"
+      spanish: "Si en tu reloj pone que son las 12:34, \xBFqu\xE9 sientes?"
     response_1:
       english: Happy
       portuguese: Feliz
@@ -23441,7 +23441,7 @@
     question:
       english: Are you better at remembering names or faces?
       portuguese: Lembras-te melhor de nomes ou de caras?
-      spanish: "\xBFQu\xE9 se te da mejor recordar,\nlos nombres o las caras?"
+      spanish: "\xBFQu\xE9 se te da mejor recordar, los nombres o las caras?"
     response_1:
       english: Names
       portuguese: Nomes
@@ -23467,7 +23467,7 @@
       portuguese: 'Que dia preferes para um
 
         fim-de-semana prolongado?'
-      spanish: "\xBFQu\xE9 d\xEDa prefieres unir al fin de semana\npara hacer puente?"
+      spanish: "\xBFQu\xE9 d\xEDa prefieres unir al fin de semana para hacer puente?"
     response_1:
       english: Monday!
       portuguese: Segunda-feira!
@@ -23493,7 +23493,7 @@
 
         body if you had the choice?'
       portuguese: Se pudesses, alteravas algo no teu corpo?
-      spanish: "\xBFMejorar\xEDas alguna parte de tu cuerpo\nsi pudieras?"
+      spanish: "\xBFMejorar\xEDas alguna parte de tu cuerpo si pudieras?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -23541,7 +23541,7 @@
     question:
       english: What would you do if you saw your future self?
       portuguese: Que farias se encontrasses o teu Eu futuro?
-      spanish: "\xBFQu\xE9 har\xEDas si te encontraras con tu yo\nen el futuro?"
+      spanish: "\xBFQu\xE9 har\xEDas si te encontraras con tu yo en el futuro?"
     response_1:
       english: Have a conversation
       portuguese: Conversava.
@@ -23567,7 +23567,7 @@
 
         opposite gender for a day?'
       portuguese: "Gostarias de trocar de g\xE9nero por um dia?"
-      spanish: "\xBFTe gustar\xEDa ponerte en la piel de alguien\ndel sexo contrario\
+      spanish: "\xBFTe gustar\xEDa ponerte en la piel de alguien del sexo contrario\
         \ por un d\xEDa?"
     response_1:
       english: 'Yes'
@@ -23593,9 +23593,9 @@
       english: 'Your birthday''s on 29th February. When would
 
         you have your birthday on a non-leap year?'
-      portuguese: "O teu anivers\xE1rio \xE9 a 29 de fevereiro.\nEm que dia celebras\
+      portuguese: "O teu anivers\xE1rio \xE9 a 29 de fevereiro. Em que dia celebras\
         \ nos anos comuns?"
-      spanish: "Tu cumplea\xF1os es el 29 de febrero.\n\xBFcu\xE1ndo lo celebrar\xED\
+      spanish: "Tu cumplea\xF1os es el 29 de febrero. \xBFcu\xE1ndo lo celebrar\xED\
         as en un a\xF1o no bisiesto?"
     response_1:
       english: 28th Feb
@@ -23624,7 +23624,7 @@
       portuguese: 'Se pudesses saber quanto tempo vais viver,
 
         quererias saber?'
-      spanish: "Si pudieras, \xBFquerr\xEDas saber hasta cu\xE1ndo\nvas a vivir?"
+      spanish: "Si pudieras, \xBFquerr\xEDas saber hasta cu\xE1ndo vas a vivir?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -23748,7 +23748,7 @@
       portuguese: 'Preferes encomendar comida
 
         ou comer no restaurante?'
-      spanish: "\xBFPrefieres la comida para llevar\no comer en un restaurante?"
+      spanish: "\xBFPrefieres la comida para llevar o comer en un restaurante?"
     response_1:
       english: Takeaways
       portuguese: Encomendar
@@ -23772,7 +23772,7 @@
     question:
       english: Can you spin a basketball on one finger?
       portuguese: "Consegues girar uma bola de b\xE1squete no dedo?"
-      spanish: "\xBFPuedes hacer girar un bal\xF3n\n de baloncesto sobre un dedo?"
+      spanish: "\xBFPuedes hacer girar un bal\xF3n  de baloncesto sobre un dedo?"
     response_1:
       english: Sure can
       portuguese: Claro que sim!
@@ -23822,7 +23822,7 @@
 
         in a foreign country?'
       portuguese: Algum dos teus familiares mora no estrangeiro?
-      spanish: "\xBFHay alguien de tu familia\nviviendo en el extranjero?"
+      spanish: "\xBFHay alguien de tu familia viviendo en el extranjero?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -23873,9 +23873,9 @@
       english: 'Have you ever thrown the spoon in
 
         the rubbish with your empty yoghurt pot?'
-      portuguese: "J\xE1 atiraste a colher para o lixo quando\ndeitas fora um copo\
+      portuguese: "J\xE1 atiraste a colher para o lixo quando deitas fora um copo\
         \ de iogurte?"
-      spanish: "\xBFHas tirado alguna vez una cuchara\na la basura al tirar un vaso\
+      spanish: "\xBFHas tirado alguna vez una cuchara a la basura al tirar un vaso\
         \ de yogur?"
     response_1:
       english: 'Yes'
@@ -23923,7 +23923,7 @@
   poll:
     question:
       english: If one of your friends is crying, what do you do?
-      portuguese: "Que fazes quando um dos teus amigos\nest\xE1 a chorar?"
+      portuguese: "Que fazes quando um dos teus amigos est\xE1 a chorar?"
       spanish: "Si uno de tus amigos est\xE1 llorando, \xBFqu\xE9 haces?"
     response_1:
       english: Console them
@@ -23976,7 +23976,7 @@
       portuguese: 'Que dizes quando um mau cozinheiro
 
         te obriga a provar os seus pratos?'
-      spanish: "Si alguien que no cocina bien te hace\nprobar su comida, \xBFqu\xE9\
+      spanish: "Si alguien que no cocina bien te hace probar su comida, \xBFqu\xE9\
         \ dices?"
     response_1:
       english: It's so yummy!
@@ -24001,7 +24001,7 @@
     question:
       english: Have you ever slept in until late in the afternoon?
       portuguese: "J\xE1 alguma vez dormiste at\xE9 ao final da tarde?"
-      spanish: "\xBFHas dormido alguna vez hasta\nbien avanzado el d\xEDa?"
+      spanish: "\xBFHas dormido alguna vez hasta bien avanzado el d\xEDa?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -24123,7 +24123,7 @@
     question:
       english: Have you ever tried wasabi-flavoured crisps?
       portuguese: "J\xE1 experimentaste batata frita com sabor a wasabi?"
-      spanish: "\xBFHas probado alguna vez las patatas\ncon sabor a wasabi?"
+      spanish: "\xBFHas probado alguna vez las patatas con sabor a wasabi?"
     response_1:
       english: 'Yes'
       portuguese: Sim
@@ -24148,9 +24148,9 @@
       english: 'This is the final Everybody Votes Channel
 
         question! Did you enjoy the Voting Channel?'
-      portuguese: "A \xFAltima pergunta do Everybody Votes\nChannel \xE9: gostou do\
+      portuguese: "A \xFAltima pergunta do Everybody Votes Channel \xE9: gostou do\
         \ Voting Channel?"
-      spanish: "\xA1Esta es la \xFAltima pregunta del Canal Opiniones!\n\xBFHas disfrutado\
+      spanish: "\xA1Esta es la \xFAltima pregunta del Canal Opiniones! \xBFHas disfrutado\
         \ de este canal?"
     response_1:
       english: 'Yes'

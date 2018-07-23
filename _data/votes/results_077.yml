@@ -326,7 +326,7 @@
   date: March 22, 2007
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 offert \xE0 une autre personne\nun cadeau que\
+      french: "Avez-vous d\xE9j\xE0 offert \xE0 une autre personne un cadeau que\
         \ vous aviez re\xE7u?"
     response_1:
       french: Oui
@@ -455,7 +455,7 @@
   date: April 07, 2007
   poll:
     question:
-      french: "Laquelle de ces couleurs\npr\xE9f\xE9rez-vous?"
+      french: "Laquelle de ces couleurs pr\xE9f\xE9rez-vous?"
     response_1:
       french: Le rouge
     response_2:
@@ -619,7 +619,7 @@
   date: April 28, 2007
   poll:
     question:
-      french: "Vous vous verriez plut\xF4t DJ superstar\nou l\xE9gende du rock?"
+      french: "Vous vous verriez plut\xF4t DJ superstar ou l\xE9gende du rock?"
     response_1:
       french: DJ
     response_2:
@@ -691,7 +691,7 @@
   date: May 08, 2007
   poll:
     question:
-      french: "Si vous pouviez voyager dans le temps,\nquelle serait votre premi\xE8\
+      french: "Si vous pouviez voyager dans le temps, quelle serait votre premi\xE8\
         re destination?"
     response_1:
       french: "Le pass\xE9"
@@ -802,7 +802,7 @@
   date: May 22, 2007
   poll:
     question:
-      french: "Voudriez-vous participer \xE0\nune \xE9mission de t\xE9l\xE9-r\xE9\
+      french: "Voudriez-vous participer \xE0 une \xE9mission de t\xE9l\xE9-r\xE9\
         alit\xE9?"
     response_1:
       french: Oui
@@ -1109,7 +1109,7 @@
   date: June 30, 2007
   poll:
     question:
-      french: "Etes-vous n\xE9 dans la premi\xE8re\nou la seconde moiti\xE9 de l'ann\xE9\
+      french: "Etes-vous n\xE9 dans la premi\xE8re ou la seconde moiti\xE9 de l'ann\xE9\
         e?"
     response_1:
       french: "La premi\xE8re"
@@ -1182,7 +1182,7 @@
   date: July 10, 2007
   poll:
     question:
-      french: "Dites cinq fois tr\xE8s vite \"Les chaussettes\nde l'archiduchesse\
+      french: "Dites cinq fois tr\xE8s vite \"Les chaussettes de l'archiduchesse\
         \ sont-elles s\xE8ches\"!"
     response_1:
       french: "J'ai r\xE9ussi!"
@@ -1471,7 +1471,7 @@
   date: August 16, 2007
   poll:
     question:
-      french: "Si vous le pouviez, vivriez-vous\n\xE0 nouveau votre vie?"
+      french: "Si vous le pouviez, vivriez-vous \xE0 nouveau votre vie?"
     response_1:
       french: Oh, oui!
     response_2:
@@ -1489,7 +1489,7 @@
   date: August 18, 2007
   poll:
     question:
-      french: "Quel type d'affichage pr\xE9f\xE9rez-vous\npour une horloge?"
+      french: "Quel type d'affichage pr\xE9f\xE9rez-vous pour une horloge?"
     response_1:
       french: A aiguilles
     response_2:
@@ -1543,7 +1543,7 @@
   date: August 25, 2007
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous utiliser un ordinateur portable\nou un ordinateur\
+      french: "Pr\xE9f\xE9rez-vous utiliser un ordinateur portable ou un ordinateur\
         \ de bureau?"
     response_1:
       french: Un ordinateur portable
@@ -1780,7 +1780,7 @@
   date: September 25, 2007
   poll:
     question:
-      french: "Vous devez dormir dans un lit superpos\xE9.\nVous choisissez..."
+      french: "Vous devez dormir dans un lit superpos\xE9. Vous choisissez..."
     response_1:
       french: Le lit du haut
     response_2:
@@ -1852,7 +1852,7 @@
   date: October 04, 2007
   poll:
     question:
-      french: "Que faites-vous du lait qui reste quand vous avez\ntermin\xE9 vos c\xE9\
+      french: "Que faites-vous du lait qui reste quand vous avez termin\xE9 vos c\xE9\
         r\xE9ales?"
     response_1:
       french: Je le bois
@@ -2035,7 +2035,7 @@
   date: October 27, 2007
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous faire des surprises ou qu'on vous\nen fasse?"
+      french: "Pr\xE9f\xE9rez-vous faire des surprises ou qu'on vous en fasse?"
     response_1:
       french: En faire
     response_2:
@@ -2089,7 +2089,7 @@
   date: November 03, 2007
   poll:
     question:
-      french: "O\xF9 pr\xE9f\xE9reriez-vous assister \xE0 un concert de\nvotre groupe\
+      french: "O\xF9 pr\xE9f\xE9reriez-vous assister \xE0 un concert de votre groupe\
         \ favori?"
     response_1:
       french: Dans une petite salle
@@ -2200,7 +2200,7 @@
   date: November 17, 2007
   poll:
     question:
-      french: "D\xE9faites-vous vos lacets avant d'enlever vos\nchaussures?"
+      french: "D\xE9faites-vous vos lacets avant d'enlever vos chaussures?"
     response_1:
       french: Oui
     response_2:
@@ -2256,7 +2256,7 @@
   date: November 24, 2007
   poll:
     question:
-      french: "Quelle invention consid\xE9rez-vous comme la plus\nimportante?"
+      french: "Quelle invention consid\xE9rez-vous comme la plus importante?"
     response_1:
       french: La roue
     response_2:
@@ -2274,7 +2274,7 @@
   date: November 27, 2007
   poll:
     question:
-      french: "Vous souvenez-vous de ce que vous avez mang\xE9\nau d\xE9jeuner avant-hier?"
+      french: "Vous souvenez-vous de ce que vous avez mang\xE9 au d\xE9jeuner avant-hier?"
     response_1:
       french: Oui
     response_2:
@@ -2492,7 +2492,7 @@
   date: December 25, 2007
   poll:
     question:
-      french: "Quand d\xE9cidez-vous de ce que vous allez porter\ncomme v\xEAtements?"
+      french: "Quand d\xE9cidez-vous de ce que vous allez porter comme v\xEAtements?"
     response_1:
       french: Le matin
     response_2:
@@ -2582,7 +2582,7 @@
   date: January 05, 2008
   poll:
     question:
-      french: "Quand vous \xEAtes malade, vous \xEAtes un patient\nplut\xF4t..."
+      french: "Quand vous \xEAtes malade, vous \xEAtes un patient plut\xF4t..."
     response_1:
       french: "Coop\xE9ratif"
     response_2:
@@ -2656,7 +2656,7 @@
   date: January 15, 2008
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 r\xEAv\xE9 de quelque chose qui s'est\nr\xE9alis\xE9\
+      french: "Avez-vous d\xE9j\xE0 r\xEAv\xE9 de quelque chose qui s'est r\xE9alis\xE9\
         \ par la suite?"
     response_1:
       french: Oui
@@ -2711,7 +2711,7 @@
   date: January 22, 2008
   poll:
     question:
-      french: "Quand vous faites un clin d'\u0153il, le faites-vous\nde l'\u0153il\
+      french: "Quand vous faites un clin d'\u0153il, le faites-vous de l'\u0153il\
         \ droit ou de l'\u0153il gauche?"
     response_1:
       french: "De l'\u0153il droit"
@@ -2748,7 +2748,7 @@
   date: January 26, 2008
   poll:
     question:
-      french: "Vous sentez-vous plut\xF4t r\xE9veill\xE9 ou endormi apr\xE8s\nun bain?"
+      french: "Vous sentez-vous plut\xF4t r\xE9veill\xE9 ou endormi apr\xE8s un bain?"
     response_1:
       french: "R\xE9veill\xE9"
     response_2:
@@ -2856,7 +2856,7 @@
   date: February 09, 2008
   poll:
     question:
-      french: "Le bus que vous devez prendre est bond\xE9.\nQue faites-vous?"
+      french: "Le bus que vous devez prendre est bond\xE9. Que faites-vous?"
     response_1:
       french: "Je monte quand m\xEAme"
     response_2:
@@ -2892,7 +2892,7 @@
   date: February 14, 2008
   poll:
     question:
-      french: "Quand vous perdez une comp\xE9tition, vous \xEAtes\nplut\xF4t du genre..."
+      french: "Quand vous perdez une comp\xE9tition, vous \xEAtes plut\xF4t du genre..."
     response_1:
       french: Beau joueur
     response_2:
@@ -2946,7 +2946,7 @@
   date: February 21, 2008
   poll:
     question:
-      french: "D'apr\xE8s vous, le plus important dans une\nchanson, c'est..."
+      french: "D'apr\xE8s vous, le plus important dans une chanson, c'est..."
     response_1:
       french: La musique
     response_2:
@@ -3164,7 +3164,7 @@
   date: March 20, 2008
   poll:
     question:
-      french: "Une c\xE9l\xE9brit\xE9 passe devant vous.\nQue faites-vous?"
+      french: "Une c\xE9l\xE9brit\xE9 passe devant vous. Que faites-vous?"
     response_1:
       french: J'obtiens son autographe
     response_2:
@@ -3236,7 +3236,7 @@
   date: March 29, 2008
   poll:
     question:
-      french: "Vous aimez les myst\xE8res ou vous pr\xE9f\xE9rez\ntout comprendre?"
+      french: "Vous aimez les myst\xE8res ou vous pr\xE9f\xE9rez tout comprendre?"
     response_1:
       french: "Les myst\xE8res"
     response_2:
@@ -3290,7 +3290,7 @@
   date: April 05, 2008
   poll:
     question:
-      french: "Quand vous dites \"Dans une minute!\",\nqu'est-ce que \xE7a signifie?"
+      french: "Quand vous dites \"Dans une minute!\", qu'est-ce que \xE7a signifie?"
     response_1:
       french: Dans 60 secondes
     response_2:
@@ -3362,7 +3362,7 @@
   date: April 15, 2008
   poll:
     question:
-      french: "Vous organisez une f\xEAte et la moiti\xE9 des invit\xE9s\nd\xE9clinent.\
+      french: "Vous organisez une f\xEAte et la moiti\xE9 des invit\xE9s d\xE9clinent.\
         \ Que faites-vous?"
     response_1:
       french: Je maintiens la date
@@ -3417,7 +3417,7 @@
   date: April 22, 2008
   poll:
     question:
-      french: "Connaissez-vous quelqu'un qui est n\xE9 le m\xEAme\njour que vous?"
+      french: "Connaissez-vous quelqu'un qui est n\xE9 le m\xEAme jour que vous?"
     response_1:
       french: Pas que je sache
     response_2:
@@ -3597,7 +3597,7 @@
   date: May 15, 2008
   poll:
     question:
-      french: "Votre oreille gauche vous d\xE9mange.\nAvec quelle main vous grattez-vous?"
+      french: "Votre oreille gauche vous d\xE9mange. Avec quelle main vous grattez-vous?"
     response_1:
       french: La main gauche
     response_2:
@@ -3633,7 +3633,7 @@
   date: May 20, 2008
   poll:
     question:
-      french: "Il ne reste qu'une seule part de g\xE2teau.\nQue faites-vous?"
+      french: "Il ne reste qu'une seule part de g\xE2teau. Que faites-vous?"
     response_1:
       french: Je la mange
     response_2:
@@ -3651,7 +3651,7 @@
   date: May 22, 2008
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous \xE9crire avec un stylo bleu ou\nun stylo noir?"
+      french: "Pr\xE9f\xE9rez-vous \xE9crire avec un stylo bleu ou un stylo noir?"
     response_1:
       french: Bleu
     response_2:
@@ -3815,7 +3815,7 @@
   date: June 12, 2008
   poll:
     question:
-      french: "Quand vous dormez sur le c\xF4t\xE9, comment vous\nsentez-vous le plus\
+      french: "Quand vous dormez sur le c\xF4t\xE9, comment vous sentez-vous le plus\
         \ \xE0 l'aise?"
     response_1:
       french: "Sur le c\xF4t\xE9 gauche"
@@ -3834,7 +3834,7 @@
   date: June 14, 2008
   poll:
     question:
-      french: "Vous venez de casser un vase tr\xE8s cher.\nQue faites-vous?"
+      french: "Vous venez de casser un vase tr\xE8s cher. Que faites-vous?"
     response_1:
       french: Vous avouez
     response_2:
@@ -3926,7 +3926,7 @@
   date: June 26, 2008
   poll:
     question:
-      french: "Vous est-il arriv\xE9 d'appeler votre institutrice\n\"maman\"?"
+      french: "Vous est-il arriv\xE9 d'appeler votre institutrice \"maman\"?"
     response_1:
       french: Oui...
     response_2:
@@ -3964,7 +3964,7 @@
   date: July 01, 2008
   poll:
     question:
-      french: "Dites-vous la v\xE9rit\xE9 quand vous r\xE9pondez\n\xE0 ces questions?"
+      french: "Dites-vous la v\xE9rit\xE9 quand vous r\xE9pondez \xE0 ces questions?"
     response_1:
       french: Oui
     response_2:
@@ -4036,7 +4036,7 @@
   date: July 10, 2008
   poll:
     question:
-      french: "En admettant que cela vous revienne au m\xEAme prix,\nqu'ach\xE8teriez-vous?"
+      french: "En admettant que cela vous revienne au m\xEAme prix, qu'ach\xE8teriez-vous?"
     response_1:
       french: "Un seul gros g\xE2teau"
     response_2:
@@ -4090,7 +4090,7 @@
   date: July 17, 2008
   poll:
     question:
-      french: "Estimez-vous avoir un comportement \xE9cologique\nau quotidien?"
+      french: "Estimez-vous avoir un comportement \xE9cologique au quotidien?"
     response_1:
       french: Oui
     response_2:
@@ -4126,7 +4126,7 @@
   date: July 22, 2008
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous les hamburgers ou\nles cheeseburgers?"
+      french: "Pr\xE9f\xE9rez-vous les hamburgers ou les cheeseburgers?"
     response_1:
       french: Hamburgers!
     response_2:
@@ -4162,7 +4162,7 @@
   date: July 26, 2008
   poll:
     question:
-      french: "Vous ratez un coup de t\xE9l\xE9phone. Rappelez-vous\nla personne ou\
+      french: "Vous ratez un coup de t\xE9l\xE9phone. Rappelez-vous la personne ou\
         \ attendez-vous qu'elle rappelle?"
     response_1:
       french: Vous rappelez
@@ -4253,7 +4253,7 @@
   date: August 07, 2008
   poll:
     question:
-      french: "Que faites-vous quand vous faites tomber\nune pi\xE8ce d'un centime?"
+      french: "Que faites-vous quand vous faites tomber une pi\xE8ce d'un centime?"
     response_1:
       french: Vous la laissez
     response_2:
@@ -4271,7 +4271,7 @@
   date: August 09, 2008
   poll:
     question:
-      french: "Dans les escalators, est-ce que les gens devraient\nse tenir \xE0 droite\
+      french: "Dans les escalators, est-ce que les gens devraient se tenir \xE0 droite\
         \ et marcher \xE0 gauche?"
     response_1:
       french: Oui, toujours!
@@ -4472,7 +4472,7 @@
   date: September 04, 2008
   poll:
     question:
-      french: "Vos amis sont-ils en g\xE9n\xE9ral plus vieux ou\nplus jeunes que vous?"
+      french: "Vos amis sont-ils en g\xE9n\xE9ral plus vieux ou plus jeunes que vous?"
     response_1:
       french: Plus jeunes
     response_2:
@@ -4508,7 +4508,7 @@
   date: September 09, 2008
   poll:
     question:
-      french: "Vous est-il arriv\xE9 d'\xEAtre dans les nuages au point\nde rentrer\
+      french: "Vous est-il arriv\xE9 d'\xEAtre dans les nuages au point de rentrer\
         \ dans quelqu'un?"
     response_1:
       french: Oui
@@ -4563,7 +4563,7 @@
   date: September 16, 2008
   poll:
     question:
-      french: "Pressez-vous votre tube \xE0 dentifrice en plein milieu\nou \xE0 l'extr\xE9\
+      french: "Pressez-vous votre tube \xE0 dentifrice en plein milieu ou \xE0 l'extr\xE9\
         mit\xE9?"
     response_1:
       french: Milieu
@@ -4582,7 +4582,7 @@
   date: September 18, 2008
   poll:
     question:
-      french: "Vous consid\xE9rez-vous comme quelqu'un\nde chanceux?"
+      french: "Vous consid\xE9rez-vous comme quelqu'un de chanceux?"
     response_1:
       french: Oui
     response_2:
@@ -4786,7 +4786,7 @@
   date: October 14, 2008
   poll:
     question:
-      french: "Une vieille dame monte dans le bus.\nLui c\xE9dez-vous votre si\xE8\
+      french: "Une vieille dame monte dans le bus. Lui c\xE9dez-vous votre si\xE8\
         ge?"
     response_1:
       french: Bien entendu
@@ -4933,7 +4933,7 @@
   date: November 01, 2008
   poll:
     question:
-      french: "Pensez-vous que ce serait une bonne chose que\ntout le monde parle\
+      french: "Pensez-vous que ce serait une bonne chose que tout le monde parle\
         \ la m\xEAme langue sur terre?"
     response_1:
       french: Oui, ce serait mieux!
@@ -5006,7 +5006,7 @@
   date: November 11, 2008
   poll:
     question:
-      french: "Votre portrait doit \xEAtre affich\xE9 dans une galerie.\nVous pr\xE9\
+      french: "Votre portrait doit \xEAtre affich\xE9 dans une galerie. Vous pr\xE9\
         f\xE9rez que ce soit..."
     response_1:
       french: Une photographie
@@ -5097,7 +5097,7 @@
   date: November 22, 2008
   poll:
     question:
-      french: "Connaissez-vous votre propre num\xE9ro de\nt\xE9l\xE9phone par c\u0153\
+      french: "Connaissez-vous votre propre num\xE9ro de t\xE9l\xE9phone par c\u0153\
         ur?"
     response_1:
       french: Oui
@@ -5116,7 +5116,7 @@
   date: November 25, 2008
   poll:
     question:
-      french: "Vous pr\xE9f\xE9rez assister \xE0 une manifestation\nsportive..."
+      french: "Vous pr\xE9f\xE9rez assister \xE0 une manifestation sportive..."
     response_1:
       french: En vrai
     response_2:
@@ -5154,7 +5154,7 @@
   date: November 29, 2008
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous les murs peints ou couverts de\npapier peint?"
+      french: "Pr\xE9f\xE9rez-vous les murs peints ou couverts de papier peint?"
     response_1:
       french: Murs peints
     response_2:
@@ -5172,7 +5172,7 @@
   date: December 02, 2008
   poll:
     question:
-      french: "Lorsque vous recevez un cadeau qui vous pla\xEEt\nbeaucoup, vous l'ouvrez..."
+      french: "Lorsque vous recevez un cadeau qui vous pla\xEEt beaucoup, vous l'ouvrez..."
     response_1:
       french: "Avec pr\xE9caution"
     response_2:
@@ -5316,7 +5316,7 @@
   date: December 20, 2008
   poll:
     question:
-      french: "A votre avis, lesquels sont les plus nombreux sur\nnotre plan\xE8te?"
+      french: "A votre avis, lesquels sont les plus nombreux sur notre plan\xE8te?"
     response_1:
       french: Les insectes
     response_2:
@@ -5460,7 +5460,7 @@
   date: January 08, 2009
   poll:
     question:
-      french: "Mangez-vous toujours cinq fruits et l\xE9gumes\nchaque jour?"
+      french: "Mangez-vous toujours cinq fruits et l\xE9gumes chaque jour?"
     response_1:
       french: Oui
     response_2:
@@ -5730,7 +5730,7 @@
   date: February 12, 2009
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous le pain en tranches fines\nou \xE9paisses?"
+      french: "Pr\xE9f\xE9rez-vous le pain en tranches fines ou \xE9paisses?"
     response_1:
       french: Fines
     response_2:
@@ -5784,7 +5784,7 @@
   date: February 19, 2009
   poll:
     question:
-      french: "Pensez-vous que la v\xE9rit\xE9 est toujours\nbonne \xE0 dire?"
+      french: "Pensez-vous que la v\xE9rit\xE9 est toujours bonne \xE0 dire?"
     response_1:
       french: Oui
     response_2:
@@ -5822,7 +5822,7 @@
   date: February 24, 2009
   poll:
     question:
-      french: "Avez-vous honte des photos de vous quand vous\n\xE9tiez petit?"
+      french: "Avez-vous honte des photos de vous quand vous \xE9tiez petit?"
     response_1:
       french: Oui
     response_2:
@@ -5948,7 +5948,7 @@
   date: March 12, 2009
   poll:
     question:
-      french: "Regardez derri\xE8re vous.\nDe quel c\xF4t\xE9 avez-vous tourn\xE9\
+      french: "Regardez derri\xE8re vous. De quel c\xF4t\xE9 avez-vous tourn\xE9\
         \ la t\xEAte?"
     response_1:
       french: Gauche
@@ -5985,7 +5985,7 @@
   date: March 17, 2009
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous les beignets \xE0 la confiture\nou au chocolat?"
+      french: "Pr\xE9f\xE9rez-vous les beignets \xE0 la confiture ou au chocolat?"
     response_1:
       french: A la confiture
     response_2:
@@ -7479,7 +7479,7 @@
   date: September 26, 2009
   poll:
     question:
-      french: "Dans quel ordre faut-il regarder\nla s\xE9rie de la Guerre des \xE9\
+      french: "Dans quel ordre faut-il regarder la s\xE9rie de la Guerre des \xE9\
         toiles?"
     response_1:
       french: I, II, III, IV, V, VI
@@ -7552,7 +7552,7 @@
   date: October 06, 2009
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 essay\xE9 d'utiliser\nla Force comme Luke Skywalker?"
+      french: "Avez-vous d\xE9j\xE0 essay\xE9 d'utiliser la Force comme Luke Skywalker?"
     response_1:
       french: Je ne l'avouerai jamais!
     response_2:
@@ -7588,7 +7588,7 @@
   date: October 10, 2009
   poll:
     question:
-      french: "O\xF9 avez-vous vu Star Wars: Episode IV\npour la premi\xE8re fois?"
+      french: "O\xF9 avez-vous vu Star Wars: Episode IV pour la premi\xE8re fois?"
     response_1:
       french: Chez moi
     response_2:
@@ -7696,7 +7696,7 @@
   date: October 24, 2009
   poll:
     question:
-      french: "De quel dro\xEFde voudriez-vous l'aide\ndans vos t\xE2ches journali\xE8\
+      french: "De quel dro\xEFde voudriez-vous l'aide dans vos t\xE2ches journali\xE8\
         res?"
     response_1:
       french: R2-D2
@@ -8185,7 +8185,7 @@
   date: December 26, 2009
   poll:
     question:
-      french: "Les livres \xE9lectroniques remplaceront-ils\nles livres papier?"
+      french: "Les livres \xE9lectroniques remplaceront-ils les livres papier?"
     response_1:
       french: Oui
     response_2:
@@ -8257,7 +8257,7 @@
   date: January 05, 2010
   poll:
     question:
-      french: "Les extraterrestres viendront-ils sur\nterre au XXIe si\xE8cle?"
+      french: "Les extraterrestres viendront-ils sur terre au XXIe si\xE8cle?"
     response_1:
       french: Oui
     response_2:
@@ -8365,7 +8365,7 @@
   date: January 19, 2010
   poll:
     question:
-      french: "Vous \xEAtes-vous d\xE9j\xE0 piqu\xE9 le pied en\nmarchant sur une\
+      french: "Vous \xEAtes-vous d\xE9j\xE0 piqu\xE9 le pied en marchant sur une\
         \ punaise?"
     response_1:
       french: Oui
@@ -8420,7 +8420,7 @@
   date: January 26, 2010
   poll:
     question:
-      french: "Avez-vu d\xE9j\xE0 vu votre groupe ou artiste\nfavori en concert?"
+      french: "Avez-vu d\xE9j\xE0 vu votre groupe ou artiste favori en concert?"
     response_1:
       french: Oui
     response_2:
@@ -8438,7 +8438,7 @@
   date: January 28, 2010
   poll:
     question:
-      french: "Faites-vous des bains de bouche apr\xE8s\nvous \xEAtre bross\xE9 les\
+      french: "Faites-vous des bains de bouche apr\xE8s vous \xEAtre bross\xE9 les\
         \ dents?"
     response_1:
       french: Oui
@@ -8529,7 +8529,7 @@
   date: February 09, 2010
   poll:
     question:
-      french: "Les dauphins sont-ils plus intelligents que\nles \xEAtres humains?"
+      french: "Les dauphins sont-ils plus intelligents que les \xEAtres humains?"
     response_1:
       french: Oui
     response_2:
@@ -8583,7 +8583,7 @@
   date: February 16, 2010
   poll:
     question:
-      french: "Pouvez-vous vous tapoter la t\xEAte en\nfaisant des ronds sur votre\
+      french: "Pouvez-vous vous tapoter la t\xEAte en faisant des ronds sur votre\
         \ estomac?"
     response_1:
       french: Oui
@@ -8856,7 +8856,7 @@
   date: March 23, 2010
   poll:
     question:
-      french: "L'ascenseur dans lequel vous vous trouviez\nest-il d\xE9j\xE0 tomb\xE9\
+      french: "L'ascenseur dans lequel vous vous trouviez est-il d\xE9j\xE0 tomb\xE9\
         \ en panne?"
     response_1:
       french: Oui
@@ -8893,7 +8893,7 @@
   date: March 27, 2010
   poll:
     question:
-      french: "Vous est-il d\xE9j\xE0 arriv\xE9 d'oublier la raison pour\nlaquelle\
+      french: "Vous est-il d\xE9j\xE0 arriv\xE9 d'oublier la raison pour laquelle\
         \ vous \xE9tiez dans une pi\xE8ce?"
     response_1:
       french: Oui
@@ -10154,7 +10154,7 @@
   date: September 07, 2010
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous la confiture de fraise\nou de framboise?"
+      french: "Pr\xE9f\xE9rez-vous la confiture de fraise ou de framboise?"
     response_1:
       french: Fraise
     response_2:
@@ -10604,7 +10604,7 @@
   date: November 04, 2010
   poll:
     question:
-      french: "Si vous pouviez faire un v\u0153u, que\nsouhaiteriez-vous?"
+      french: "Si vous pouviez faire un v\u0153u, que souhaiteriez-vous?"
     response_1:
       french: La paix dans le monde
     response_2:
@@ -10946,7 +10946,7 @@
   date: December 18, 2010
   poll:
     question:
-      french: "Fermez-vous les portes \xE0 l'aide de la poign\xE9e\nou en les poussant?"
+      french: "Fermez-vous les portes \xE0 l'aide de la poign\xE9e ou en les poussant?"
     response_1:
       french: "Avec la poign\xE9e"
     response_2:
@@ -11236,7 +11236,7 @@
   date: January 25, 2011
   poll:
     question:
-      french: "Comme animal de compagnie, vous pr\xE9f\xE9reriez\navoir..."
+      french: "Comme animal de compagnie, vous pr\xE9f\xE9reriez avoir..."
     response_1:
       french: Un dragon
     response_2:
@@ -11328,7 +11328,7 @@
   date: February 05, 2011
   poll:
     question:
-      french: "Savez-vous de quel c\xF4t\xE9 se trouve\ntribord sur un bateau?"
+      french: "Savez-vous de quel c\xF4t\xE9 se trouve tribord sur un bateau?"
     response_1:
       french: Oui
     response_2:
@@ -11582,7 +11582,7 @@
   date: March 10, 2011
   poll:
     question:
-      french: "Lorsque vous signez vos mails, mettez-vous\nun point apr\xE8s votre\
+      french: "Lorsque vous signez vos mails, mettez-vous un point apr\xE8s votre\
         \ nom?"
     response_1:
       french: Oui
@@ -11621,7 +11621,7 @@
   date: March 15, 2011
   poll:
     question:
-      french: "Connaissez-vous par c\u0153ur les six premi\xE8res\nd\xE9cimales de\
+      french: "Connaissez-vous par c\u0153ur les six premi\xE8res d\xE9cimales de\
         \ pi?"
     response_1:
       french: Oui
@@ -11658,7 +11658,7 @@
   date: March 19, 2011
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 eu un bras ou une jambe\ndans le pl\xE2tre?"
+      french: "Avez-vous d\xE9j\xE0 eu un bras ou une jambe dans le pl\xE2tre?"
     response_1:
       french: Oui
     response_2:
@@ -11694,7 +11694,7 @@
   date: March 24, 2011
   poll:
     question:
-      french: "Quel type de boissons pr\xE9f\xE9rez-vous\nquand vous avez soif?"
+      french: "Quel type de boissons pr\xE9f\xE9rez-vous quand vous avez soif?"
     response_1:
       french: Gazeuses
     response_2:
@@ -11766,7 +11766,7 @@
   date: April 02, 2011
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 vu un film meilleur\nque le livre dont il a \xE9\
+      french: "Avez-vous d\xE9j\xE0 vu un film meilleur que le livre dont il a \xE9\
         t\xE9 tir\xE9?"
     response_1:
       french: Oui
@@ -11911,7 +11911,7 @@
   date: April 21, 2011
   poll:
     question:
-      french: "Si vous avez enfil\xE9 votre veste avec l'int\xE9rieur\n\xE0 l'ext\xE9\
+      french: "Si vous avez enfil\xE9 votre veste avec l'int\xE9rieur \xE0 l'ext\xE9\
         rieur, que faites-vous?"
     response_1:
       french: "Je la remets \xE0 l'endroit"
@@ -12004,7 +12004,7 @@
   date: May 03, 2011
   poll:
     question:
-      french: "Recherchez-vous des informations sur les films,\nou \xE9vitez-vous\
+      french: "Recherchez-vous des informations sur les films, ou \xE9vitez-vous\
         \ toute r\xE9v\xE9lation sur l'intrigue?"
     response_1:
       french: Je cherche des infos
@@ -12041,7 +12041,7 @@
   date: May 07, 2011
   poll:
     question:
-      french: "Ecouter de la musique vous aide-t-il\n\xE0 vous concentrer?"
+      french: "Ecouter de la musique vous aide-t-il \xE0 vous concentrer?"
     response_1:
       french: Oui
     response_2:
@@ -12077,7 +12077,7 @@
   date: May 12, 2011
   poll:
     question:
-      french: "Faites-vous r\xE9guli\xE8rement une petite sieste\ndans la journ\xE9\
+      french: "Faites-vous r\xE9guli\xE8rement une petite sieste dans la journ\xE9\
         e?"
     response_1:
       french: Oui
@@ -12096,7 +12096,7 @@
   date: May 14, 2011
   poll:
     question:
-      french: "Si vous \xE9tiez un animal, pr\xE9f\xE9reriez-vous\n\xEAtre un animal\
+      french: "Si vous \xE9tiez un animal, pr\xE9f\xE9reriez-vous \xEAtre un animal\
         \ sauvage ou de compagnie?"
     response_1:
       french: Un animal sauvage
@@ -12115,7 +12115,7 @@
   date: May 17, 2011
   poll:
     question:
-      french: "Pr\xE9f\xE9reriez-vous \xEAtre un \xE9crivain c\xE9l\xE8bre\nou un\
+      french: "Pr\xE9f\xE9reriez-vous \xEAtre un \xE9crivain c\xE9l\xE8bre ou un\
         \ acteur c\xE9l\xE8bre?"
     response_1:
       french: "Un \xE9crivain"
@@ -12134,7 +12134,7 @@
   date: May 19, 2011
   poll:
     question:
-      french: "Appr\xE9ciez-vous qu'on vous fasse confiance, ou\ntrouvez-vous cette\
+      french: "Appr\xE9ciez-vous qu'on vous fasse confiance, ou trouvez-vous cette\
         \ responsabilit\xE9 trop pesante?"
     response_1:
       french: "J'appr\xE9cie"
@@ -12153,7 +12153,7 @@
   date: May 21, 2011
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous mener en toute occasion,\nou vous contentez-vous\
+      french: "Pr\xE9f\xE9rez-vous mener en toute occasion, ou vous contentez-vous\
         \ de suivre?"
     response_1:
       french: "Je pr\xE9f\xE8re mener"
@@ -12172,7 +12172,7 @@
   date: May 24, 2011
   poll:
     question:
-      french: "Vous souvenez-vous de votre\npremi\xE8re ma\xEEtresse d'\xE9cole?"
+      french: "Vous souvenez-vous de votre premi\xE8re ma\xEEtresse d'\xE9cole?"
     response_1:
       french: Oui
     response_2:
@@ -12208,7 +12208,7 @@
   date: May 28, 2011
   poll:
     question:
-      french: "Si vous pouviez voyager dans l'avenir,\no\xF9 aimeriez-vous vous retrouver?"
+      french: "Si vous pouviez voyager dans l'avenir, o\xF9 aimeriez-vous vous retrouver?"
     response_1:
       french: 100 ans plus tard
     response_2:
@@ -12226,7 +12226,7 @@
   date: May 31, 2011
   poll:
     question:
-      french: "Pensez-vous qu'une impression de d\xE9j\xE0-vu\nest une forme de pr\xE9\
+      french: "Pensez-vous qu'une impression de d\xE9j\xE0-vu est une forme de pr\xE9\
         monition?"
     response_1:
       french: Oui
@@ -12245,7 +12245,7 @@
   date: June 02, 2011
   poll:
     question:
-      french: "Les autruches plongent-elles vraiment\nla t\xEAte dans le sable face\
+      french: "Les autruches plongent-elles vraiment la t\xEAte dans le sable face\
         \ au danger?"
     response_1:
       french: Oui
@@ -12282,7 +12282,7 @@
   date: June 07, 2011
   poll:
     question:
-      french: "Avez-vous besoin de partager des similitudes\navec quelqu'un pour lui\
+      french: "Avez-vous besoin de partager des similitudes avec quelqu'un pour lui\
         \ accorder votre amiti\xE9?"
     response_1:
       french: Oui
@@ -12391,7 +12391,7 @@
   date: June 21, 2011
   poll:
     question:
-      french: "Passez-vous plus de temps \xE0 regarder la t\xE9l\xE9\nou \xE0 jouer\
+      french: "Passez-vous plus de temps \xE0 regarder la t\xE9l\xE9 ou \xE0 jouer\
         \ \xE0 des jeux vid\xE9o?"
     response_1:
       french: "A regarder la t\xE9l\xE9"
@@ -12446,7 +12446,7 @@
   date: June 28, 2011
   poll:
     question:
-      french: "Avez-vous tendance \xE0 laisser la lumi\xE8re allum\xE9e\nquand vous\
+      french: "Avez-vous tendance \xE0 laisser la lumi\xE8re allum\xE9e quand vous\
         \ quittez une pi\xE8ce?"
     response_1:
       french: Oui
@@ -12501,7 +12501,7 @@
   date: July 05, 2011
   poll:
     question:
-      french: "Revivre toute votre vie avec les connaissances\nque vous avez \xE0\
+      french: "Revivre toute votre vie avec les connaissances que vous avez \xE0\
         \ pr\xE9sent, ce serait..."
     response_1:
       french: Formidable!
@@ -12538,7 +12538,7 @@
   date: July 09, 2011
   poll:
     question:
-      french: "Consid\xE9rez-vous vos animaux domestiques\ncomme des membres de votre\
+      french: "Consid\xE9rez-vous vos animaux domestiques comme des membres de votre\
         \ famille?"
     response_1:
       french: Oui
@@ -12575,7 +12575,7 @@
   date: July 14, 2011
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 fabriqu\xE9 une marionnette\navec une chaussette?"
+      french: "Avez-vous d\xE9j\xE0 fabriqu\xE9 une marionnette avec une chaussette?"
     response_1:
       french: Oui
     response_2:
@@ -12631,7 +12631,7 @@
   date: July 21, 2011
   poll:
     question:
-      french: "Lorsque votre voiture est coinc\xE9e dans\nun embouteillage, que ressentez-vous?"
+      french: "Lorsque votre voiture est coinc\xE9e dans un embouteillage, que ressentez-vous?"
     response_1:
       french: "De la col\xE8re! GRRR!"
     response_2:
@@ -12685,7 +12685,7 @@
   date: July 28, 2011
   poll:
     question:
-      french: "Quelqu'un s'\xE9vanouit juste devant vous!\nSavez-vous quoi faire?"
+      french: "Quelqu'un s'\xE9vanouit juste devant vous! Savez-vous quoi faire?"
     response_1:
       french: Oui! J'interviens!
     response_2:
@@ -12703,7 +12703,7 @@
   date: July 30, 2011
   poll:
     question:
-      french: "Voyager dans le temps rel\xE8ve-t-il \xE0 votre avis de\nla th\xE9\
+      french: "Voyager dans le temps rel\xE8ve-t-il \xE0 votre avis de la th\xE9\
         orie scientifique ou de la science-fiction?"
     response_1:
       french: C'est possible
@@ -12722,7 +12722,7 @@
   date: August 02, 2011
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 v\xE9cu dans un pays \xE9tranger\npendant plus\
+      french: "Avez-vous d\xE9j\xE0 v\xE9cu dans un pays \xE9tranger pendant plus\
         \ d'un mois?"
     response_1:
       french: Oui
@@ -12777,7 +12777,7 @@
   date: August 09, 2011
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous avoir un morceau de viande\navec l'os ou d\xE9\
+      french: "Pr\xE9f\xE9rez-vous avoir un morceau de viande avec l'os ou d\xE9\
         soss\xE9?"
     response_1:
       french: Avec l'os
@@ -13034,7 +13034,7 @@
   date: September 10, 2011
   poll:
     question:
-      french: "Si vous d\xE9couvriez que votre r\xE9frig\xE9rateur permet\nd'acc\xE9\
+      french: "Si vous d\xE9couvriez que votre r\xE9frig\xE9rateur permet d'acc\xE9\
         der \xE0 un autre monde, que feriez-vous?"
     response_1:
       french: "Je le dirais \xE0 tous"
@@ -13147,7 +13147,7 @@
   date: September 24, 2011
   poll:
     question:
-      french: "Parmi les oiseaux incapables de voler,\nlequel pr\xE9f\xE9rez-vous?"
+      french: "Parmi les oiseaux incapables de voler, lequel pr\xE9f\xE9rez-vous?"
     response_1:
       french: Le manchot
     response_2:
@@ -13165,7 +13165,7 @@
   date: September 27, 2011
   poll:
     question:
-      french: "Pensez-vous que cela vous plairait\nd'\xEAtre un agent secret?"
+      french: "Pensez-vous que cela vous plairait d'\xEAtre un agent secret?"
     response_1:
       french: Oui
     response_2:
@@ -13255,7 +13255,7 @@
   date: October 08, 2011
   poll:
     question:
-      french: "Votre ami chante particuli\xE8rement faux au karaok\xE9...\nQue faites-vous?"
+      french: "Votre ami chante particuli\xE8rement faux au karaok\xE9... Que faites-vous?"
     response_1:
       french: Je le lui dis en cachette
     response_2:
@@ -13309,7 +13309,7 @@
   date: October 15, 2011
   poll:
     question:
-      french: "Avez-vous tendance \xE0 perdre\nle fil des conversations?"
+      french: "Avez-vous tendance \xE0 perdre le fil des conversations?"
     response_1:
       french: Oui
     response_2:
@@ -13471,7 +13471,7 @@
   date: November 05, 2011
   poll:
     question:
-      french: "Vous tenez-vous \xE0 la rampe quand vous\nmontez/descendez un escalier?"
+      french: "Vous tenez-vous \xE0 la rampe quand vous montez/descendez un escalier?"
     response_1:
       french: Oui
     response_2:
@@ -13489,7 +13489,7 @@
   date: November 08, 2011
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 mang\xE9 de la cr\xE8me\nglac\xE9e avec des baguettes?"
+      french: "Avez-vous d\xE9j\xE0 mang\xE9 de la cr\xE8me glac\xE9e avec des baguettes?"
     response_1:
       french: Oui!
     response_2:
@@ -13635,7 +13635,7 @@
   date: November 26, 2011
   poll:
     question:
-      french: "Avez-vous lu en entier tous les\nlivres que vous poss\xE9dez?"
+      french: "Avez-vous lu en entier tous les livres que vous poss\xE9dez?"
     response_1:
       french: Oui, tous!
     response_2:
@@ -13689,7 +13689,7 @@
   date: December 03, 2011
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 r\xE9ussi \xE0 vous endormir\nen comptant les\
+      french: "Avez-vous d\xE9j\xE0 r\xE9ussi \xE0 vous endormir en comptant les\
         \ moutons?"
     response_1:
       french: Oui!
@@ -13728,7 +13728,7 @@
   date: December 08, 2011
   poll:
     question:
-      french: "Qui pr\xE9f\xE9reriez-vous avoir \xE0 vos\nc\xF4t\xE9s lors d'une bataille?"
+      french: "Qui pr\xE9f\xE9reriez-vous avoir \xE0 vos c\xF4t\xE9s lors d'une bataille?"
     response_1:
       french: Un extralucide
     response_2:
@@ -13818,7 +13818,7 @@
   date: December 20, 2011
   poll:
     question:
-      french: "Connaissez-vous l'ordre des\nplan\xE8tes du syst\xE8me solaire?"
+      french: "Connaissez-vous l'ordre des plan\xE8tes du syst\xE8me solaire?"
     response_1:
       french: Oui
     response_2:
@@ -13970,7 +13970,7 @@
   date: January 07, 2012
   poll:
     question:
-      french: "Votre pr\xE9nom commence-t-il par une\nvoyelle ou par une consonne?"
+      french: "Votre pr\xE9nom commence-t-il par une voyelle ou par une consonne?"
     response_1:
       french: Voyelle
     response_2:
@@ -14044,7 +14044,7 @@
   date: January 17, 2012
   poll:
     question:
-      french: "Consultez-vous votre bo\xEEte e-mail\ntous les jours?"
+      french: "Consultez-vous votre bo\xEEte e-mail tous les jours?"
     response_1:
       french: Oui
     response_2:
@@ -14642,7 +14642,7 @@
   date: April 03, 2012
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 regard\xE9 un film\nd'horreur tout(e) seul(e)?"
+      french: "Avez-vous d\xE9j\xE0 regard\xE9 un film d'horreur tout(e) seul(e)?"
     response_1:
       french: Oui
     response_2:
@@ -14786,7 +14786,7 @@
   date: April 21, 2012
   poll:
     question:
-      french: "Vous \xEAtes-vous d\xE9j\xE0 perdu dans une ville\nque vous ne connaissiez\
+      french: "Vous \xEAtes-vous d\xE9j\xE0 perdu dans une ville que vous ne connaissiez\
         \ pas?"
     response_1:
       french: Oui
@@ -14879,7 +14879,7 @@
   date: May 03, 2012
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 \xE9t\xE9 impliqu\xE9(e) dans\nun accident de\
+      french: "Avez-vous d\xE9j\xE0 \xE9t\xE9 impliqu\xE9(e) dans un accident de\
         \ la circulation?"
     response_1:
       french: Oui
@@ -14916,7 +14916,7 @@
   date: May 08, 2012
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 eu le hoquet pendant\nplus de 30 minutes?"
+      french: "Avez-vous d\xE9j\xE0 eu le hoquet pendant plus de 30 minutes?"
     response_1:
       french: Oui
     response_2:
@@ -14934,7 +14934,7 @@
   date: May 10, 2012
   poll:
     question:
-      french: "Pouvez-vous faire une division \xE0 3 chiffres\nsans calculatrice?"
+      french: "Pouvez-vous faire une division \xE0 3 chiffres sans calculatrice?"
     response_1:
       french: Oui
     response_2:
@@ -14970,7 +14970,7 @@
   date: May 15, 2012
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 trouv\xE9 des pi\xE8ces\nde monnaie dans une piscine?"
+      french: "Avez-vous d\xE9j\xE0 trouv\xE9 des pi\xE8ces de monnaie dans une piscine?"
     response_1:
       french: Oui
     response_2:
@@ -15096,7 +15096,7 @@
   date: May 31, 2012
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 fait un v\u0153u qui\ns'est r\xE9alis\xE9 par\
+      french: "Avez-vous d\xE9j\xE0 fait un v\u0153u qui s'est r\xE9alis\xE9 par\
         \ la suite?"
     response_1:
       french: Oui!
@@ -15169,7 +15169,7 @@
   date: June 09, 2012
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 re\xE7u un cadeau\nque vous avez d\xE9test\xE9\
+      french: "Avez-vous d\xE9j\xE0 re\xE7u un cadeau que vous avez d\xE9test\xE9\
         ?"
     response_1:
       french: Oui, malheureusement...
@@ -15392,7 +15392,7 @@
   date: July 07, 2012
   poll:
     question:
-      french: "Avez-vous les jambes crois\xE9es\nen ce moment m\xEAme?"
+      french: "Avez-vous les jambes crois\xE9es en ce moment m\xEAme?"
     response_1:
       french: Oui
     response_2:
@@ -15428,7 +15428,7 @@
   date: July 12, 2012
   poll:
     question:
-      french: "Pr\xE9f\xE9reriez-vous \xEAtre un g\xE9ant\nde fer ou un dragon de\
+      french: "Pr\xE9f\xE9reriez-vous \xEAtre un g\xE9ant de fer ou un dragon de\
         \ feu?"
     response_1:
       french: "G\xE9ant de fer"
@@ -15483,7 +15483,7 @@
   date: July 19, 2012
   poll:
     question:
-      french: "Faites-vous toujours vos\ndevoirs en rentrant de l'\xE9cole ?"
+      french: "Faites-vous toujours vos devoirs en rentrant de l'\xE9cole ?"
     response_1:
       french: Oui, normalement
     response_2:
@@ -15591,7 +15591,7 @@
   date: August 02, 2012
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 pris un\nmauvais coup de soleil ?"
+      french: "Avez-vous d\xE9j\xE0 pris un mauvais coup de soleil ?"
     response_1:
       french: Oui
     response_2:
@@ -15627,7 +15627,7 @@
   date: August 07, 2012
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous les activit\xE9s sportives\nou les activit\xE9\
+      french: "Pr\xE9f\xE9rez-vous les activit\xE9s sportives ou les activit\xE9\
         s mentales ?"
     response_1:
       french: Sportives
@@ -15664,7 +15664,7 @@
   date: August 11, 2012
   poll:
     question:
-      french: "Chantez-vous souvent en m\xEAme temps\nque les chansons que vous \xE9\
+      french: "Chantez-vous souvent en m\xEAme temps que les chansons que vous \xE9\
         coutez ?"
     response_1:
       french: Oui !
@@ -15683,7 +15683,7 @@
   date: August 14, 2012
   poll:
     question:
-      french: "Si vous \xE9tiez astronaute, quelle\nplan\xE8te aimeriez-vous visiter\
+      french: "Si vous \xE9tiez astronaute, quelle plan\xE8te aimeriez-vous visiter\
         \ ?"
     response_1:
       french: Mars
@@ -15739,7 +15739,7 @@
   date: August 21, 2012
   poll:
     question:
-      french: "Vous regardez votre programme TV favori mais\nvotre t\xE9l\xE9 tombe\
+      french: "Vous regardez votre programme TV favori mais votre t\xE9l\xE9 tombe\
         \ en panne. Que faites-vous ?"
     response_1:
       french: "J'appelle \xE0 l'aide"
@@ -15758,7 +15758,7 @@
   date: August 23, 2012
   poll:
     question:
-      french: "Vous lavez-vous les dents avant\nou apr\xE8s le petit-d\xE9jeuner ?"
+      french: "Vous lavez-vous les dents avant ou apr\xE8s le petit-d\xE9jeuner ?"
     response_1:
       french: Avant
     response_2:
@@ -15832,7 +15832,7 @@
   date: September 01, 2012
   poll:
     question:
-      french: "Que d\xE9testez-vous le plus ? Ranger votre\nchambre ou faire la vaisselle\
+      french: "Que d\xE9testez-vous le plus ? Ranger votre chambre ou faire la vaisselle\
         \ ?"
     response_1:
       french: Ranger ma chambre
@@ -15871,7 +15871,7 @@
   date: September 06, 2012
   poll:
     question:
-      french: "Si vous avez une mauvaise note \xE0 un\nexpos\xE9, quand le dites-vous\
+      french: "Si vous avez une mauvaise note \xE0 un expos\xE9, quand le dites-vous\
         \ \xE0 vos parents ?"
     response_1:
       french: Tout de suite
@@ -15890,7 +15890,7 @@
   date: September 08, 2012
   poll:
     question:
-      french: "Lesquels pr\xE9f\xE9rez-vous :\nles zombies ou les fant\xF4mes ?"
+      french: "Lesquels pr\xE9f\xE9rez-vous : les zombies ou les fant\xF4mes ?"
     response_1:
       french: Les zombies
     response_2:
@@ -15908,7 +15908,7 @@
   date: September 11, 2012
   poll:
     question:
-      french: "\xCAtes-vous une personne introvertie\nou extravertie ?"
+      french: "\xCAtes-vous une personne introvertie ou extravertie ?"
     response_1:
       french: Introvertie
     response_2:
@@ -15962,7 +15962,7 @@
   date: September 18, 2012
   poll:
     question:
-      french: "Si un ami vous dit : \xAB Regarde ! Un\ncochon volant ! \xBB Est-ce\
+      french: "Si un ami vous dit : \xAB Regarde ! Un cochon volant ! \xBB Est-ce\
         \ que vous..."
     response_1:
       french: Regardez ?
@@ -15981,7 +15981,7 @@
   date: September 20, 2012
   poll:
     question:
-      french: "Connaissez-vous la carte du\nmonde par c\u0153ur ?"
+      french: "Connaissez-vous la carte du monde par c\u0153ur ?"
     response_1:
       french: Oui
     response_2:
@@ -15999,7 +15999,7 @@
   date: September 22, 2012
   poll:
     question:
-      french: "\xC9coutez-vous de la musique\ndans votre voiture ?"
+      french: "\xC9coutez-vous de la musique dans votre voiture ?"
     response_1:
       french: Oui
     response_2:
@@ -16017,7 +16017,7 @@
   date: September 25, 2012
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous avoir les cheveux\nlongs ou courts ?"
+      french: "Pr\xE9f\xE9rez-vous avoir les cheveux longs ou courts ?"
     response_1:
       french: Longs
     response_2:
@@ -16091,7 +16091,7 @@
   date: October 04, 2012
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous les climats chauds\nou les climats froids ?"
+      french: "Pr\xE9f\xE9rez-vous les climats chauds ou les climats froids ?"
     response_1:
       french: Chauds
     response_2:
@@ -16165,7 +16165,7 @@
   date: October 13, 2012
   poll:
     question:
-      french: "\xC0 quel poignet portez-vous\nvotre montre ?"
+      french: "\xC0 quel poignet portez-vous votre montre ?"
     response_1:
       french: Gauche
     response_2:
@@ -16255,7 +16255,7 @@
   date: October 25, 2012
   poll:
     question:
-      french: "Si vous viviez dans la mer,\npr\xE9f\xE9reriez-vous \xEAtre..."
+      french: "Si vous viviez dans la mer, pr\xE9f\xE9reriez-vous \xEAtre..."
     response_1:
       french: "Une sir\xE8ne"
     response_2:
@@ -16293,7 +16293,7 @@
   date: October 30, 2012
   poll:
     question:
-      french: "Pr\xE9f\xE9reriez-vous \xEAtre le membre le plus\njeune ou le plus\
+      french: "Pr\xE9f\xE9reriez-vous \xEAtre le membre le plus jeune ou le plus\
         \ \xE2g\xE9 de votre fratrie ?"
     response_1:
       french: "L'a\xEEn\xE9"
@@ -16330,7 +16330,7 @@
   date: November 03, 2012
   poll:
     question:
-      french: "Avez-vous lu cette question\n\xE0 voix haute ?"
+      french: "Avez-vous lu cette question \xE0 voix haute ?"
     response_1:
       french: Oui
     response_2:
@@ -16368,7 +16368,7 @@
   date: November 08, 2012
   poll:
     question:
-      french: "Comment p\xE9n\xE9trez-vous\ndans une piscine ?"
+      french: "Comment p\xE9n\xE9trez-vous dans une piscine ?"
     response_1:
       french: Je plonge
     response_2:
@@ -16404,7 +16404,7 @@
   date: November 13, 2012
   poll:
     question:
-      french: "Utilisez-vous un r\xE9veil pour\nvous r\xE9veiller ?"
+      french: "Utilisez-vous un r\xE9veil pour vous r\xE9veiller ?"
     response_1:
       french: Oui
     response_2:
@@ -16478,7 +16478,7 @@
   date: November 22, 2012
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous les boissons\nchaudes ou froides ?"
+      french: "Pr\xE9f\xE9rez-vous les boissons chaudes ou froides ?"
     response_1:
       french: Chaudes
     response_2:
@@ -16496,7 +16496,7 @@
   date: November 24, 2012
   poll:
     question:
-      french: "Avez-vous vu un film\nau cin\xE9ma r\xE9cemment ?"
+      french: "Avez-vous vu un film au cin\xE9ma r\xE9cemment ?"
     response_1:
       french: Oui
     response_2:
@@ -16514,7 +16514,7 @@
   date: November 27, 2012
   poll:
     question:
-      french: "Pr\xE9f\xE9reriez-vous \xEAtre la plus grande ou la\nplus petite personne\
+      french: "Pr\xE9f\xE9reriez-vous \xEAtre la plus grande ou la plus petite personne\
         \ au monde ?"
     response_1:
       french: La plus grande
@@ -16569,7 +16569,7 @@
   date: December 04, 2012
   poll:
     question:
-      french: "Lequel de ces deux \xE9l\xE9ments\nest le plus important ?"
+      french: "Lequel de ces deux \xE9l\xE9ments est le plus important ?"
     response_1:
       french: Air
     response_2:
@@ -16623,7 +16623,7 @@
   date: December 11, 2012
   poll:
     question:
-      french: "Pr\xE9f\xE9reriez-vous sauter \xE0 l'\xE9lastique\nou sauter en parachute\
+      french: "Pr\xE9f\xE9reriez-vous sauter \xE0 l'\xE9lastique ou sauter en parachute\
         \ ?"
     response_1:
       french: "Sauter \xE0 l'\xE9lastique"
@@ -16660,7 +16660,7 @@
   date: December 15, 2012
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 rencontr\xE9 une\npersonne c\xE9l\xE8bre ?"
+      french: "Avez-vous d\xE9j\xE0 rencontr\xE9 une personne c\xE9l\xE8bre ?"
     response_1:
       french: Oui
     response_2:
@@ -16714,7 +16714,7 @@
   date: December 22, 2012
   poll:
     question:
-      french: "Quelle couleur choisissez-vous\ntoujours aux \xE9checs ?"
+      french: "Quelle couleur choisissez-vous toujours aux \xE9checs ?"
     response_1:
       french: Noire
     response_2:
@@ -16750,7 +16750,7 @@
   date: December 27, 2012
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 pu vous asseoir au\npremier rang dans un concert\
+      french: "Avez-vous d\xE9j\xE0 pu vous asseoir au premier rang dans un concert\
         \ ?"
     response_1:
       french: Oui
@@ -16859,7 +16859,7 @@
   date: January 10, 2013
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 essay\xE9 de\nmonter un ordinateur ?"
+      french: "Avez-vous d\xE9j\xE0 essay\xE9 de monter un ordinateur ?"
     response_1:
       french: Oui
     response_2:
@@ -16877,7 +16877,7 @@
   date: January 12, 2013
   poll:
     question:
-      french: "\xCAtes-vous la personne la plus\n\xE2g\xE9e de votre fratrie ?"
+      french: "\xCAtes-vous la personne la plus \xE2g\xE9e de votre fratrie ?"
     response_1:
       french: Oui
     response_2:
@@ -16953,7 +16953,7 @@
   date: January 22, 2013
   poll:
     question:
-      french: "Aimez-vous les haricots blancs\n\xE0 la sauce tomate ?"
+      french: "Aimez-vous les haricots blancs \xE0 la sauce tomate ?"
     response_1:
       french: Oui
     response_2:
@@ -17007,7 +17007,7 @@
   date: January 29, 2013
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 \xE9crit une question\npour cette cha\xEEne votes\
+      french: "Avez-vous d\xE9j\xE0 \xE9crit une question pour cette cha\xEEne votes\
         \ ?"
     response_1:
       french: Oui
@@ -17136,7 +17136,7 @@
   date: February 14, 2013
   poll:
     question:
-      french: "Quelqu'un sonne \xE0 votre porte et il\nn'y a que vous \xE0 la maison.\
+      french: "Quelqu'un sonne \xE0 votre porte et il n'y a que vous \xE0 la maison.\
         \ Vous..."
     response_1:
       french: "V\xE9rifiez avant d'ouvrir"
@@ -17155,7 +17155,7 @@
   date: February 16, 2013
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 re\xE7u des cartes\npostales de l'\xE9tranger\
+      french: "Avez-vous d\xE9j\xE0 re\xE7u des cartes postales de l'\xE9tranger\
         \ ?"
     response_1:
       french: Oui
@@ -17194,7 +17194,7 @@
   date: February 21, 2013
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 essay\xE9 de\nbattre un record du monde ?"
+      french: "Avez-vous d\xE9j\xE0 essay\xE9 de battre un record du monde ?"
     response_1:
       french: Oui
     response_2:
@@ -17284,7 +17284,7 @@
   date: March 05, 2013
   poll:
     question:
-      french: "Savez-vous ce que veut\ndire \xAB www \xBB ?"
+      french: "Savez-vous ce que veut dire \xAB www \xBB ?"
     response_1:
       french: "Bien s\xFBr !"
     response_2:
@@ -17450,7 +17450,7 @@
   date: March 26, 2013
   poll:
     question:
-      french: "Vous devez d\xE9sarmer une bombe.\nQuel fil coupez-vous ?"
+      french: "Vous devez d\xE9sarmer une bombe. Quel fil coupez-vous ?"
     response_1:
       french: Le rouge
     response_2:
@@ -17486,7 +17486,7 @@
   date: March 30, 2013
   poll:
     question:
-      french: "Si votre horloge num\xE9rique affiche\n12:34, que ressentez-vous ?"
+      french: "Si votre horloge num\xE9rique affiche 12:34, que ressentez-vous ?"
     response_1:
       french: De l'amusement
     response_2:
@@ -17580,7 +17580,7 @@
   date: April 11, 2013
   poll:
     question:
-      french: "Quel jour pr\xE9f\xE9rez-vous pour\nun long week-end ?"
+      french: "Quel jour pr\xE9f\xE9rez-vous pour un long week-end ?"
     response_1:
       french: Le lundi !
     response_2:
@@ -17656,7 +17656,7 @@
   date: April 20, 2013
   poll:
     question:
-      french: "Aimeriez-vous \xEAtre du sexe oppos\xE9\npour une journ\xE9e ?"
+      french: "Aimeriez-vous \xEAtre du sexe oppos\xE9 pour une journ\xE9e ?"
     response_1:
       french: Oui
     response_2:
@@ -17674,7 +17674,7 @@
   date: April 23, 2013
   poll:
     question:
-      french: "Votre anniversaire est le 29 f\xE9vrier. Quand le\nf\xEAtez-vous lors\
+      french: "Votre anniversaire est le 29 f\xE9vrier. Quand le f\xEAtez-vous lors\
         \ d'une ann\xE9e non bissextile ?"
     response_1:
       french: "Le 28 f\xE9vrier"
@@ -17693,7 +17693,7 @@
   date: April 25, 2013
   poll:
     question:
-      french: "Voudriez-vous savoir combien de\ntemps il vous reste \xE0 vivre ?"
+      french: "Voudriez-vous savoir combien de temps il vous reste \xE0 vivre ?"
     response_1:
       french: Oui
     response_2:
@@ -17747,7 +17747,7 @@
   date: May 02, 2013
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous la guitare acoustique\nou la guitare \xE9lectrique\
+      french: "Pr\xE9f\xE9rez-vous la guitare acoustique ou la guitare \xE9lectrique\
         \ ?"
     response_1:
       french: Acoustique
@@ -17766,7 +17766,7 @@
   date: May 04, 2013
   poll:
     question:
-      french: "Pouvez-vous \xE9ternuer\nles yeux ouverts ?"
+      french: "Pouvez-vous \xE9ternuer les yeux ouverts ?"
     response_1:
       french: Absolument !
     response_2:
@@ -17784,7 +17784,7 @@
   date: May 07, 2013
   poll:
     question:
-      french: "Pr\xE9f\xE9rez-vous manger sur place\nou commander \xE0 emporter ?"
+      french: "Pr\xE9f\xE9rez-vous manger sur place ou commander \xE0 emporter ?"
     response_1:
       french: "\xC0 emporter"
     response_2:
@@ -17840,7 +17840,7 @@
   date: May 14, 2013
   poll:
     question:
-      french: "Est-ce qu'un membre de votre famille\nvit dans un pays \xE9tranger\
+      french: "Est-ce qu'un membre de votre famille vit dans un pays \xE9tranger\
         \ ?"
     response_1:
       french: Oui
@@ -17859,7 +17859,7 @@
   date: May 16, 2013
   poll:
     question:
-      french: "Pr\xE9f\xE9reriez-vous faire du v\xE9lo\nou jouer aux jeux vid\xE9\
+      french: "Pr\xE9f\xE9reriez-vous faire du v\xE9lo ou jouer aux jeux vid\xE9\
         o ?"
     response_1:
       french: "Faire du v\xE9lo"
@@ -17878,7 +17878,7 @@
   date: May 18, 2013
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 jet\xE9 votre cuill\xE8re \xE0 la\npoubelle avec\
+      french: "Avez-vous d\xE9j\xE0 jet\xE9 votre cuill\xE8re \xE0 la poubelle avec\
         \ votre pot de yaourt vide ?"
     response_1:
       french: Oui
@@ -17955,7 +17955,7 @@
   date: May 28, 2013
   poll:
     question:
-      french: "Si un mauvais cuisinier vous fait go\xFBter\nsa cuisine, que dites-vous\
+      french: "Si un mauvais cuisinier vous fait go\xFBter sa cuisine, que dites-vous\
         \ ?"
     response_1:
       french: C'est super bon !
@@ -17974,7 +17974,7 @@
   date: May 30, 2013
   poll:
     question:
-      french: "Avez-vous d\xE9j\xE0 dormi jusqu'\xE0 tard\ndans l'apr\xE8s-midi ?"
+      french: "Avez-vous d\xE9j\xE0 dormi jusqu'\xE0 tard dans l'apr\xE8s-midi ?"
     response_1:
       french: Oui
     response_2:
@@ -18046,7 +18046,7 @@
   date: June 08, 2013
   poll:
     question:
-      french: "Y-a-til quelqu'un pr\xE8s de vous au moment\no\xF9 vous lisez cette\
+      french: "Y-a-til quelqu'un pr\xE8s de vous au moment o\xF9 vous lisez cette\
         \ question ?"
     response_1:
       french: Non
@@ -18083,7 +18083,7 @@
   date: June 13, 2013
   poll:
     question:
-      french: "Voici l'ultime question de la cha\xEEne votes!\nAvez-vous appr\xE9\
+      french: "Voici l'ultime question de la cha\xEEne votes! Avez-vous appr\xE9\
         ci\xE9 cette cha\xEEne?"
     response_1:
       french: Oui
