@@ -16,6 +16,14 @@
 
 # Build settings
 title: RiiConnect24
+email: support@riiconnect24.net
+url: "https://rc24.xyz/"
+
+# Social
+githubUsername: RiiConnect24
+twitterUsername: RiiConnect24
+facebookUsername: RiiConnect24
+
 defaults:
   -
     scope:
