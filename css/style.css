@@ -35,12 +35,11 @@ html {
 
 .page-footer {
   margin: 0;
-  background: #222 !important;
 }
 
-.blue {
+/* .blue {
   background-color: #222 !important;
-}
+} */
 
 .collection .collection-item {
   background-color: #222;
