@@ -1,0 +1,171 @@
+.blue-text {
+  color: #fff !important;
+}
+
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+
+ 
+html {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  overflow: scroll;
+}
+
+/* Materialize stuff */
+
+html {
+  color: #c0c0c0 !important;
+  background: #333 !important;
+}
+
+footer.page-footer {
+  margin: 0;
+  background: #222 !important;
+}
+
+.blue {
+  background-color: #222 !important;
+}
+
+.collection .collection-item {
+  background-color: #222;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.collection.with-header .collection-header {
+  background-color: #222;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.green {
+  color: #000;
+}
+
+.yellow {
+  color: #000;
+}
+
+
+.orange {
+  color: #000;
+}
+
+.red {
+  color: #000;
+}
+
+.actually-red {
+  color: #ea454b
+}
+
+.card {
+  background-color: #222;
+}
+
+.blue {
+  background-color: #222 !important;
+}
+
+a {
+  color: #fff !important;
+}
+
+.collection {
+  background: #222;
+}
+
+nav ul a,
+nav .brand-logo {
+/*  color: #444;*/
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+}
+.parallax-container.small-parallax-container {
+  min-height: 0;
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+.full-height {
+  min-height: 100%;
+  min-height: 100vh;
+}
+
+
+.white-text {
+  color: #fff !important;
+}
+
+/* RiiConnect24 */
+.dropdown-content {
+  z-index: 1000;
+}
+
+.spin  {
+-webkit-animation: spin 1s linear infinite;
+-moz-animation: spin 1s linear infinite;
+animation: spin 1s linear infinite;
+}
+@-moz-keyframes spin {
+100% {
+-moz-transform: rotate(360deg);
+}
+}
+@-webkit-keyframes spin {
+100% {
+-webkit-transform: rotate(360deg);
+}
+}
+@keyframes spin {
+100% {
+-webkit-transform: rotate(360deg);
+transform: rotate(360deg);
+}
+}
