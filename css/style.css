@@ -1,3 +1,7 @@
+.blue-text {
+  color: #fff !important;
+}
+
 /* Custom Stylesheet */
 /**
  * Use this file to override Materialize files so you can update
@@ -6,6 +10,8 @@
  * Made By MaterializeCSS.com
  */
 
+
+ 
 html {
   font-family: 'Open Sans', sans-serif;
   font-size: 17px;
@@ -13,6 +19,75 @@ html {
 }
 
 /* Materialize stuff */
+
+html {
+  color: #c0c0c0 !important;
+  background: #333 !important;
+}
+
+.sidenav li > a > i, .sidenav li > a, .sidenav li > a li > a, .sidenav li > a > i.material-icons {
+  color: #fff;
+}
+
+.sidenav {
+  background-color: #222;
+}
+
+.page-footer {
+  margin: 0;
+  background: #222 !important;
+}
+
+.blue {
+  background-color: #222 !important;
+}
+
+.collection .collection-item {
+  background-color: #222;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.collection.with-header .collection-header {
+  background-color: #222;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.green {
+  color: #000;
+}
+
+.yellow {
+  color: #000;
+}
+
+
+.orange {
+  color: #000;
+}
+
+.red {
+  color: #000;
+}
+
+.actually-red {
+  color: #ea454b
+}
+
+.card {
+  background-color: #222;
+}
+
+.blue {
+  background-color: #222 !important;
+}
+
+a {
+  color: #fff !important;
+}
+
+.collection {
+  background: #222;
+}
 
 nav ul a,
 nav .brand-logo {
@@ -62,13 +137,18 @@ p {
   font-size: inherit;
 }
 
-footer.page-footer {
+.page-footer {
   margin: 0;
 }
 
 .full-height {
   min-height: 100%;
   min-height: 100vh;
+}
+
+
+.white-text {
+  color: #fff !important;
 }
 
 /* RiiConnect24 */
