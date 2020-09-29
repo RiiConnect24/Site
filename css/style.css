@@ -16,6 +16,7 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 17px;
   overflow: scroll;
+  cursor:url("https://rc24.xyz/images/cursors/wii.cur"), default;
 }
 
 /* Materialize stuff */
@@ -79,6 +80,7 @@ html {
 
 a {
   color: #00b0f4;
+  cursor:url("https://rc24.xyz/images/cursors/wii-hover.cur"), default;
 }
 
 .collection {
