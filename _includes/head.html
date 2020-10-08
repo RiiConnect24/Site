@@ -43,6 +43,14 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
   <link href="/css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
 
+  <!-- Wii User Agent Check -->
+  <script>
+    var ua = navigator.userAgent;
+    if (ua.indexOf("Wii") !== -1) {
+      document.write('<meta http-equiv="refresh" content="0; URL=http://bookmark.rc24.xyz/" />');
+    }
+  </script>
+  
   <!-- Font Awesome --> 
   <script src="https://kit.fontawesome.com/8c73d9a1fd.js"></script>
   
