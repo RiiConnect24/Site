@@ -1,20 +1,47 @@
 ---
 layout: default
-title: Mii Editor
+title: My Avatar Editor
 ---
 	<div class="section no-pad-bot">
 		<div class="container">
 			<br><br>
-			<h1 class="header center white-text"><i class="fas fa-smile" aria-hidden="true"></i> Mii Editor</h1>
+			<h1 class="header center white-text"><i class="fas fa-smile" aria-hidden="true"></i> My Avatar Editor</h1>
 			<div class="row center">
-				<h5 class="header col s12 light">You can use this tool called "My Avatar Editor" to make and edit Miis. You need Adobe Flash Player 10 or higher.</h5>
+				<h5 class="header col s12 light">You can use this tool called My Avatar Editor to make and edit Miis. It runs on Adobe Flash, which was discontinued at the end of 2020. However, there are still a few ways to use it. Also, <a href="https://miicontest.wii.rc24.xyz/">please check out this site for more Mii content</a>.</h5>
 			</div>
 			<br><br>
 		</div>
 	</div>
 	<div class="section">
 		<div class="container">
+			<h3 class="header center white-text"><i class="fas fa-desktop"></i> Install for Desktop</h2>
 			<div class="row center">
+				<h6 class="header col s12 light">It's possible to install My Avatar Editor on your computer as an application. Follow these instructions:</h5>
+			</div>
+			<ol class="collection">
+				<li class="collection-item">Download and install Adobe AIR. (<a href="http://web.archive.org/web/20201217075800/https://fpdownload.macromedia.com/pub/labs/flashruntimes/air/AdobeAIR.dmg"><i class="fab fa-apple"></i> macOS</a> / <a href="http://web.archive.org/web/20201217075810/https://fpdownload.macromedia.com/pub/labs/flashruntimes/air/AdobeAIRInstaller.exe"><i class="fab fa-windows"></i> Windows</a>) AIR is discontinued by Adobe, but it's still possible to use it.</li>
+				<li class="collection-item"><a href="MyAvatarEditor.air">Download MyAvatarEditor.air, but don't open it yet.</a></li>
+				<li class="collection-item">Set your computer's clock sometime before October 31, 2017. If you don't do this step, Adobe AIR will say the installer file is damaged.</li>
+				<li class="collection-item">Open MyAvatarEditor.air and install it.</li>
+				<li class="collection-item">Set your computer's clock to the latest time now.</li>
+			</ol>
+			<p>You can now open My Avatar Editor at any time. Miis with the file extension ".mae" will now be associated with the application.</p>
+		</div>
+	</div>
+	<div class="section">
+		<div class="container">
+			<h3 class="header center white-text"><i class="fas fa-bolt"></i> Flashpoint</h2>
+			<div class="row center">
+				<h6 class="header col s12 light">You can use BlueMaxima's Flashpoint to use My Avatar Editor again. It's a project to preserve old Flash games. For more information, <a href="https://bluemaxima.org/flashpoint/">please see the official Flashpoint website</a>.</h5>
+			</div>
+		</div>
+	</div>
+	<div class="section">
+		<div class="container">
+			<h3 class="header center white-text"><i class="fas fa-globe-americas"></i> Use in Browser</h2>
+			<div class="row center">
+				<h6 class="header center white-text">This won't load nor show up unless you're somehow using a legacy browser. (It will work with SeaMonkey)</h5>
+			
 				<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.min.js"></script>
 				<script type="text/javascript" src="utils.js"></script>
 				<script type="text/javascript">
@@ -22,32 +49,11 @@ title: Mii Editor
 					swfobject.embedSWF("myavatareditor.swf", "editorSWFContainer", "640", "500", "10.0.0", null, getQueryObj());
 					//]]>
 				</script>
+				<br>
 				<div id="editor-wrapper">
 					<div id="editorSWFContainer">
-						<h4>Flash Player 10 is required for My Avatar Editor &trade;</h4>
-						<p><a href="https://get.adobe.com/flashplayer"><img src="https://www.adobe.com/images/shared/download_buttons/get_flash_player.png" alt="Get Adobe Flash Player" border="0" /></a></p>
 					</div>
-					<br>
-					Load <a href="?avatar=000000640065006600610075006c00740042006f0079404080807f5fc242899800044240318028a2088c08401448b88d008a008a25040000000000000000000000000000000000000000">Default Boy</a> | <a href="?avatar=400000640065006600610075006c007400470072006c404080807f73c242899800041840018028a2106c08401448b88d008a008a25040000000000000000000000000000000000000000">Default Girl</a>
-					<br>
-					Note: Replace "http://www.myavatareditor.com/" with "https://rc24.xyz/goodies/mii/" to get a working avatar link.
 				</div>
 			</div>
-		</div>
-	</div>
-	<div class="section">
-		<div class="container">
-			<h2 class="header center white-text"><i class="fas fa-desktop" aria-hidden="true"></i> Install for Desktop</h2>
-			<div class="row center">
-				<h5 class="header col s12 light">It's possible to install My Avatar Editor on your computer. Follow these instructions:</h5>
-			</div>
-			<ol class="collection">
-				<li class="collection-item"><a href="https://get.adobe.com/air/">Download and install Adobe AIR.</li>
-				<li class="collection-item"><a href="MyAvatarEditor.air">Download MyAvatarEditor.air, but don't open it yet.</a></li>
-				<li class="collection-item">Set your computer's clock sometime before October 31, 2017. If you don't do this step, Adobe AIR will say the installer file is damaged.</li>
-				<li class="collection-item">Open MyAvatarEditor.air and install it.</li>
-				<li class="collection-item">Set your computer's clock to the latest time now.</li>
-			</ol>
-			<p>You can now open My Avatar Editor whenever you want. Miis with the file extension ".mae" will now be associated with the application.</p>
 		</div>
 	</div>
