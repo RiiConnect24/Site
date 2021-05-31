@@ -15,6 +15,23 @@ html {
   cursor:url("https://rc24.xyz/images/cursors/wii.cur"), default;
 }
 
+
+body {
+  color: #000;
+}
+
+.white-text {
+  color: unset !important;
+}
+
+.header {
+  color: #2196F3 !important;
+}
+
+.light {
+  color: #000; /* yes I know this ain't white */
+}
+
 /* Materialize stuff */
 
 @media (prefers-color-scheme: dark) {
@@ -23,6 +40,10 @@ html {
   }
 
   .white-text {
+    color: #fff !important;
+  }
+
+  .light {
     color: #fff !important;
   }
 
@@ -37,25 +58,21 @@ html {
   }
 
   .card {
-    background-color: #222;
+    background-color: #222 !important;
   }
 }
 
 @media (prefers-color-scheme: light) {
   body {
-    color: #000 !important;
+    color: #000;
+  }
+
+  .white-text {
+    color: unset !important;
   }
   
   .header {
     color: #2196F3 !important;
-  }
-  
-  h2 {
-    color: #2196F3 !important;
-  }
-  
-  .row .light {
-    color: #000 !important; /* yes I know this ain't white */
   }
   
   .light {
