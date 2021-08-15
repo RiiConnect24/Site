@@ -47,6 +47,10 @@ body {
     color: #fff !important;
   }
 
+  body {
+    color: #fff !important;
+  }
+
   .collection .collection-item {
     background-color: #222;
     border-bottom: 1px solid #e0e0e0;
