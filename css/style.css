@@ -7,12 +7,12 @@
  */
 
 
- 
+
 html {
   font-family: 'Open Sans', sans-serif;
   font-size: 17px;
   overflow: scroll;
-  cursor:url("https://rc24.xyz/images/cursors/wii.cur"), default;
+  cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
 }
 
 
@@ -29,7 +29,8 @@ body {
 }
 
 .light {
-  color: #000; /* yes I know this ain't white */
+  color: #000;
+  /* yes I know this ain't white */
 }
 
 /* Materialize stuff */
@@ -74,13 +75,14 @@ body {
   .white-text {
     color: unset !important;
   }
-  
+
   .header {
     color: #2196F3 !important;
   }
-  
+
   .light {
-    color: #000; /* yes I know this ain't white */
+    color: #000;
+    /* yes I know this ain't white */
   }
 }
 
@@ -98,7 +100,7 @@ html {
 
 a {
   color: #00b0f4;
-  cursor:url("https://rc24.xyz/images/cursors/wii-hover.cur"), default;
+  cursor: url("https://rc24.xyz/images/cursors/wii-hover.cur"), default !important;
 }
 
 .collection {
@@ -107,7 +109,7 @@ a {
 
 nav ul a,
 nav .brand-logo {
-/*  color: #444;*/
+  /*  color: #444;*/
 }
 
 p {
@@ -123,18 +125,21 @@ p {
   line-height: 0;
   height: auto;
 }
+
 .parallax-container.small-parallax-container {
   min-height: 0;
 }
-  .parallax-container .section {
-    width: 100%;
-  }
+
+.parallax-container .section {
+  width: 100%;
+}
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
     top: 40%;
   }
+
   #index-banner .section {
     top: 10%;
   }
@@ -149,6 +154,7 @@ p {
 .icon-block {
   padding: 0 15px;
 }
+
 .icon-block .material-icons {
   font-size: inherit;
 }
@@ -169,24 +175,27 @@ p {
   z-index: 1000;
 }
 
-.spin  {
--webkit-animation: spin 1s linear infinite;
--moz-animation: spin 1s linear infinite;
-animation: spin 1s linear infinite;
+.spin {
+  -webkit-animation: spin 1s linear infinite;
+  -moz-animation: spin 1s linear infinite;
+  animation: spin 1s linear infinite;
 }
+
 @-moz-keyframes spin {
-100% {
--moz-transform: rotate(360deg);
+  100% {
+    -moz-transform: rotate(360deg);
+  }
 }
-}
+
 @-webkit-keyframes spin {
-100% {
--webkit-transform: rotate(360deg);
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
 }
-}
+
 @keyframes spin {
-100% {
--webkit-transform: rotate(360deg);
-transform: rotate(360deg);
-}
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
 }
