@@ -122,7 +122,6 @@ p {
 
 .parallax-container {
   min-height: 750px;
-  line-height: 0;
   height: auto;
 }
 
@@ -136,7 +135,6 @@ p {
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
-    position: absolute;
     top: 40%;
   }
 
