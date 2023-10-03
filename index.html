@@ -20,8 +20,24 @@ title: RiiConnect24
 
 <div class="container">
   <div class="section center">
-    <script src="/js/cat.js"></script>
-    <img src="/images/helpcat.svg" width="300" alt="Click Me!" onclick="catClicked()" />
+    <div class="row">
+      <div class="col s6">
+        <model-viewer src="/images/globe/earth.gltf" style="width: 500px; height: 500px;" alt="Globe" ar
+          ar-modes="webxr scene-viewer quick-look" camera-controls poster="/images/globe/poster.webp"
+          shadow-intensity="0" exposure="0.5" camera-orbit="-108.9deg 66deg 0.1432m" field-of-view="30deg" auto-rotate>
+          <div class="progress-bar hide" slot="progress-bar">
+            <div class="update-bar"></div>
+          </div>
+        </model-viewer>
+      </div>
+      <div class="col s6">
+        <script src="/images/globe/script.js"></script>
+        <script src="/js/cat.js"></script>
+        <script type="module"
+          src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.2.0/model-viewer.min.js"></script>
+        <img src="/images/helpcat.svg" width="500" alt="Click Me!" onclick="catClicked()" />
+      </div>
+    </div>
     <h3 class="header center white-text"><i class="fas fa-cogs" aria-hidden="true"></i> Services</h3>
 
     <p class="light center">Here are the services that RiiConnect24 supports.</p>
