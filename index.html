@@ -20,21 +20,21 @@ title: RiiConnect24
   <div class="parallax" style="background-color:#000;"><img src="/images/hero.png" alt="Black Wii"></div>
 </div>
 
-<div class="parallax-container" style="min-height: 0px">
+<div class="parallax-container" style="max-height: 500px">
   <div class="section center">
     <div class="row">
       <div class="col s6">
         <script src="/images/globe/script.js"></script>
-        <model-viewer src="/images/globe/earth.gltf" style="width: 35vw; height: 35vw;" alt="Globe" ar=""
+        <script type="module"
+          src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.2.0/model-viewer.min.js"></script>
+        <model-viewer src="/images/globe/earth.gltf" style="width: 50vw; height: 50vh;" alt="Globe" ar=""
           ar-modes="webxr scene-viewer quick-look" camera-controls="" poster="/images/globe/poster.webp"
           shadow-intensity="0" exposure="0.5" camera-orbit="-108.9deg 66deg 0.1432m" field-of-view="30deg"
           auto-rotate="" ar-status="not-presenting">
       </div>
       <div class="col s6">
         <script src="/js/cat.js"></script>
-        <script type="module"
-          src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.2.0/model-viewer.min.js"></script>
-        <img src="/images/helpcat.svg" style="width: 35vw; height: 35vw;" alt="Click Me!" onclick="catClicked()" />
+        <img src="/images/helpcat.svg" style="width: 50vw; height: 50vh;" alt="Click Me!" onclick="catClicked()" />
       </div>
     </div>
   </div>
