@@ -209,7 +209,7 @@ p {
 /* Additional styles for smaller screens */
 @media (max-width: 768px) {
   .responsive-cat {
-    max-width: 50%;
+    max-width: 75%;
     /* Adjust the width as needed for smaller screens */
     height: auto;
     display: block;
