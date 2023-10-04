@@ -199,3 +199,21 @@ p {
     transform: rotate(360deg);
   }
 }
+
+/* Default styles for the cat image */
+.responsive-cat {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Additional styles for smaller screens */
+@media (max-width: 768px) {
+  .responsive-cat {
+    max-width: 50%;
+    /* Adjust the width as needed for smaller screens */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    /* Center the image horizontally */
+  }
+}
