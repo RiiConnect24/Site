@@ -1,6 +1,6 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title }}</title>
 
   <!-- General Meta tags for SEO -->
@@ -12,7 +12,8 @@
   <meta name="subject" content="Wii Modding">
   <meta name="keywords" content="Nintendo, Wii, Homebrew, WiiConnect24">
   <meta name="description" content="RiiConnect24 is a WiiConnect24 replacement service.">
-  <meta name="classification" content="RiiConnect24 is an alternative provider for the now-defunct WiiConnect24 service, designed to allow communication between Nintendo Wii™ consoles via the net.">
+  <meta name="classification"
+    content="RiiConnect24 is an alternative provider for the now-defunct WiiConnect24 service, designed to allow communication between Nintendo Wii™ consoles via the net.">
 
   <!-- Open Graph Tags -->
   <meta property="og:type" content="website" />
@@ -20,7 +21,8 @@
   <meta property="og:image" content="/goodies/wallpapers/riiconnect24_background_1_1920x1080.png" />
   <meta property="og:locale" content="en" />
   <meta property="og:site_name" content="{{ site.title }}" />
-  <meta property="og:description" content="RiiConnect24 is an alternative provider for the now-defunct WiiConnect24 service, designed to allow communication between Nintendo Wii™ consoles via the net.">
+  <meta property="og:description"
+    content="RiiConnect24 is an alternative provider for the now-defunct WiiConnect24 service, designed to allow communication between Nintendo Wii™ consoles via the net.">
 
   <!-- Twitter -->
 
@@ -45,7 +47,7 @@
 
   <!-- Font -->
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
-  
+
   <!-- Wii User Agent Check -->
   <script type="text/javascript">
     var ua = navigator.userAgent;
@@ -54,12 +56,12 @@
     }
   </script>
 
-  <!-- Font Awesome --> 
+  <!-- Font Awesome -->
   <script src="https://kit.fontawesome.com/8c73d9a1fd.js"></script>
-  
+
   <!-- Google Analytics -->
   <script>
-    var loadDeferredStyles = function() {
+    var loadDeferredStyles = function () {
       var addStylesNode = document.getElementById("deferred-styles");
       var replacement = document.createElement("div");
       replacement.innerHTML = addStylesNode.textContent;
@@ -68,14 +70,14 @@
     };
     var raf = requestAnimationFrame || mozRequestAnimationFrame ||
       webkitRequestAnimationFrame || msRequestAnimationFrame;
-    if (raf) raf(function() {
+    if (raf) raf(function () {
       window.setTimeout(loadDeferredStyles, 0);
     });
     else window.addEventListener('load', loadDeferredStyles);
 
-    (function(i, s, o, g, r, a, m) {
+    (function (i, s, o, g, r, a, m) {
       i['GoogleAnalyticsObject'] = r;
-      i[r] = i[r] || function() {
+      i[r] = i[r] || function () {
         (i[r].q = i[r].q || []).push(arguments)
       }, i[r].l = 1 * new Date();
       a = s.createElement(o),
