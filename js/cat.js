@@ -53,8 +53,10 @@ function catClicked() {
     r_text[38] = "The night song that plays when viewing the local forecast in the Forecast Channel was made before the day song, that was requested to make people not feel sleepy when it was played during the day.";
     r_text[39] = "The globe in the Forecast and News Channel is based on imagery from NASA, and the same globe was used in Mario Kart Wii.";
     r_text[40] = "You can press the Reset button while the Wii's in standby to turn off the blue light that glows when you receive a message.";
+    r_text[41] = "The News Channel has an alternate song which plays during the night if you're on slide show. It plays from 10PM-5AM.";
+    r_text[42] = "The Forecast Channel has an alternate set of music which plays during the night. It plays from 6PM-5AM.";
 
-    var i = Math.floor(41 * Math.random())
+    var i = Math.floor(43 * Math.random())
 
     popToast(r_text[i]);
 }
