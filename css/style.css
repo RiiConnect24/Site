@@ -12,19 +12,15 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 17px;
   cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
-  color: #c0c0c0 !important;
+  color: #c0c0c0;
 }
 
 body {
   color: #000;
 }
 
-.white-text {
-  color: unset !important;
-}
-
 .header {
-  color: #2196F3 !important;
+  color: #2196F3;
 }
 
 .light {
@@ -36,19 +32,19 @@ body {
 
 @media (prefers-color-scheme: dark) {
   html {
-    background: #333 !important;
-  }
-
-  .white-text {
-    color: #fff !important;
-  }
-
-  .light {
-    color: #fff !important;
+    background: #333;
   }
 
   body {
-    color: #fff !important;
+    color: #fff;
+  }
+
+  .light {
+    color: #fff;
+  }
+
+  .header {
+    color: #fff;
   }
 
   .collection .collection-item {
@@ -62,12 +58,8 @@ body {
   }
 
   .card {
-    background-color: #222 !important;
+    background-color: #222;
   }
-}
-
-.collection.with-header h5 {
-  color: #000;
 }
 
 .actually-red {
@@ -76,7 +68,7 @@ body {
 
 a {
   color: #00b0f4;
-  cursor: url("https://rc24.xyz/images/cursors/wii-hover.cur"), default !important;
+  cursor: url("https://rc24.xyz/images/cursors/wii-hover.cur"), pointer;
 }
 
 .collection {
@@ -131,6 +123,9 @@ p {
 
 .page-footer {
   margin: 0;
+  a {
+    color: #fff;
+  }
 }
 
 .full-height {
