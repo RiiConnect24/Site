@@ -309,7 +309,6 @@ p {
 }
 
 .card-title {
-  // font-weight: 600!important;
   line-height: 1em;
 
   &.gradient {
