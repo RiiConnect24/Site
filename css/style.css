@@ -106,11 +106,6 @@ a {
   background: #222;
 }
 
-nav ul a,
-nav .brand-logo {
-  /*  color: #444;*/
-}
-
 p {
   line-height: 2rem;
 }
