@@ -14,7 +14,7 @@ function catClicked() {
     var r_text = [
         "Follow https://wii.guide/ to set up RiiConnect24 on your system.",
         "RiiConnect24 was started in 2015.",
-        "Be sure to check out Wiimmfi and WiiLink!",
+        "Be sure to check out Wiimmfi!",
         "Make sure to join our Discord to talk with other RiiConnect24 users!",
         "You have to mod your Wii to install RiiConnect24, but it's worth it.",
         "Check out RiiTag to make your own gamertag!",
