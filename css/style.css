@@ -123,9 +123,10 @@ p {
 
 .page-footer {
   margin: 0;
-  a {
-    color: #fff;
-  }
+}
+
+.page-footer a {
+  color: #fff;
 }
 
 .full-height {
