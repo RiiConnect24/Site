@@ -84,7 +84,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 900px;
+  min-height: 900px !important;
   color: rgba(0, 0, 0, .9);
 }
 
