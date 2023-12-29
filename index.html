@@ -11,7 +11,7 @@ title: RiiConnect24
 </div>
   <div class="section no-pad-bot">
     <div class="col s6">
-      <img class="herohead" src="/images/herohead.png" alt="Blue blob with the RiiConnect24 logo" style="top:0px; right:0; z-index:0; display:block; position:absolute;" height="400px">
+      <img class="herohead" src="/images/herohead.png" alt="Blue blob with the RiiConnect24 logo" style="top:0px; right:0; z-index:0; position:absolute;" height="400px">
      <div class="herotext">
       <h1 class="header center" style="font-weight:800;">RiiConnect your Wii.</h1>
       <div class="row center">
@@ -220,6 +220,16 @@ title: RiiConnect24
         color: white;
         font-size: 20px;
         position:absolute;
+    }
+
+    .herohead{
+      display:block;
+    }
+
+    @media only screen and (max-width: 600px) {
+      .herohead{
+        display:none !important;
+      }
     }
       </style>
       <iframe src="https://discordapp.com/widget?id=206934458954153984&theme=dark" class="discord"
