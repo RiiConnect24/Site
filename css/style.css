@@ -32,7 +32,7 @@ body {
 
 @media (prefers-color-scheme: dark) {
   html {
-    background: #333;
+    background: #1c1c1c;
   }
 
   body {
@@ -84,8 +84,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 500px;
-  height: auto;
+  min-height: 900px;
   color: rgba(0, 0, 0, .9);
 }
 
@@ -133,7 +132,9 @@ p {
   min-height: 100vh;
 }
 
-
+.herohead{
+  display:none;
+}
 
 /* RiiConnect24 */
 .dropdown-content {

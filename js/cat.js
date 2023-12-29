@@ -1,5 +1,13 @@
+let currentToast = null;
+
 function popToast(message) {
-    M.toast({ html: message, displayLength: 5000, classes: 'rounded grey lighten-4 black-text' });
+    // Dismiss the current toast if it exists
+    if (currentToast) {
+        currentToast.dismiss();
+    }
+
+    // Show the new toast and keep its reference
+    currentToast = M.toast({ html: message, displayLength: 5000, classes: 'rounded grey lighten-4 black-text', style: 'transition:0.3s' });
 }
 
 function catClicked() {
@@ -12,28 +20,28 @@ function catClicked() {
 
     // One random message out of 40
     var r_text = [
-        "Follow https://wii.guide/ to set up RiiConnect24 on your system.",
+        "Follow https://wii.hacks.guide/ to set up RiiConnect24 and WiiLink on your system.",
         "RiiConnect24 was started in 2015.",
-        "Be sure to check out Wiimmfi!",
-        "Make sure to join our Discord to talk with other RiiConnect24 users!",
+        "Be sure to check out WiiLink WFC's development!",
+        "Make sure to join our Discord to talk with other RiiConnect24 and WiiLink users!",
         "You have to mod your Wii to install RiiConnect24, but it's worth it.",
         "Check out RiiTag to make your own gamertag!",
         "If you set your DNS to 167.86.108.126, you can receive DLC items if you play Animal Crossing on the Wii.",
-        "Make sure to register your friends with RiiConnect24 on the Wii Message Board.",
+        "Make sure to register your friends on the Wii Message Board.",
         "Shoutouts to M3KAI5ER44 for drawing me!",
         "The cats in the Photo Channel and News Channel are brothers and sisters. The one on the News Channel is male, and his younger sister's on the Photo Channel.",
         "The News Channel uses news from reliable sources!",
         "The Forecast Channel receives weather from AccuWeather.",
-        "RiiConnect24 is and will always be free.",
+        "WiiLink's services are and will always be free.",
         "Make sure to follow us on social media.",
-        "Installing RiiConnect24 is fun, straightforward, and safe.",
-        "RiiConnect24 works on the Wii, the Wii U, and Dolphin.",
+        "Installing WiiLink is fun, straightforward, and safe.",
+        "WiiLink's services work on the Wii, the Wii U, and Dolphin.",
         "The Wii was nicknamed \"Revolution\" during its development stage.",
         "Did you know the letters in the Wii model number RVL stand for the Wii's codename, Revolution?",
         "The music used in many of the Wii's channels (including the Wii Shop, Mii, Check Mii Out, and Forecast Channel) was composed by Kazumi Totaka.",
-        "The Internet Channel once costed 500 Wii Points.",
+        "The Internet Channel once cost 500 Wii Points.",
         "It's possible to use candles as a Wii Sensor Bar.",
-        "The blinking blue light that indicates a system message has been received is actually synced to the bird call of the Japanese bush warbler. More info about it on RiiConnect24 YouTube Channel^^!",
+        "The blinking blue light that indicates a system message has been received is actually synced to the bird call of the Japanese bush warbler. More info about it on WiiLink's YouTube Channel^^!",
         "Wii Sports is the most sold game on the Wii. It sold 82.85 million. Overall it is the 3rd most sold game in the world.",
         "Did you know that most of the scripts used to make RiiConnect24 work are written in Python?",
         "Did you know that we have an awesome Discord server where you can always stay updated about the project status?",

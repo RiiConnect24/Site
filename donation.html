@@ -4,18 +4,37 @@ title: Donations
 <div class="section no-pad-bot">
 	<div class="container">
 		<br><br>
-		<h1 class="header center"><i class="fas fa-money-bill-alt" aria-hidden="true"></i> Donations</h1>
+		<h1 class="header center"><i class="fa-brands fa-patreon" aria-hidden="true"></i> Donations</h1>
 		<div class="row center">
-			<h5 class="header col s12">RiiConnect24 accepts donations. The donations will be used for paying for server and domain costs.</h5>
+			<h5 class="header col s12">WiiLink accepts donations. The donations will be used for paying for server and domain costs for RiiConnect24 services. 
+				<br>
+				<br> 
+				<b>You will be redirected to our Patreon in <span id="countdown">5</span> <span id="spelling">seconds</span>.</b></h5>
 			<br>
-			<a href="https://www.paypal.me/RiiConnect" target="_blank">
-				<img alt="Donate via PayPal" src="/images/paypal-donate.png">
-			</a>
-			<br>
-			<a href="https://www.patreon.com/bePatron?u=7497603" target="_blank">
-				<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" />
+			<a href="https://www.patreon.com/WiiLink24" target="_blank">
+				<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" style="border-radius: 8px; overflow: hidden;">
 			</a>
 		</div>
 		<br><br>
 	</div>
 </div>
+
+<script>
+    var countdownElement = document.getElementById('countdown');
+    var countdown = 5;
+    countdownElement.innerText = countdown;
+
+    var countdownInterval = setInterval(function(){
+        countdown--;
+        countdownElement.innerText = countdown;
+		if(countdown == 1) {
+			document.getElementById('spelling').innerHTML = 'second';
+		} else {
+			document.getElementById('spelling').innerHTML = 'seconds';
+		}
+        if(countdown <= 0) {
+            clearInterval(countdownInterval);
+            window.location.href = 'https://www.patreon.com/WiiLink24';
+        }
+    }, 1000);
+</script>

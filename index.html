@@ -2,48 +2,36 @@
 layout: index
 title: RiiConnect24
 ---
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap');
+  </style>  
 <div id="index-banner" class="parallax-container">
+  <div style="width:100%; height:auto; top:0; left:0; position:absolute;">
   {% include parallax_nav.html %}
+</div>
   <div class="section no-pad-bot">
     <div class="col s6">
-      <br><br>
-      <h1 class="header center">RiiConnect your Wii.</h1>
+      <img class="herohead" src="/images/herohead.png" alt="Blue blob with the RiiConnect24 logo" style="top:0px; right:0; z-index:0; display:block; position:absolute;" height="400px">
+     <div class="herotext">
+      <h1 class="header center" style="font-weight:800;">RiiConnect your Wii.</h1>
       <div class="row center">
-        <h5 class="header col s12 center">RiiConnect24 brings back WiiConnect24, making your Wii more
+        <h5 class="header col s12 center" style="margin-bottom:38px;">RiiConnect24 brings back WiiConnect24, making your Wii more
           lively.</h5>
         <a href="https://wii.guide/riiconnect24" id="download-button"
-          class="btn-large waves-effect waves-light blue lighten-1">How
+          class="btn-large waves-effect waves-light blue lighten-1" style="margin:8px; border-radius: 8px;"><i class="fa-solid fa-circle-question" style="font-size:20px;"></i> How
           to
           Connect</a>
+          <a href="https://github.com/riiconnect24/RiiConnect24-Patcher/releases" id="download-button"
+          class="btn-large waves-effect waves-light green lighten-1"  style="margin:8px; border-radius: 8px;"><i class="fa-solid fa-download"  style="font-size:20px;"></i> Download</a>
+          <h5 class="header col s12 center" style="font-size:20px; margin-bottom:28px;">Get the whole package! <a href="https://www.wiilink24.com" style="color:rgb(65, 200, 65);"><u>Install <b style="font-family: 'Rubik', sans-serif;">WiiLink</b></u></a></h5>
       </div>
     </div>
   </div>
-  <div class="parallax" style="background-color:#000;"><img src="/images/hero.png" alt="Black Wii"></div>
-</div>
-
-<div class="parallax-container" style="max-height: 500px">
-  <div class="section center">
-    <div class="row">
-      <div class="col s12">
-        <script src="/images/globe/script.js"></script>
-        <script type="module"
-          src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.2.0/model-viewer.min.js"></script>
-        <model-viewer src="/images/globe/earth.gltf" style="width: 100%; height: 500px;" alt="Globe" ar=""
-          ar-modes="webxr scene-viewer quick-look" camera-controls="" poster="/images/globe/poster.webp"
-          shadow-intensity="0" exposure="0.5" camera-orbit="-108.9deg 66deg 0.1432m" field-of-view="30deg"
-          auto-rotate="" ar-status="not-presenting">
-      </div>
-    </div>
   </div>
-  <div class="parallax" style="background-color:#000;"><img src="/images/globe/stars.png" alt="Stars"></div>
+<div class="headerz">
+  <i class="fa-solid fa-triangle-exclamation"></i> RiiConnect24 is now maintained by the <a href="https://wiilink24.com"><img src="/images/wiilink_text.png" style="filter:brightness(1000000%);" height="15px"></a> Team! A new website is in the works! <br> <a href="http://wiilink24.com/news/2023-12-29-issue-19/" style="color:rgb(108, 239, 108);"><i class="fa-solid fa-book"></i>Read all about it here!</a>
 </div>
-
-<div class="section center">
-  <div class="col s12">
-    <script src="/js/cat.js"></script>
-    <img src="/images/helpcat.svg" style="height: 300px;" alt="Click Me!" onclick="catClicked()"
-      class="responsive-cat" />
-  </div>
+  <div class="parallax" style="background-color:#000;"><img src="/images/hero.png" alt="Dark background with the words 'WiiLink' and 'RiiConnect24'"></div>
 </div>
 
 <div class="section center">
@@ -52,8 +40,8 @@ title: RiiConnect24
   <p class="light center">Here are the services that RiiConnect24 allows you to use.</p>
 
   <!--   Icon Section   -->
-  <div class="row">
-    <div class="col s12 m4">
+  <div class="row" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; position: relative;">
+    <div class="service">
       <div class="icon-block">
         <a href="/services/forecast.html">
           <h2 class="center header"><i class="fas fa-sun" aria-hidden="true"></i></h2>
@@ -66,7 +54,7 @@ title: RiiConnect24
       </div>
     </div>
 
-    <div class="col s12 m4">
+    <div class="service">
       <div class="icon-block">
         <a href="/services/news.html">
           <h2 class="center header"><i class="fas fa-newspaper" aria-hidden="true"></i></h2>
@@ -78,7 +66,7 @@ title: RiiConnect24
       </div>
     </div>
 
-    <div class="col s12 m4">
+    <div class="service">
       <div class="icon-block">
         <a href="/services/votes.html">
           <h2 class="center header"><i class="fas fa-comments" aria-hidden="true"></i></h2>
@@ -88,10 +76,8 @@ title: RiiConnect24
         </a>
       </div>
     </div>
-  </div>
 
-  <div class="row">
-    <div class="col s12 m4">
+    <div class="service">
       <div class="icon-block">
         <a href="/services/nintendo.html">
           <h2 class="center header"><i class="fas fa-film" aria-hidden="true"></i></h2>
@@ -103,7 +89,7 @@ title: RiiConnect24
       </div>
     </div>
 
-    <div class="col s12 m4">
+    <div class="service">
       <div class="icon-block">
         <a href="/services/mail.html">
           <h2 class="center header"><i class="fas fa-envelope" aria-hidden="true"></i></h2>
@@ -114,7 +100,7 @@ title: RiiConnect24
       </div>
     </div>
 
-    <div class="col s12 m4">
+    <div class="service">
       <div class="icon-block">
         <a href="/services/miicontest.html">
           <h2 class="center header"><i class="fas fa-smile" aria-hidden="true"></i></h2>
@@ -124,10 +110,9 @@ title: RiiConnect24
         </a>
       </div>
     </div>
-  </div>
 
-  <div class="row">
-    <div class="col s12 m4">
+
+    <div class="service">
       <div class="icon-block">
         <a href="/services/riitube.html">
           <h2 class="center header"><i class="fas fa-video" aria-hidden="true"></i></h2>
@@ -138,7 +123,7 @@ title: RiiConnect24
       </div>
     </div>
 
-    <div class="col s12 m4">
+    <div class="service">
       <div class="icon-block">
         <a href="https://tag.rc24.xyz/">
           <h2 class="center header"><i class="fas fa-tag" aria-hidden="true"></i></h2>
@@ -150,7 +135,7 @@ title: RiiConnect24
       </div>
     </div>
 
-    <div class="col s12 m4">
+    <div class="service">
       <div class="icon-block">
         <a href="/services/bot.html">
           <h2 class="center header"><i class="fab fa-discord" aria-hidden="true"></i></h2>
@@ -160,7 +145,6 @@ title: RiiConnect24
         </a>
       </div>
     </div>
-  </div>
 </div>
 
 <div class="section center">
@@ -169,14 +153,14 @@ title: RiiConnect24
       <h3 class="header center"><i class="fas fa-question-circle" aria-hidden="true"></i> Why use
         RiiConnect24?</h3>
 
-      <p class="light">
+      <p class="light" style="padding-left:50px; padding-right:50px;">
         RiiConnect24 is a great addition to your Wii, allowing you to use discontinued Channels that were part of
         WiiConnect24 again. It makes your Wii lively and lets you participate in a community, as you once could.</p>
-      <p class="light">
+      <p class="light" style="padding-left:50px; padding-right:50px;">
         Whether this will be your first time using these Channels or want some nostalgia, you will enjoy having
         RiiConnect24 on your Wii.
       </p>
-      <p class="light">
+      <p class="light" style="padding-left:50px; padding-right:50px;">
         If you want to play games online that had their online functionality removed with the discontinuation of
         Nintendo Wi-Fi Connection, <a href="https://wiimmfi.de/">please check out Wiimmfi</a>.
       </p>
@@ -204,9 +188,49 @@ title: RiiConnect24
           margin-bottom: 0px;
           min-height: 200px;
         }
+
+        .herotext{
+          width:100%;
+          bottom:200px;
+          position:absolute;
+        }
+
+        .service{
+          width:300px;
+          background-color: #c3c3c310;
+          border:2px solid #ffffff20;
+          border-radius:8px;
+          margin:8px;
+          box-shadow: 0px 0px 0px #5c5c5c08;
+          transition: 0.3s;
+        }
+
+        .service:hover{
+          transform: translate(0, -5px);
+          box-shadow: 0px 0px 38px #5c5c5c08;
+          transition: 0.3s;
+        }
+
+        .headerz {
+        width:100%;
+        bottom:0;
+        padding: 30px;
+        text-align: center;
+        background: #1e8bf1;
+        color: white;
+        font-size: 20px;
+        position:absolute;
+    }
       </style>
       <iframe src="https://discordapp.com/widget?id=206934458954153984&theme=dark" class="discord"
         allowtransparency="true" frameborder="0"></iframe>
+    </div>
+    <div class="section right">
+      <div class="col s12">
+        <script src="/js/cat.js"></script>
+        <img src="/images/helpcat.svg" style="transform:translate(0, 120px); height: 300px;" id="catButton" alt="Click Me!" onclick="catClicked()"
+          class="responsive-cat" />
+      </div>
     </div>
   </div>
 </div>

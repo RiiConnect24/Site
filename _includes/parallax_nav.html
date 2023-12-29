@@ -1,15 +1,39 @@
+<nav class="transparent z-depth-0" role="navigation" style="z-index:1000000; position:relative;">
+    <div class="nav-wrapper container" style="margin-top:50px;">
+        <a href="#" data-target="mobile" class="sidenav-trigger"><span style="color: white;"><i
+                    class="fas fa-bars"></i></span></a>
+        <ul class="left hide-on-med-and-down">
+            <li><a id="nav-item" href="/about.html"><i class="fas fa-info-circle" aria-hidden="true"></i> About</a></li>
+            <li><a id="nav-item" href="/faq.html"><i class="fas fa-question-circle" aria-hidden="true"></i> FAQ</a></li>
+            <li><a id="nav-item" href="https://wii.guide/riiconnect24"><i class="fa-solid fa-book"></i> Guide</a></li>
+            <li><a id="nav-item" href="/stats/index.html"><i class="fa-solid fa-list"></i> Stats</a></li>
+            <li><a id="nav-item" href="/goodies/index.html"><i class="fa-solid fa-box"></i> Goodies</a></li>
+        </ul>
+    </div>
+
+    <ul class="sidenav" id="mobile">
+        <li><a href="/about.html"><i class="fas fa-info-circle" aria-hidden="true"></i> About</a></li>
+        <li><a href="/faq.html"><i class="fas fa-question-circle" aria-hidden="true"></i> FAQ</a></li>
+        <li><a href="https://wii.guide/riiconnect24"><i class="fas fa-list" aria-hidden="true"></i> Guide</a></li>
+        <li><a href="/stats/index.html"><i class="fas fa-chart-bar" aria-hidden="true"></i> Stats</a></li>
+        <li><a href="/goodies/index.html"><i class="fas fa-gift" aria-hidden="true"></i> Goodies</a></li>
+    </ul>
+</nav>
+
 <style>
-    .headerz {
-        padding: 30px;
-        text-align: center;
-        background: #1e8bf1;
-        color: white;
-        font-size: 20px;
+    #nav-item{
+        display:flex;
+        align-items: center;
+    }
+    a{
+        transform:translate(0, 0px);
+        transition: 0.3s;
+    }
+    a:hover{
+        transform:translate(0, 5px);
+        transition: 0.3s;
+    }
+    i{
+        margin-right:8px;
     }
 </style>
-<div class="headerz">
-    Follow us on <a href="https://bsky.app/profile/riiconnect24.bsky.social" class="yellow-text">Bluesky</a>, <a href="https://mastodon.social/@RiiConnect24" class="yellow-text">Mastodon</a>, and <a href="https://threads.net/@riiconnect24" class="yellow-text">Threads</a>.
-</div>
-<nav class="transparent z-depth-0" role="navigation">
-    {% include navigation.html %}
-</nav>

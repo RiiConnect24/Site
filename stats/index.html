@@ -9,23 +9,20 @@ title: Stats
 		<h1 class="header center"><i class="fas fa-chart-bar" aria-hidden="true"></i> Stats</h1>
 		<div class="row center">
 			<h5 class="header col s12">This page lists what services are offered with RiiConnect24.</h5>
+			<br>
+			<br>
 			<a href="https://status.rc24.xyz/" id="download-button"
-				class="btn-large waves-effect waves-light blue lighten-1">Current Server Status</a>
+				class="btn-large waves-effect waves-light blue lighten-1" style="margin-top:18px; display:flex;">Check the current Server Status</a>
 		</div>
 		<audio autoplay>
 			<source src="/sounds/wiimenu/reserved.wav" type="audio/wav">
 			Your browser does not support the audio element.
 		</audio>
-		<br><br>
 	</div>
 </div>
 <div class="section">
-	<div class="container">
 		<div class="row center">
-			<ul class="collection with-header">
-				<li class="collection-header">
-					<h4>Stats</h4>
-				</li>
+			<ul class="collection" style="left:50%; width:95%; max-width:1180px; transform:translate(-50%, 0); background-color:#ffffff00; border:0px; display:grid; grid-template-columns: repeat(auto-fit,minmax(345px,1fr)); gap:18px; overflow: visible; position:relative;">
 				<li class="collection-item">
 					<h5><span class="light">Animal Crossing: City Folk DLC</span></h5>
 				</li>
@@ -73,10 +70,23 @@ title: Stats
 					<h5><a href="/services/room.html" class="blue-text text-darken-2">Wii no Ma</a></h5>
 				</li>
 				<li class="collection-item">
->>>>>>> B
 					<h5><a href="/services/speak.html" class="blue-text text-darken-2">Wii Speak Channel</a></h5>
 				</li>
 			</ul>
-		</div>
 	</div>
 </div>
+
+<style>
+	.collection-item{
+		border-radius:8px;
+		border: 2px solid #ffffff20 !important;
+		box-shadow: 0px 0px 28px #ffffff00 !important;
+		transition: 0.3s;
+	}
+
+	.collection-item:hover{
+		transform: translate(0, -5px);
+		box-shadow: 0px 0px 28px #ffffff20;
+		transition: 0.3s;
+	}
+</style>
